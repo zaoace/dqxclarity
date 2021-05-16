@@ -2,5 +2,33 @@
   {
     "jp_string": "つよさ",
     "en_string": "Stats"
+  },
+  {
+    "jp_string": "ぜんいん",
+    "en_string": "Misc. Stats"
+  },
+  {
+    "jp_string": "しょじきん",
+    "en_string": "Gold"
+  },
+  {
+    "jp_string": "あずけたお金",
+    "en_string": "Gold in Bank"
+  },
+  {
+    "jp_string": "ちいさなメダル",
+    "en_string": "Mini Medals"
+  },
+  {
+    "jp_string": "カジノコイン",
+    "en_string": "Casino Coins"
+  },
+  {
+    "jp_string": "おさかなコイン",
+    "en_string": "Fishing Coin"
+  },
+  {
+    "jp_string": "全滅時の復活場所",
+    "en_string": "Resurrection Spot"
   }
 ]

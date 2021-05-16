@@ -11,7 +11,7 @@ if (_ClassMemory.__Class != "_ClassMemory") {
 dqx := new _ClassMemory("ahk_exe DQXGame.exe", "", hProcessCopy)
 Global dqx
 
-if !isObject(dqx) 
+if !isObject(dqx)
 {
     msgbox failed to open a handle
   if (hProcessCopy = 0)
@@ -34,13 +34,16 @@ if !isObject(dqx)
 ; isNonDialogBottomTextActiveAddress := 0x01E5A440
 ; isNonDialogBottomTextActiveOffsets := [0x8, 0x70, 0x8, 0x48, 0x40, 0x8, 0xF4]
 
-Gui, -SysMenu +AlwaysOnTop +E0x08000000
+Gui, +AlwaysOnTop +E0x08000000
 Gui, Font, s12
 Gui, Add, Edit, vNotes w500 r10 +ReadOnly -WantCtrlA -WantReturn,
 Gui, Show, Autosize
 
 ;; Mark FileRead operations as UTF-8
 FileEncoding UTF-8
+
+;; Start timer
+startTime := A_TickCount
 
 ;; Loop through all files in json directory
 Loop, Files, json\*.json, F
@@ -51,7 +54,7 @@ Loop, Files, json\*.json, F
   {
     obj := DATA[A_Index]
 
-    ;; Prepend and append "00" as null terminators
+    ;; Convert utf-8 strings to hex
     jp := 00 . convertStrToHex(obj.jp_string) . 00
     jp := RegExReplace(jp, "\r\n", "")
     jp_raw := obj.jp_string
@@ -63,6 +66,10 @@ Loop, Files, json\*.json, F
     en := RegExReplace(en, "\r\n", "")
     en_raw := obj.en_string
     en_len := StrLen(en)
+
+    ;; Whether or not we should prepend/append null terminators
+    ignore_first_term := obj.ignore_first_term
+    ignore_last_term := obj.ignore_last_term
 
     ;; If loop is specified in json, use it. Otherwise, default to 1
     loop_count := obj.loop_count
@@ -76,7 +83,7 @@ Loop, Files, json\*.json, F
     if (jp_len != en_len)
     {
       ;; Remove the 00 we added earlier as we aren't ready
-      ;; to terminate the string yet.
+      ;; to terminate the string yet. 
       en := SubStr(en, 1, (en_len - 2))
       Loop
       {
@@ -86,12 +93,29 @@ Loop, Files, json\*.json, F
       Until ((jp_len - new_len) == 2)
 
       en .= 00
+
+      jp_len := StrLen(en)
+      en_len := StrLen(jp)
+
+      if (ignore_first_term != "")
+      {
+        jp := SubStr(jp, 3, jp_len)
+        en := SubStr(en, 3, en_len)
+      }
+
+      if (ignore_last_term != "")
+      {
+        jp := SubStr(jp, 1, (jp_len - 2))
+        en := SubStr(en, 1, (en_len - 2))
+      }
     }
 
     memWrite(jp, en, loop_count)
   }
 
-  GuiControl,, Notes, Done.
+  elapsedTime := A_TickCount - startTime
+  FileAppend, Last run time: %elapsedTime%ms`n, times.txt
+  GuiControl,, Notes, Done.`n`nElapsed time: %elapsedTime%ms
 }
 
 Return
