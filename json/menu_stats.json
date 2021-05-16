@@ -4,6 +4,7 @@
     "en_string": "Stats"
   },
   {
+    "loop_count": 2,
     "jp_string": "ぜんいん",
     "en_string": "Misc. Stats"
   },
@@ -16,14 +17,17 @@
     "en_string": "Gold in Bank"
   },
   {
+    "loop_count": 3,
     "jp_string": "ちいさなメダル",
     "en_string": "Mini Medals"
   },
   {
+    "loop_count": 2,
     "jp_string": "カジノコイン",
     "en_string": "Casino Coins"
   },
   {
+    "loop_count": 2,
     "jp_string": "おさかなコイン",
     "en_string": "Fishing Coin"
   },

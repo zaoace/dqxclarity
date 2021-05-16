@@ -47,6 +47,7 @@ startTime := A_TickCount
 
 ;; Loop through all files in json directory
 Loop, Files, json\*.json, F
+;Loop, Files, json\menu_misc_descriptions.json, F
 {
   FileRead, jsonData, %A_ScriptDir%\%A_LoopFileFullPath%
   data := JSON.Load(jsonData)
@@ -71,6 +72,9 @@ Loop, Files, json\*.json, F
     ignore_first_term := obj.ignore_first_term
     ignore_last_term := obj.ignore_last_term
 
+    ;; Whether the string has line break characters we need to account for.
+    line_break := obj.line_break
+
     ;; If loop is specified in json, use it. Otherwise, default to 1
     loop_count := obj.loop_count
     if (loop_count == "")
@@ -92,8 +96,12 @@ Loop, Files, json\*.json, F
       }
       Until ((jp_len - new_len) == 2)
 
+      ;; Finally, add the terminator to complete the string.
       en .= 00
 
+      ;; Some strings in memory don't have a clear cut null terminator
+      ;; at the beginning and end of each string, so we need to account
+      ;; for that here.
       jp_len := StrLen(en)
       en_len := StrLen(jp)
 
@@ -107,6 +115,14 @@ Loop, Files, json\*.json, F
       {
         jp := SubStr(jp, 1, (jp_len - 2))
         en := SubStr(en, 1, (en_len - 2))
+      }
+
+      ;; Some sentences can scale multiple lines, so instead of a null terminator,
+      ;; we want to replace the spaces with the line break code '0a'. 
+      if (line_break != "")
+      {
+        jp := StrReplace(jp, "20", "0a")
+        en := StrReplace(en, "7c", "0a")
       }
     }
 

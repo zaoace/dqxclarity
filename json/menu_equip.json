@@ -2,5 +2,10 @@
   {
     "jp_string": "そうび",
     "en_string": "Equip"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "そうびなし",
+    "en_string": "Empty"
   }
 ]

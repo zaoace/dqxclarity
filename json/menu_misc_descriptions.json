@@ -1,0 +1,167 @@
+[
+  {
+    "line_break": true,
+    "jp_string": "全員ふっかつさせ ＨＰもいっぱつで まんたんにします",
+    "en_string": "Heals all party|members to full|HP."
+  },
+  {
+    "line_break": true,
+    "jp_string": "システムに関する いろいろな設定を おこないます",
+    "en_string": "Configures|various system|settings."
+  },
+  {
+    "line_break": true,
+    "jp_string": "たまっている スキルポイントの ふりわけをします",
+    "en_string": "Allocate your|accumulated|skill points."
+  },
+  {
+    "line_break": true,
+    "jp_string": "サポート仲間の バトル参加状況と 作戦を変更します",
+    "en_string": "Change the|battle strategies|of your party."
+  },
+  {
+    "line_break": true,
+    "jp_string": "冒険を中断して ゲームを 終了します",
+    "en_string": "Abort the|adventure and|exit the game."
+  },
+  {
+    "line_break": true,
+    "jp_string": "チームに関する コマンドを 選べます",
+    "en_string": "Select commands|related to|your team."
+  },
+  {
+    "line_break": true,
+    "jp_string": "仲間に関する コマンドを 選べます",
+    "en_string": "Select commands|related to your|companions."
+  },
+  {
+    "line_break": true,
+    "jp_string": "フレンドに関する コマンドを 選べます",
+    "en_string": "Select commands|about your|friends."
+  },
+  {
+    "line_break": true,
+    "jp_string": "各種コンテンツや イベントの情報を 確認できます",
+    "en_string": "Check info on|various content|and events."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ゲームに関して ご不明な点は ここをご覧下さい",
+    "en_string": "Questions about|the game can be|found here."
+  },
+  {
+    "line_break": true,
+    "jp_string": "あなたの かたがきを 設定します",
+    "en_string": "Set your own|title."
+  },
+  {
+    "line_break": true,
+    "jp_string": "顔アイコンの 表情を 設定できます",
+    "en_string": "Sets the|expression of|your face icon."
+  },
+  {
+    "line_break": true,
+    "jp_string": "呪文や特技の コマンド表示を 編集できます",
+    "en_string": "Edit the command|display for spells|and abilities."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ふたつの言葉から 自由にかたがきを 自作します",
+    "en_string": "Create your own|title from two|words."
+  },
+  {
+    "line_break": true,
+    "jp_string": "手に入れた称号を かたがきに 設定します",
+    "en_string": "Set the title|you've earned.|"
+  },
+  {
+    "line_break": true,
+    "jp_string": "今どんな状態かを 設定します",
+    "en_string": "Set the state|you're in."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ゲーム中よく使う セリフとしぐさを 設定します",
+    "en_string": "Set the lines and|gesture you use|frequently."
+  },
+  {
+    "line_break": true,
+    "jp_string": "かきおきメモを 読んだり書いたり できます",
+    "en_string": "Read and|write notes|here."
+  },
+  {
+    "line_break": true,
+    "jp_string": "仲間からの 「ついていく」を 許すか設定します",
+    "en_string": "Choose to allow|your friends to|follow you."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ログイン状況を 知り合いに表示 するか設定します",
+    "en_string": "Set whether you|want to show your|login status."
+  },
+  {
+    "line_break": true,
+    "jp_string": "フレンド登録の 受け付ける範囲を 設定します",
+    "en_string": "Set the range of|friends you wish|to accept."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ブラックリストを 設定します",
+    "en_string": "Set your|blacklist."
+  },
+  {
+    "line_break": true,
+    "jp_string": "仲間として一緒に 遊んでくれる人を 探している状態",
+    "en_string": "Look for someone|to play with as|a companion."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ヒマなので 誘ってほしいと 言いたい状態",
+    "en_string": "I'm not busy,|so I'd like to|ask you out."
+  },
+  {
+    "line_break": true,
+    "jp_string": "フレンドに なってくれる人を 探している状態",
+    "en_string": "You're looking for|someone to be|your friend."
+  },
+  {
+    "line_break": true,
+    "jp_string": "入れてくれる チームを 探している状態",
+    "en_string": "I'm looking for a|team that'll let|us in."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ひとりで遊ぶので 他の人から仲間に 誘われない状態",
+    "en_string": "I play alone and|do not want to be|invited by others."
+  },
+  {
+    "line_break": true,
+    "jp_string": "「まわりに」 の 発言内容が 見えなくなる状態",
+    "en_string": "I don't want to|see what others are|saying."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ゲームの前から しばらく離れる時 使う状態",
+    "en_string": "I will be|leaving the game|for awhile."
+  },
+  {
+    "line_break": true,
+    "jp_string": "チャット遅いけど ゆるしてほしいと 言いたい状態",
+    "en_string": "I know it's a|little late, but|please forgive me."
+  },
+  {
+    "line_break": true,
+    "jp_string": "いちばん最初から 設定されている 初心者向けの状態",
+    "en_string": "Set from the|very beginning|for beginners."
+  },
+  {
+    "line_break": true,
+    "jp_string": "セリフの内容や しぐさを 変更します",
+    "en_string": "Change the content|and gestures of|your lines."
+  },
+  {
+    "line_break": true,
+    "jp_string": "セリフを2つ選び コマンド位置を 入れ替えます",
+    "en_string": "Select two lines|and swap their|command positions."
+  }
+]

@@ -25,5 +25,25 @@
   {
     "jp_string": "てがみ",
     "en_string": "Letters"
-  }
+  },
+  {
+    "jp_string": "手紙",
+    "en_string": "Letter"
+  },
+  {
+    "jp_string": "もらった手紙",
+    "en_string": "Letter Received"
+  },
+  {
+    "jp_string": "書いた手紙",
+    "en_string": "Write a Letter"
+  },
+  {
+    "jp_string": "送った手紙",
+    "en_string": "Sent Letters"
+  },
+  {
+    "jp_string": "手紙を整理する",
+    "en_string": "Organize Letters"
+  } 
 ]
