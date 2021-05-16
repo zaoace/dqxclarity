@@ -1,0 +1,309 @@
+[
+  {
+    "jp_string": "さくせん",
+    "en_string": "Misc"
+  },
+  {
+    "jp_string": "いるいる設定",
+    "en_string": "Settings"
+  },
+  {
+    "jp_string": "まんたん",
+    "en_string": "Heal All"
+  },
+  {
+    "jp_string": "いろいろ設定",
+    "en_string": "Settings"
+  },
+  {
+    "jp_string": "スキルふりわけ",
+    "en_string": "Skill Points"
+  },
+  {
+    "jp_string": "サポートなかま",
+    "en_string": "Support Party"
+  },
+  {
+    "jp_string": "冒険を中断する",
+    "en_string": "Log Out"
+  },
+  {
+    "jp_string": "チーム",
+    "en_string": "Team"
+  },
+  {
+    "jp_string": "なかま",
+    "en_string": "Party"
+  },
+  {
+    "jp_string": "フレンド",
+    "en_string": "Friends"
+  },
+  {
+    "jp_string": "遊び方ガイド",
+    "en_string": "Play Guide"
+  },
+  {
+    "jp_string": "キャラクターの設定",
+    "en_string": "Character Settings"
+  },
+  {
+    "jp_string": "コミュニケーションの設定",
+    "en_string": "Communication Settings"
+  },
+  {
+    "jp_string": "ゲームプレイの設定",
+    "en_string": "Gameplay Settings"
+  },
+  {
+    "jp_string": "環境設定",
+    "en_string": "Cnf Settings"
+  },
+  {
+    "jp_string": "かたがき設定",
+    "en_string": "Title Settings"
+  },
+  {
+    "jp_string": "立ちかた設定",
+    "en_string": "Pose Settings"
+  },
+  {
+    "jp_string": "顔アイコン表情設定",
+    "en_string": "Icon Settings"
+  },
+  {
+    "jp_string": "バトルコマンド設定",
+    "en_string": "Battle Command"
+  },
+  {
+    "jp_string": "(設定なし)",
+    "en_string": "(None)"
+  },
+  {
+    "jp_string": "えがお",
+    "en_string": "Smile"
+  },
+  {
+    "jp_string": "キメがお",
+    "en_string": "Angry"
+  },
+  {
+    "jp_string": "かたがきを自作する",
+    "en_string": "Make your own"
+  },
+  {
+    "jp_string": "称号からつける",
+    "en_string": "Put it on"
+  },
+  {
+    "jp_string": "けってい",
+    "en_string": "Confirm"
+  },
+  {
+    "loop_count": 3,
+    "jp_string": "ふつうの立ちかた",
+    "en_string": "Neutral Stance"
+  },
+  {
+    "jp_string": "無双の拳士",
+    "en_string": "Fist Stance"
+  },
+  {
+    "jp_string": "ラッキーガール",
+    "en_string": "Lucky Girl"
+  },
+  {
+    "jp_string": "立ちかた",
+    "en_string": "Stance"
+  },
+  {
+    "jp_string": "武闘家",
+    "en_string": "MA"
+  },
+  {
+    "jp_string": "バトル時とくぎ",
+    "en_string": "Battle Troops"
+  },
+  {
+    "jp_string": "バトル時じゅもん",
+    "en_string": "Battle Strategy"
+  },
+  {
+    "jp_string": "通常時じゅもん",
+    "en_string": "Normal Procedure"
+  },
+  {
+    "jp_string": "並べ替え設定",
+    "en_string": "Sort Settings"
+  },
+  {
+    "jp_string": "表示設定",
+    "en_string": "Display"
+  },
+  {
+    "jp_string": "いまどんな？設定",
+    "en_string": "Status Icon"
+  },
+  {
+    "jp_string": "よく使うセリフ設定",
+    "en_string": "Frequent Phrases"
+  },
+  {
+    "jp_string": "かきおきメモ",
+    "en_string": "Memo Pad"
+  },
+  {
+    "jp_string": "フリーコメント設定",
+    "en_string": "Free Comment"
+  },
+  {
+    "jp_string": "ついていく許可設定",
+    "en_string": "Follow Permissions"
+  },
+  {
+    "jp_string": "ログイン状況表示設定",
+    "en_string": "Login Status"
+  },
+  {
+    "jp_string": "フレンド登録許可設定",
+    "en_string": "Friend Permissions"
+  },
+  {
+    "jp_string": "ブラックリスト設定",
+    "en_string": "Blacklist"
+  },
+  {
+    "jp_string": "ドルボード設定",
+    "en_string": "Dollar Board"
+  },
+  {
+    "jp_string": "ついてクン設定",
+    "en_string": "Pets"
+  },
+  {
+    "jp_string": "自動さつえい設定",
+    "en_string": "Photo Settings"
+  },
+  {
+    "jp_string": "冒険ガイド設定",
+    "en_string": "Adventure Guide"
+  },
+  {
+    "jp_string": "ボス難易度設定",
+    "en_string": "Boss Difficulty"
+  },
+  {
+    "jp_string": "かかっている効果の表示",
+    "en_string": "Display Effects"
+  },
+  {
+    "jp_string": "移動演出スキップ設定",
+    "en_string": "Skip Movement Direction?"
+  },
+  {
+    "jp_string": "お話の行き先設定",
+    "en_string": "Story Destination"
+  },
+  {
+    "jp_string": "画面視点設定",
+    "en_string": "Camera"
+  },
+  {
+    "jp_string": "バトル操作設定",
+    "en_string": "Battle Control"
+  },
+  {
+    "jp_string": "ドルボードフォルム設定",
+    "en_string": "Form Settings"
+  },
+  {
+    "jp_string": "ドルボード視点設定",
+    "en_string": "Viewpoint Settings"
+  },
+  {
+    "jp_string": "チームドルボード",
+    "en_string": "Team Dollar Board"
+  },
+  {
+    "jp_string": "プリズムなし",
+    "en_string": "No Prism"
+  },
+  {
+    "jp_string": "たて移動",
+    "en_string": "Horizontal"
+  },
+  {
+    "jp_string": "ノーマル",
+    "en_string": "Normal"
+  },
+  {
+    "jp_string": "リバース",
+    "en_string": "Reverse"
+  },
+  {
+    "jp_string": "よこ移動",
+    "en_string": "Vertical"
+  },
+  {
+    "jp_string": "オート移動",
+    "en_string": "Auto-Move"
+  },
+  {
+    "jp_string": "あり",
+    "en_string": "On"
+  },
+  {
+    "loop_count": 7,
+    "jp_string": "なし",
+    "en_string": "Off"
+  },
+  {
+    "jp_string": "視点移動速度",
+    "en_string": "Camera Speed"
+  },
+  {
+    "jp_string": "おそい",
+    "en_string": "Slow"
+  },
+  {
+    "loop_count": 5,
+    "jp_string": "ふつう",
+    "en_string": "Normal"
+  },
+  {
+    "jp_string": "はやい",
+    "en_string": "Fast"
+  },
+  {
+    "jp_string": "超はやい",
+    "en_string": "Very Fast"
+  },
+  {
+    "jp_string": "バトル行動時",
+    "en_string": "During Battle"
+  },
+  {
+    "jp_string": "振り向く",
+    "en_string": "Focus"
+  },
+  {
+    "jp_string": "そのまま",
+    "en_string": "As is"
+  },
+  {
+    "jp_string": "通常視点の高さ",
+    "en_string": "View Height"
+  },
+  {
+    "jp_string": "低",
+    "en_string": "↓"
+  },
+  {
+    "jp_string": "高",
+    "en_string": "↑"
+  },
+  {
+    "jp_string": "バトル視点の高さ",
+    "en_string": "Battle Height"
+  }
+]

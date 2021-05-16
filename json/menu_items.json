@@ -1,0 +1,29 @@
+[
+  {
+    "loop_count": 2,
+    "jp_string": "どうぐ",
+    "en_string": "Items"
+  },
+  {
+    "loop_count": 3,
+    "jp_string": "つかうもの",
+    "en_string": "Bag"
+  },
+  {
+    "loop_count": 6,
+    "jp_string": "ルーラストーン",
+    "en_string": "Zoomstones"
+  },
+  {
+    "jp_string": "おまとめぶくろ",
+    "en_string": "Currencies"
+  },
+  {
+    "jp_string": "だいじなもの",
+    "en_string": "Important Items"
+  },
+  {
+    "jp_string": "てがみ",
+    "en_string": "Letters"
+  }
+]
