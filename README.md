@@ -43,10 +43,10 @@ Strings are prepended and appended with `00` (null terminators) as this seems to
 
 There are a few different json keys that can change the behavior of how the script operates. As every string isn't created equally in memory, sometimes you need to alter its behavior. The following flags are also applicable:
 
-`ignore_first_term`: Boolean. Don't add the first null terminator to the hex'd value.
-`ignore_last_term`: Boolean. Don't add the last null terminator to the hex'd value.
-`line_break`: In `jp_string`, replace spaces with `0a` (line break). In `en_string`, replace "|" characters with `0a`. This is typically used for menu descriptions.
-`loop_count`: Integer. If there is more than one match (you can verify with CE), you will want to iterate over all of the results to replace all instances of that match. By default, it only finds the first match and moves on, but a `loop_count` of 2 would find the first match, then continue scanning from the last found memory address + 1.
+`ignore_first_term`: Boolean. Don't add the first null terminator to the hex'd value.<br>
+`ignore_last_term`: Boolean. Don't add the last null terminator to the hex'd value.<br>
+`line_break`: In `jp_string`, replace spaces with `0a` (line break). In `en_string`, replace "|" characters with `0a`. This is typically used for menu descriptions.<br>
+`loop_count`: Integer. If there is more than one match (you can verify with CE), you will want to iterate over all of the results to replace all instances of that match. By default, it only finds the first match and moves on, but a `loop_count` of 2 would find the first match, then continue scanning from the last found memory address + 1.<br>
 
 All of the above flags are optional, but `jp_string` and `en_string` are mandatory.
 
