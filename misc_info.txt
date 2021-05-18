@@ -1,0 +1,13 @@
+; ;; String : Address + offsets for any text that appears on the bottom of the screen
+; ;; Example: dqx.readString(baseAddress + dialogAddress, sizeBytes := 0, encoding := "utf-16", offsets*)
+; dialogAddress := 0x01E5A458
+; dialogOffsets := [0x8, 0x8, 0x30, 0x18, 0x4C, 0x4, 0x39C]
+
+; ;; UChar : Boolean (0 or 1) value that checks if dialog box is open or not
+; ;; Example: dqx.read(baseAddress + 0x1E62FC8, "UChar")
+; isDialogOpenAddress := 0x1E62FC8
+
+; ;; UChar : Boolean (0 or 1) value that checks if non-dialog white text is at bottom of screen
+; ;; Example: dqx.read(baseAddress + 0x1E62FC8, "UChar")
+; isNonDialogBottomTextActiveAddress := 0x01E5A440
+; isNonDialogBottomTextActiveOffsets := [0x8, 0x70, 0x8, 0x48, 0x40, 0x8, 0xF4]

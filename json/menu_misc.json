@@ -4,16 +4,12 @@
     "en_string": "Misc"
   },
   {
-    "jp_string": "いるいる設定",
+    "jp_string": "いろいろ設定",
     "en_string": "Settings"
   },
   {
     "jp_string": "まんたん",
     "en_string": "Heal All"
-  },
-  {
-    "jp_string": "いろいろ設定",
-    "en_string": "Settings"
   },
   {
     "jp_string": "スキルふりわけ",
@@ -113,6 +109,7 @@
     "en_string": "Lucky Girl"
   },
   {
+    "loop_count": 2,
     "jp_string": "立ちかた",
     "en_string": "Stance"
   },
@@ -305,5 +302,149 @@
   {
     "jp_string": "バトル視点の高さ",
     "en_string": "Battle Height"
+  },
+  {
+    "jp_string": "仲間募集中",
+    "en_string": "Buddy Searching"
+  },
+  {
+    "jp_string": "いまヒマです",
+    "en_string": "Not busy right now"
+  },
+  {
+    "jp_string": "フレンド募集中",
+    "en_string": "Friend wanted"
+  },
+  {
+    "jp_string": "チーム入隊希望",
+    "en_string": "I want to join a team"
+  },
+  {
+    "jp_string": "ひとりプレイ中",
+    "en_string": "Playing alone"
+  },
+  {
+    "jp_string": "離席中",
+    "en_string": "AFK"
+  },
+  {
+    "jp_string": "キーボードなし",
+    "en_string": "No Keyboard"
+  },
+  {
+    "jp_string": "初心者です",
+    "en_string": "Beginner"
+  },
+  {
+    "jp_string": "チャット非表示",
+    "en_string": "Hide Chat"
+  },
+  {
+    "jp_string": "セリフ内容変更",
+    "en_string": "Change Content"
+  },
+  {
+    "jp_string": "セリフ位置変更",
+    "en_string": "Change Position"
+  },
+  {
+    "jp_string": "かきおきを見る",
+    "en_string": "View a Note"
+  },
+  {
+    "jp_string": "かきおきを書く",
+    "en_string": "Write a Note"
+  },
+  {
+    "jp_string": "ロード中表示設定",
+    "en_string": "Show settings when load"
+  },
+  {
+    "jp_string": "許可する",
+    "en_string": "Allow"
+  },
+  {
+    "jp_string": "許可しない",
+    "en_string": "Not Allowed"
+  },
+  {
+    "jp_string": "ログイン表示する",
+    "en_string": "Show Login"
+  },
+  {
+    "jp_string": "ログイン表示しない",
+    "en_string": "Don't Show Login"
+  },
+  {
+    "jp_string": "常にログアウト表示",
+    "en_string": "Always Show Logout"
+  },
+  {
+    "jp_string": "ログイン中の冒険者から",
+    "en_string": "From Logged In Adventurers"
+  },
+  {
+    "jp_string": "おでかけ超便利ツールから",
+    "en_string": "Super Useful Tools"
+  },
+  {
+    "jp_string": "目覚めし冒険者の広場から",
+    "en_string": "From Adventurer's Square"
+  },
+  {
+    "jp_string": "ブラックリストに加える",
+    "en_string": "Add to Blacklist"
+  },
+  {
+    "jp_string": "ブラックリストをみる",
+    "en_string": "See the Blacklist"
+  },
+  {
+    "jp_string": "だれを？",
+    "en_string": "Who?"
+  },
+  {
+    "jp_string": "まわりから",
+    "en_string": "Around"
+  },
+  {
+    "jp_string": "名前とＩＤを入力",
+    "en_string": "Enter Name and ID"
+  },
+  {
+    "jp_string": "名前",
+    "en_string": "Name"
+  },
+  {
+    "jp_string": "キャラID",
+    "en_string": "Player ID"
+  },
+  {
+    "jp_string": "通常",
+    "en_string": "Usual"
+  },
+  {
+    "jp_string": "遠距離",
+    "en_string": "Far"
+  },
+  {
+    "jp_string": "今のかたがき：",
+    "en_string": "Current Title:"
+  },
+  {
+    "jp_string": "今の立ちかた：",
+    "en_string": "Current Pose:"
+  },
+  {
+    "jp_string": "音順に",
+    "en_string": "A-Z"
+  },
+  {
+    "jp_string": "ついてクンを選ぶ",
+    "en_string": "Follow Pet"
+  },
+  {
+    "jp_string": "ついてクン機能設定",
+    "en_string": "Function Setting"
   }
 ]

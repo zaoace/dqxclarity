@@ -82,7 +82,7 @@
   {
     "line_break": true,
     "jp_string": "ゲーム中よく使う セリフとしぐさを 設定します",
-    "en_string": "Set the lines and|gesture you use|frequently."
+    "en_string": "Set the lines and|gestures you use|frequently."
   },
   {
     "line_break": true,
@@ -122,7 +122,7 @@
   {
     "line_break": true,
     "jp_string": "フレンドに なってくれる人を 探している状態",
-    "en_string": "You're looking for|someone to be|your friend."
+    "en_string": "You're looking|for someone to|be your friend."
   },
   {
     "line_break": true,
@@ -132,11 +132,11 @@
   {
     "line_break": true,
     "jp_string": "ひとりで遊ぶので 他の人から仲間に 誘われない状態",
-    "en_string": "I play alone and|do not want to be|invited by others."
+    "en_string": "I play alone and|don't want to be|invited."
   },
   {
     "line_break": true,
-    "jp_string": "「まわりに」 の 発言内容が 見えなくなる状態",
+    "jp_string": "「まわりに」の 発言内容が 見えなくなる状態",
     "en_string": "I don't want to|see what others are|saying."
   },
   {
@@ -147,7 +147,7 @@
   {
     "line_break": true,
     "jp_string": "チャット遅いけど ゆるしてほしいと 言いたい状態",
-    "en_string": "I know it's a|little late, but|please forgive me."
+    "en_string": "I can't type as|I don't have a|keyboard."
   },
   {
     "line_break": true,
@@ -161,7 +161,142 @@
   },
   {
     "line_break": true,
-    "jp_string": "セリフを2つ選び コマンド位置を 入れ替えます",
+    "jp_string": "セリフを２つ選び コマンド位置を 入れ替えます",
     "en_string": "Select two lines|and swap their|command positions."
+  },
+  {
+    "line_break": true,
+    "jp_string": "特別な称号から 立ちかたを 変更します",
+    "en_string": "Change your|stance from your|special title."
+  },
+  {
+    "line_break": true,
+    "jp_string": "フレンドや チームメンバーの かきおきを見る",
+    "en_string": "View your friends|and team members|write-ups."
+  },
+  {
+    "line_break": true,
+    "jp_string": "フレンドや チームメンバーに かきおきを書く",
+    "en_string": "Write a note to|a friend or|team member."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ロード中表示する かきおきメモの 設定をします",
+    "en_string": "Set the memo to|be displayed|while loading."
+  },
+  {
+    "line_break": true,
+    "jp_string": "フレンドが 書いたかきおきを 読みます",
+    "en_string": "I'll read the|notes my friends|write."
+  },
+  {
+    "line_break": true,
+    "jp_string": "チームメンバーが 書いたかきおきを 読みます",
+    "en_string": "Read the notes|written by my|team members."
+  },
+  {
+    "line_break": true,
+    "jp_string": "運営からの お知らせを 読みます",
+    "en_string": "Read notices|from the|admins."
+  },
+  {
+    "line_break": true,
+    "jp_string": "フレンドみんなに かきおきメモを 書きます",
+    "en_string": "Write a quick note|to tell all my|friends."
+  },
+  {
+    "line_break": true,
+    "jp_string": "チームメンバーに かきおきメモを 書きます",
+    "en_string": "Write a quick note|to each team|member."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ロード中に フレンドの かきおきを表示",
+    "en_string": "Display your|friend's notes|while loading."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ロード中に チームメンバーの かきおきを表示",
+    "en_string": "Display your team|member's notes|while loading."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ロード中に 運営からの お知らせを表示",
+    "en_string": "Display notes from|the admins while|loading."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ログイン状況が 知り合いに常に （非表示）と表示",
+    "en_string": "Login status|is displayed|as hidden."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ログイン状況が 知り合いに 正常に表示される",
+    "en_string": "Show login|status to|everyone."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ログイン状況が 知り合いに常に 『ログアウト中』",
+    "en_string": "Logout status|is always shown|to everyone."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ドルボードの 各種設定をします",
+    "en_string": "Configure Dollar|Board Settings."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ついてクンの 各種設定をします",
+    "en_string": "Configure settings|for your pets."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ボス戦勝利時に 自動的に写真を 撮るか設定します",
+    "en_string": "Auto take a|picture when|boss battle done."
+  },
+  {
+    "line_break": true,
+    "jp_string": "冒険ガイドを 表示するか 設定します",
+    "en_string": "Set whether to|display the|adventure guide."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ボス戦の 難易度選択の 設定をします",
+    "en_string": "Select the|boss difficulty|level."
+  },
+  {
+    "line_break": true,
+    "jp_string": "かかっている 効果のアイコン 位置を設定します",
+    "en_string": "Select the icon|position of the|applied effect."
+  },
+  {
+    "line_break": true,
+    "jp_string": "移動演出を 再生するかどうか 設定します",
+    "en_string": "Change the|player's movement|direction."
+  },
+  {
+    "line_break": true,
+    "jp_string": "お話の行き先を 設定します",
+    "en_string": "Set destination|of the convo."
+  },
+  {
+    "line_break": true,
+    "jp_string": "フォルムを 設定します",
+    "en_string": "Set the|form."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ドルボードに 乗車時の視点を 設定します",
+    "en_string": "Set viewpoint|when riding the|Dollar board."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ついてクンを 一覧から選びます",
+    "en_string": "Select a pet|from the list."
+  },
+  {
+    "line_break": true,
+    "jp_string": "ついてクンの 機能設定をします",
+    "en_string": "Configure your|pet's settings."
   }
 ]

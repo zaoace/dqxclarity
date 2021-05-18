@@ -28,7 +28,8 @@
     "en_string": "Fish List"
   },
   {
-    "loop_count": 3,
+    "loop_count": 2,
+    "ignore_first_term": true,
     "jp_string": "職人レシピブック",
     "en_string": "Crafting Recipes"
   },
@@ -49,7 +50,8 @@
     "en_string": "Monster Tarot List"
   },
   {
-    "loop_count": 5,
+    "loop_count": 3,
+    "ignore_first_term": true,
     "jp_string": "クエストリスト",
     "en_string": "Quest List"
   },
@@ -106,22 +108,14 @@
     "en_string": "Dailies Completed"
   },
   {
-    "loop_count": 2,
     "ignore_first_term": true,
     "jp_string": "依頼書クエストクリア回数",
     "en_string": "Requests Completed"
   },
   {
-    "loop_count": 4,
+    "loop_count": 2,
     "ignore_first_term": true,
-    "ignore_last_term": true,
-    "jp_string": "職人成功回数",
-    "en_string": "Successful/"
-  },
-  {
-    "loop_count": 3,
-    "ignore_first_term": true,
-    "jp_string": "全職人合計",
-    "en_string": "Total Crafts"
+    "jp_string": "職人成功回数　全職人合計",
+    "en_string": "Successful Crafts"
   }
 ]

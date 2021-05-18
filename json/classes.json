@@ -1,0 +1,102 @@
+[
+  {
+    "loop_count": 7,
+    "jp_string": "戦士",
+    "en_string": "WAR"
+  },
+  {
+    "loop_count": 7,
+    "jp_string": "僧侶",
+    "en_string": "PRI"
+  },
+  {
+    "loop_count": 5,
+    "jp_string": "魔法使い",
+    "en_string": "MAG"
+  },
+  {
+    "loop_count": 6,
+    "jp_string": "武闘家",
+    "en_string": "MAR"
+  },
+  {
+    "loop_count": 7,
+    "jp_string": "盗賊",
+    "en_string": "THF"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "旅芸人",
+    "en_string": "MNS"
+  },
+  {
+    "loop_count": 6,
+    "jp_string": "バトルマスター",
+    "en_string": "BMS"
+  },
+  {
+    "loop_count": 7,
+    "jp_string": "パラディン",
+    "en_string": "PAD"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "魔法戦士",
+    "en_string": "ARM"
+  },
+  {
+    "loop_count": 6,
+    "jp_string": "レンジャー",
+    "en_string": "RGR"
+  },
+  {
+    "loop_count": 8,
+    "jp_string": "賢者",
+    "en_string": "SAG"
+  },
+  {
+    "loop_count": 3,
+    "jp_string": "スーパースター",
+    "en_string": "STR"
+  },
+  {
+    "loop_count": 5,
+    "jp_string": "まもの使い",
+    "en_string": "MON"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "どうぐ使い",
+    "en_string": "ITM"
+  },
+  {
+    "loop_count": 3,
+    "jp_string": "踊り子",
+    "en_string": "DCR"
+  },
+  {
+    "loop_count": 5,
+    "jp_string": "天地雷鳴士",
+    "en_string": "FTN"
+  },
+  {
+    "loop_count": 3,
+    "jp_string": "占い師",
+    "en_string": "DRD"
+  },
+  {
+    "loop_count": 3,
+    "jp_string": "遊び人",
+    "en_string": "GAD"
+  },
+  {
+    "loop_count": 6,
+    "jp_string": "デスマスター",
+    "en_string": "DMR"
+  },
+  {
+    "loop_count": 6,
+    "jp_string": "魔剣士",
+    "en_string": "DSM"
+  }
+]

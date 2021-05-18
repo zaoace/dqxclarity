@@ -27,12 +27,31 @@
     "en_string": "Casino Coins"
   },
   {
-    "loop_count": 2,
     "jp_string": "おさかなコイン",
     "en_string": "Fishing Coin"
   },
   {
     "jp_string": "全滅時の復活場所",
     "en_string": "Resurrection Spot"
+  },
+  {
+    "jp_string": "経験値：",
+    "en_string": "Experience:"
+  },
+  {
+    "jp_string": "次のレベルまで",
+    "en_string": "To Next Level:"
+  },
+  {
+    "jp_string": "名声レベル",
+    "en_string": "Fame Level"
+  },
+  {
+    "jp_string": "名声値：",
+    "en_string": "Fame:"
+  },
+  {
+    "jp_string": "つよさ項目一覧",
+    "en_string": "Item List"
   }
 ]

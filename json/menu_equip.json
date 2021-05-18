@@ -7,5 +7,144 @@
     "loop_count": 4,
     "jp_string": "そうびなし",
     "en_string": "Empty"
+  },
+  {
+    "jp_string": "レア度",
+    "en_string": "Rarity"
+  },
+  {
+    "jp_string": "以上装備可",
+    "en_string": "Requirement"
+  },
+  {
+    "jp_string": "パラメータ変化",
+    "en_string": "Attributes"
+  },
+  {
+    "jp_string": "こうげきカ",
+    "en_string": "Attack"
+  },
+  {
+    "jp_string": "しゅびカ",
+    "en_string": "Defense"
+  },
+  {
+    "loop_count": 5,
+    "jp_string": "さいだいＨＰ",
+    "en_string": "Max HP"
+  },
+  {
+    "loop_count": 5,
+    "jp_string": "さいだいＭＰ",
+    "en_string": "Max MP"
+  },
+  {
+    "jp_string": "おしゃれさ",
+    "en_string": "Style"
+  },
+  {
+    "jp_string": "すばやさ",
+    "en_string": "Agility"
+  },
+  {
+    "jp_string": "きようさ",
+    "en_string": "Deftness"
+  },
+  {
+    "jp_string": "こうげき魔力",
+    "en_string": "Magical Might"
+  },
+  {
+    "jp_string": "かいふく魔力",
+    "en_string": "Magical Mending"
+  },
+  {
+    "jp_string": "おもさ",
+    "en_string": "Weight"
+  },
+  {
+    "line_break": true,
+    "jp_string": "追加効果を見る",
+    "en_string": "Additional|effects"
+  },
+  {
+    "loop_count": 5,
+    "jp_string": "魔使",
+    "en_string": "MAG"
+  },
+  {
+    "loop_count": 5,
+    "jp_string": "武闘",
+    "en_string": "MAR"
+  },
+  {
+    "loop_count": 3,
+    "jp_string": "旅芸",
+    "en_string": "MNS"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "バト",
+    "en_string": "BMS"
+  },
+  {
+    "loop_count": 5,
+    "jp_string": "パラ",
+    "en_string": "PLD"
+  },
+  {
+    "loop_count": 3,
+    "jp_string": "魔戦",
+    "en_string": "MKT"
+  },
+  {
+    "loop_count": 5,
+    "jp_string": "レン",
+    "en_string": "RAN"
+  },
+  {
+    "loop_count": 5,
+    "jp_string": "スパ",
+    "en_string": "STR"
+  },
+  {
+    "loop_count": 3,
+    "jp_string": "まも",
+    "en_string": "MON"
+  },
+  {
+    "loop_count": 3,
+    "jp_string": "どう",
+    "en_string": "ITM"
+  },
+  {
+    "loop_count": 3,
+    "jp_string": "踊り",
+    "en_string": "DCR"
+  },
+  {
+    "loop_count": 3,
+    "jp_string": "占い",
+    "en_string": "FTN"
+  },
+  {
+    "loop_count": 5,
+    "jp_string": "天地",
+    "en_string": "DRD"
+  },
+  {
+    "loop_count": 3,
+    "jp_string": "遊び",
+    "en_string": "GAD"
+  },
+  {
+    "loop_count": 5,
+    "jp_string": "デス",
+    "en_string": "DMR"
+  },
+  {
+    "loop_count": 7,
+    "jp_string": "魔剣",
+    "en_string": "DSM"
   }
 ]

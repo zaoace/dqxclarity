@@ -27,14 +27,17 @@
     "en_string": "Letters"
   },
   {
+    "loop_count": 2,
     "jp_string": "手紙",
     "en_string": "Letter"
   },
   {
+    "loop_count": 2,
     "jp_string": "もらった手紙",
     "en_string": "Letter Received"
   },
   {
+    "loop_count": 2,
     "jp_string": "書いた手紙",
     "en_string": "Write a Letter"
   },
@@ -45,5 +48,11 @@
   {
     "jp_string": "手紙を整理する",
     "en_string": "Organize Letters"
-  } 
+  },
+  {
+    "jp_string": "種別順に",
+    "en_string": "Reorder"
+  }
 ]
+
+

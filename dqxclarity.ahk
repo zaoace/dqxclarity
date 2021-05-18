@@ -6,6 +6,7 @@
 
 if (_ClassMemory.__Class != "_ClassMemory") {
   msgbox class memory not correctly installed. Or the (global class) variable "_ClassMemory" has been overwritten
+  ExitApp
 }
 
 dqx := new _ClassMemory("ahk_exe DQXGame.exe", "", hProcessCopy)
@@ -13,26 +14,19 @@ Global dqx
 
 if !isObject(dqx)
 {
-    msgbox failed to open a handle
+  msgbox Please open Dragon Quest X before running dqxclarity.
+  ExitApp
   if (hProcessCopy = 0)
-    msgbox The program isn't running (not found) or you passed an incorrect program identifier parameter. 
+  {
+    msgbox The program isn't running (not found) or you passed an incorrect program identifier parameter.
+    ExitApp
+  }
   else if (hProcessCopy = "")
+  {
     msgbox OpenProcess failed. If the target process has admin rights, then the script also needs to be ran as admin. Consult A_LastError for more information.
+    ExitApp
+  }
 }
-
-; ;; String : Address + offsets for any text that appears on the bottom of the screen
-; ;; Example: dqx.readString(baseAddress + dialogAddress, sizeBytes := 0, encoding := "utf-16", offsets*)
-; dialogAddress := 0x01E5A458
-; dialogOffsets := [0x8, 0x8, 0x30, 0x18, 0x4C, 0x4, 0x39C]
-
-; ;; UChar : Boolean (0 or 1) value that checks if dialog box is open or not
-; ;; Example: dqx.read(baseAddress + 0x1E62FC8, "UChar")
-; isDialogOpenAddress := 0x1E62FC8
-
-; ;; UChar : Boolean (0 or 1) value that checks if non-dialog white text is at bottom of screen
-; ;; Example: dqx.read(baseAddress + 0x1E62FC8, "UChar")
-; isNonDialogBottomTextActiveAddress := 0x01E5A440
-; isNonDialogBottomTextActiveOffsets := [0x8, 0x70, 0x8, 0x48, 0x40, 0x8, 0xF4]
 
 Gui, +AlwaysOnTop +E0x08000000
 Gui, Font, s12
@@ -47,7 +41,6 @@ startTime := A_TickCount
 
 ;; Loop through all files in json directory
 Loop, Files, json\*.json, F
-;Loop, Files, json\menu_misc_descriptions.json, F
 {
   FileRead, jsonData, %A_ScriptDir%\%A_LoopFileFullPath%
   data := JSON.Load(jsonData)
@@ -125,13 +118,18 @@ Loop, Files, json\*.json, F
         en := StrReplace(en, "7c", "0a")
       }
     }
-
-    memWrite(jp, en, loop_count)
+    memWrite(jp, en, jp_raw, en_raw, loop_count)
   }
 
-  elapsedTime := A_TickCount - startTime
-  FileAppend, Last run time: %elapsedTime%ms`n, times.txt
+  
   GuiControl,, Notes, Done.`n`nElapsed time: %elapsedTime%ms
 }
 
-Return
+elapsedTime := A_TickCount - startTime
+FileAppend, Last run time: %elapsedTime%ms`n, times.txt
+Sleep 3000
+ExitApp
+
+GuiEscape:
+GuiClose:
+  ExitApp
