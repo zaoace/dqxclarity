@@ -21,12 +21,12 @@
   },
   {
     "loop_count": 3,
-    "jp_string": "まほうスキル",
+    "jp_string": "盾スキル",
     "en_string": "Shield Skill"
   },
   {
     "loop_count": 3,
-    "jp_string": "盾スキル",
+    "jp_string": "まほうスキル",
     "en_string": "Magic Skill"
   },
 ]
