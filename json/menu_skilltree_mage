@@ -16,7 +16,7 @@
   },
   {
     "loop_count": 3,
-    "jp_string": "かくとうスキル",
+    "jp_string": "格闘スキル",
     "en_string": "Unarmed Skill"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "loop_count": 3,
-    "jp_string": "まほうスキル",
-    "en_string": "Magic Skill"
+    "jp_string": "まほう",
+    "en_string": "Magic"
   },
 ]
