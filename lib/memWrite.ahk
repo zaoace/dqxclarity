@@ -1,6 +1,6 @@
 memWrite(jp, en, jp_raw, en_raw, loopCount)
 {
-  menu_start_addr := 0x45000000
+  menu_start_addr := 0x43000000
   menu_end_addr := 0x49900000
 
   menuAOB := dqx.hexStringToPattern(jp)

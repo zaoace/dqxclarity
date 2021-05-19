@@ -1,0 +1,95 @@
+[
+  {
+    "jp_string": "ウィングブロウ",
+    "en_string": "Wing Blower"
+  },
+  {
+    "jp_string": "装備時こうげき力+5",
+    "en_string": "Attack Power +5"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "裂鋼拳",
+    "en_string": "Rikkoken"
+  },
+  {
+    "jp_string": "装備時かいしん率+2%",
+    "en_string": "Rate of Advancement +2%"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "必中拳",
+    "en_string": "Sure Shot"
+  },
+  {
+    "jp_string": "装備時こうげき力+5",
+    "en_string": "Attack Power +5"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "タイガークロー",
+    "en_string": "Tiger Claw"
+  },
+  {
+    "jp_string": "装備時かいしん率+2%",
+    "en_string": "Rate of Advancement +2%"
+  },
+  {
+    "jp_string": "装備時こうげき力+5",
+    "en_string": "Attack Power +5"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "ゴールドフィンガー",
+    "en_string": "Gold Finger"
+  },
+  {
+    "loop_count": 2,
+    "jp_string": "装備時こうげき力+20",
+    "en_string": "Attack Power +20"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "けもの突き",
+    "en_string": "Cattle Prod"
+  },
+  {
+    "loop_count": 2,
+    "jp_string": "装備時かいしん率+5%",
+    "en_string": "Rate of Advancement +5%"
+  },
+  {
+    "loop_count": 2,
+    "jp_string": "装備時こうげき力+20",
+    "en_string": "Attack Power +20"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "雷鳴突き",
+    "en_string": "E. Thrust"
+  },
+  {
+    "jp_string": "装備時武器ガード率+8%",
+    "en_string": "Weapon Guard +8%"
+  },
+  {
+    "loop_count": 2,
+    "jp_string": "装備時こうげき力+25",
+    "en_string": "Attack Power +25"
+  },
+  {
+    "loop_count": 4,
+    "jp_string": "狼牙突き",
+    "en_string": "Wolfsbane"
+  },
+  {
+    "loop_count": 2,
+    "jp_string": "装備時こうげき力+30",
+    "en_string": "Attack Power +30"
+  },
+  {
+    "loop_count": 3,
+    "jp_string": "一閃突き・改",
+    "en_string": "F. Thrust Kai"
+  }
+]
