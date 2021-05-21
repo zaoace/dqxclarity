@@ -1,0 +1,658 @@
+[
+  {
+    "hex_start": "54 45 58 54 10 00 00 00 60 99 03",
+    "strings": [
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "ウィングブロウ",
+        "en_string": "Wing Blower"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "裂鋼拳",
+        "en_string": "S. Fist"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "必中拳",
+        "en_string": "Sure Shot"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "タイガークロー",
+        "en_string": "Tiger Claw"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "装備時かいしん率+2%",
+        "en_string": "Rate of Advancement +2%"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "装備時こうげき力+5",
+        "en_string": "AP +5 When Worn"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "ゴールドフィンガー",
+        "en_string": "Gold Finger"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "装備時こうげき力+20",
+        "en_string": "AP +20 When Worn"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "けもの突き",
+        "en_string": "Cattle Prod"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "装備時かいしん率+5%",
+        "en_string": "Rate of Advancement +5%"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "雷鳴突き",
+        "en_string": "E. Thrust"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "装備時武器ガード率+8%",
+        "en_string": "Weapon Guard +8% When Worn"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "装備時こうげき力+25",
+        "en_string": "AP +25 When Worn"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "狼牙突き",
+        "en_string": "Wolfsbane"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "装備時こうげき力+30",
+        "en_string": "AP +30 When Worn"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "一閃突き・改",
+        "en_string": "F. Thrust Kai"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "装備時こうげき力+10",
+        "en_string": "AP +10 When Worn"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "足ばらい",
+        "en_string": "Leg Purify"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "装備時武器ガード率+4%",
+        "en_string": "Weapon Guard +4% When Worn"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "黄泉送り",
+        "en_string": "Deliverance"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "装備時こうげき力+15",
+        "en_string": "AP +15 When Worn"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "なぎはらい",
+        "en_string": "Party Pooper"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "装備時身かわし率+4%",
+        "en_string": "Dodge Rate +4% When Worn"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "氷結らんげき",
+        "en_string": "Crushed Ice"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "天地のかまえ",
+        "en_string": "Counter Wait"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "花ふぶき",
+        "en_string": "Flower Power"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "明鏡止水",
+        "en_string": "Still Water"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "波紋演舞",
+        "en_string": "Water Slay"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "装備時みとれる+5%",
+        "en_string": "Surprise 5% When Worn"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "おうぎのまい",
+        "en_string": "Fan Dango"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "アゲハ乱舞",
+        "en_string": "Akeha Dance"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "素手時こうげき力+10",
+        "en_string": "Offense +10 When Worn"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "石つぶて",
+        "en_string": "Stone Throw"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "素手時かいしん率+2%",
+        "en_string": "Bare Hand Advancement +2%"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "かまいたち",
+        "en_string": "Wind Sickles"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "素手時こうげき力+20",
+        "en_string": "Offense +20 When Worn"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "せいけん突き",
+        "en_string": "Knuckle Sandwich"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "素手時身かわし率+2%",
+        "en_string": "Surprise +2% When Worn"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "ムーンサルト",
+        "en_string": "Harvest Moon"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "素手時こうげき力+40",
+        "en_string": "Offense +40"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "ばくれつけん",
+        "en_string": "Multifists"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "ためる（専）",
+        "en_string": "Accrue"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "全職業できようさ+20",
+        "en_string": "+20 Dex To All Classes"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "心頭滅却",
+        "en_string": "Clear Mind"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "全職業ですばやさ+30",
+        "en_string": "+30 Agility To All Classes"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "不撓不屈（専）",
+        "en_string": "Indomitability"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "全職業でちから+10",
+        "en_string": "+10 Power To All Classes"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "おたけび",
+        "en_string": "Warcry"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "全職業でさいだいＨＰ+40",
+        "en_string": "+40 HP To All Classes"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "めいそう（専）",
+        "en_string": "Meditation"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "ためる弐（専）",
+        "en_string": "Accrue 2"
+      },
+      {
+        "_comment": "Buffs",
+        "jp_string": "バイシオン",
+        "en_string": "Oomph"
+      },
+      {
+        "_comment": "Buffs",
+        "jp_string": "バイキルト",
+        "en_string": "Oomphle"
+      },
+      {
+        "_comment": "Buffs",
+        "jp_string": "スカラ",
+        "en_string": "Buff"
+      },
+      {
+        "_comment": "Buffs",
+        "jp_string": "スクルト",
+        "en_string": "Kabuff"
+      },
+      {
+        "_comment": "Buffs",
+        "jp_string": "ピオラ",
+        "en_string": "Accel"
+      },
+      {
+        "_comment": "Buffs",
+        "jp_string": "ピオリム",
+        "en_string": "Acceleratle"
+      },
+      {
+        "_comment": "Buffs",
+        "jp_string": "ズッシード",
+        "en_string": "Weight"
+      },
+      {
+        "_comment": "Buffs",
+        "jp_string": "マホターン",
+        "en_string": "Bound"
+      },
+      {
+        "_comment": "Buffs",
+        "jp_string": "マホカンタ",
+        "en_string": "Bounce"
+      },
+      {
+        "_comment": "Buffs",
+        "jp_string": "マホステ",
+        "en_string": "Snub"
+      },
+      {
+        "_comment": "Buffs",
+        "jp_string": "マホキテ",
+        "en_string": "Absorb Magic"
+      },
+      {
+        "_comment": "Buffs",
+        "jp_string": "バーハ",
+        "en_string": "Insulate"
+      },
+      {
+        "_comment": "Buffs",
+        "jp_string": "フバーハ",
+        "en_string": "Insulatle"
+      },
+      {
+        "_comment": "Buffs",
+        "jp_string": "マジックバリア",
+        "en_string": "Magic Barrier"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "ヘナトス",
+        "en_string": "Blunt"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "ヘナトール",
+        "en_string": "Kablunt"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "ルカニ",
+        "en_string": "Sap"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "ルカナン",
+        "en_string": "Kasap"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "ボミエ",
+        "en_string": "Decel"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "ボミオス",
+        "en_string": "Deceleratle"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "ディバインスペル",
+        "en_string": "Divine Intervention"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "ラリホー",
+        "en_string": "Snooze"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "ラリホーマ",
+        "en_string": "Kasnooze"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "メダパニ",
+        "en_string": "Fuddle"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "メダパニーマ",
+        "en_string": "Kafuddle"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "マヌーサ",
+        "en_string": "Dazzle"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "マホトーン",
+        "en_string": "Fizzle"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "クモノ",
+        "en_string": "Web Trap"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "ヴェレ",
+        "en_string": "Tox"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "ヴェレーノ",
+        "en_string": "Toxle"
+      },
+      {
+        "_comment": "Debuffs",
+        "jp_string": "ヴェレノーマ",
+        "en_string": "Katoxle"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "メラ",
+        "en_string": "Frizz"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "メラミ",
+        "en_string": "Frizzle"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "メラゾーマ",
+        "en_string": "Kafrizz"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "メラガイアー",
+        "en_string": "Kafrizzle"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "ギラ",
+        "en_string": "Sizz"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "ベギラマ",
+        "en_string": "Sizzle"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "ベギラゴン",
+        "en_string": "Kasizz"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "ギラグレイド",
+        "en_string": "Kasizzle"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "ヒャド",
+        "en_string": "Crack"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "ヒャダルコ",
+        "en_string": "Crackle"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "マヒャド",
+        "en_string": "Kacrack"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "マヒャデドス",
+        "en_string": "Kacrackle"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "バギ",
+        "en_string": "Woosh"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "バギマ",
+        "en_string": "Swoosh"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "バギクロス",
+        "en_string": "Kaswoosh"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "バギムーチョ",
+        "en_string": "Kaswooshle"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "ジバリア",
+        "en_string": "Rubblerouser"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "ジバリカ",
+        "en_string": "Boulderbring"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "ジバリーナ",
+        "en_string": "Mountainmover"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "ジバルンバ",
+        "en_string": "Ridgeraiser"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "ドルマ",
+        "en_string": "Zam"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "ドルクマ",
+        "en_string": "Zammle"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "ドルモーア",
+        "en_string": "Kazam"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "ドルマドン",
+        "en_string": "Kazammle"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "イオ",
+        "en_string": "Bang"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "イオラ",
+        "en_string": "Boom"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "イオナズン",
+        "en_string": "Kaboom"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "イオグランデ",
+        "en_string": "Kaboomle"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "マダンテ",
+        "en_string": "Magic Burst"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "ザキ",
+        "en_string": "Whack"
+      },
+      {
+        "_comment": "Mage",
+        "jp_string": "マホトラ",
+        "en_string": "Drain Magic"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "リレミト",
+        "en_string": "Evac"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "ホイミ",
+        "en_string": "Heal"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "ベホイミ",
+        "en_string": "Midheal"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "べホイム",
+        "en_string": "Moreheal"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "ベホマ",
+        "en_string": "Fullheal"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "ベホマラー",
+        "en_string": "Multiheal"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "リホイミ",
+        "en_string": "Reheal"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "リベホイミ",
+        "en_string": "Remidheal"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "リベホイム",
+        "en_string": "Remoreheal"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "キアリー",
+        "en_string": "Squelch"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "キアリク",
+        "en_string": "Tingle"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "ザメハ",
+        "en_string": "Wake Up"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "マヌーハ",
+        "en_string": "Dedazzle"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "マホリー",
+        "en_string": "Defizzle"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "ザオ",
+        "en_string": "Zin"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "ザオラル",
+        "en_string": "Zing"
+      },
+      {
+        "_comment": "Priest",
+        "jp_string": "ザオリク",
+        "en_string": "Kazing"
+      }
+    ]
+  }
+
+]

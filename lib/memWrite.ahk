@@ -1,4 +1,4 @@
-memWrite(jp, en, jp_raw, en_raw, loopCount, menu_start_addr := 0x43000000, menu_end_addr := 0x49900000)
+memWrite(jp, en, jp_raw, en_raw, menu_start_addr := 0, menu_end_addr := 0)
 {
   menuAOB := dqx.hexStringToPattern(jp)
   menuAddress := dqx.processPatternScan(menu_start_addr,menu_end_addr, menuAOB*)
@@ -9,14 +9,9 @@ memWrite(jp, en, jp_raw, en_raw, loopCount, menu_start_addr := 0x43000000, menu_
   }
   else
   {
-    FileAppend, %menuAddress%`n, address.txt
-
     dqx.writeBytes(menuAddress, en)
 
-    if (loopCount > 1)
-    {
-      loopCount := (loopCount - 1)
-      loop, %loopCount%
+      loop, 10
       {
         menuAddress := dqx.processPatternScan(menuAddress + 1, menu_end_addr, menuAOB*)
 
@@ -27,8 +22,6 @@ memWrite(jp, en, jp_raw, en_raw, loopCount, menu_start_addr := 0x43000000, menu_
         }
 
         dqx.writeBytes(menuAddress, en)
-        FileAppend, %menuAddress%`n, address.txt
       }
     }
-  }
 }

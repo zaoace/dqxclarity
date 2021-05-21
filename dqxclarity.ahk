@@ -41,13 +41,22 @@ startTime := A_TickCount
 
 ;; Loop through all files in json directory
 Loop, Files, json\*.json, F
-;Loop, Files, json\skill_tree_martial_artist.json, F
 {
   FileRead, jsonData, %A_ScriptDir%\%A_LoopFileFullPath%
   data := JSON.Load(jsonData)
-  loop, % data.Count()
+  textHex := dqx.hexStringToPattern(data.1.hex_start)  ;; Start of TEXT block
+  footAOB := [0, 0, 0, 0, 70, 79, 79, 84]  ;; End of TEXT block (FOOT)
+
+  startAddr := dqx.processPatternScan(0x30000000,0x50000000,textHex*)
+  endAddr := dqx.processPatternScan(startAddr,, footAOB*)
+
+  ;; Iterate over all json objects in strings[]
+  for i, obj in data.1.strings
   {
-    obj := DATA[A_Index]
+
+    ;; If en_string is blank, skip it
+    if (obj.en_string == "")
+      Continue
 
     ;; Convert utf-8 strings to hex
     jp := 00 . convertStrToHex(obj.jp_string) . 00
@@ -62,19 +71,10 @@ Loop, Files, json\*.json, F
     en_raw := obj.en_string
     en_len := StrLen(en)
 
-    ;; Whether or not we should prepend/append null terminators
-    ignore_first_term := obj.ignore_first_term
-    ignore_last_term := obj.ignore_last_term
-
     ;; Whether the string has line break characters we need to account for.
     line_break := obj.line_break
 
-    ;; If loop is specified in json, use it. Otherwise, default to 1
-    loop_count := obj.loop_count
-    if (loop_count == "")
-      loop_count = 1
-
-    GuiControl,, Notes, Reading %A_ScriptDir%\%A_LoopFileFullPath%`n`nOn this text:`n`nJP: %jp_raw%`nEN:%en_raw%
+    GuiControl,, Notes, Reading %A_LoopFileFullPath%`n`nOn this text:`n`nJP: %jp_raw%`nEN:%en_raw%
 
     ;; If the string length doesn't match, add null terms until it does.
     if (jp_len != en_len)
@@ -89,24 +89,6 @@ Loop, Files, json\*.json, F
       }
       Until ((jp_len - new_len) == 0)
 
-      ;; Some strings in memory don't have a clear cut null terminator
-      ;; at the beginning and end of each string, so we need to account
-      ;; for that here.
-      jp_len := StrLen(en)
-      en_len := StrLen(jp)
-
-      if (ignore_first_term != "")
-      {
-        jp := SubStr(jp, 3, jp_len)
-        en := SubStr(en, 3, en_len)
-      }
-
-      if (ignore_last_term != "")
-      {
-        jp := SubStr(jp, 1, (jp_len - 2))
-        en := SubStr(en, 1, (en_len - 2))
-      }
-
       ;; Some sentences can scale multiple lines, so instead of a null terminator,
       ;; we want to replace the spaces with the line break code '0a'. 
       if (line_break != "")
@@ -115,7 +97,7 @@ Loop, Files, json\*.json, F
         en := StrReplace(en, "7c", "0a")
       }
     }
-    memWrite(jp, en, jp_raw, en_raw, loop_count)
+    memWrite(jp, en, jp_raw, en_raw, startAddr, endAddr)
   }
 }
 
