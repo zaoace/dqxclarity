@@ -16668,147 +16668,147 @@
       },
       {
         "jp_string": "建物名（任意）",
-        "en_string": ""
+        "en_string": "Building Name (Opt)"
       },
       {
         "jp_string": "弊社へのお問い合わせ",
-        "en_string": ""
+        "en_string": "Contact Us"
       },
       {
         "jp_string": "弓",
-        "en_string": ""
+        "en_string": "Bow"
       },
       {
         "jp_string": "引き継ぎログイン",
-        "en_string": ""
+        "en_string": "Takeover Login"
       },
       {
         "jp_string": "引っ越しについて",
-        "en_string": ""
+        "en_string": "About Moving"
       },
       {
         "jp_string": "引っ越しチェック",
-        "en_string": ""
+        "en_string": "Moving Check"
       },
       {
         "jp_string": "弱",
-        "en_string": ""
+        "en_string": "Wk"
       },
       {
         "jp_string": "弱い",
-        "en_string": ""
+        "en_string": "Weak"
       },
       {
         "jp_string": "弱いバトルクリア",
-        "en_string": ""
+        "en_string": "Weak Battle Clear"
       },
       {
         "jp_string": "強",
-        "en_string": ""
+        "en_string": "Str"
       },
       {
         "jp_string": "強い",
-        "en_string": ""
+        "en_string": "Hard"
       },
       {
         "jp_string": "強いバトルクリア",
-        "en_string": ""
+        "en_string": "Hard Battle Clear"
       },
       {
         "jp_string": "強ボス",
-        "en_string": ""
+        "en_string": "Hard Boss"
       },
       {
         "jp_string": "強モードボス",
-        "en_string": ""
+        "en_string": "Hardmode Boss"
       },
       {
         "jp_string": "強モードボス討伐",
-        "en_string": ""
+        "en_string": "Hardmode Boss Subdue"
       },
       {
         "jp_string": "強制移動をする",
-        "en_string": ""
+        "en_string": "Force displacement"
       },
       {
         "jp_string": "強制退会/一時停止",
-        "en_string": ""
+        "en_string": "Forced withdrawal"
       },
       {
         "jp_string": "強力なモンスターが",
-        "en_string": ""
+        "en_string": "A powerful monster"
       },
       {
         "jp_string": "出現します。",
-        "en_string": ""
+        "en_string": "will appear."
       },
       {
         "jp_string": "倒すと　光る宝箱を",
-        "en_string": ""
+        "en_string": "A chest that|glows when defeated"
       },
       {
         "jp_string": "開けることが　できます。",
-        "en_string": ""
+        "en_string": "You can|open it."
       },
       {
         "jp_string": "強化する輝晶効果",
-        "en_string": ""
+        "en_string": "Crystal effect to raise"
       },
       {
         "jp_string": "強化前の装備",
-        "en_string": ""
+        "en_string": "EQ before upgrade"
       },
       {
         "jp_string": "強化後の装備",
-        "en_string": ""
+        "en_string": "EQ after upgrade"
       },
       {
         "jp_string": "強化段階",
-        "en_string": ""
+        "en_string": "Upgrade lvl"
       },
       {
         "jp_string": "強化段階をみる",
-        "en_string": ""
+        "en_string": "See the upgrade lvl"
       },
       {
         "jp_string": "強化素材：",
-        "en_string": ""
+        "en_string": "Upgrade mats:"
       },
       {
         "jp_string": "強化結果",
-        "en_string": ""
+        "en_string": "Upgr. result"
       },
       {
         "jp_string": "強化週間に参加",
-        "en_string": ""
+        "en_string": "Join the Upgrade Week"
       },
       {
         "jp_string": "強化週間に参加中",
-        "en_string": ""
+        "en_string": "Join the Upgrade Week"
       },
       {
         "jp_string": "強化週間の報酬",
-        "en_string": ""
+        "en_string": "Upgrade Week Reward"
       },
       {
         "jp_string": "強化週間の状況",
-        "en_string": ""
+        "en_string": "Upgrade Week status"
       },
       {
         "jp_string": "強化週間チケット",
-        "en_string": ""
+        "en_string": "Upgrade weekly ticket"
       },
       {
         "jp_string": "強化週間品を作る",
-        "en_string": ""
+        "en_string": "Make upgrade week items"
       },
       {
         "jp_string": "強化週間終了",
-        "en_string": ""
+        "en_string": "Upgrade Week end"
       },
       {
         "jp_string": "強化Ｌｖ",
-        "en_string": ""
+        "en_string": "Upgrade Lv"
       },
       {
         "jp_string": "強敵への挑戦",
@@ -17024,11 +17024,11 @@
       },
       {
         "jp_string": "成功",
-        "en_string": ""
+        "en_string": "Hit"
       },
       {
         "jp_string": "成績",
-        "en_string": ""
+        "en_string": "Grades"
       },
       {
         "jp_string": "成長と強化",
@@ -17052,11 +17052,11 @@
       },
       {
         "jp_string": "戦士",
-        "en_string": ""
+        "en_string": "Warrior"
       },
       {
         "jp_string": "戦士や武闘家が",
-        "en_string": ""
+        "en_string": "Warriors&Martial Art"
       },
       {
         "jp_string": "使える特技を",
