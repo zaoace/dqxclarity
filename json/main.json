@@ -20,15 +20,15 @@
       },
       {
         "jp_string": "(1)災厄の王討伐前",
-        "en_string": ""
+        "en_string": "(1)Before defeating KoM"
       },
       {
         "jp_string": "(2)災厄の王討伐後",
-        "en_string": ""
+        "en_string": "(2)After defeating KoM"
       },
       {
         "jp_string": "(3)コゼットの依頼中",
-        "en_string": ""
+        "en_string": "(3)During Cosette's request"
       },
       {
         "jp_string": "(かぶせ着)",
@@ -104,71 +104,71 @@
       },
       {
         "jp_string": "(主な活動日)",
-        "en_string": ""
+        "en_string": "(Main act. days)"
       },
       {
         "jp_string": "(主な活動時間)",
-        "en_string": ""
+        "en_string": "(Main activity time)"
       },
       {
         "jp_string": "(作成済み)",
-        "en_string": ""
+        "en_string": "(Created)"
       },
       {
         "jp_string": "(入力してください)",
-        "en_string": ""
+        "en_string": "(Please enter)"
       },
       {
         "jp_string": "(冒険者)",
-        "en_string": ""
+        "en_string": "(Adv.)"
       },
       {
         "jp_string": "(前のクラスで受取り済み)",
-        "en_string": ""
+        "en_string": "(already received in prev. class)"
       },
       {
         "jp_string": "(大目的を選択してください)",
-        "en_string": ""
+        "en_string": "(Please select a major purpose)"
       },
       {
         "jp_string": "(掲載開始日を選択)",
-        "en_string": ""
+        "en_string": "(Select publish date)"
       },
       {
         "jp_string": "(最大ランク！)",
-        "en_string": ""
+        "en_string": "(Maximum rank!)"
       },
       {
         "jp_string": "(未入手)",
-        "en_string": ""
+        "en_string": "(not in h.)"
       },
       {
         "jp_string": "(未加入)",
-        "en_string": ""
+        "en_string": "(not join.)"
       },
       {
         "jp_string": "(未設定)",
-        "en_string": ""
+        "en_string": "(Not set)"
       },
       {
         "jp_string": "(第１希望未選択)",
-        "en_string": ""
+        "en_string": "(1st choice n. select)"
       },
       {
         "jp_string": "(第２希望未選択)",
-        "en_string": ""
+        "en_string": "(2nd choice n. select)"
       },
       {
         "jp_string": "(系統：<%sM_skill>)",
-        "en_string": ""
+        "en_string": "(System: <%sM_skill>)"
       },
       {
         "jp_string": "(絵葉書を選択)",
-        "en_string": ""
+        "en_string": "(Select a postcard)"
       },
       {
         "jp_string": "(覚えていません)",
-        "en_string": ""
+        "en_string": "(I don't remember.)"
       },
       {
         "jp_string": "(設定なし)",
@@ -176,39 +176,39 @@
       },
       {
         "jp_string": "(通常装備)",
-        "en_string": ""
+        "en_string": "(Normal equip)"
       },
       {
         "jp_string": "(酒場スタッフ)",
-        "en_string": ""
+        "en_string": "(Tavern staff)"
       },
       {
         "jp_string": "(金額を入力)",
-        "en_string": ""
+        "en_string": "(Enter amount)"
       },
       {
         "jp_string": "(３つまで)",
-        "en_string": ""
+        "en_string": "(Up to 3)"
       },
       {
         "jp_string": "(６つまで)",
-        "en_string": ""
+        "en_string": "(Up to 6)"
       },
       {
         "jp_string": "10%ターン消費なし",
-        "en_string": ""
+        "en_string": "10% no turn consumption"
       },
       {
         "jp_string": "1000",
-        "en_string": ""
+        "en_string": "1000"
       },
       {
         "jp_string": "1000ＤＱＸポイント　　　　（1000円）",
-        "en_string": ""
+        "en_string": "1000 DQX Points (1000 yen)"
       },
       {
         "jp_string": "10ステ",
-        "en_string": ""
+        "en_string": "10-step"
       },
       {
         "jp_string": "10秒後撮影",
@@ -216,27 +216,27 @@
       },
       {
         "jp_string": "11バック",
-        "en_string": ""
+        "en_string": "11 back"
       },
       {
         "jp_string": "12時間につき",
-        "en_string": ""
+        "en_string": "12 per hour"
       },
       {
         "jp_string": "1st 目覚めし五つの種族",
-        "en_string": ""
+        "en_string": "1st Awakening of the 5 Tribes"
       },
       {
         "jp_string": "1こ",
-        "en_string": ""
+        "en_string": "one"
       },
       {
         "jp_string": "1ヶ月以上",
-        "en_string": ""
+        "en_string": "Over 1 month"
       },
       {
         "jp_string": "1ヶ月以内",
-        "en_string": ""
+        "en_string": "In 1 month"
       },
       {
         "jp_string": "1位の報酬",
@@ -244,43 +244,43 @@
       },
       {
         "jp_string": "1分未満",
-        "en_string": ""
+        "en_string": "<=1 minute"
       },
       {
         "jp_string": "1対1で",
-        "en_string": ""
+        "en_string": "1-on-1"
       },
       {
         "jp_string": "1年以上",
-        "en_string": ""
+        "en_string": ">1 year"
       },
       {
         "jp_string": "1文字すすむ",
-        "en_string": ""
+        "en_string": "Adv. 1 char."
       },
       {
         "jp_string": "1文字もどる",
-        "en_string": ""
+        "en_string": "Back 1 character"
       },
       {
         "jp_string": "1日以内",
-        "en_string": ""
+        "en_string": "<=1 day"
       },
       {
         "jp_string": "1週間以内",
-        "en_string": ""
+        "en_string": "Within 1 week"
       },
       {
         "jp_string": "20",
-        "en_string": ""
+        "en_string": "20"
       },
       {
         "jp_string": "2000ＤＱＸポイント　　　　（2000円）",
-        "en_string": ""
+        "en_string": "2000 DQX points (2000 yen)"
       },
       {
         "jp_string": "2nd 眠れる勇者と導きの盟友",
-        "en_string": ""
+        "en_string": "2nd Sleeping Hero and Guiding Ally"
       },
       {
         "jp_string": "2位の報酬",
@@ -288,27 +288,27 @@
       },
       {
         "jp_string": "2週間以内",
-        "en_string": ""
+        "en_string": "<=2 weeks"
       },
       {
         "jp_string": "3000ＤＱＸポイント　　　　（3000円）",
-        "en_string": ""
+        "en_string": "3000 DQX points (3000 yen)"
       },
       {
         "jp_string": "30日間",
-        "en_string": ""
+        "en_string": "30 days"
       },
       {
         "jp_string": "3rd いにしえの竜の伝承",
-        "en_string": ""
+        "en_string": "3rd Lore of the Inishin no Ryu"
       },
       {
         "jp_string": "3ヶ月以上",
-        "en_string": ""
+        "en_string": ">3 months"
       },
       {
         "jp_string": "3日以内",
-        "en_string": ""
+        "en_string": "<=3 days"
       },
       {
         "jp_string": "3秒後撮影",
@@ -316,15 +316,15 @@
       },
       {
         "jp_string": "3週間以内",
-        "en_string": ""
+        "en_string": "<=3 weeks"
       },
       {
         "jp_string": "4th 5000年の旅路　遥かなる故郷へ",
-        "en_string": ""
+        "en_string": "4th 5000 Years of Travel: To a Faraway Home"
       },
       {
         "jp_string": "5000ＤＱＸポイント　　　　（5000円）",
-        "en_string": ""
+        "en_string": "5000 DQX Points (5000 yen)"
       },
       {
         "jp_string": "50音きりかえ",
@@ -332,43 +332,43 @@
       },
       {
         "jp_string": "50音順",
-        "en_string": ""
+        "en_string": "A-Z"
       },
       {
         "jp_string": "50音順(宝珠名)",
-        "en_string": ""
+        "en_string": "A-Z (name of pearl)"
       },
       {
         "jp_string": "50音順に",
-        "en_string": "50 A-Z"
+        "en_string": "From A-Z"
       },
       {
         "jp_string": "5th いばらの巫女と滅びの神",
-        "en_string": ""
+        "en_string": "5th Maiden of Thorns+God of Perdition"
       },
       {
         "jp_string": "60日間",
-        "en_string": ""
+        "en_string": "60 days"
       },
       {
         "jp_string": "90日間",
-        "en_string": ""
+        "en_string": "90 days"
       },
       {
         "jp_string": "『<%sBT_AREA_NAME>』へ進みます。",
-        "en_string": ""
+        "en_string": "Go to <%sBT_AREA_NAME>."
       },
       {
         "jp_string": "よろしいですか？",
-        "en_string": ""
+        "en_string": "May I?"
       },
       {
         "jp_string": "よろしいですか？",
-        "en_string": ""
+        "en_string": "Do you mind?"
       },
       {
         "jp_string": "染められている",
-        "en_string": ""
+        "en_string": "It's been dyed"
       },
       {
         "jp_string": "絵柄のトランプの",
@@ -376,323 +376,323 @@
       },
       {
         "jp_string": "ひとそろえ",
-        "en_string": ""
+        "en_string": "suit"
       },
       {
         "jp_string": "<%sL_DAIHUGOU_FLAG>トランプ",
-        "en_string": ""
+        "en_string": "<%sL_DAIHUGOU_FLAG>Trump"
       },
       {
         "jp_string": "錬金効果を自分で付けた",
-        "en_string": ""
+        "en_string": "I added the alchemy effect myself"
       },
       {
         "jp_string": "新品の<%sL_EQUIP_TYPE>を１個",
-        "en_string": ""
+        "en_string": "One new <%sL_EQUIP_TYPE>"
       },
       {
         "jp_string": "<%sL_KOUKA1>の",
-        "en_string": ""
+        "en_string": "<%sL_KOUKA1>"
       },
       {
         "jp_string": "錬金効果を自分で付けた",
-        "en_string": ""
+        "en_string": "I added the alchemy effect myself"
       },
       {
         "jp_string": "新品の<%sL_EQUIP_TYPE>を１個",
-        "en_string": ""
+        "en_string": "One new <%sL_EQUIP_TYPE>"
       },
       {
         "jp_string": "<%sL_PRIZE_ITEM_P>　または",
-        "en_string": ""
+        "en_string": "<%sL_PRIZE_ITEM_P> or"
       },
       {
         "jp_string": "<%sL_PRIZE_ITEM_S>　<%nL_NUM>個",
-        "en_string": ""
+        "en_string": "<%sL_PRIZE_ITEM_S> <%nL_NUM>pcs"
       },
       {
         "jp_string": "<%sL_SUBFISH_ITEM>を見せる",
-        "en_string": ""
+        "en_string": "Show <%sL_SUBFISH_ITEM>"
       },
       {
         "jp_string": "<%sM_00>とは",
-        "en_string": ""
+        "en_string": "What's<%sM_00>"
       },
       {
         "jp_string": "<%sM_00>の<%sM_01>の神聖碑文",
-        "en_string": ""
+        "en_string": "<%sM_00>Holy tablet of <%sM_01>"
       },
       {
         "jp_string": "<%sM_00>の<%sM_01>の神聖秘文",
-        "en_string": ""
+        "en_string": "<%sM_00>'s <%sM_01> Holy Secret"
       },
       {
         "jp_string": "<%sM_00>のちから",
-        "en_string": ""
+        "en_string": "Power of <%sM_00>"
       },
       {
         "jp_string": "<%sM_00>のエサ",
-        "en_string": ""
+        "en_string": "Bait for <%sM_00>"
       },
       {
         "jp_string": "<%sM_00>型",
-        "en_string": ""
+        "en_string": "<%sM_00>typ"
       },
       {
         "jp_string": "<%sM_Arcana>のカード",
-        "en_string": ""
+        "en_string": "<%sM_Arcana> cards"
       },
       {
         "jp_string": "<%sM_Arcanum>の<%sM_Monster>",
-        "en_string": ""
+        "en_string": "<%sM_Monster>in<%sM_Arcanum>"
       },
       {
         "jp_string": "<%sM_Arcanum>のタロット",
-        "en_string": ""
+        "en_string": "Tarot of <%sM_Arcanum>"
       },
       {
         "jp_string": "<%sM_Arcanum>のタロットの使用効果",
-        "en_string": ""
+        "en_string": "Effects of using the <%sM_Arcanum> tarot"
       },
       {
         "jp_string": "<%sM_CS_place>のおもいで",
-        "en_string": ""
+        "en_string": "Memories of <%sM_CS_place>"
       },
       {
         "jp_string": "<%sM_Item>全部",
-        "en_string": ""
+        "en_string": "<%sM_Item>All"
       },
       {
         "jp_string": "<%sM_Monster1> ＋ ランク<%sM_Rare>のタロット",
-        "en_string": ""
+        "en_string": "<%sM_Monster1> + Tarot of rank <%sM_Rare>"
       },
       {
         "jp_string": "<%sM_Monster>の効果",
-        "en_string": ""
+        "en_string": "Effect of<%sM_Monster>"
       },
       {
         "jp_string": "<%sM_Monster>の合成方法",
-        "en_string": ""
+        "en_string": "How to synth <%sM_Monster>"
       },
       {
         "jp_string": "<%sM_MonsterName>から　<%sM_item>を　もらった！",
-        "en_string": ""
+        "en_string": "I got <%sM_item> from <%sM_MonsterName>!"
       },
       {
         "jp_string": "<%sM_MonsterName>をなでなでした！",
-        "en_string": ""
+        "en_string": "He patted <%sM_MonsterName>!"
       },
       {
         "jp_string": "<%sM_PTMember>の返事を 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>",
-        "en_string": ""
+        "en_string": "I'm waiting for response from <%sM_PTMember> <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
       },
       {
         "jp_string": "<%sM_PTMember>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>",
-        "en_string": ""
+        "en_string": "I'm looking for <%sM_PTMember> <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
       },
       {
         "jp_string": "<%sM_Syougou><%sM_Hankaku><%sM_pc> の 戦いのきろく",
-        "en_string": ""
+        "en_string": "<%sM_Syougou><%sM_Hankaku><%sM_pc>'s battle record"
       },
       {
         "jp_string": "<%sM_Tairiku> スタンプカード",
-        "en_string": ""
+        "en_string": "<%sM_Tairiku> Stamp card"
       },
       {
         "jp_string": "<%sM_TargetParty>からの 返事を待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>",
-        "en_string": ""
+        "en_string": "Waiting for response from <%sM_TargetParty> <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
       },
       {
         "jp_string": "<%sM_TargetParty>の状態を 確認しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>",
-        "en_string": ""
+        "en_string": "Checking the status of <%sM_TargetParty> <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
       },
       {
         "jp_string": "<%sM_TargetParty>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>",
-        "en_string": ""
+        "en_string": "I'm looking for <%sM_TargetParty> <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
       },
       {
         "jp_string": "<%sM_World> 旅人バザー",
-        "en_string": ""
+        "en_string": "<%sM_World> Trav's Bazaar"
       },
       {
         "jp_string": "<%sM_area>でつかまえたネコの種類",
-        "en_string": ""
+        "en_string": "Type of cat caught in <%sM_area>"
       },
       {
         "jp_string": "<%sM_bui>のみ表示",
-        "en_string": ""
+        "en_string": "Show only <%sM_bui>"
       },
       {
         "jp_string": "<%sM_bui>のみ表示へ",
-        "en_string": ""
+        "en_string": "To show only <%sM_bui>"
       },
       {
         "jp_string": "<%sM_bui>の防具　に限定されています",
-        "en_string": ""
+        "en_string": "Limited to <%sM_bui> armor"
       },
       {
         "jp_string": "<%sM_caption_02>",
-        "en_string": ""
+        "en_string": "<%sM_caption_02>"
       },
       {
         "jp_string": "<%sM_category>　のカテゴリで獲得した　称号",
-        "en_string": ""
+        "en_string": "Titles earned in the <%sM_category> category"
       },
       {
         "jp_string": "<%sM_colkaikyuu> 級",
-        "en_string": ""
+        "en_string": "<%sM_colkaikyuu> cl"
       },
       {
         "jp_string": "<%sM_colkaikyuu> 級 に エ ン ト リー 中",
-        "en_string": ""
+        "en_string": "Entering the <%sM_colkaikyuu> class"
       },
       {
         "jp_string": "<%sM_contents>に　誘われました。",
-        "en_string": ""
+        "en_string": "I was invited to <%sM_contents>"
       },
       {
         "jp_string": "<%sM_contestname>　　　自己ベスト",
-        "en_string": ""
+        "en_string": "<%sM_contestname> Personal Best"
       },
       {
         "jp_string": "<%sM_element>のちから",
-        "en_string": ""
+        "en_string": "from <%sM_element>"
       },
       {
         "jp_string": "<%sM_element>の宝珠",
-        "en_string": ""
+        "en_string": "<%sM_element>'s jewel"
       },
       {
         "jp_string": "<%sM_element>の石版",
-        "en_string": ""
+        "en_string": "<%sM_element>stone tab"
       },
       {
         "jp_string": "<%sM_element>の飾り石",
-        "en_string": ""
+        "en_string": "<%sM_element>orn stone"
       },
       {
         "jp_string": "<%sM_gprank>ランク",
-        "en_string": ""
+        "en_string": "<%sM_gprank>rank"
       },
       {
         "jp_string": "<%sM_ikisaki2>に行く",
-        "en_string": ""
+        "en_string": "Go to <%sM_ikisaki2>"
       },
       {
         "jp_string": "<%sM_ikisaki>に行く",
-        "en_string": ""
+        "en_string": "Go to <%sM_ikisaki>"
       },
       {
         "jp_string": "<%sM_item><%sM_plusnum>　で",
-        "en_string": ""
+        "en_string": "<%sM_item><%sM_plusnum> in"
       },
       {
         "jp_string": "<%sM_item><%sM_plusnum>の強化後の錬金効果",
-        "en_string": ""
+        "en_string": "Alch eff of <%sM_item><%sM_plusnum> after enhance"
       },
       {
         "jp_string": "<%sM_item><%sM_plusnum>を<%2dM_nn>こ　お買い上げ！",
-        "en_string": ""
+        "en_string": "<%sM_item><%sM_plusnum> for <%2dM_nn>!"
       },
       {
         "jp_string": "<%sM_item><%sM_rurastone><%sM_dot><%sM_sub>の石",
-        "en_string": ""
+        "en_string": "<%sM_item><%sM_rurastone><%sM_dot><%sM_sub>stones"
       },
       {
         "jp_string": "<%sM_item>のとくちょう",
-        "en_string": ""
+        "en_string": "Special feats of <%sM_item>"
       },
       {
         "jp_string": "<%sM_item>の歴史",
-        "en_string": ""
+        "en_string": "Hist. of <%sM_item>"
       },
       {
         "jp_string": "<%sM_item>は",
-        "en_string": ""
+        "en_string": "<%sM_item> is"
       },
       {
         "jp_string": "光に包まれ　消え去った！",
-        "en_string": ""
+        "en_string": "It's gone! It's gone in the light!"
       },
       {
         "jp_string": "<%sM_item>をあげました！",
-        "en_string": ""
+        "en_string": "I gave you <%sM_item>!"
       },
       {
         "jp_string": "<%sM_item>をまきました！",
-        "en_string": ""
+        "en_string": "<%sM_item> has been sown!"
       },
       {
         "jp_string": "<%sM_item>を使いました！",
-        "en_string": ""
+        "en_string": "I used <%sM_item>!"
       },
       {
         "jp_string": "<%sM_job> スキルふり直し",
-        "en_string": ""
+        "en_string": "<%sM_job> reassign skills"
       },
       {
         "jp_string": "<%sM_job>だけ",
-        "en_string": ""
+        "en_string": "<%sM_job> only"
       },
       {
         "jp_string": "<%sM_job>に",
-        "en_string": ""
+        "en_string": "<%sM_job>two"
       },
       {
         "jp_string": "<%sM_job>になる",
-        "en_string": ""
+        "en_string": "Become a <%sM_job>"
       },
       {
         "jp_string": "<%sM_job>のとくぎ",
-        "en_string": ""
+        "en_string": "<%sM_job> spec. skill"
       },
       {
         "jp_string": "<%sM_job>のスキル",
-        "en_string": ""
+        "en_string": "<%sM_job> skills"
       },
       {
         "jp_string": "<%sM_job>のスキル をリセットした！",
-        "en_string": ""
+        "en_string": "Resetting <%sM_job>'s skills!"
       },
       {
         "jp_string": "<%sM_job>のレベル",
-        "en_string": ""
+        "en_string": "<%sM_job> levels"
       },
       {
         "jp_string": "<%sM_job>の特徴",
-        "en_string": ""
+        "en_string": "<%sM_job> Features"
       },
       {
         "jp_string": "<%sM_job>の特訓ポイント",
-        "en_string": ""
+        "en_string": "<%sM_job>special train points"
       },
       {
         "jp_string": "<%sM_job>：ランク<%sM_jobrank>",
-        "en_string": ""
+        "en_string": "<%sM_job>: Rank <%sM_jobrank>"
       },
       {
         "jp_string": "<%sM_kakiokiTarget>のかきおき",
-        "en_string": ""
+        "en_string": "<%sM_kakiokiTarget>'s leftovers"
       },
       {
         "jp_string": "<%sM_kakiokiTarget>へのかきおき",
-        "en_string": ""
+        "en_string": "Leftovers to <%sM_kakiokiTarget>"
       },
       {
         "jp_string": "<%sM_katagaki1><%sM_katagaki2><%sM_Hankaku><%sM_pc> の 戦いのきろく",
-        "en_string": ""
+        "en_string": "Battle Record for <%sM_katagaki1><%sM_katagaki2><%sM_Hankaku><%sM_pc"
       },
       {
         "jp_string": "<%sM_landaddress1>へ行く",
-        "en_string": ""
+        "en_string": "Go to <%sM_landaddress1>"
       },
       {
         "jp_string": "<%sM_landaddress1>住宅地　<%sM_landaddress2>",
-        "en_string": ""
+        "en_string": "<%sM_landaddress1>House area<%sM_landaddress2>"
       },
       {
         "jp_string": "<%sM_landaddress1>住宅村",
-        "en_string": ""
+        "en_string": "<%sM_landaddress1>House Vil"
       },
       {
         "jp_string": "<%sM_landaddress1>住宅村　<%sM_landaddress4>丁目",
