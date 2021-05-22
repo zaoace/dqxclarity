@@ -43,11 +43,12 @@ startTime := A_TickCount
 Loop, Files, json\*.json, F
 {
   FileRead, jsonData, %A_ScriptDir%\%A_LoopFileFullPath%
+  GuiControl,, Notes, Loading %A_LoopFileFullPath% ...
   data := JSON.Load(jsonData)
   textHex := dqx.hexStringToPattern(data.1.hex_start)  ;; Start of TEXT block
   footAOB := [0, 0, 0, 0, 70, 79, 79, 84]  ;; End of TEXT block (FOOT)
 
-  startAddr := dqx.processPatternScan(0x30000000,0x50000000,textHex*)
+  startAddr := dqx.processPatternScan(,,textHex*)
   endAddr := dqx.processPatternScan(startAddr,, footAOB*)
 
   ;; Iterate over all json objects in strings[]

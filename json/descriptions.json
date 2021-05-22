@@ -160,12 +160,12 @@
       {
         "line_break": true,
         "jp_string": "セリフの内容や しぐさを 変更します",
-        "en_string": "Change the content|and gestures of|your lines."
+        "en_string": "Change content|and gestures of|your lines."
       },
       {
         "line_break": true,
         "jp_string": "セリフを２つ選び コマンド位置を 入れ替えます",
-        "en_string": "Select two lines|and swap their|command positions."
+        "en_string": "Select two lines|and swap their|command position."
       },
       {
         "line_break": true,

@@ -1,6 +1,6 @@
 [
   {
-    "hex_start": "54 45 58 54 10 00 00 00 F0 01",
+    "hex_start": "54 45 58 54 10 00 00 00 F0 01 00",
     "strings": [
       {
         "jp_string": "戦士",
@@ -12,11 +12,11 @@
       },
       {
         "jp_string": "魔使",
-        "en_string": "MAG"
+        "en_string": "MGE"
       },
       {
         "jp_string": "武闘",
-        "en_string": "MAR"
+        "en_string": "MRT"
       },
       {
         "jp_string": "盗賊",
@@ -24,11 +24,11 @@
       },
       {
         "jp_string": "旅芸",
-        "en_string": "MNS"
+        "en_string": "MIN"
       },
       {
         "jp_string": "バト",
-        "en_string": "BMS"
+        "en_string": "BTL"
       },
       {
         "jp_string": "パラ",
@@ -48,7 +48,7 @@
       },
       {
         "jp_string": "スパ",
-        "en_string": "STR"
+        "en_string": "STA"
       },
       {
         "jp_string": "まも",
@@ -64,11 +64,11 @@
       },
       {
         "jp_string": "占い",
-        "en_string": "FTN"
+        "en_string": "FOR"
       },
       {
         "jp_string": "天地",
-        "en_string": "DRD"
+        "en_string": "DRU"
       },
       {
         "jp_string": "遊び",
@@ -76,11 +76,11 @@
       },
       {
         "jp_string": "デス",
-        "en_string": "DMR"
+        "en_string": "DTH"
       },
       {
         "jp_string": "魔剣",
-        "en_string": "DSM"
+        "en_string": "DMN"
       },
       {
         "jp_string": "エルフ",
