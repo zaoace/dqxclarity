@@ -3,654 +3,1196 @@
     "hex_start": "54 45 58 54 10 00 00 00 60 99 03",
     "strings": [
       {
-        "_comment": "Martial Artist",
-        "jp_string": "ウィングブロウ",
-        "en_string": "Wing Blower"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "裂鋼拳",
-        "en_string": "S. Fist"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "必中拳",
-        "en_string": "Sure Shot"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "タイガークロー",
-        "en_string": "Tiger Claw"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "装備時かいしん率+2%",
-        "en_string": "Rate of Advancement +2%"
-      },
-      {
-        "_comment": "Martial Artist",
+        "_comment": "Stats When Worn (Attack Power)",
         "jp_string": "装備時こうげき力+5",
-        "en_string": "AP +5 When Worn"
+        "en_string": "Attack +5 When Worn"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "ゴールドフィンガー",
-        "en_string": "Gold Finger"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "装備時こうげき力+20",
-        "en_string": "AP +20 When Worn"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "けもの突き",
-        "en_string": "Cattle Prod"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "装備時かいしん率+5%",
-        "en_string": "Rate of Advancement +5%"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "雷鳴突き",
-        "en_string": "E. Thrust"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "装備時武器ガード率+8%",
-        "en_string": "Weapon Guard +8% When Worn"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "装備時こうげき力+25",
-        "en_string": "AP +25 When Worn"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "狼牙突き",
-        "en_string": "Wolfsbane"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "装備時こうげき力+30",
-        "en_string": "AP +30 When Worn"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "一閃突き・改",
-        "en_string": "F. Thrust Kai"
-      },
-      {
-        "_comment": "Martial Artist",
+        "_comment": "Stats When Worn (Attack Power)",
         "jp_string": "装備時こうげき力+10",
-        "en_string": "AP +10 When Worn"
+        "en_string": "Attack +10 When Worn"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "足ばらい",
-        "en_string": "Leg Purify"
+        "_comment": "Stats When Worn (Attack Power)",
+        "jp_string": "装備時こうげき力+15",
+        "en_string": "Attack +15 When Worn"
       },
       {
-        "_comment": "Martial Artist",
+        "_comment": "Stats When Worn (Attack Power)",
+        "jp_string": "装備時こうげき力+20",
+        "en_string": "Attack +20 When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (Attack Power)",
+        "jp_string": "装備時こうげき力+25",
+        "en_string": "Attack +25 When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (Attack Power)",
+        "jp_string": "装備時こうげき力+30",
+        "en_string": "Attack +30 When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (Defense)",
+        "jp_string": "装備時しゅび力+10",
+        "en_string": "Defense +10 When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (Defense)",
+        "jp_string": "装備時しゅび力+30",
+        "en_string": "Defense +30 When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (MP)",
+        "jp_string": "装備時さいだいＭＰ+30",
+        "en_string": "MP +30 When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (Magical Mending)",
+        "jp_string": "装備時かいふく魔力+30",
+        "en_string": "Mag. Mending +30 When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (Critical Rate)",
+        "jp_string": "装備時かいしん率+2%",
+        "en_string": "Crit Rate +2% When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (Critical Rate)",
+        "jp_string": "装備時かいしん率+3%",
+        "en_string": "Crit Rate +3% When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (Critical Rate)",
+        "jp_string": "装備時かいしん率+4%",
+        "en_string": "Crit Rate +4% When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (Critical Rate)",
+        "jp_string": "装備時かいしん率+5%",
+        "en_string": "Crit Rate +5% When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (Weapon Guard Rate)",
+        "jp_string": "装備時武器ガード率+2%",
+        "en_string": "Weapon Guard +2% When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (Weapon Guard Rate)",
         "jp_string": "装備時武器ガード率+4%",
         "en_string": "Weapon Guard +4% When Worn"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "黄泉送り",
-        "en_string": "Deliverance"
+        "_comment": "Stats When Worn (Weapon Guard Rate)",
+        "jp_string": "装備時武器ガード率+5%",
+        "en_string": "Weapon Guard +5% When Worn"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "装備時こうげき力+15",
-        "en_string": "AP +15 When Worn"
+        "_comment": "Stats When Worn (Weapon Guard Rate)",
+        "jp_string": "装備時武器ガード率+8%",
+        "en_string": "Weapon Guard +8% When Worn"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "なぎはらい",
-        "en_string": "Party Pooper"
+        "_comment": "Stats When Worn (Shield Guard Rate)",
+        "jp_string": "装備時盾ガード率+1%",
+        "en_string": "Shield Guard +1% When Worn"
       },
       {
-        "_comment": "Martial Artist",
+        "_comment": "Stats When Worn (Dodge Rate)",
         "jp_string": "装備時身かわし率+4%",
         "en_string": "Dodge Rate +4% When Worn"
       },
       {
-        "_comment": "Martial Artist",
+        "_comment": "Stats When Worn (Surprise Rate)",
+        "jp_string": "装備時みとれる+5%",
+        "en_string": "Surprise +5% When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (Accuracy)",
+        "jp_string": "装備時命中+20%",
+        "en_string": "Acc. +20% When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (Accuracy)",
+        "jp_string": "装備時射程距離+3m",
+        "en_string": "Range +3m When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (Accuracy)",
+        "jp_string": "装備時射程距離+4m",
+        "en_string": "Range +4m When Worn"
+      },
+      {
+        "_comment": "Stats When Worn (MP Absorb)",
+        "jp_string": "装備時ＭＰ吸収率+2%",
+        "en_string": "MP Absorption +2%"
+      },
+      {
+        "_comment": "Stats When Worn (Post-Battle MP)",
+        "jp_string": "戦闘勝利時ＭＰ小回復",
+        "en_string": "Post-Battle MP Restore"
+      },
+      {
+        "_comment": "Stats Without Weapon (Attack Power)",
+        "jp_string": "素手時こうげき力+10",
+        "en_string": "Attack +10 Bare-Handed"
+      },
+      {
+        "_comment": "Stats Without Weapon (Attack Power)",
+        "jp_string": "素手時こうげき力+20",
+        "en_string": "Attack +20 Bare-Handed"
+      },
+      {
+        "_comment": "Stats Without Weapon (Attack Power)",
+        "jp_string": "素手時こうげき力+40",
+        "en_string": "Attack +40 Bare-Handed"
+      },
+      {
+        "_comment": "Stats Without Weapon (Critical Rate)",
+        "jp_string": "素手時かいしん率+2%",
+        "en_string": "Crit Rate +2% Bare-Handed"
+      },
+      {
+        "_comment": "Stats Without Weapon (Dodge Rate)",
+        "jp_string": "素手時身かわし率+2%",
+        "en_string": "Dodge Rate +2% Bare-Handed"
+      },
+      {
+        "_comment": "Natural Stats (Strength)",
+        "jp_string": "全職業でちから+5",
+        "en_string": "Natural Strength +5"
+      },
+      {
+        "_comment": "Natural Stats (Strength)",
+        "jp_string": "全職業でちから+10",
+        "en_string": "Natural Strength +10"
+      },
+      {
+        "_comment": "Natural Stats (Resilience)",
+        "jp_string": "全職業でみのまもり+5",
+        "en_string": "Natural Resilience +5"
+      },
+      {
+        "_comment": "Natural Stats (Resilience)",
+        "jp_string": "全職業でみのまもり+10",
+        "en_string": "Natural Resilience +10"
+      },
+      {
+        "_comment": "Natural Stats (Resilience)",
+        "jp_string": "全職業でみのまもり+20",
+        "en_string": "Natural Resilience +20"
+      },
+      {
+        "_comment": "Natural Stats (HP)",
+        "jp_string": "全職業でさいだいＨＰ+10",
+        "en_string": "Natural HP +10"
+      },
+      {
+        "_comment": "Natural Stats (HP)",
+        "jp_string": "全職業でさいだいＨＰ+30",
+        "en_string": "Natural HP +30"
+      },
+      {
+        "_comment": "Natural Stats (HP)",
+        "jp_string": "全職業でさいだいＨＰ+40",
+        "en_string": "Natural HP +40"
+      },
+      {
+        "_comment": "Natural Stats (MP)",
+        "jp_string": "全職業でさいだいＭＰ+10",
+        "en_string": "Natural MP +10"
+      },
+      {
+        "_comment": "Natural Stats (Deftness)",
+        "jp_string": "全職業できようさ+10",
+        "en_string": "Natural Deftness +10"
+      },
+      {
+        "_comment": "Natural Stats (Deftness)",
+        "jp_string": "全職業できようさ+20",
+        "en_string": "Natrual Deftness +20"
+      },
+      {
+        "_comment": "Natural Stats (Agility)",
+        "jp_string": "全職業ですばやさ+10",
+        "en_string": "Natural Agility +10"
+      },
+      {
+        "_comment": "Natural Stats (Agility)",
+        "jp_string": "全職業ですばやさ+30",
+        "en_string": "Natural Agility +30"
+      },
+      {
+        "_comment": "Natural Stats (Magical Mending)",
+        "jp_string": "全職業でかいふく魔力+10",
+        "en_string": "Natural Mag. Mending +10"
+      },
+      {
+        "_comment": "Sword",
+        "jp_string": "かえん斬り",
+        "en_string": "Flame Slash"
+      },
+      {
+        "_comment": "Sword",
+        "jp_string": "ドラゴン斬り",
+        "en_string": "Dragon Slash"
+      },
+      {
+        "_comment": "Sword",
+        "jp_string": "ミラクルソード",
+        "en_string": "Miracle Slash"
+      },
+      {
+        "_comment": "Sword",
+        "jp_string": "はやぶさ斬り",
+        "en_string": "Falcon Slash"
+      },
+      {
+        "_comment": "Sword",
+        "jp_string": "ギガスラッシュ",
+        "en_string": "Gigaslash"
+      },
+      {
+        "_comment": "Sword",
+        "jp_string": "超はやぶさ斬り",
+        "en_string": "Gyrfalcon Slash"
+      },
+      {
+        "_comment": "Sword",
+        "jp_string": "ギガブレイク",
+        "en_string": "Gigagash"
+      },
+      {
+        "_comment": "Sword",
+        "jp_string": "不死鳥天舞",
+        "en_string": "Phoenix Tenma"
+      },
+      {
+        "_comment": "Sword",
+        "jp_string": "アルテマソード",
+        "en_string": "Artema Sword"
+      },
+      {
+        "_comment": "Sword",
+        "jp_string": "アルテマソード",
+        "en_string": "Artema Sword"
+      },
+      {
+        "_comment": "Hammer",
+        "jp_string": "ウェイトブレイク",
+        "en_string": "Weight Break"
+      },
+      {
+        "_comment": "Hammer",
+        "jp_string": "ドラムクラッシュ",
+        "en_string": "Monster Masher"
+      },
+      {
+        "_comment": "Hammer",
+        "jp_string": "シールドブレイク",
+        "en_string": "Shield Break"
+      },
+      {
+        "_comment": "Hammer",
+        "jp_string": "ＭＰブレイク",
+        "en_string": "MP Break"
+      },
+      {
+        "_comment": "Hammer",
+        "jp_string": "キャンセルショット",
+        "en_string": "Cancel Shot"
+      },
+      {
+        "_comment": "Hammer",
+        "jp_string": "ランドインパクト",
+        "en_string": "Crackerwhack"
+      },
+      {
+        "_comment": "Hammer",
+        "jp_string": "スタンショット",
+        "en_string": "Stun Shot"
+      },
+      {
+        "_comment": "Hammer",
+        "jp_string": "プレートインパクト",
+        "en_string": "Plate Impact"
+      },
+      {
+        "_comment": "Hammer",
+        "jp_string": "デビルクラッシュ",
+        "en_string": "Devil Crush"
+      },
+      {
+        "_comment": "Hammer",
+        "jp_string": "アースクラッシュ",
+        "en_string": "Earth Crash"
+      },
+      {
+        "_comment": "Wand",
+        "jp_string": "マジステッキ",
+        "en_string": "Magistick"
+      },
+      {
+        "_comment": "Wand",
+        "jp_string": "デビルンチャーム",
+        "en_string": "Devil's Delight"
+      },
+      {
+        "_comment": "Wand (Preist)",
+        "jp_string": "シャインステッキ",
+        "en_string": "Shine Stick"
+      },
+      {
+        "_comment": "Wand",
+        "jp_string": "キラキラポーン",
+        "en_string": "Glitter Pawn"
+      },
+      {
+        "_comment": "Wand",
+        "jp_string": "ラピッドステッキ",
+        "en_string": "Rapid Stick"
+      },
+      {
+        "_comment": "Wand",
+        "jp_string": "ティンクルバトン",
+        "en_string": "Tinkle Baton"
+      },
+      {
+        "_comment": "Wand",
+        "jp_string": "ホップスティック",
+        "en_string": "Hop Stick"
+      },
+      {
+        "_comment": "Wand",
+        "jp_string": "スピリットゾーン",
+        "en_string": "Spirit Zone"
+      },
+      {
+        "_comment": "Wand",
+        "jp_string": "パニパニハニー",
+        "en_string": "Pani Honey"
+      },
+      {
+        "_comment": "Greatsword",
+        "jp_string": "ブレードガード",
+        "en_string": "Greatsword Guard"
+      },
+      {
+        "_comment": "Greatsword",
+        "jp_string": "ドラゴンスラッシュ",
+        "en_string": "Dragon Slash"
+      },
+      {
+        "_comment": "Greatsword",
+        "jp_string": "ぶんまわし",
+        "en_string": "Helichopter"
+      },
+      {
+        "_comment": "Greatsword",
+        "jp_string": "フリーズブレード",
+        "en_string": "Frost Fangs"
+      },
+      {
+        "_comment": "Greatsword",
+        "jp_string": "渾身斬り",
+        "en_string": "Cutting Edge"
+      },
+      {
+        "_comment": "Greatsword",
+        "jp_string": "ビッグバン",
+        "en_string": "Big Banga"
+      },
+      {
+        "_comment": "Greatsword",
+        "jp_string": "全身全霊斬り",
+        "en_string": "Unbridled Blade"
+      },
+      {
+        "_comment": "Greatsword",
+        "jp_string": "プラズマブレード",
+        "en_string": "Plasma Blade"
+      },
+      {
+        "_comment": "Greatsword",
+        "jp_string": "大旋風斬り",
+        "en_string": "Whirlwind Slash"
+      },
+      {
+        "_comment": "Axe",
+        "jp_string": "たいぼく斬",
+        "en_string": "Poplar Toppler"
+      },
+      {
+        "_comment": "Axe",
+        "jp_string": "蒼天魔斬",
+        "en_string": "Parallax"
+      },
+      {
+        "_comment": "Axe",
+        "jp_string": "かぶと割り",
+        "en_string": "Helm Splitter"
+      },
+      {
+        "_comment": "Axe",
+        "jp_string": "まじん斬り",
+        "en_string": "Hatchet Man"
+      },
+      {
+        "_comment": "Axe",
+        "jp_string": "オノむそう",
+        "en_string": "Axes of Evil"
+      },
+      {
+        "_comment": "Axe",
+        "jp_string": "鉄甲斬",
+        "en_string": "Scrap Axe"
+      },
+      {
+        "_comment": "Axe (Warrior)",
+        "jp_string": "鉄甲斬・改",
+        "en_string": "Scrap Axe Kai"
+      },
+      {
+        "_comment": "Axe",
+        "jp_string": "真・オノむそう",
+        "en_string": "True Unmatched Axe"
+      },
+      {
+        "_comment": "Axe",
+        "jp_string": "降魔紅蓮斬",
+        "en_string": "Lotus Slash"
+      },
+      {
+        "_comment": "Axe",
+        "jp_string": "大地裂断",
+        "en_string": "Earth Breach"
+      },	  
+      {
+        "_comment": "Claws",
+        "jp_string": "ウィングブロウ",
+        "en_string": "Propeller Blade"
+      },
+      {
+        "_comment": "Claws",
+        "jp_string": "裂鋼拳",
+        "en_string": "C. Opener"
+      },
+      {
+        "_comment": "Claws",
+        "jp_string": "必中拳",
+        "en_string": "Hawk Claw"
+      },
+	  {
+        "_comment": "Claws",
+        "jp_string": "タイガークロー",
+        "en_string": "Hard Claw"
+      },
+      {
+        "_comment": "Claws",
+        "jp_string": "ゴールドフィンガー",
+        "en_string": "Rake n Break"
+      },
+      {
+        "_comment": "Claws",
+        "jp_string": "サイクロンアッパー",
+        "en_string": "Air Raiser"
+      },
+      {
+        "_comment": "Claws",
+        "jp_string": "サマーソルトクロー",
+        "en_string": "Somersault Claw"
+      },
+      {
+        "_comment": "Claws",
+        "jp_string": "ライガークラッシュ",
+        "en_string": "Wild Animaul"
+      },
+      {
+        "_comment": "Claws",
+        "jp_string": "牙神昇誕",
+        "en_string": "Birth of God"
+      },
+      {
+        "_comment": "Claws",
+        "jp_string": "ゴッドスマッシュ",
+        "en_string": "Hand of God"
+      },
+      {
+        "_comment": "Spears",
+        "jp_string": "けもの突き",
+        "en_string": "Cattle Prod"
+      },
+      {
+        "_comment": "Spears",
+        "jp_string": "雷鳴突き",
+        "en_string": "L. Thrust"
+      },
+      {
+        "_comment": "Spears",
+        "jp_string": "一閃突き",
+        "en_string": "T. Thrust"
+      },
+      {
+        "_comment": "Spears",
+        "jp_string": "狼牙突き",
+        "en_string": "Wolfsbane"
+      },
+      {
+        "_comment": "Spears",
+        "jp_string": "一閃突き・改",
+        "en_string": "T. Thrust Kai"
+      },
+      {
+        "_comment": "Spears",
+        "jp_string": "さみだれ突き",
+        "en_string": "Multithrust"
+      },
+      {
+        "_comment": "Spears",
+        "jp_string": "ジゴスパーク",
+        "en_string": "Lightning Storm"
+      },
+      {
+        "_comment": "Spears",
+        "jp_string": "武神の護法",
+        "en_string": "Warrior's Guard"
+      },
+      {
+        "_comment": "Spears",
+        "jp_string": "超さみだれ突き",
+        "en_string": "Super Multithrust"
+      },
+      {
+        "_comment": "Staffs",
+        "jp_string": "足ばらい",
+        "en_string": "Death Trip"
+      },
+      {
+        "_comment": "Staffs",
+        "jp_string": "黄泉送り",
+        "en_string": "Deliverance"
+      },
+      {
+        "_comment": "Staffs",
+        "jp_string": "なぎはらい",
+        "en_string": "Party Pooper"
+      },
+      {
+        "_comment": "Staffs",
         "jp_string": "氷結らんげき",
         "en_string": "Crushed Ice"
       },
       {
-        "_comment": "Martial Artist",
+        "_comment": "Staffs",
         "jp_string": "天地のかまえ",
         "en_string": "Counter Wait"
       },
       {
-        "_comment": "Martial Artist",
+        "_comment": "Staffs",
+        "jp_string": "水流のかまえ",
+        "en_string": "Flowing Stance"
+      },      {
+        "_comment": "Staffs",
+        "jp_string": "奥義・棍閃殺",
+        "en_string": "Flash Kill"
+      },      {
+        "_comment": "Staffs",
+        "jp_string": "断空なぎはらい",
+        "en_string": "Sky Break"
+      },      {
+        "_comment": "Staffs",
+        "jp_string": "豪雪氷結乱撃",
+        "en_string": "Ice Storm"
+      },
+      {
+        "_comment": "Fans",
         "jp_string": "花ふぶき",
         "en_string": "Flower Power"
       },
       {
-        "_comment": "Martial Artist",
+        "_comment": "Fans",
         "jp_string": "明鏡止水",
         "en_string": "Still Water"
       },
       {
-        "_comment": "Martial Artist",
+        "_comment": "Fans",
         "jp_string": "波紋演舞",
         "en_string": "Water Slay"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "装備時みとれる+5%",
-        "en_string": "Surprise 5% When Worn"
-      },
-      {
-        "_comment": "Martial Artist",
+        "_comment": "Fans",
         "jp_string": "おうぎのまい",
         "en_string": "Fan Dango"
       },
       {
-        "_comment": "Martial Artist",
+        "_comment": "Fans",
         "jp_string": "アゲハ乱舞",
         "en_string": "Akeha Dance"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "素手時こうげき力+10",
-        "en_string": "Offense +10 When Worn"
+        "_comment": "Fans",
+        "jp_string": "ピンクタイフーン",
+        "en_string": "Pink Typhoon"
       },
       {
-        "_comment": "Martial Artist",
+        "_comment": "Fans",
+        "jp_string": "百花繚乱",
+        "en_string": "100 Flowers"
+      },
+      {
+        "_comment": "Fans",
+        "jp_string": "風斬りの舞",
+        "en_string": "Slash Dance"
+      },
+      {
+        "_comment": "Fans",
+        "jp_string": "おうぎ乱舞",
+        "en_string": "Fan Performance"
+      },
+      {
+        "_comment": "Boomerang",
+        "jp_string": "スライムブロウ",
+        "en_string": "Ooze Bruiser"
+      },
+      {
+        "_comment": "Boomerang",
+        "jp_string": "メタルウィング",
+        "en_string": "Metalicker"
+      },
+      {
+        "_comment": "Boomerang",
+        "jp_string": "パワフルスロー",
+        "en_string": "Power Throw"
+      },
+      {
+        "_comment": "Boomerang",
+        "jp_string": "シャインスコール",
+        "en_string": "Starburst Throw"
+      },
+      {
+        "_comment": "Boomerang",
+        "jp_string": "バーニングバード",
+        "en_string": "Firebird Throw"
+      },
+      {
+        "_comment": "Boomerang",
+        "jp_string": "デュアルカッター",
+        "en_string": "Twomerang"
+      },
+      {
+        "_comment": "Boomerang",
+        "jp_string": "フローズンバード",
+        "en_string": "Icebird Throw"
+      },
+      {
+        "_comment": "Boomerang",
+        "jp_string": "デュアルブレイカー",
+        "en_string": "Double Down"
+      },
+      {
+        "_comment": "Boomerang",
+        "jp_string": "レボルスライサー",
+        "en_string": "Revol Slicer"
+      },
+      {
+        "_comment": "Boomerang",
+        "jp_string": "ギガスロー",
+        "en_string": "Gigathrow"
+      },
+      {
+        "_comment": "Bow",
+        "jp_string": "マジックアロー",
+        "en_string": "Conjury Conductor"
+      },
+      {
+        "_comment": "Bow",
+        "jp_string": "バードシュート",
+        "en_string": "Flutter Disaster"
+      },
+      {
+        "_comment": "Bow",
+        "jp_string": "サンダーボルト",
+        "en_string": "Thunderbolt"
+      },
+      {
+        "_comment": "Bow",
+        "jp_string": "さみだれうち",
+        "en_string": "Rain of Pain"
+      },
+      {
+        "_comment": "Bow",
+        "jp_string": "天使の矢",
+        "en_string": "Holy Arrow"
+      },
+      {
+        "_comment": "Bow",
+        "jp_string": "シャイニングボウ",
+        "en_string": "Shining Shot"
+      },
+      {
+        "_comment": "Bow",
+        "jp_string": "弓聖の守り星",
+        "en_string": "Guardian Star"
+      },
+      {
+        "_comment": "Bow",
+        "jp_string": "ダークネスショット",
+        "en_string": "Darkness Shot"
+      },
+      {
+        "_comment": "Bow",
+        "jp_string": "ロストスナイプ",
+        "en_string": "Lost Snipe"
+      },
+      {
+        "_comment": "Bow",
+        "jp_string": "サンライトアロー",
+        "en_string": "Sunlight Arrow"
+      },
+      {
+        "_comment": "Fisticuffs",
         "jp_string": "石つぶて",
-        "en_string": "Stone Throw"
+        "en_string": "Stones Throw"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "素手時かいしん率+2%",
-        "en_string": "Bare Hand Advancement +2%"
-      },
-      {
-        "_comment": "Martial Artist",
+        "_comment": "Fisticuffs",
         "jp_string": "かまいたち",
         "en_string": "Wind Sickles"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "素手時こうげき力+20",
-        "en_string": "Offense +20 When Worn"
-      },
-      {
-        "_comment": "Martial Artist",
+        "_comment": "Fisticuffs",
         "jp_string": "せいけん突き",
         "en_string": "Knuckle Sandwich"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "素手時身かわし率+2%",
-        "en_string": "Surprise +2% When Worn"
-      },
-      {
-        "_comment": "Martial Artist",
+        "_comment": "Fisticuffs",
         "jp_string": "ムーンサルト",
         "en_string": "Harvest Moon"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "素手時こうげき力+40",
-        "en_string": "Offense +40"
-      },
-      {
-        "_comment": "Martial Artist",
+        "_comment": "Fisticuffs",
         "jp_string": "ばくれつけん",
         "en_string": "Multifists"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "ためる（専）",
-        "en_string": "Accrue"
+        "_comment": "Fisticuffs",
+        "jp_string": "達人の呼吸",
+        "en_string": "Master's Breath"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "全職業できようさ+20",
-        "en_string": "+20 Dex To All Classes"
+        "_comment": "Fisticuffs",
+        "jp_string": "岩石おとし",
+        "en_string": "Boulder Toss"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "心頭滅却",
-        "en_string": "Clear Mind"
+        "_comment": "Fisticuffs",
+        "jp_string": "せいけん爆撃",
+        "en_string": "Exploding Fist"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "全職業ですばやさ+30",
-        "en_string": "+30 Agility To All Classes"
+        "_comment": "Fisticuffs",
+        "jp_string": "しんくうは ",
+        "en_string": "Vacuum Wave"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "不撓不屈（専）",
-        "en_string": "Indomitability"
+        "_comment": "Fisticuffs",
+        "jp_string": "ばくれつきゃく",
+        "en_string": "Multifeet"
       },
       {
-        "_comment": "Martial Artist",
-        "jp_string": "全職業でちから+10",
-        "en_string": "+10 Power To All Classes"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "おたけび",
-        "en_string": "Warcry"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "全職業でさいだいＨＰ+40",
-        "en_string": "+40 HP To All Classes"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "めいそう（専）",
-        "en_string": "Meditation"
-      },
-      {
-        "_comment": "Martial Artist",
-        "jp_string": "ためる弐（専）",
-        "en_string": "Accrue 2"
-      },
-      {
-        "_comment": "Buffs",
+        "_comment": "Buff Spells",
         "jp_string": "バイシオン",
         "en_string": "Oomph"
       },
       {
-        "_comment": "Buffs",
+        "_comment": "Buff Spells",
         "jp_string": "バイキルト",
         "en_string": "Oomphle"
       },
       {
-        "_comment": "Buffs",
+        "_comment": "Buff Spells",
         "jp_string": "スカラ",
         "en_string": "Buff"
       },
       {
-        "_comment": "Buffs",
+        "_comment": "Buff Spells",
         "jp_string": "スクルト",
         "en_string": "Kabuff"
       },
       {
-        "_comment": "Buffs",
+        "_comment": "Buff Spells",
         "jp_string": "ピオラ",
         "en_string": "Accel"
       },
       {
-        "_comment": "Buffs",
+        "_comment": "Buff Spells",
         "jp_string": "ピオリム",
         "en_string": "Acceleratle"
       },
       {
-        "_comment": "Buffs",
+        "_comment": "Buff Spells",
         "jp_string": "ズッシード",
         "en_string": "Weight"
       },
       {
-        "_comment": "Buffs",
+        "_comment": "Buff Spells",
         "jp_string": "マホターン",
         "en_string": "Bound"
       },
       {
-        "_comment": "Buffs",
+        "_comment": "Buff Spells",
         "jp_string": "マホカンタ",
         "en_string": "Bounce"
       },
       {
-        "_comment": "Buffs",
+        "_comment": "Buff Spells",
         "jp_string": "マホステ",
         "en_string": "Snub"
       },
       {
-        "_comment": "Buffs",
+        "_comment": "Buff Spells",
         "jp_string": "マホキテ",
         "en_string": "Absorb Magic"
       },
       {
-        "_comment": "Buffs",
+        "_comment": "Buff Spells",
         "jp_string": "バーハ",
         "en_string": "Insulate"
       },
       {
-        "_comment": "Buffs",
+        "_comment": "Buff Spells",
         "jp_string": "フバーハ",
         "en_string": "Insulatle"
       },
       {
-        "_comment": "Buffs",
+        "_comment": "Buff Spells",
         "jp_string": "マジックバリア",
         "en_string": "Magic Barrier"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "ヘナトス",
         "en_string": "Blunt"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "ヘナトール",
         "en_string": "Kablunt"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "ルカニ",
         "en_string": "Sap"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "ルカナン",
         "en_string": "Kasap"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "ボミエ",
         "en_string": "Decel"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "ボミオス",
         "en_string": "Deceleratle"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "ディバインスペル",
         "en_string": "Divine Intervention"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "ラリホー",
         "en_string": "Snooze"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "ラリホーマ",
         "en_string": "Kasnooze"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "メダパニ",
         "en_string": "Fuddle"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "メダパニーマ",
         "en_string": "Kafuddle"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "マヌーサ",
         "en_string": "Dazzle"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "マホトーン",
         "en_string": "Fizzle"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "クモノ",
         "en_string": "Web Trap"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "ヴェレ",
         "en_string": "Tox"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "ヴェレーノ",
         "en_string": "Toxle"
       },
       {
-        "_comment": "Debuffs",
+        "_comment": "Debuff Spells",
         "jp_string": "ヴェレノーマ",
         "en_string": "Katoxle"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "メラ",
         "en_string": "Frizz"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "メラミ",
         "en_string": "Frizzle"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "メラゾーマ",
         "en_string": "Kafrizz"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "メラガイアー",
         "en_string": "Kafrizzle"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "ギラ",
         "en_string": "Sizz"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "ベギラマ",
         "en_string": "Sizzle"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "ベギラゴン",
         "en_string": "Kasizz"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "ギラグレイド",
         "en_string": "Kasizzle"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "ヒャド",
         "en_string": "Crack"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "ヒャダルコ",
         "en_string": "Crackle"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "マヒャド",
         "en_string": "Kacrack"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "マヒャデドス",
         "en_string": "Kacrackle"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "バギ",
         "en_string": "Woosh"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "バギマ",
         "en_string": "Swoosh"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "バギクロス",
         "en_string": "Kaswoosh"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "バギムーチョ",
         "en_string": "Kaswooshle"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "ジバリア",
         "en_string": "Rubblerouser"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "ジバリカ",
         "en_string": "Boulderbring"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "ジバリーナ",
         "en_string": "Mountainmover"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "ジバルンバ",
         "en_string": "Ridgeraiser"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "ドルマ",
         "en_string": "Zam"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "ドルクマ",
         "en_string": "Zammle"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "ドルモーア",
         "en_string": "Kazam"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "ドルマドン",
         "en_string": "Kazammle"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "イオ",
         "en_string": "Bang"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "イオラ",
         "en_string": "Boom"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "イオナズン",
         "en_string": "Kaboom"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "イオグランデ",
         "en_string": "Kaboomle"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "マダンテ",
         "en_string": "Magic Burst"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "ザキ",
         "en_string": "Whack"
       },
       {
-        "_comment": "Mage",
+        "_comment": "Offensive Spells",
         "jp_string": "マホトラ",
         "en_string": "Drain Magic"
       },
       {
-        "_comment": "Priest",
-        "jp_string": "リレミト",
-        "en_string": "Evac"
-      },
-      {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "ホイミ",
         "en_string": "Heal"
       },
       {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "ベホイミ",
         "en_string": "Midheal"
       },
       {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "べホイム",
         "en_string": "Moreheal"
       },
       {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "ベホマ",
         "en_string": "Fullheal"
       },
       {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "ベホマラー",
         "en_string": "Multiheal"
       },
       {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "リホイミ",
         "en_string": "Reheal"
       },
       {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "リベホイミ",
         "en_string": "Remidheal"
       },
       {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "リベホイム",
         "en_string": "Remoreheal"
       },
       {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "キアリー",
         "en_string": "Squelch"
       },
       {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "キアリク",
         "en_string": "Tingle"
       },
       {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "ザメハ",
         "en_string": "Wake Up"
       },
       {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "マヌーハ",
         "en_string": "Dedazzle"
       },
       {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "マホリー",
         "en_string": "Defizzle"
       },
       {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "ザオ",
         "en_string": "Zin"
       },
       {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "ザオラル",
         "en_string": "Zing"
       },
       {
-        "_comment": "Priest",
+        "_comment": "Recovery Spells",
         "jp_string": "ザオリク",
         "en_string": "Kazing"
+      },
+      {
+        "_comment": "Other Spells",
+        "jp_string": "リレミト",
+        "en_string": "Evac"
       },
       {
         "_comment": "Item Master",
@@ -664,18 +1206,8 @@
       },
       {
         "_comment": "Item Master",
-        "jp_string": "全職業でさいだいＭＰ+10",
-        "en_string": "Natural MP +10"
-      },
-      {
-        "_comment": "Item Master",
         "jp_string": "トラップジャマー（専）",
         "en_string": "Trap Jammer"
-      },
-      {
-        "_comment": "Item Master",
-        "jp_string": "全職業ですばやさ+10",
-        "en_string": "Natural Agility +10"
       },
       {
         "_comment": "Item Master",
@@ -684,18 +1216,8 @@
       },
       {
         "_comment": "Item Master",
-        "jp_string": "全職業できようさ+10",
-        "en_string": "Natural Deftness +10"
-      },
-      {
-        "_comment": "Item Master",
         "jp_string": "磁界シールド（専）",
         "en_string": "Magnetic Field Shield"
-      },
-      {
-        "_comment": "Item Master",
-        "jp_string": "全職業でさいだいＨＰ+10",
-        "en_string": "Natural HP +10"
       },
       {
         "_comment": "Item Master",
@@ -739,11 +1261,6 @@
       },
       {
         "_comment": "Paladin",
-        "jp_string": "全職業でみのまもり+10",
-        "en_string": "Natural Resilience +10"
-      },
-      {
-        "_comment": "Paladin",
         "jp_string": "ＨＰパサー",
         "en_string": "HPathy"
       },
@@ -784,34 +1301,135 @@
       },
       {
         "_comment": "Paladin",
-        "jp_string": "全職業でかいふく魔力+10",
-        "en_string": "Natural Magical Mending +10"
-      },
-      {
-        "_comment": "Paladin",
-        "jp_string": "全職業でみのまもり+20",
-        "en_string": "Natural Resilience +20"
-      },
-      {
-        "_comment": "Paladin",
         "jp_string": "ガード時しびれさせる（専)",
         "en_string": "Numbing Guard"
       },
       {
         "_comment": "Paladin",
-        "jp_string": "全職業でさいだいＨＰ+30",
-        "en_string": "Natural HP +30"
-      },
-      {
-        "_comment": "Paladin",
         "jp_string": "最大ＨＰ+60（専）",
-        "en_string": "HP +60	"
+        "en_string": "HP +60"
       },
       {
         "_comment": "Paladin",
         "jp_string": "におうだちの心得（専）",
         "en_string": "Forbearance Mastery"
+      },
+      {
+        "_comment": "Warrior",
+        "jp_string": "かばう（専）",
+        "en_string": "Whipping Boy"
+      },
+      {
+        "_comment": "Warrior",
+        "jp_string": "ロストアタック",
+        "en_string": "Morale Masher"
+      },
+      {
+        "_comment": "Warrior",
+        "jp_string": "たいあたり（専）",
+        "en_string": "Body Slam"
+      },
+      {
+        "_comment": "Warrior",
+        "jp_string": "やいばくだき（専）",
+        "en_string": "Attack Attacker"
+      },
+      {
+        "_comment": "Warrior",
+        "jp_string": "チャージタックル（専）",
+        "en_string": "Charge Tackle"
+      },
+      {
+        "_comment": "Warrior",
+        "jp_string": "真・やいばくだき（専）",
+        "en_string": "True Blade Crushing"
+      },
+      {
+        "_comment": "Warrior",
+        "jp_string": "ロストブレイク（専）",
+        "en_string": "Lost Break"
+      },
+      {
+        "_comment": "Warrior",
+        "jp_string": "ブレイブチャージ（専）",
+        "en_string": "Brave Charge"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "ためる（専）",
+        "en_string": "Psyche Up"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "心頭滅却",
+        "en_string": "Clear Mind"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "不撓不屈（専）",
+        "en_string": "Mens Sana"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "おたけび",
+        "en_string": "Warcry"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "めいそう（専）",
+        "en_string": "Meditation"
+      },
+      {
+        "_comment": "Martial Artist",
+        "jp_string": "ためる弐（専）",
+        "en_string": "Hype Up"
+      },
+	        {
+        "_comment": "Shield",
+        "jp_string": "ぼうぎょ",
+        "en_string": "Defend"
+      },
+      {
+        "_comment": "Shield",
+        "jp_string": "ビッグシールド",
+        "en_string": "Immense Defence"
+      },
+      {
+        "_comment": "Shield",
+        "jp_string": "シールドアタック",
+        "en_string": "Blockenspiel"
+      },
+      {
+        "_comment": "Shield",
+        "jp_string": "まもりのたて",
+        "en_string": "Holy Impregnable"
+      },
+      {
+        "_comment": "Shield",
+        "jp_string": "会心ガード",
+        "en_string": "Critical Guard"
+      },
+      {
+        "_comment": "Shield",
+        "jp_string": "ファランクス",
+        "en_string": "Phalanx"
+      },
+      {
+        "_comment": "Shield",
+        "jp_string": "スペルガード",
+        "en_string": "Spell Guard"
+      },
+      {
+        "_comment": "Shield",
+        "jp_string": "アイギスの守り",
+        "en_string": "Aegis Defense"
+      },
+      {
+        "_comment": "Shield",
+        "jp_string": "ちからの盾",
+        "en_string": "Strength Shield"
       }
     ]
   }
+
 ]
