@@ -651,6 +651,166 @@
         "_comment": "Priest",
         "jp_string": "ザオリク",
         "en_string": "Kazing"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "スカウト率アップ（専）",
+        "en_string": "Scout Rate Up"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "チューンナップ（専）",
+        "en_string": "Tune-Up"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "全職業でさいだいＭＰ+10",
+        "en_string": "Natural MP +10"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "トラップジャマー（専）",
+        "en_string": "Trap Jammer"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "全職業ですばやさ+10",
+        "en_string": "Natural Agility +10"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "どうぐ倍化術（専）",
+        "en_string": "Item Doubling Technique"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "全職業できようさ+10",
+        "en_string": "Natural Deftness +10"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "磁界シールド（専）",
+        "en_string": "Magnetic Field Shield"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "全職業でさいだいＨＰ+10",
+        "en_string": "Natural HP +10"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "どうぐ範囲化術（専）",
+        "en_string": "Item Range Technique"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "なつきやすくなる（専）",
+        "en_string": "Easier Attachment"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "メタル出現率アップ（専）",
+        "en_string": "Metal Appearance Rate Up"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "メディカルデバイス（専）",
+        "en_string": "Medical Device"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "どうぐ発動速度短縮（専）",
+        "en_string": "Faster Item Activation"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "プラズマリムーバー（専）",
+        "en_string": "Plasma Remover"
+      },
+      {
+        "_comment": "Item Master",
+        "jp_string": "どうぐ最適術（専）",
+        "en_string": "Optimal Item Technique"
+      },
+      {
+        "_comment": "Paladin",
+        "jp_string": "やいばのぼうぎょ",
+        "en_string": "Pincushion"
+      },
+      {
+        "_comment": "Paladin",
+        "jp_string": "全職業でみのまもり+10",
+        "en_string": "Natural Resilience +10"
+      },
+      {
+        "_comment": "Paladin",
+        "jp_string": "ＨＰパサー",
+        "en_string": "HPathy"
+      },
+      {
+        "_comment": "Paladin",
+        "jp_string": "におうだち（専）",
+        "en_string": "Forbearance"
+      },
+      {
+        "_comment": "Paladin",
+        "jp_string": "ヘヴィチャージ（専）",
+        "en_string": "Weight Up"
+      },
+      {
+        "_comment": "Paladin",
+        "jp_string": "グランドネビュラ（専）",
+        "en_string": "Solar Flair"
+      },
+      {
+        "_comment": "Paladin",
+        "jp_string": "大ぼうぎょ（専）",
+        "en_string": "Defending Champ"
+      },
+      {
+        "_comment": "Paladin",
+        "jp_string": "聖騎士の堅陣（専）",
+        "en_string": "Strong Team"
+      }, 
+      {
+        "_comment": "Paladin",
+        "jp_string": "不動のかまえ（専）",
+        "en_string": "Immovable Stance"
+      },
+      {
+        "_comment": "Paladin",
+        "jp_string": "鉄壁の進軍（専）",
+        "en_string": "Iron Advance"
+      },
+      {
+        "_comment": "Paladin",
+        "jp_string": "全職業でかいふく魔力+10",
+        "en_string": "Natural Magical Mending +10"
+      },
+      {
+        "_comment": "Paladin",
+        "jp_string": "全職業でみのまもり+20",
+        "en_string": "Natural Resilience +20"
+      },
+      {
+        "_comment": "Paladin",
+        "jp_string": "ガード時しびれさせる（専)",
+        "en_string": "Numbing Guard"
+      },
+      {
+        "_comment": "Paladin",
+        "jp_string": "全職業でさいだいＨＰ+30",
+        "en_string": "Natural HP +30"
+      },
+      {
+        "_comment": "Paladin",
+        "jp_string": "最大ＨＰ+60（専）",
+        "en_string": "HP +60	"
+      },
+      {
+        "_comment": "Paladin",
+        "jp_string": "におうだちの心得（専）",
+        "en_string": "Forbearance Mastery"
       }
     ]
   }
