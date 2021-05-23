@@ -1,6 +1,6 @@
 [
   {
-    "hex_start": "54 45 58 54 10 00 00 00 80 AF 00 00 00 00 00 00 00 00 E3",
+    "hex_start": "54 45 58 54 10 00 00 00 80 AF 00 00 00 00 00 00 00 00",
     "strings": [
       {
         "jp_string": "2%デスパワー消費なし",
@@ -360,7 +360,7 @@
       },
       {
         "jp_string": "たまに２回攻撃",
-        "en_string": "Sometimes Attack Twice"
+        "en_string": "Sometimes Atk Twice"
       },
       {
         "jp_string": "たまにＨＰ１生き残り",
@@ -768,7 +768,7 @@
       },
       {
         "jp_string": "ガード時50%で早詠み",
-        "en_string": "When Guard 50% Cast Speed Up"
+        "en_string": "When Guard 50% Cast Spd Up"
       },
       {
         "jp_string": "ガード時しびれさせる",
@@ -948,7 +948,7 @@
       },
       {
         "jp_string": "スカウトアタック",
-        "en_string": "Scout Attack"
+        "en_string": "Scout Strike"
       },
       {
         "jp_string": "スカウト率アップ",
@@ -1440,7 +1440,7 @@
       },
       {
         "jp_string": "バギ系射程距離+5m",
-        "en_string": "Swoosh-type range +5 meters"
+        "en_string": "Swoosh-type Range +5m"
       },
       {
         "jp_string": "バトマス時 きようさが ３０増える",
@@ -1532,7 +1532,7 @@
       },
       {
         "jp_string": "ピオラ",
-        "en_string": "Accelerat"
+        "en_string": "Accel"
       },
       {
         "jp_string": "ピオリム",
@@ -1580,7 +1580,7 @@
       },
       {
         "jp_string": "フローズンバード",
-        "en_string": "Frozen Bird"
+        "en_string": "Icebird Throw"
       },
       {
         "jp_string": "ブレスクラッシュ",
@@ -1700,7 +1700,7 @@
       },
       {
         "jp_string": "ボミエ",
-        "en_string": "Decelerat"
+        "en_string": "Decel"
       },
       {
         "jp_string": "ボミオス",
@@ -1984,7 +1984,7 @@
       },
       {
         "jp_string": "ランドインパクト",
-        "en_string": "Land Impact"
+        "en_string": "Crackerwhack"
       },
       {
         "jp_string": "リセットベール",
@@ -2048,7 +2048,7 @@
       },
       {
         "jp_string": "ヴェレーノ",
-        "en_string": "Katox"
+        "en_string": "Toxle"
       },
       {
         "jp_string": "一喝",
