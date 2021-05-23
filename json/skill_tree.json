@@ -8792,7 +8792,7 @@
       },
       {
         "jp_string": "スカウトアタック（専）",
-        "en_string": ""
+        "en_string": "Scout Strike"
       },
       {
         "jp_string": "スカウトアタック（専）の特技を　おぼえた！",
@@ -15580,7 +15580,7 @@
       },
       {
         "jp_string": "一閃突き・改",
-        "en_string": "F. Thrust Kai"
+        "en_string": "L. Thrust Kai"
       },
       {
         "jp_string": "一閃突き・改の特技を　おぼえた！",
@@ -18876,7 +18876,7 @@
       },
       {
         "jp_string": "強化ガジェット零式",
-        "en_string": ""
+        "en_string": "Gadget Type-0"
       },
       {
         "jp_string": "復活の杖",
@@ -28312,7 +28312,7 @@
       },
       {
         "jp_string": "雷鳴突き",
-        "en_string": "E. Thrust"
+        "en_string": "L. Thrust"
       },
       {
         "jp_string": "雷鳴突き+10%",
