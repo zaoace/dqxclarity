@@ -344,11 +344,11 @@
       },
       {
         "jp_string": "たいあたり",
-        "en_string": ""
+        "en_string": "Body Slam"
       },
       {
         "jp_string": "たいぼく斬",
-        "en_string": ""
+        "en_string": "Poplar Toppler"
       },
       {
         "jp_string": "たたかいのビート",
@@ -416,7 +416,7 @@
       },
       {
         "jp_string": "どうぐ倍化術",
-        "en_string": ""
+        "en_string": "Item Doubling Tech"
       },
       {
         "jp_string": "どうぐ発動速度短縮",
@@ -424,7 +424,7 @@
       },
       {
         "jp_string": "どうぐ範囲化術",
-        "en_string": ""
+        "en_string": "Item Range Tech"
       },
       {
         "jp_string": "なぎはらい",
@@ -772,7 +772,7 @@
       },
       {
         "jp_string": "ガード時しびれさせる",
-        "en_string": ""
+        "en_string": "Numbing Guard"
       },
       {
         "jp_string": "ガード時２０％で 被ダメを軽減する 効果がかかる",
@@ -2060,11 +2060,11 @@
       },
       {
         "jp_string": "一閃突き",
-        "en_string": ""
+        "en_string": "T. Thrust"
       },
       {
         "jp_string": "一閃突き・改",
-        "en_string": ""
+        "en_string": "T. Thrust Kai"
       },
       {
         "jp_string": "不思議なきりで ブレスを1回回避 レンジャー専用",
@@ -2216,11 +2216,11 @@
       },
       {
         "jp_string": "会心ガード",
-        "en_string": ""
+        "en_string": "Critical Guard"
       },
       {
         "jp_string": "会心必中",
-        "en_string": ""
+        "en_string": "Crit Claim"
       },
       {
         "jp_string": "会心攻撃が 必ず出る 夢の大技！",
@@ -2484,7 +2484,7 @@
       },
       {
         "jp_string": "全身全霊斬り",
-        "en_string": ""
+        "en_string": "Unbridled Blade"
       },
       {
         "jp_string": "冥府の魂を用い デスパワーを 最大まで溜める",
@@ -2744,7 +2744,7 @@
       },
       {
         "jp_string": "大ぼうぎょ",
-        "en_string": ""
+        "en_string": "Defending Champ"
       },
       {
         "jp_string": "大ダメージを与え 敵をふっとばす 戦士専用特技",
@@ -2768,7 +2768,7 @@
       },
       {
         "jp_string": "天使の矢",
-        "en_string": ""
+        "en_string": "Holy Arrow"
       },
       {
         "jp_string": "天地のかまえ",
@@ -2860,7 +2860,7 @@
       },
       {
         "jp_string": "弓聖の守り星",
-        "en_string": ""
+        "en_string": "Guardian Star"
       },
       {
         "jp_string": "弓装備時の かいしん率が ３％増える",
@@ -2884,7 +2884,7 @@
       },
       {
         "jp_string": "強化ガジェット零式",
-        "en_string": ""
+        "en_string": "Gadget Type-0"
       },
       {
         "jp_string": "復活の杖",
@@ -3552,7 +3552,7 @@
       },
       {
         "jp_string": "渾身斬り",
-        "en_string": ""
+        "en_string": "Cutting Edge"
       },
       {
         "jp_string": "災いの斬撃",
@@ -3664,7 +3664,7 @@
       },
       {
         "jp_string": "狼牙突き",
-        "en_string": ""
+        "en_string": "Wolfsbane"
       },
       {
         "jp_string": "獣神のごとく 敵１体を ５連続で斬り刻む",
@@ -3732,11 +3732,11 @@
       },
       {
         "jp_string": "真・やいばくだき",
-        "en_string": ""
+        "en_string": "True Crushing Blade"
       },
       {
         "jp_string": "真・オノむそう",
-        "en_string": ""
+        "en_string": "True Unmatched Axe"
       },
       {
         "jp_string": "眠りに呪文ダメアップ",
@@ -3800,7 +3800,7 @@
       },
       {
         "jp_string": "磁界シールド",
-        "en_string": ""
+        "en_string": "Magnetic Shield"
       },
       {
         "jp_string": "祈りのゴスペル",
@@ -3880,7 +3880,7 @@
       },
       {
         "jp_string": "聖騎士の堅陣",
-        "en_string": ""
+        "en_string": "Strong Team"
       },
       {
         "jp_string": "自分とげんまの 行動間隔を短縮し 会心と攻撃力増加",
@@ -3936,7 +3936,7 @@
       },
       {
         "jp_string": "蒼天魔斬",
-        "en_string": ""
+        "en_string": "Parallax"
       },
       {
         "jp_string": "蒼月の守り",
@@ -4044,7 +4044,7 @@
       },
       {
         "jp_string": "超はやぶさ斬り",
-        "en_string": ""
+        "en_string": "Gyrfalcon Slash"
       },
       {
         "jp_string": "超暴走魔法陣",
@@ -4132,11 +4132,11 @@
       },
       {
         "jp_string": "鉄甲斬",
-        "en_string": ""
+        "en_string": "Scrap Axe"
       },
       {
         "jp_string": "鉄甲斬・改",
-        "en_string": ""
+        "en_string": "Scrap Axe Kai"
       },
       {
         "jp_string": "錬魔の秘法",
@@ -4244,7 +4244,7 @@
       },
       {
         "jp_string": "雷鳴突き",
-        "en_string": ""
+        "en_string": "L. Thrust"
       },
       {
         "jp_string": "頭上から 敵１体を斬りつけ 大ダメージ",
@@ -4372,7 +4372,7 @@
       },
       {
         "jp_string": "ＨＰパサー",
-        "en_string": ""
+        "en_string": "H-Pathy"
       },
       {
         "jp_string": "ＨＰリンク",
@@ -4392,7 +4392,7 @@
       },
       {
         "jp_string": "ＭＰブレイク",
-        "en_string": ""
+        "en_string": "MP Break"
       },
       {
         "jp_string": "ＭＰリンク",
