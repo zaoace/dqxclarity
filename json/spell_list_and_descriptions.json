@@ -92,11 +92,11 @@
       },
       {
         "jp_string": "かえん斬り",
-        "en_string": ""
+        "en_string": "Flame Slash"
       },
       {
         "jp_string": "かばう",
-        "en_string": ""
+        "en_string": "Whip Boy"
       },
       {
         "jp_string": "かばうの心得",
@@ -108,7 +108,7 @@
       },
       {
         "jp_string": "かぶと割り",
-        "en_string": ""
+        "en_string": "Helm Splitter"
       },
       {
         "jp_string": "かまいたち",
@@ -344,11 +344,11 @@
       },
       {
         "jp_string": "たいあたり",
-        "en_string": ""
+        "en_string": "Body Slam"
       },
       {
         "jp_string": "たいぼく斬",
-        "en_string": ""
+        "en_string": "Poplar Toppler"
       },
       {
         "jp_string": "たたかいのビート",
@@ -452,7 +452,7 @@
       },
       {
         "jp_string": "におうだち",
-        "en_string": ""
+        "en_string": "Forbearance"
       },
       {
         "jp_string": "におうだちの心得",
@@ -488,7 +488,7 @@
       },
       {
         "jp_string": "はやぶさ斬り",
-        "en_string": ""
+        "en_string": "Falcon Slash"
       },
       {
         "jp_string": "ばくれつけん",
@@ -524,7 +524,7 @@
       },
       {
         "jp_string": "ぶんまわし",
-        "en_string": ""
+        "en_string": "Helichopter"
       },
       {
         "jp_string": "ほんきであそぶ",
@@ -532,11 +532,11 @@
       },
       {
         "jp_string": "ぼうぎょ",
-        "en_string": ""
+        "en_string": "Defend"
       },
       {
         "jp_string": "まじん斬り",
-        "en_string": ""
+        "en_string": "Hatchet Man"
       },
       {
         "jp_string": "まぶしい光で 目をくらませる 光属性の攻撃",
@@ -564,7 +564,7 @@
       },
       {
         "jp_string": "まもりのたて",
-        "en_string": ""
+        "en_string": "Holy Impregnable"
       },
       {
         "jp_string": "みとれる+2%",
@@ -624,7 +624,7 @@
       },
       {
         "jp_string": "やいばくだき",
-        "en_string": ""
+        "en_string": "Attack Attacker"
       },
       {
         "jp_string": "やいばに 全身を包んで 自分の身を守る",
@@ -632,7 +632,7 @@
       },
       {
         "jp_string": "やいばのぼうぎょ",
-        "en_string": ""
+        "en_string": "Pincushion"
       },
       {
         "jp_string": "よみがえり節",
@@ -688,7 +688,7 @@
       },
       {
         "jp_string": "ウェイトブレイク",
-        "en_string": ""
+        "en_string": "Weight Break"
       },
       {
         "jp_string": "ウォークライ",
@@ -724,7 +724,7 @@
       },
       {
         "jp_string": "オノむそう",
-        "en_string": ""
+        "en_string": "Axes of Evil"
       },
       {
         "jp_string": "オノ装備時の かいしん率が ２％増える",
@@ -772,7 +772,7 @@
       },
       {
         "jp_string": "ガード時しびれさせる",
-        "en_string": ""
+        "en_string": "Numbing Guard"
       },
       {
         "jp_string": "ガード時２０％で 被ダメを軽減する 効果がかかる",
@@ -792,7 +792,7 @@
       },
       {
         "jp_string": "キャンセルショット",
-        "en_string": ""
+        "en_string": "Cancel Shot"
       },
       {
         "jp_string": "キラキラパワーで 悪い効果から 仲間の身を守る",
@@ -800,7 +800,7 @@
       },
       {
         "jp_string": "キラキラポーン",
-        "en_string": ""
+        "en_string": "Glitter Pawn"
       },
       {
         "jp_string": "キラージャグリング",
@@ -812,11 +812,11 @@
       },
       {
         "jp_string": "ギガスラッシュ",
-        "en_string": ""
+        "en_string": "Gigaslash"
       },
       {
         "jp_string": "ギガブレイク",
-        "en_string": ""
+        "en_string": "Gigagash"
       },
       {
         "jp_string": "ギガボンバー",
@@ -916,15 +916,15 @@
       },
       {
         "jp_string": "シャインステッキ",
-        "en_string": ""
+        "en_string": "Shine Stick"
       },
       {
         "jp_string": "シールドアタック",
-        "en_string": ""
+        "en_string": "Blockenspiel"
       },
       {
         "jp_string": "シールドブレイク",
-        "en_string": ""
+        "en_string": "Shield Break"
       },
       {
         "jp_string": "ジゴスパーク",
@@ -976,7 +976,7 @@
       },
       {
         "jp_string": "スタンショット",
-        "en_string": ""
+        "en_string": "Stun Shot"
       },
       {
         "jp_string": "スティックを グルグル回して 敵を混乱させる",
@@ -1052,7 +1052,7 @@
       },
       {
         "jp_string": "スペルガード",
-        "en_string": ""
+        "en_string": "Spell Guard"
       },
       {
         "jp_string": "スライムブロウ",
@@ -1192,7 +1192,7 @@
       },
       {
         "jp_string": "チャージタックル",
-        "en_string": ""
+        "en_string": "Charge Tackle"
       },
       {
         "jp_string": "チャージ時間-10秒",
@@ -1236,7 +1236,7 @@
       },
       {
         "jp_string": "ティンクルバトン",
-        "en_string": ""
+        "en_string": "Tinkle Baton"
       },
       {
         "jp_string": "テンションバーン",
@@ -1284,7 +1284,7 @@
       },
       {
         "jp_string": "デビルンチャーム",
-        "en_string": ""
+        "en_string": "Devil's Delight"
       },
       {
         "jp_string": "デュアルカッター",
@@ -1304,7 +1304,7 @@
       },
       {
         "jp_string": "ドラゴンスラッシュ",
-        "en_string": ""
+        "en_string": "Dragon Slash"
       },
       {
         "jp_string": "ドラゴンソウル",
@@ -1312,7 +1312,7 @@
       },
       {
         "jp_string": "ドラゴン斬り",
-        "en_string": ""
+        "en_string": "Dragon Slash"
       },
       {
         "jp_string": "ドラゴン系の敵に 威力を発揮する 竜殺しのひと振り",
@@ -1324,7 +1324,7 @@
       },
       {
         "jp_string": "ドラムクラッシュ",
-        "en_string": ""
+        "en_string": "Monster Masher"
       },
       {
         "jp_string": "ドルクマ",
@@ -1476,7 +1476,7 @@
       },
       {
         "jp_string": "パニパニハニー",
-        "en_string": ""
+        "en_string": "Pani Honey"
       },
       {
         "jp_string": "パラディンで ガード時たまに 敵がしびれる",
@@ -1484,7 +1484,7 @@
       },
       {
         "jp_string": "パラディンガード",
-        "en_string": ""
+        "en_string": "Knight's Watch"
       },
       {
         "jp_string": "パラディン時 さいだいＨＰが ２０増える",
@@ -1516,11 +1516,11 @@
       },
       {
         "jp_string": "ビッグシールド",
-        "en_string": ""
+        "en_string": "Immense Defence"
       },
       {
         "jp_string": "ビッグバン",
-        "en_string": ""
+        "en_string": "Big Banga"
       },
       {
         "jp_string": "ビーストモード",
@@ -1552,7 +1552,7 @@
       },
       {
         "jp_string": "ファランクス",
-        "en_string": ""
+        "en_string": "Phalanx"
       },
       {
         "jp_string": "フェンリルアタック",
@@ -1572,7 +1572,7 @@
       },
       {
         "jp_string": "フリーズブレード",
-        "en_string": ""
+        "en_string": "Frost Fangs"
       },
       {
         "jp_string": "フルパワーで 敵１体を斬りつけ 大ダメージ",
@@ -1588,7 +1588,7 @@
       },
       {
         "jp_string": "ブレードガード",
-        "en_string": ""
+        "en_string": "Greatsword Guard"
       },
       {
         "jp_string": "ブーメランでの 攻撃がさらに 当たりやすくなる",
@@ -1632,7 +1632,7 @@
       },
       {
         "jp_string": "プレートインパクト",
-        "en_string": ""
+        "en_string": "Plate Impact"
       },
       {
         "jp_string": "ヘナトス",
@@ -1644,7 +1644,7 @@
       },
       {
         "jp_string": "ヘヴィチャージ",
-        "en_string": ""
+        "en_string": "Heavy Charge"
       },
       {
         "jp_string": "ベギラゴン",
@@ -1720,7 +1720,7 @@
       },
       {
         "jp_string": "マジステッキ",
-        "en_string": ""
+        "en_string": "Magistick"
       },
       {
         "jp_string": "マジックアロー",
@@ -1788,7 +1788,7 @@
       },
       {
         "jp_string": "ミラクルソード",
-        "en_string": ""
+        "en_string": "Miracle Slash"
       },
       {
         "jp_string": "ミラクルゾーン",
@@ -1972,7 +1972,7 @@
       },
       {
         "jp_string": "ラピッドステッキ",
-        "en_string": ""
+        "en_string": "Rapid Stick"
       },
       {
         "jp_string": "ラリホー",
@@ -1984,7 +1984,7 @@
       },
       {
         "jp_string": "ランドインパクト",
-        "en_string": ""
+        "en_string": "Crackerwhack"
       },
       {
         "jp_string": "リセットベール",
@@ -2032,7 +2032,7 @@
       },
       {
         "jp_string": "ロストアタック",
-        "en_string": ""
+        "en_string": "Morale Masher"
       },
       {
         "jp_string": "ヴァイパーファング",
@@ -2216,11 +2216,11 @@
       },
       {
         "jp_string": "会心ガード",
-        "en_string": ""
+        "en_string": "Critical Guard"
       },
       {
         "jp_string": "会心必中",
-        "en_string": ""
+        "en_string": "Crit Claim"
       },
       {
         "jp_string": "会心攻撃が 必ず出る 夢の大技！",
@@ -2484,7 +2484,7 @@
       },
       {
         "jp_string": "全身全霊斬り",
-        "en_string": ""
+        "en_string": "Unbridled Blade"
       },
       {
         "jp_string": "冥府の魂を用い デスパワーを 最大まで溜める",
@@ -2744,7 +2744,7 @@
       },
       {
         "jp_string": "大ぼうぎょ",
-        "en_string": ""
+        "en_string": "Defending Champ"
       },
       {
         "jp_string": "大ダメージを与え 敵をふっとばす 戦士専用特技",
@@ -3552,7 +3552,7 @@
       },
       {
         "jp_string": "渾身斬り",
-        "en_string": ""
+        "en_string": "Cutting Edge"
       },
       {
         "jp_string": "災いの斬撃",
@@ -3732,11 +3732,11 @@
       },
       {
         "jp_string": "真・やいばくだき",
-        "en_string": ""
+        "en_string": "True Crushing Blade"
       },
       {
         "jp_string": "真・オノむそう",
-        "en_string": ""
+        "en_string": "True Unmatched Axe"
       },
       {
         "jp_string": "眠りに呪文ダメアップ",
@@ -3880,7 +3880,7 @@
       },
       {
         "jp_string": "聖騎士の堅陣",
-        "en_string": ""
+        "en_string": "Strong Team"
       },
       {
         "jp_string": "自分とげんまの 行動間隔を短縮し 会心と攻撃力増加",
@@ -3936,7 +3936,7 @@
       },
       {
         "jp_string": "蒼天魔斬",
-        "en_string": ""
+        "en_string": "Parallax"
       },
       {
         "jp_string": "蒼月の守り",
@@ -4044,7 +4044,7 @@
       },
       {
         "jp_string": "超はやぶさ斬り",
-        "en_string": ""
+        "en_string": "Gyrfalcon Slash"
       },
       {
         "jp_string": "超暴走魔法陣",
@@ -4132,11 +4132,11 @@
       },
       {
         "jp_string": "鉄甲斬",
-        "en_string": ""
+        "en_string": "Scrap Axe"
       },
       {
         "jp_string": "鉄甲斬・改",
-        "en_string": ""
+        "en_string": "Scrap Axe Kai"
       },
       {
         "jp_string": "錬魔の秘法",
@@ -4372,7 +4372,7 @@
       },
       {
         "jp_string": "ＨＰパサー",
-        "en_string": ""
+        "en_string": "H-Pathy"
       },
       {
         "jp_string": "ＨＰリンク",
@@ -4392,7 +4392,7 @@
       },
       {
         "jp_string": "ＭＰブレイク",
-        "en_string": ""
+        "en_string": "MP Break"
       },
       {
         "jp_string": "ＭＰリンク",
