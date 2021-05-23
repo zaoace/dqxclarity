@@ -4,7 +4,7 @@
     "strings": [
       {
         "jp_string": "2%デスパワー消費なし",
-        "en_string": ""
+        "en_string": "2% Don't Consume Death Power"
       },
       {
         "jp_string": "あえて敵を怒らせ 攻撃してきた時に マヒさせる",
@@ -12,11 +12,11 @@
       },
       {
         "jp_string": "あそぶ",
-        "en_string": ""
+        "en_string": "Play"
       },
       {
         "jp_string": "あんこくのきり",
-        "en_string": ""
+        "en_string": "Dark Fog"
       },
       {
         "jp_string": "いつもより すばやく呪文を 唱えられる",
@@ -24,7 +24,7 @@
       },
       {
         "jp_string": "いてつくはどう",
-        "en_string": ""
+        "en_string": "Disruption Wave"
       },
       {
         "jp_string": "いなずま",
@@ -56,39 +56,39 @@
       },
       {
         "jp_string": "お宝ハンター",
-        "en_string": ""
+        "en_string": "Treasure Hunter"
       },
       {
         "jp_string": "かいしん率+2%",
-        "en_string": ""
+        "en_string": "Critical Rate +2%"
       },
       {
         "jp_string": "かいしん率+3%",
-        "en_string": ""
+        "en_string": "Critical Rate +3%"
       },
       {
         "jp_string": "かいしん率+4%",
-        "en_string": ""
+        "en_string": "Critical Rate +4%"
       },
       {
         "jp_string": "かいしん率+5%",
-        "en_string": ""
+        "en_string": "Critical Rate +5%"
       },
       {
         "jp_string": "かいしん率+6%",
-        "en_string": ""
+        "en_string": "Critical Rate +6%"
       },
       {
         "jp_string": "かいふく魔力+20",
-        "en_string": ""
+        "en_string": "Magical Mending +20"
       },
       {
         "jp_string": "かいふく魔力+30",
-        "en_string": ""
+        "en_string": "Magical Mending +30"
       },
       {
         "jp_string": "かいふく魔力+40",
-        "en_string": ""
+        "en_string": "Magical Mending +40"
       },
       {
         "jp_string": "かえん斬り",
@@ -96,11 +96,11 @@
       },
       {
         "jp_string": "かばう",
-        "en_string": "Whip Boy"
+        "en_string": "Cover"
       },
       {
         "jp_string": "かばうの心得",
-        "en_string": ""
+        "en_string": "Cover Knowledge"
       },
       {
         "jp_string": "かばう中に 受けるダメージを 減らす",
@@ -124,15 +124,15 @@
       },
       {
         "jp_string": "きまぐれな行動+5%",
-        "en_string": ""
+        "en_string": "Whimsical Action +5%"
       },
       {
         "jp_string": "きようさ+100",
-        "en_string": ""
+        "en_string": "Deftness +100"
       },
       {
         "jp_string": "きようさ+30",
-        "en_string": ""
+        "en_string": "Deftness +30"
       },
       {
         "jp_string": "きようさ次第で アイテムをぬすむ 盗賊専用特技",
@@ -140,7 +140,7 @@
       },
       {
         "jp_string": "くちぶえ",
-        "en_string": ""
+        "en_string": "Whistle"
       },
       {
         "jp_string": "けもの突き",
@@ -160,7 +160,7 @@
       },
       {
         "jp_string": "げんま召喚",
-        "en_string": ""
+        "en_string": "Summon Genma"
       },
       {
         "jp_string": "げんま解放",
@@ -188,59 +188,59 @@
       },
       {
         "jp_string": "こうげき力+10",
-        "en_string": ""
+        "en_string": "Attack +10"
       },
       {
         "jp_string": "こうげき力+15",
-        "en_string": ""
+        "en_string": "Attack +15"
       },
       {
         "jp_string": "こうげき力+20",
-        "en_string": ""
+        "en_string": "Attack +20"
       },
       {
         "jp_string": "こうげき力+25",
-        "en_string": ""
+        "en_string": "Attack +25"
       },
       {
         "jp_string": "こうげき力+30",
-        "en_string": ""
+        "en_string": "Attack +30"
       },
       {
         "jp_string": "こうげき力+40",
-        "en_string": ""
+        "en_string": "Attack +40"
       },
       {
         "jp_string": "こうげき力+5",
-        "en_string": ""
+        "en_string": "Attack +5"
       },
       {
         "jp_string": "こうげき力+50",
-        "en_string": ""
+        "en_string": "Attack +50"
       },
       {
         "jp_string": "こうげき魔力+10",
-        "en_string": ""
+        "en_string": "Magical Might +10"
       },
       {
         "jp_string": "こうげき魔力+20",
-        "en_string": ""
+        "en_string": "Magical Might +20"
       },
       {
         "jp_string": "こうげき魔力+30",
-        "en_string": ""
+        "en_string": "Magical Might +30"
       },
       {
         "jp_string": "こうげき魔力+35",
-        "en_string": ""
+        "en_string": "Magical Might +35"
       },
       {
         "jp_string": "こうげき魔力+40",
-        "en_string": ""
+        "en_string": "Magical Might +40"
       },
       {
         "jp_string": "こうげき魔力+60",
-        "en_string": ""
+        "en_string": "Magical Might +60"
       },
       {
         "jp_string": "こんらんのダンス",
@@ -248,35 +248,35 @@
       },
       {
         "jp_string": "さいだいＨＰ+10",
-        "en_string": ""
+        "en_string": "Max HP +10"
       },
       {
         "jp_string": "さいだいＨＰ+20",
-        "en_string": ""
+        "en_string": "Max HP +20"
       },
       {
         "jp_string": "さいだいＨＰ+60",
-        "en_string": ""
+        "en_string": "Max HP +60"
       },
       {
         "jp_string": "さいだいＭＰ+100",
-        "en_string": ""
+        "en_string": "Max MP +100"
       },
       {
         "jp_string": "さいだいＭＰ+20",
-        "en_string": ""
+        "en_string": "Max MP +20"
       },
       {
         "jp_string": "さいだいＭＰ+30",
-        "en_string": ""
+        "en_string": "Max MP +30"
       },
       {
         "jp_string": "さいだいＭＰ+50",
-        "en_string": ""
+        "en_string": "Max MP +50"
       },
       {
         "jp_string": "さいだいＭＰ+60",
-        "en_string": ""
+        "en_string": "Max MP +60"
       },
       {
         "jp_string": "さみだれうち",
@@ -284,7 +284,7 @@
       },
       {
         "jp_string": "さみだれ突き",
-        "en_string": "Multithrust"
+        "en_string": "Multi Thrust"
       },
       {
         "jp_string": "さらに呪文が 暴走しやすくなる 魔法陣を作る",
@@ -292,31 +292,31 @@
       },
       {
         "jp_string": "しばり打ち",
-        "en_string": ""
+        "en_string": "Trammel Lash"
       },
       {
         "jp_string": "しゅくふくの杖",
-        "en_string": ""
+        "en_string": "Staff of Salvation"
       },
       {
         "jp_string": "しゅび力+10",
-        "en_string": ""
+        "en_string": "Defense +10"
       },
       {
         "jp_string": "しゅび力+30",
-        "en_string": ""
+        "en_string": "Defense +30"
       },
       {
         "jp_string": "しんだふり",
-        "en_string": ""
+        "en_string": "Play Dead"
       },
       {
         "jp_string": "しんぴのさとり",
-        "en_string": ""
+        "en_string": "Caster Sugar"
       },
       {
         "jp_string": "じわれ",
-        "en_string": ""
+        "en_string": "Fissure"
       },
       {
         "jp_string": "すぐに次の行動が 始められ攻撃力と 守備力も上がる！",
@@ -324,7 +324,7 @@
       },
       {
         "jp_string": "すてみ",
-        "en_string": ""
+        "en_string": "Double Up"
       },
       {
         "jp_string": "すばやく呪文を 唱えられ 必ず呪文が暴走！",
@@ -332,7 +332,7 @@
       },
       {
         "jp_string": "すばやさ+30",
-        "en_string": ""
+        "en_string": "Agility +30"
       },
       {
         "jp_string": "せいけん爆撃",
@@ -360,35 +360,35 @@
       },
       {
         "jp_string": "たまに２回攻撃",
-        "en_string": ""
+        "en_string": "Sometimes Attack Twice"
       },
       {
         "jp_string": "たまにＨＰ１生き残り",
-        "en_string": ""
+        "en_string": "Sometimes Survive at 1 HP"
       },
       {
         "jp_string": "たまにＭＰ消費しない",
-        "en_string": ""
+        "en_string": "Sometimes Consume No MP"
       },
       {
         "jp_string": "ためる",
-        "en_string": ""
+        "en_string": "Psyche Up"
       },
       {
         "jp_string": "ためる参",
-        "en_string": ""
+        "en_string": "Psyche 2"
       },
       {
         "jp_string": "ためる弐",
-        "en_string": ""
+        "en_string": "Psyche 3"
       },
       {
         "jp_string": "ちから+10",
-        "en_string": ""
+        "en_string": "Str. +10"
       },
       {
         "jp_string": "つるぎの舞",
-        "en_string": ""
+        "en_string": "Swords Dance"
       },
       {
         "jp_string": "てなづける",
@@ -444,11 +444,11 @@
       },
       {
         "jp_string": "なつきやすくなる",
-        "en_string": ""
+        "en_string": "Easier Attachment"
       },
       {
         "jp_string": "なめまわし",
-        "en_string": ""
+        "en_string": "Licking Around"
       },
       {
         "jp_string": "におうだち",
@@ -456,7 +456,7 @@
       },
       {
         "jp_string": "におうだちの心得",
-        "en_string": ""
+        "en_string": "Forbearance Knowledge"
       },
       {
         "jp_string": "におうだち中に 受けるダメージを 減らす",
@@ -464,7 +464,7 @@
       },
       {
         "jp_string": "ぬすむ",
-        "en_string": ""
+        "en_string": "Steal"
       },
       {
         "jp_string": "ぬすむで アイテムをぬすむ 成功率が増える",
@@ -476,7 +476,7 @@
       },
       {
         "jp_string": "ねむりのダンス",
-        "en_string": ""
+        "en_string": "Dance of Sleep"
       },
       {
         "jp_string": "はやぶさのごとき 高速の２回攻撃",
@@ -496,7 +496,7 @@
       },
       {
         "jp_string": "ぱふぱふ",
-        "en_string": ""
+        "en_string": "Puff-puff"
       },
       {
         "jp_string": "ひき直し時ターン不要",
@@ -516,11 +516,11 @@
       },
       {
         "jp_string": "ふういんのダンス",
-        "en_string": ""
+        "en_string": "Dance of Sealing"
       },
       {
         "jp_string": "ぶきみなひかり",
-        "en_string": ""
+        "en_string": "Spooky Aura"
       },
       {
         "jp_string": "ぶんまわし",
@@ -528,7 +528,7 @@
       },
       {
         "jp_string": "ほんきであそぶ",
-        "en_string": ""
+        "en_string": "Play Seriously"
       },
       {
         "jp_string": "ぼうぎょ",
@@ -560,7 +560,7 @@
       },
       {
         "jp_string": "まもりのきり",
-        "en_string": ""
+        "en_string": "Defensive Fog"
       },
       {
         "jp_string": "まもりのたて",
@@ -568,23 +568,23 @@
       },
       {
         "jp_string": "みとれる+2%",
-        "en_string": ""
+        "en_string": "Fascination +2%"
       },
       {
         "jp_string": "みとれる+5%",
-        "en_string": ""
+        "en_string": "Fascination +2%"
       },
       {
         "jp_string": "みのがす",
-        "en_string": ""
+        "en_string": "Mercy"
       },
       {
         "jp_string": "みやぶる",
-        "en_string": ""
+        "en_string": "See Through"
       },
       {
         "jp_string": "みりょく+30",
-        "en_string": ""
+        "en_string": "Charm +30"
       },
       {
         "jp_string": "みんなの テンションを 一気に上げる！",
@@ -604,7 +604,7 @@
       },
       {
         "jp_string": "めいそう",
-        "en_string": ""
+        "en_string": "Meditation"
       },
       {
         "jp_string": "めいそうして ＨＰを大幅に回復 武闘家専用特技",
@@ -612,15 +612,15 @@
       },
       {
         "jp_string": "めいどうふうま",
-        "en_string": ""
+        "en_string": "King Fissure"
       },
       {
         "jp_string": "もうどくブルース",
-        "en_string": ""
+        "en_string": "Poisonous Blues"
       },
       {
         "jp_string": "もろば斬り",
-        "en_string": ""
+        "en_string": "Double-Edged"
       },
       {
         "jp_string": "やいばくだき",
@@ -644,11 +644,11 @@
       },
       {
         "jp_string": "アイスフォース",
-        "en_string": ""
+        "en_string": "Frost Fource"
       },
       {
         "jp_string": "アクロバットスター",
-        "en_string": ""
+        "en_string": "Acrobat Star"
       },
       {
         "jp_string": "アゲハ乱舞",
@@ -664,7 +664,7 @@
       },
       {
         "jp_string": "アルカナ占い",
-        "en_string": ""
+        "en_string": "Arcana Divination"
       },
       {
         "jp_string": "イオ",
@@ -684,7 +684,7 @@
       },
       {
         "jp_string": "ウィングブロウ",
-        "en_string": ""
+        "en_string": "Propeller Blade"
       },
       {
         "jp_string": "ウェイトブレイク",
@@ -692,11 +692,11 @@
       },
       {
         "jp_string": "ウォークライ",
-        "en_string": ""
+        "en_string": "War Cry"
       },
       {
         "jp_string": "エモノ呼び",
-        "en_string": ""
+        "en_string": "Call Monster"
       },
       {
         "jp_string": "エレメント系に 威力を発揮する 風切りのやいば",
@@ -704,7 +704,7 @@
       },
       {
         "jp_string": "エンゼルのみちびき",
-        "en_string": ""
+        "en_string": "Angel's Guidance"
       },
       {
         "jp_string": "エンゼルスライム を手札に移動する 占い師専用特技",
@@ -712,7 +712,7 @@
       },
       {
         "jp_string": "エンドオブシーン",
-        "en_string": ""
+        "en_string": "End of Scene"
       },
       {
         "jp_string": "オオカミが ２回攻撃する レンジャー専用",
@@ -720,7 +720,7 @@
       },
       {
         "jp_string": "オオカミアタック",
-        "en_string": ""
+        "en_string": "Wolf Whistle"
       },
       {
         "jp_string": "オノむそう",
@@ -728,47 +728,47 @@
       },
       {
         "jp_string": "オノ装備時の かいしん率が ２％増える",
-        "en_string": ""
+        "en_string": "Critical +2% When Axe Equipped"
       },
       {
         "jp_string": "オノ装備時の かいしん率が ３％増える",
-        "en_string": ""
+        "en_string": "Critical +3% When Axe Equipped"
       },
       {
         "jp_string": "オノ装備時の こうげき力が １０増える",
-        "en_string": ""
+        "en_string": "Attack +10 When Axe Equipped"
       },
       {
         "jp_string": "オノ装備時の こうげき力が １５増える",
-        "en_string": ""
+        "en_string": "Attack +15 When Axe Equipped"
       },
       {
         "jp_string": "オノ装備時の こうげき力が ２０増える",
-        "en_string": ""
+        "en_string": "Attack +20 When Axe Equipped"
       },
       {
         "jp_string": "オノ装備時の こうげき力が ３０増える",
-        "en_string": ""
+        "en_string": "Attack +30 When Axe Equipped"
       },
       {
         "jp_string": "オノ装備時の こうげき力が ５増える",
-        "en_string": ""
+        "en_string": "Attack +5 When Axe Equipped"
       },
       {
         "jp_string": "カウンターブースト",
-        "en_string": ""
+        "en_string": "Counter Boost"
       },
       {
         "jp_string": "カオスエッジ",
-        "en_string": ""
+        "en_string": "Chaos Edge"
       },
       {
         "jp_string": "ガード時20%ダメ軽減",
-        "en_string": ""
+        "en_string": "20% Damage Down When Guard"
       },
       {
         "jp_string": "ガード時50%で早詠み",
-        "en_string": ""
+        "en_string": "When Guard 50% Cast Speed Up"
       },
       {
         "jp_string": "ガード時しびれさせる",
@@ -804,11 +804,11 @@
       },
       {
         "jp_string": "キラージャグリング",
-        "en_string": ""
+        "en_string": "Have A Ball"
       },
       {
         "jp_string": "キラーブーン",
-        "en_string": ""
+        "en_string": "Fly Swat"
       },
       {
         "jp_string": "ギガスラッシュ",
@@ -820,7 +820,7 @@
       },
       {
         "jp_string": "ギガボンバー",
-        "en_string": ""
+        "en_string": "Giga Bomber"
       },
       {
         "jp_string": "ギラ",
@@ -832,7 +832,7 @@
       },
       {
         "jp_string": "ギラ系呪文+10%",
-        "en_string": ""
+        "en_string": "Sizz Damage +10%"
       },
       {
         "jp_string": "クモノ",
@@ -840,15 +840,15 @@
       },
       {
         "jp_string": "グランドクロス",
-        "en_string": ""
+        "en_string": "Pearly Gates"
       },
       {
         "jp_string": "グランドネビュラ",
-        "en_string": ""
+        "en_string": "Solar Flair"
       },
       {
         "jp_string": "ゴッドジャグリング",
-        "en_string": ""
+        "en_string": "God Juggling"
       },
       {
         "jp_string": "ゴールドを使って セレブなダメージ スパスタ専用特技",
@@ -856,31 +856,31 @@
       },
       {
         "jp_string": "ゴールドシャワー",
-        "en_string": ""
+        "en_string": "Gold Rush"
       },
       {
         "jp_string": "ゴールドフィンガー",
-        "en_string": ""
+        "en_string": "Rake 'n' Break"
       },
       {
         "jp_string": "サイクロンアッパー",
-        "en_string": ""
+        "en_string": "Air Raiser"
       },
       {
         "jp_string": "サインぜめ",
-        "en_string": ""
+        "en_string": "Autograph"
       },
       {
         "jp_string": "サクリファイス",
-        "en_string": ""
+        "en_string": "Sacrifice"
       },
       {
         "jp_string": "サプライズラッシュ",
-        "en_string": ""
+        "en_string": "Surprise Rush"
       },
       {
         "jp_string": "サマーソルトクロー",
-        "en_string": ""
+        "en_string": "Somersault Claw"
       },
       {
         "jp_string": "サンダーボルト",
@@ -920,7 +920,7 @@
       },
       {
         "jp_string": "シールドアタック",
-        "en_string": "Blockenspiel"
+        "en_string": "Blockenspeil"
       },
       {
         "jp_string": "シールドブレイク",
@@ -948,11 +948,11 @@
       },
       {
         "jp_string": "スカウトアタック",
-        "en_string": "Scout Srike"
+        "en_string": "Scout Attack"
       },
       {
         "jp_string": "スカウト率アップ",
-        "en_string": ""
+        "en_string": "Scout Rate Up"
       },
       {
         "jp_string": "スカラ",
@@ -960,11 +960,11 @@
       },
       {
         "jp_string": "スキャンダル",
-        "en_string": ""
+        "en_string": "Scandal Eyes"
       },
       {
         "jp_string": "スキルクラッシュ",
-        "en_string": ""
+        "en_string": "Skill Crash"
       },
       {
         "jp_string": "スクルト",
@@ -1032,7 +1032,7 @@
       },
       {
         "jp_string": "ストームフォース",
-        "en_string": ""
+        "en_string": "Gale Fource"
       },
       {
         "jp_string": "スパスタ時 みりょくが ３０増える",
@@ -1048,7 +1048,7 @@
       },
       {
         "jp_string": "スパークショット",
-        "en_string": ""
+        "en_string": "Starstrike"
       },
       {
         "jp_string": "スペルガード",
@@ -1064,7 +1064,7 @@
       },
       {
         "jp_string": "スリープダガー",
-        "en_string": ""
+        "en_string": "Sleeper Hit"
       },
       {
         "jp_string": "ズッシード",
@@ -1072,7 +1072,7 @@
       },
       {
         "jp_string": "ゾディアックコード",
-        "en_string": ""
+        "en_string": "Zodiac Code"
       },
       {
         "jp_string": "ゾンビ系の敵に 威力を発揮する 聖なる技",
@@ -1080,15 +1080,15 @@
       },
       {
         "jp_string": "タイガークロー",
-        "en_string": ""
+        "en_string": "Hard Claw"
       },
       {
         "jp_string": "タップダンス",
-        "en_string": ""
+        "en_string": "Tap Dance"
       },
       {
         "jp_string": "タナトスハント",
-        "en_string": ""
+        "en_string": "Victimiser"
       },
       {
         "jp_string": "タロットが捨てられる",
@@ -1108,7 +1108,7 @@
       },
       {
         "jp_string": "タロットの威力アップ",
-        "en_string": ""
+        "en_string": "Tarot Power Up"
       },
       {
         "jp_string": "タロットメダルの 破片がドロップ 占い師専用特技",
@@ -1120,11 +1120,11 @@
       },
       {
         "jp_string": "ターン消費しない+1%",
-        "en_string": ""
+        "en_string": "Don't Consume Turn +1%"
       },
       {
         "jp_string": "ターン消費しない+5%",
-        "en_string": ""
+        "en_string": "Don't Consume Turn +5%"
       },
       {
         "jp_string": "ダウン中の敵には 必ず当たる 会心の斬撃",
@@ -1164,11 +1164,11 @@
       },
       {
         "jp_string": "ダークフォース",
-        "en_string": ""
+        "en_string": "Funereal Fource"
       },
       {
         "jp_string": "ダークマター",
-        "en_string": ""
+        "en_string": "Dark Matter"
       },
       {
         "jp_string": "チカラをためて テンションアップ 武闘家専用特技",
@@ -1196,11 +1196,11 @@
       },
       {
         "jp_string": "チャージ時間-10秒",
-        "en_string": ""
+        "en_string": "Charge Time -10 sec."
       },
       {
         "jp_string": "チャージ時間-20秒",
-        "en_string": ""
+        "en_string": "Charge Time -20 sec."
       },
       {
         "jp_string": "チューンナップ",
@@ -1212,7 +1212,7 @@
       },
       {
         "jp_string": "ツッコミ",
-        "en_string": ""
+        "en_string": "Sober Slap"
       },
       {
         "jp_string": "ツメ装備時 身かわし率が ２％増える",
@@ -1240,11 +1240,11 @@
       },
       {
         "jp_string": "テンションバーン",
-        "en_string": ""
+        "en_string": "Feel the Burn"
       },
       {
         "jp_string": "テンションブースト",
-        "en_string": ""
+        "en_string": "Tension Boost"
       },
       {
         "jp_string": "テンション時の ダメージが ３００増える",
@@ -1252,11 +1252,11 @@
       },
       {
         "jp_string": "テンション時ダメ+300",
-        "en_string": ""
+        "en_string": "+300 Damage During Tension"
       },
       {
         "jp_string": "テンション維持",
-        "en_string": ""
+        "en_string": "Preserve Tension"
       },
       {
         "jp_string": "ディバインスペル",
@@ -1268,11 +1268,11 @@
       },
       {
         "jp_string": "デスパワーブースト",
-        "en_string": ""
+        "en_string": "Death Power Boost"
       },
       {
         "jp_string": "デスパワー解放",
-        "en_string": ""
+        "en_string": "Preserve Death Power"
       },
       {
         "jp_string": "デスパワー１段階 消費で聖女の守り 呪文と回復も強化",
@@ -1300,7 +1300,7 @@
       },
       {
         "jp_string": "ドラゴンステップ",
-        "en_string": ""
+        "en_string": "Dragon Step"
       },
       {
         "jp_string": "ドラゴンスラッシュ",
@@ -1308,7 +1308,7 @@
       },
       {
         "jp_string": "ドラゴンソウル",
-        "en_string": ""
+        "en_string": "Dragon Soul"
       },
       {
         "jp_string": "ドラゴン斬り",
@@ -1340,11 +1340,11 @@
       },
       {
         "jp_string": "ドルマ系の呪文の 威力があがる",
-        "en_string": ""
+        "en_string": "Zam-type spell damage increased"
       },
       {
         "jp_string": "ドルマ系呪文+5%",
-        "en_string": ""
+        "en_string": "Zam damage +5%"
       },
       {
         "jp_string": "ドルモーア",
@@ -1352,15 +1352,15 @@
       },
       {
         "jp_string": "ナイトメアファング",
-        "en_string": ""
+        "en_string": "Nightmare Fang"
       },
       {
         "jp_string": "ハッスルダンス",
-        "en_string": ""
+        "en_string": "Hustle Dance"
       },
       {
         "jp_string": "ハデスの宴",
-        "en_string": ""
+        "en_string": "Feast of Hades"
       },
       {
         "jp_string": "ハンマー装備時の かいしん率が ２％増える",
@@ -1436,19 +1436,19 @@
       },
       {
         "jp_string": "バギ系呪文+100%",
-        "en_string": ""
+        "en_string": "Swoosh damage +100%"
       },
       {
         "jp_string": "バギ系射程距離+5m",
-        "en_string": ""
+        "en_string": "Swoosh-type range +5 meters"
       },
       {
         "jp_string": "バトマス時 きようさが ３０増える",
-        "en_string": ""
+        "en_string": "Deftness +30 As Battlemaster"
       },
       {
         "jp_string": "バトマス時 ちからが １０増える",
-        "en_string": ""
+        "en_string": "Strength +10 As Battlemaster"
       },
       {
         "jp_string": "バトマス時 テンションを たまに維持する",
@@ -1460,7 +1460,7 @@
       },
       {
         "jp_string": "バナナトラップ",
-        "en_string": ""
+        "en_string": "Banana Trap"
       },
       {
         "jp_string": "バードシュート",
@@ -1476,7 +1476,7 @@
       },
       {
         "jp_string": "パニパニハニー",
-        "en_string": "Pani Honey"
+        "en_string": "Panipani Honey"
       },
       {
         "jp_string": "パラディンで ガード時たまに 敵がしびれる",
@@ -1488,15 +1488,15 @@
       },
       {
         "jp_string": "パラディン時 さいだいＨＰが ２０増える",
-        "en_string": ""
+        "en_string": "Max HP +20 When Paladin"
       },
       {
         "jp_string": "パラディン時 さいだいＨＰが ６０増える",
-        "en_string": ""
+        "en_string": "Max HP +60 When Paladin"
       },
       {
         "jp_string": "パルプンテ",
-        "en_string": ""
+        "en_string": "Hocus Pocus"
       },
       {
         "jp_string": "パワフルスロー",
@@ -1512,7 +1512,7 @@
       },
       {
         "jp_string": "ヒュプノスハント",
-        "en_string": ""
+        "en_string": "Persecutter"
       },
       {
         "jp_string": "ビッグシールド",
@@ -1524,15 +1524,15 @@
       },
       {
         "jp_string": "ビーストモード",
-        "en_string": ""
+        "en_string": "Beast Mode"
       },
       {
         "jp_string": "ビーナスステップ",
-        "en_string": ""
+        "en_string": "Venus Step"
       },
       {
         "jp_string": "ピオラ",
-        "en_string": "Accel"
+        "en_string": "Accelerat"
       },
       {
         "jp_string": "ピオリム",
@@ -1540,15 +1540,15 @@
       },
       {
         "jp_string": "ピンクタイフーン",
-        "en_string": ""
+        "en_string": "Pink Typhoon"
       },
       {
         "jp_string": "ファイアフォース",
-        "en_string": ""
+        "en_string": "Flame Fource"
       },
       {
         "jp_string": "ファイアブレイク",
-        "en_string": ""
+        "en_string": "Fire Break"
       },
       {
         "jp_string": "ファランクス",
@@ -1556,15 +1556,15 @@
       },
       {
         "jp_string": "フェンリルアタック",
-        "en_string": ""
+        "en_string": "Fenrir Attack"
       },
       {
         "jp_string": "フォースブレイク",
-        "en_string": ""
+        "en_string": "Fource Break"
       },
       {
         "jp_string": "フォース範囲化",
-        "en_string": ""
+        "en_string": "Fource Range"
       },
       {
         "jp_string": "フバーハ",
@@ -1580,11 +1580,11 @@
       },
       {
         "jp_string": "フローズンバード",
-        "en_string": "Icebird Throw"
+        "en_string": "Frozen Bird"
       },
       {
         "jp_string": "ブレスクラッシュ",
-        "en_string": ""
+        "en_string": "Breath Crash"
       },
       {
         "jp_string": "ブレードガード",
@@ -1656,7 +1656,7 @@
       },
       {
         "jp_string": "ベストスマイル",
-        "en_string": ""
+        "en_string": "Best Smile"
       },
       {
         "jp_string": "ベホイミ",
@@ -1676,11 +1676,11 @@
       },
       {
         "jp_string": "ホーリーライト",
-        "en_string": ""
+        "en_string": "Holy Light"
       },
       {
         "jp_string": "ボケ",
-        "en_string": ""
+        "en_string": "Prat"
       },
       {
         "jp_string": "ボケたおして 周囲の敵を わらわせる",
@@ -1692,15 +1692,15 @@
       },
       {
         "jp_string": "ボディーガード呼び",
-        "en_string": ""
+        "en_string": "Call Bodyguard"
       },
       {
         "jp_string": "ボディーガード強化",
-        "en_string": ""
+        "en_string": "Strengthen Bodyguard"
       },
       {
         "jp_string": "ボミエ",
-        "en_string": "Decel"
+        "en_string": "Decelerat"
       },
       {
         "jp_string": "ボミオス",
@@ -1708,7 +1708,7 @@
       },
       {
         "jp_string": "マグマ",
-        "en_string": ""
+        "en_string": "Magma"
       },
       {
         "jp_string": "マシン系の敵に 威力を発揮する 鋼鉄を切り裂く拳",
@@ -1732,7 +1732,7 @@
       },
       {
         "jp_string": "マジックルーレット",
-        "en_string": ""
+        "en_string": "Magic Roulette"
       },
       {
         "jp_string": "マダンテ",
@@ -1776,7 +1776,7 @@
       },
       {
         "jp_string": "マホトラのころも",
-        "en_string": ""
+        "en_string": "Fizzle Outfit"
       },
       {
         "jp_string": "マホトーン",
@@ -1792,15 +1792,15 @@
       },
       {
         "jp_string": "ミラクルゾーン",
-        "en_string": ""
+        "en_string": "Miracle Zone"
       },
       {
         "jp_string": "ミラクルブースト",
-        "en_string": ""
+        "en_string": "Miracle Boost"
       },
       {
         "jp_string": "ミリオンスマイル",
-        "en_string": ""
+        "en_string": "Million Smile"
       },
       {
         "jp_string": "ムチのこうげきが 少し遠くの敵まで 当たるようになる",
@@ -1848,15 +1848,15 @@
       },
       {
         "jp_string": "ムーンサルト",
-        "en_string": ""
+        "en_string": "Harvest Moon"
       },
       {
         "jp_string": "メイクアップ",
-        "en_string": ""
+        "en_string": "Extreme Makeover"
       },
       {
         "jp_string": "メガボンバー",
-        "en_string": ""
+        "en_string": "Mega Bomber"
       },
       {
         "jp_string": "メタルウィング",
@@ -1864,7 +1864,7 @@
       },
       {
         "jp_string": "メタルトラップ",
-        "en_string": ""
+        "en_string": "Metal Trap"
       },
       {
         "jp_string": "メタルボディを 切り裂く するどいつばさ",
@@ -1872,7 +1872,7 @@
       },
       {
         "jp_string": "メタル出現率アップ",
-        "en_string": ""
+        "en_string": "Metal appearance rate up"
       },
       {
         "jp_string": "メダパニ",
@@ -1908,7 +1908,7 @@
       },
       {
         "jp_string": "モンスターゾーン",
-        "en_string": ""
+        "en_string": "Monster Zone"
       },
       {
         "jp_string": "ヤリ装備時に ４％で武器ガード できるようになる",
@@ -1960,15 +1960,15 @@
       },
       {
         "jp_string": "ライガークラッシュ",
-        "en_string": ""
+        "en_string": "Wild Animaul"
       },
       {
         "jp_string": "ライトフォース",
-        "en_string": ""
+        "en_string": "Life Fource"
       },
       {
         "jp_string": "ライトフリング",
-        "en_string": ""
+        "en_string": "Right Fling"
       },
       {
         "jp_string": "ラピッドステッキ",
@@ -1984,11 +1984,11 @@
       },
       {
         "jp_string": "ランドインパクト",
-        "en_string": "Crackerwhack"
+        "en_string": "Land Impact"
       },
       {
         "jp_string": "リセットベール",
-        "en_string": ""
+        "en_string": "Reset Veil"
       },
       {
         "jp_string": "リベホイミ",
@@ -2016,7 +2016,7 @@
       },
       {
         "jp_string": "レフトフリング",
-        "en_string": ""
+        "en_string": "Left Fling"
       },
       {
         "jp_string": "レンジャー時 きようさが ３０増える",
@@ -2028,7 +2028,7 @@
       },
       {
         "jp_string": "ロイヤルステップ",
-        "en_string": ""
+        "en_string": "Royal Step"
       },
       {
         "jp_string": "ロストアタック",
@@ -2036,7 +2036,7 @@
       },
       {
         "jp_string": "ヴァイパーファング",
-        "en_string": ""
+        "en_string": "Cobra Strike"
       },
       {
         "jp_string": "ヴェレ",
@@ -2048,7 +2048,7 @@
       },
       {
         "jp_string": "ヴェレーノ",
-        "en_string": "Toxle"
+        "en_string": "Katox"
       },
       {
         "jp_string": "一喝",
