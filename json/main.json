@@ -2816,7 +2816,7 @@
       },
       {
         "jp_string": "いまの自分の姿を映す",
-        "en_string": ""
+        "en_string": "Add Current Look"
       },
       {
         "jp_string": "いままでのきろく",
@@ -19898,7 +19898,7 @@
       },
       {
         "jp_string": "種族を変える",
-        "en_string": ""
+        "en_string": "Change Race"
       },
       {
         "jp_string": "種族を選ぶ",
@@ -20766,7 +20766,7 @@
       },
       {
         "jp_string": "美容院の姿見の記録",
-        "en_string": ""
+        "en_string": "Save Appearance"
       },
       {
         "jp_string": "美容院優待券",
@@ -21894,7 +21894,7 @@
       },
       {
         "jp_string": "記録した状態に戻す",
-        "en_string": ""
+        "en_string": "Revert State"
       },
       {
         "jp_string": "記録した見た目に戻す",
