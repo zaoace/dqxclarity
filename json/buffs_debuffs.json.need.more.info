@@ -1,0 +1,395 @@
+{
+  "_comment": "Buffs",
+  "jp_string": "バイシオン",
+  "en_string": "Oomph"
+},
+{
+  "_comment": "Buffs",
+  "jp_string": "バイキルト",
+  "en_string": "Oomphle"
+},
+{
+  "_comment": "Buffs",
+  "jp_string": "スカラ",
+  "en_string": "Buff"
+},
+{
+  "_comment": "Buffs",
+  "jp_string": "スクルト",
+  "en_string": "Kabuff"
+},
+{
+  "_comment": "Buffs",
+  "jp_string": "ピオラ",
+  "en_string": "Accel"
+},
+{
+  "_comment": "Buffs",
+  "jp_string": "ピオリム",
+  "en_string": "Acceleratle"
+},
+{
+  "_comment": "Buffs",
+  "jp_string": "ズッシード",
+  "en_string": "Weight"
+},
+{
+  "_comment": "Buffs",
+  "jp_string": "マホターン",
+  "en_string": "Bound"
+},
+{
+  "_comment": "Buffs",
+  "jp_string": "マホカンタ",
+  "en_string": "Bounce"
+},
+{
+  "_comment": "Buffs",
+  "jp_string": "マホステ",
+  "en_string": "Snub"
+},
+{
+  "_comment": "Buffs",
+  "jp_string": "マホキテ",
+  "en_string": "Absorb Magic"
+},
+{
+  "_comment": "Buffs",
+  "jp_string": "バーハ",
+  "en_string": "Insulate"
+},
+{
+  "_comment": "Buffs",
+  "jp_string": "フバーハ",
+  "en_string": "Insulatle"
+},
+{
+  "_comment": "Buffs",
+  "jp_string": "マジックバリア",
+  "en_string": "Magic Barrier"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "ヘナトス",
+  "en_string": "Blunt"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "ヘナトール",
+  "en_string": "Kablunt"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "ルカニ",
+  "en_string": "Sap"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "ルカナン",
+  "en_string": "Kasap"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "ボミエ",
+  "en_string": "Decel"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "ボミオス",
+  "en_string": "Deceleratle"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "ディバインスペル",
+  "en_string": "Divine Intervention"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "ラリホー",
+  "en_string": "Snooze"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "ラリホーマ",
+  "en_string": "Kasnooze"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "メダパニ",
+  "en_string": "Fuddle"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "メダパニーマ",
+  "en_string": "Kafuddle"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "マヌーサ",
+  "en_string": "Dazzle"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "マホトーン",
+  "en_string": "Fizzle"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "クモノ",
+  "en_string": "Web Trap"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "ヴェレ",
+  "en_string": "Tox"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "ヴェレーノ",
+  "en_string": "Toxle"
+},
+{
+  "_comment": "Debuffs",
+  "jp_string": "ヴェレノーマ",
+  "en_string": "Katoxle"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "メラ",
+  "en_string": "Frizz"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "メラミ",
+  "en_string": "Frizzle"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "メラゾーマ",
+  "en_string": "Kafrizz"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "メラガイアー",
+  "en_string": "Kafrizzle"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "ギラ",
+  "en_string": "Sizz"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "ベギラマ",
+  "en_string": "Sizzle"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "ベギラゴン",
+  "en_string": "Kasizz"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "ギラグレイド",
+  "en_string": "Kasizzle"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "ヒャド",
+  "en_string": "Crack"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "ヒャダルコ",
+  "en_string": "Crackle"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "マヒャド",
+  "en_string": "Kacrack"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "マヒャデドス",
+  "en_string": "Kacrackle"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "バギ",
+  "en_string": "Woosh"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "バギマ",
+  "en_string": "Swoosh"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "バギクロス",
+  "en_string": "Kaswoosh"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "バギムーチョ",
+  "en_string": "Kaswooshle"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "ジバリア",
+  "en_string": "Rubblerouser"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "ジバリカ",
+  "en_string": "Boulderbring"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "ジバリーナ",
+  "en_string": "Mountainmover"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "ジバルンバ",
+  "en_string": "Ridgeraiser"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "ドルマ",
+  "en_string": "Zam"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "ドルクマ",
+  "en_string": "Zammle"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "ドルモーア",
+  "en_string": "Kazam"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "ドルマドン",
+  "en_string": "Kazammle"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "イオ",
+  "en_string": "Bang"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "イオラ",
+  "en_string": "Boom"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "イオナズン",
+  "en_string": "Kaboom"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "イオグランデ",
+  "en_string": "Kaboomle"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "マダンテ",
+  "en_string": "Magic Burst"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "ザキ",
+  "en_string": "Whack"
+},
+{
+  "_comment": "Mage",
+  "jp_string": "マホトラ",
+  "en_string": "Drain Magic"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "リレミト",
+  "en_string": "Evac"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "ホイミ",
+  "en_string": "Heal"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "ベホイミ",
+  "en_string": "Midheal"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "べホイム",
+  "en_string": "Moreheal"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "ベホマ",
+  "en_string": "Fullheal"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "ベホマラー",
+  "en_string": "Multiheal"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "リホイミ",
+  "en_string": "Reheal"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "リベホイミ",
+  "en_string": "Remidheal"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "リベホイム",
+  "en_string": "Remoreheal"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "キアリー",
+  "en_string": "Squelch"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "キアリク",
+  "en_string": "Tingle"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "ザメハ",
+  "en_string": "Wake Up"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "マヌーハ",
+  "en_string": "Dedazzle"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "マホリー",
+  "en_string": "Defizzle"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "ザオ",
+  "en_string": "Zin"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "ザオラル",
+  "en_string": "Zing"
+},
+{
+  "_comment": "Priest",
+  "jp_string": "ザオリク",
+  "en_string": "Kazing"
+}
