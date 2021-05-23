@@ -8108,15 +8108,15 @@
       },
       {
         "jp_string": "イオ",
-        "en_string": ""
+        "en_string": "Bang"
       },
       {
         "jp_string": "イオグランデ",
-        "en_string": ""
+        "en_string": "Kaboomle"
       },
       {
         "jp_string": "イオナズン",
-        "en_string": ""
+        "en_string": "Kaboom"
       },
       {
         "jp_string": "イオマータ",
@@ -8132,7 +8132,7 @@
       },
       {
         "jp_string": "イオラ",
-        "en_string": ""
+        "en_string": "Boom"
       },
       {
         "jp_string": "いかずち",
@@ -8408,15 +8408,15 @@
       },
       {
         "jp_string": "ヴェレ",
-        "en_string": ""
+        "en_string": "Tox"
       },
       {
         "jp_string": "ヴェレーノ",
-        "en_string": ""
+        "en_string": "Toxle"
       },
       {
         "jp_string": "ヴェレノーマ",
-        "en_string": ""
+        "en_string": "Katoxle"
       },
       {
         "jp_string": "ウォークライ",
@@ -9412,11 +9412,11 @@
       },
       {
         "jp_string": "キアリー",
-        "en_string": ""
+        "en_string": "Squelch"
       },
       {
         "jp_string": "キアリク",
-        "en_string": ""
+        "en_string": "Tingle"
       },
       {
         "jp_string": "ギガクロスブレイク",
@@ -9760,7 +9760,7 @@
       },
       {
         "jp_string": "ギラ",
-        "en_string": ""
+        "en_string": "Sizz"
       },
       {
         "jp_string": "キラークリムゾンが 強化された！",
@@ -9796,7 +9796,7 @@
       },
       {
         "jp_string": "ギラグレイド",
-        "en_string": ""
+        "en_string": "Kasizzle"
       },
       {
         "jp_string": "ギラグレイドⅠ",
@@ -10008,7 +10008,7 @@
       },
       {
         "jp_string": "クモノ",
-        "en_string": ""
+        "en_string": "Web Trap"
       },
       {
         "jp_string": "クモノトラップ",
@@ -10980,7 +10980,7 @@
       },
       {
         "jp_string": "ザオ",
-        "en_string": ""
+        "en_string": "Zin"
       },
       {
         "jp_string": "ザオトーン",
@@ -11000,11 +11000,11 @@
       },
       {
         "jp_string": "ザオラル",
-        "en_string": ""
+        "en_string": "Zing"
       },
       {
         "jp_string": "ザオリク",
-        "en_string": ""
+        "en_string": "Kazing"
       },
       {
         "jp_string": "ザオリク！",
@@ -11024,7 +11024,7 @@
       },
       {
         "jp_string": "ザキ",
-        "en_string": ""
+        "en_string": "Whack"
       },
       {
         "jp_string": "サクリファイス",
@@ -11132,7 +11132,7 @@
       },
       {
         "jp_string": "ザメハ",
-        "en_string": ""
+        "en_string": "Wake Up"
       },
       {
         "jp_string": "ザラキ",
@@ -11740,15 +11740,15 @@
       },
       {
         "jp_string": "ジバリーナ",
-        "en_string": ""
+        "en_string": "Mountainmover"
       },
       {
         "jp_string": "ジバリア",
-        "en_string": ""
+        "en_string": "Rubblerouser"
       },
       {
         "jp_string": "ジバリカ",
-        "en_string": ""
+        "en_string": "Boulderbring"
       },
       {
         "jp_string": "しばり打ち",
@@ -11756,7 +11756,7 @@
       },
       {
         "jp_string": "ジバルンバ",
-        "en_string": ""
+        "en_string": "Ridgeraiser"
       },
       {
         "jp_string": "ジバルンバサンバ",
@@ -12188,7 +12188,7 @@
       },
       {
         "jp_string": "スカラ",
-        "en_string": ""
+        "en_string": "Buff"
       },
       {
         "jp_string": "スカラを使って すかられた！",
@@ -12216,7 +12216,7 @@
       },
       {
         "jp_string": "スクルト",
-        "en_string": ""
+        "en_string": "Kabuff"
       },
       {
         "jp_string": "スケープガード",
@@ -12292,7 +12292,7 @@
       },
       {
         "jp_string": "ズッシード",
-        "en_string": ""
+        "en_string": "Weight"
       },
       {
         "jp_string": "ズッシールド",
@@ -13652,7 +13652,7 @@
       },
       {
         "jp_string": "ディバインスペル",
-        "en_string": ""
+        "en_string": "Divine Intervention"
       },
       {
         "jp_string": "ディバインフェザー",
@@ -14248,19 +14248,19 @@
       },
       {
         "jp_string": "ドルクマ",
-        "en_string": ""
+        "en_string": "Zammle"
       },
       {
         "jp_string": "ドルマ",
-        "en_string": ""
+        "en_string": "Zam"
       },
       {
         "jp_string": "ドルマドン",
-        "en_string": ""
+        "en_string": "Kazammle"
       },
       {
         "jp_string": "ドルモーア",
-        "en_string": ""
+        "en_string": "Kazam"
       },
       {
         "jp_string": "トロ～リなめまわし",
@@ -14708,7 +14708,7 @@
       },
       {
         "jp_string": "バーハ",
-        "en_string": ""
+        "en_string": "Insulate"
       },
       {
         "jp_string": "バーバニキック",
@@ -14744,11 +14744,11 @@
       },
       {
         "jp_string": "バイキルト",
-        "en_string": ""
+        "en_string": "Oomphle"
       },
       {
         "jp_string": "バイシオン",
-        "en_string": ""
+        "en_string": "Oomph"
       },
       {
         "jp_string": "バイシオンと ピオラの効果延長！",
@@ -14808,19 +14808,19 @@
       },
       {
         "jp_string": "バギ",
-        "en_string": ""
+        "en_string": "Woosh"
       },
       {
         "jp_string": "バギクロス",
-        "en_string": ""
+        "en_string": "Kaswoosh"
       },
       {
         "jp_string": "バギマ",
-        "en_string": ""
+        "en_string": "Swoosh"
       },
       {
         "jp_string": "バギムーチョ",
-        "en_string": ""
+        "en_string": "Kaswooshle"
       },
       {
         "jp_string": "バキューム",
@@ -15396,7 +15396,7 @@
       },
       {
         "jp_string": "ピオラ",
-        "en_string": ""
+        "en_string": "Accel"
       },
       {
         "jp_string": "ピオラの杖",
@@ -15404,7 +15404,7 @@
       },
       {
         "jp_string": "ピオリム",
-        "en_string": ""
+        "en_string": "Acceleratle"
       },
       {
         "jp_string": "ピオリム！",
@@ -15584,11 +15584,11 @@
       },
       {
         "jp_string": "ヒャダルコ",
-        "en_string": ""
+        "en_string": "Crackle"
       },
       {
         "jp_string": "ヒャド",
-        "en_string": ""
+        "en_string": "Crack"
       },
       {
         "jp_string": "ヒューザの怒り",
@@ -16004,7 +16004,7 @@
       },
       {
         "jp_string": "フバーハ",
-        "en_string": ""
+        "en_string": "Insulatle"
       },
       {
         "jp_string": "ふはははははっ！ 楽しいですねえ！！",
@@ -16356,11 +16356,11 @@
       },
       {
         "jp_string": "ベギラゴン",
-        "en_string": ""
+        "en_string": "Kasizz"
       },
       {
         "jp_string": "ベギラマ",
-        "en_string": ""
+        "en_string": "Sizzle"
       },
       {
         "jp_string": "ベストスマイル",
@@ -16408,11 +16408,11 @@
       },
       {
         "jp_string": "ヘナトール",
-        "en_string": ""
+        "en_string": "Kablunt"
       },
       {
         "jp_string": "ヘナトス",
-        "en_string": ""
+        "en_string": "Blunt"
       },
       {
         "jp_string": "ベヒードスが 竜牙石を落とす効果をえた",
@@ -16428,7 +16428,7 @@
       },
       {
         "jp_string": "ベホイミ",
-        "en_string": ""
+        "en_string": "Midheal"
       },
       {
         "jp_string": "ベホイム",
@@ -16440,7 +16440,7 @@
       },
       {
         "jp_string": "ベホマ",
-        "en_string": ""
+        "en_string": "Fullheal"
       },
       {
         "jp_string": "ベホマⅠ",
@@ -16460,7 +16460,7 @@
       },
       {
         "jp_string": "ベホマラー",
-        "en_string": ""
+        "en_string": "Multiheal"
       },
       {
         "jp_string": "ベホマラー！",
@@ -16564,7 +16564,7 @@
       },
       {
         "jp_string": "ホイミ",
-        "en_string": ""
+        "en_string": "Heal"
       },
       {
         "jp_string": "ぼうぎょ",
@@ -16740,7 +16740,7 @@
       },
       {
         "jp_string": "ボミエ",
-        "en_string": ""
+        "en_string": "Decel"
       },
       {
         "jp_string": "ボミエトラップ",
@@ -16748,7 +16748,7 @@
       },
       {
         "jp_string": "ボミオス",
-        "en_string": ""
+        "en_string": "Deceleratle"
       },
       {
         "jp_string": "ボミオスラッシュ",
@@ -16980,7 +16980,7 @@
       },
       {
         "jp_string": "マジックバリア",
-        "en_string": ""
+        "en_string": "Magic Barrier"
       },
       {
         "jp_string": "マジックバリアだキュ！",
@@ -17124,7 +17124,7 @@
       },
       {
         "jp_string": "マダンテ",
-        "en_string": ""
+        "en_string": "Magic Burst"
       },
       {
         "jp_string": "マダンテの ＭＰ回復がおわった",
@@ -17160,7 +17160,7 @@
       },
       {
         "jp_string": "マヌーサ",
-        "en_string": ""
+        "en_string": "Dazzle"
       },
       {
         "jp_string": "マヌーサ！",
@@ -17176,7 +17176,7 @@
       },
       {
         "jp_string": "マヌーハ",
-        "en_string": ""
+        "en_string": "Dedazzle"
       },
       {
         "jp_string": "まねまねⅠ",
@@ -17208,7 +17208,7 @@
       },
       {
         "jp_string": "マヒャデドス",
-        "en_string": ""
+        "en_string": "Kacrackle"
       },
       {
         "jp_string": "マヒャデドスⅡ",
@@ -17216,7 +17216,7 @@
       },
       {
         "jp_string": "マヒャド",
-        "en_string": ""
+        "en_string": "Kacrack"
       },
       {
         "jp_string": "マヒャド斬り",
@@ -17260,7 +17260,7 @@
       },
       {
         "jp_string": "マホカンタ",
-        "en_string": ""
+        "en_string": "Bounce"
       },
       {
         "jp_string": "マホカンタが消えた",
@@ -17268,7 +17268,7 @@
       },
       {
         "jp_string": "マホキテ",
-        "en_string": ""
+        "en_string": "Absorb Magic"
       },
       {
         "jp_string": "マホキテが かかった！",
@@ -17284,7 +17284,7 @@
       },
       {
         "jp_string": "マホステ",
-        "en_string": ""
+        "en_string": "Snub"
       },
       {
         "jp_string": "マホステが かかった！",
@@ -17300,11 +17300,11 @@
       },
       {
         "jp_string": "マホターン",
-        "en_string": ""
+        "en_string": "Bound"
       },
       {
         "jp_string": "マホトーン",
-        "en_string": ""
+        "en_string": "Fizzle"
       },
       {
         "jp_string": "マホトーンがとけた",
@@ -17316,7 +17316,7 @@
       },
       {
         "jp_string": "マホトラ",
-        "en_string": ""
+        "en_string": "Drain Magic"
       },
       {
         "jp_string": "マホトラおどり",
@@ -17356,7 +17356,7 @@
       },
       {
         "jp_string": "マホリー",
-        "en_string": ""
+        "en_string": "Defizzle"
       },
       {
         "jp_string": "まぼろしに つつまれた！",
@@ -17832,11 +17832,11 @@
       },
       {
         "jp_string": "メダパニ",
-        "en_string": ""
+        "en_string": "Fuddle"
       },
       {
         "jp_string": "メダパニーマ",
-        "en_string": ""
+        "en_string": "Kafuddle"
       },
       {
         "jp_string": "メダパニエキス",
@@ -17904,11 +17904,11 @@
       },
       {
         "jp_string": "メラ",
-        "en_string": ""
+        "en_string": "Frizz"
       },
       {
         "jp_string": "メラガイアー",
-        "en_string": ""
+        "en_string": "Kafrizzle"
       },
       {
         "jp_string": "メラガイアー！",
@@ -17924,7 +17924,7 @@
       },
       {
         "jp_string": "メラゾーマ",
-        "en_string": ""
+        "en_string": "Kafrizz"
       },
       {
         "jp_string": "メラゾストーム",
@@ -17940,7 +17940,7 @@
       },
       {
         "jp_string": "メラミ",
-        "en_string": ""
+        "en_string": "Frizzle"
       },
       {
         "jp_string": "メルキドの秘法",
@@ -18548,11 +18548,11 @@
       },
       {
         "jp_string": "ラリホー",
-        "en_string": ""
+        "en_string": "Snooze"
       },
       {
         "jp_string": "ラリホーマ",
-        "en_string": ""
+        "en_string": "Kasnooze"
       },
       {
         "jp_string": "ラリホーマⅡ",
@@ -18640,7 +18640,7 @@
       },
       {
         "jp_string": "リベホイミ",
-        "en_string": ""
+        "en_string": "Remidheal"
       },
       {
         "jp_string": "リベホイミの ＨＰ回復がおわった",
@@ -18648,7 +18648,7 @@
       },
       {
         "jp_string": "リベホイム",
-        "en_string": ""
+        "en_string": "Remoreheal"
       },
       {
         "jp_string": "リベホイムの ＨＰ回復がおわった",
@@ -18656,7 +18656,7 @@
       },
       {
         "jp_string": "リホイミ",
-        "en_string": ""
+        "en_string": "Reheal"
       },
       {
         "jp_string": "リホイミソフト",
@@ -18732,7 +18732,7 @@
       },
       {
         "jp_string": "ルカナン",
-        "en_string": ""
+        "en_string": "Kasap"
       },
       {
         "jp_string": "ルカナンでも となえるかなん！",
@@ -18740,7 +18740,7 @@
       },
       {
         "jp_string": "ルカニ",
-        "en_string": ""
+        "en_string": "Sap"
       },
       {
         "jp_string": "ルカニ斬り",
