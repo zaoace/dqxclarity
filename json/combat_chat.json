@@ -9432,15 +9432,15 @@
       },
       {
         "jp_string": "ギガスロー",
-        "en_string": ""
+        "en_string": "Gigathrow"
       },
       {
         "jp_string": "ギガスローⅠ",
-        "en_string": ""
+        "en_string": "Gigathrow I"
       },
       {
         "jp_string": "ギガスローⅡ",
-        "en_string": ""
+        "en_string": "Gigathrow II"
       },
       {
         "jp_string": "ギガデイン",
@@ -10252,7 +10252,7 @@
       },
       {
         "jp_string": "けもの突き",
-        "en_string": ""
+        "en_string": "Cattle Prod"
       },
       {
         "jp_string": "ゲルト海峡で泳げると。そりゃ快挙うだ！",
@@ -11104,7 +11104,7 @@
       },
       {
         "jp_string": "さみだれうち",
-        "en_string": ""
+        "en_string": "Rain of Pain"
       },
       {
         "jp_string": "さみだれ斬り",
@@ -11112,7 +11112,7 @@
       },
       {
         "jp_string": "さみだれ突き",
-        "en_string": ""
+        "en_string": "Multithrust"
       },
       {
         "jp_string": "サメガードダッシュ",
@@ -11356,7 +11356,7 @@
       },
       {
         "jp_string": "サンダーボルト",
-        "en_string": ""
+        "en_string": "Thunderbolt"
       },
       {
         "jp_string": "サンドブレス",
@@ -11364,11 +11364,11 @@
       },
       {
         "jp_string": "サンライトアローⅠ",
-        "en_string": ""
+        "en_string": "Sunlight Arrow I"
       },
       {
         "jp_string": "サンライトアローⅡ",
-        "en_string": ""
+        "en_string": "Sunlight Arrow II"
       },
       {
         "jp_string": "シールドーナツ",
@@ -11692,7 +11692,7 @@
       },
       {
         "jp_string": "ジゴスパーク",
-        "en_string": ""
+        "en_string": "Lightning Storm"
       },
       {
         "jp_string": "ジゴデイン",
@@ -11844,7 +11844,7 @@
       },
       {
         "jp_string": "シャイニングボウ",
-        "en_string": ""
+        "en_string": "Shining Shot"
       },
       {
         "jp_string": "ジャイラインパクト",
@@ -11852,11 +11852,11 @@
       },
       {
         "jp_string": "シャインスコール",
-        "en_string": ""
+        "en_string": "Starburst Throw"
       },
       {
         "jp_string": "シャインスコール！",
-        "en_string": ""
+        "en_string": "Starburst Throw!"
       },
       {
         "jp_string": "シャインスコール準備",
@@ -12184,7 +12184,7 @@
       },
       {
         "jp_string": "スカウトアタック",
-        "en_string": ""
+        "en_string": "Scout Strike"
       },
       {
         "jp_string": "スカラ",
@@ -12628,7 +12628,7 @@
       },
       {
         "jp_string": "スライムブロウ",
-        "en_string": ""
+        "en_string": "Ooze Bruiser"
       },
       {
         "jp_string": "スライムをふらし 周囲を巻きこむ ダメージを与える",
@@ -12752,7 +12752,7 @@
       },
       {
         "jp_string": "ダークネスショット",
-        "en_string": ""
+        "en_string": "Darkness Shot"
       },
       {
         "jp_string": "ダークネスブレス",
@@ -13488,7 +13488,7 @@
       },
       {
         "jp_string": "チューンナップ",
-        "en_string": ""
+        "en_string": "Tune-Up"
       },
       {
         "jp_string": "チョコシャワー",
@@ -13800,7 +13800,7 @@
       },
       {
         "jp_string": "デュアルカッター",
-        "en_string": ""
+        "en_string": "Twomerang"
       },
       {
         "jp_string": "デュアルクロー",
@@ -13812,7 +13812,7 @@
       },
       {
         "jp_string": "デュアルブレイカー",
-        "en_string": ""
+        "en_string": "Double Down"
       },
       {
         "jp_string": "テンオツ貴人の <%sB_ACTION>！",
@@ -13984,7 +13984,7 @@
       },
       {
         "jp_string": "どうぐ倍化術",
-        "en_string": ""
+        "en_string": "Item Doubling Tech"
       },
       {
         "jp_string": "どうぐ効果範囲が もとにもどった",
@@ -13996,15 +13996,15 @@
       },
       {
         "jp_string": "どうぐ最適術Ⅰ",
-        "en_string": ""
+        "en_string": "Optimal Item Tech I"
       },
       {
         "jp_string": "どうぐ最適術Ⅱ",
-        "en_string": ""
+        "en_string": "Optimal Item Tech II"
       },
       {
         "jp_string": "どうぐ最適術Ⅲ",
-        "en_string": ""
+        "en_string": "Optimal Item Tech III"
       },
       {
         "jp_string": "どうぐ最適術の ガード効果がきえた",
@@ -14020,7 +14020,7 @@
       },
       {
         "jp_string": "どうぐ範囲化術",
-        "en_string": ""
+        "en_string": "Item Range Tech"
       },
       {
         "jp_string": "とうこんアタック",
@@ -14208,7 +14208,7 @@
       },
       {
         "jp_string": "トラップジャマー",
-        "en_string": ""
+        "en_string": "Trap Jammer"
       },
       {
         "jp_string": "トラップにかかった！",
@@ -14692,7 +14692,7 @@
       },
       {
         "jp_string": "バードシュート",
-        "en_string": ""
+        "en_string": "Flutter Disaster"
       },
       {
         "jp_string": "バードスラッシュ",
@@ -14704,7 +14704,7 @@
       },
       {
         "jp_string": "バーニングバード",
-        "en_string": ""
+        "en_string": "Firebird Throw"
       },
       {
         "jp_string": "バーハ",
@@ -15288,7 +15288,7 @@
       },
       {
         "jp_string": "パワフルスロー",
-        "en_string": ""
+        "en_string": "Power Throw"
       },
       {
         "jp_string": "パワフルスロー・改",
@@ -16052,7 +16052,7 @@
       },
       {
         "jp_string": "プラズマリムーバー",
-        "en_string": ""
+        "en_string": "Plasma Reomver"
       },
       {
         "jp_string": "フラタイフーン",
@@ -16260,7 +16260,7 @@
       },
       {
         "jp_string": "フローズンバード",
-        "en_string": ""
+        "en_string": "Icebird Throw"
       },
       {
         "jp_string": "フローラルターン",
@@ -16964,7 +16964,7 @@
       },
       {
         "jp_string": "マジックアロー",
-        "en_string": ""
+        "en_string": "Conjury Conductor"
       },
       {
         "jp_string": "マジックシールド",
@@ -17852,7 +17852,7 @@
       },
       {
         "jp_string": "メタルウィング",
-        "en_string": ""
+        "en_string": "Metalicker"
       },
       {
         "jp_string": "メタルスライムを しとメタル！",
@@ -17896,7 +17896,7 @@
       },
       {
         "jp_string": "メディカルデバイス",
-        "en_string": ""
+        "en_string": "Medical Device"
       },
       {
         "jp_string": "メテオストライク",
@@ -18808,19 +18808,19 @@
       },
       {
         "jp_string": "レボルスライサー",
-        "en_string": ""
+        "en_string": "Revol Slicer"
       },
       {
         "jp_string": "レボルスライサーⅠ",
-        "en_string": ""
+        "en_string": "Revol Slicer I"
       },
       {
         "jp_string": "レボルスライサーⅡ",
-        "en_string": ""
+        "en_string": "Revol Slicer II"
       },
       {
         "jp_string": "レボルスライサーⅢ",
-        "en_string": ""
+        "en_string": "Revol Slicer III"
       },
       {
         "jp_string": "れんけい攻撃",
@@ -18900,19 +18900,19 @@
       },
       {
         "jp_string": "ロストスナイプ",
-        "en_string": ""
+        "en_string": "Lost Snipe"
       },
       {
         "jp_string": "ロストスナイプⅠ",
-        "en_string": ""
+        "en_string": "Lost Snipe I"
       },
       {
         "jp_string": "ロストスナイプⅡ",
-        "en_string": ""
+        "en_string": "Lost Snipe II"
       },
       {
         "jp_string": "ロストスナイプⅢ",
-        "en_string": ""
+        "en_string": "Lost Snipe III"
       },
       {
         "jp_string": "ロストスラッシュ",
@@ -19140,11 +19140,11 @@
       },
       {
         "jp_string": "一閃突き",
-        "en_string": ""
+        "en_string": "T. Thrust"
       },
       {
         "jp_string": "一閃突き・改",
-        "en_string": ""
+        "en_string": "L. Thrust Kai"
       },
       {
         "jp_string": "七味闘辛死",
@@ -22136,7 +22136,7 @@
       },
       {
         "jp_string": "天使の矢",
-        "en_string": ""
+        "en_string": "Holy Arrow"
       },
       {
         "jp_string": "天候リセット",
@@ -22928,7 +22928,7 @@
       },
       {
         "jp_string": "弓聖の守り星",
-        "en_string": ""
+        "en_string": "Guardian Star"
       },
       {
         "jp_string": "弓聖の守り星が きえた",
@@ -22988,7 +22988,7 @@
       },
       {
         "jp_string": "強化ガジェット零式",
-        "en_string": ""
+        "en_string": "Gadget Type-0"
       },
       {
         "jp_string": "強化の陣",
@@ -26489,7 +26489,7 @@
       },
       {
         "jp_string": "狼牙突き",
-        "en_string": ""
+        "en_string": "Wolfsbane"
       },
       {
         "jp_string": "猛きたましい",
@@ -27101,7 +27101,7 @@
       },
       {
         "jp_string": "磁界シールド",
-        "en_string": ""
+        "en_string": "Magnetic Shield"
       },
       {
         "jp_string": "祈りのゴスペル",
@@ -30553,7 +30553,7 @@
       },
       {
         "jp_string": "雷鳴突き",
-        "en_string": ""
+        "en_string": "L. Thrust"
       },
       {
         "jp_string": "電撃ボール",
