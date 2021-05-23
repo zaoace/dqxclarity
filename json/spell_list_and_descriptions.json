@@ -144,7 +144,7 @@
       },
       {
         "jp_string": "けもの突き",
-        "en_string": ""
+        "en_string": "Cattle Prod"
       },
       {
         "jp_string": "げきりんのさとり",
@@ -280,11 +280,11 @@
       },
       {
         "jp_string": "さみだれうち",
-        "en_string": ""
+        "en_string": "Rain of Pain"
       },
       {
         "jp_string": "さみだれ突き",
-        "en_string": ""
+        "en_string": "Multithrust"
       },
       {
         "jp_string": "さらに呪文が 暴走しやすくなる 魔法陣を作る",
@@ -416,7 +416,7 @@
       },
       {
         "jp_string": "どうぐ倍化術",
-        "en_string": ""
+        "en_string": "Item Doubling Tech"
       },
       {
         "jp_string": "どうぐ発動速度短縮",
@@ -424,7 +424,7 @@
       },
       {
         "jp_string": "どうぐ範囲化術",
-        "en_string": ""
+        "en_string": "Item Range Tech"
       },
       {
         "jp_string": "なぎはらい",
@@ -884,7 +884,7 @@
       },
       {
         "jp_string": "サンダーボルト",
-        "en_string": ""
+        "en_string": "Thunderbolt"
       },
       {
         "jp_string": "ザオ",
@@ -908,11 +908,11 @@
       },
       {
         "jp_string": "シャイニングボウ",
-        "en_string": ""
+        "en_string": "Shining Shot"
       },
       {
         "jp_string": "シャインスコール",
-        "en_string": ""
+        "en_string": "Starburst Throw"
       },
       {
         "jp_string": "シャインステッキ",
@@ -928,7 +928,7 @@
       },
       {
         "jp_string": "ジゴスパーク",
-        "en_string": ""
+        "en_string": "Lightning Storm"
       },
       {
         "jp_string": "ジバリア",
@@ -948,7 +948,7 @@
       },
       {
         "jp_string": "スカウトアタック",
-        "en_string": ""
+        "en_string": "Scout Srike"
       },
       {
         "jp_string": "スカウト率アップ",
@@ -1056,7 +1056,7 @@
       },
       {
         "jp_string": "スライムブロウ",
-        "en_string": ""
+        "en_string": "Ooze Bruiser"
       },
       {
         "jp_string": "スライム系の敵に 威力を発揮する ブーメランの妙技",
@@ -1160,7 +1160,7 @@
       },
       {
         "jp_string": "ダークネスショット",
-        "en_string": ""
+        "en_string": "Darkness Shot"
       },
       {
         "jp_string": "ダークフォース",
@@ -1204,7 +1204,7 @@
       },
       {
         "jp_string": "チューンナップ",
-        "en_string": ""
+        "en_string": "Tune-Up"
       },
       {
         "jp_string": "ツッコんで 仲間ひとりを われに返す",
@@ -1288,15 +1288,15 @@
       },
       {
         "jp_string": "デュアルカッター",
-        "en_string": ""
+        "en_string": "Twomerang"
       },
       {
         "jp_string": "デュアルブレイカー",
-        "en_string": ""
+        "en_string": "Double Down"
       },
       {
         "jp_string": "トラップジャマー",
-        "en_string": ""
+        "en_string": "Trap Jammer"
       },
       {
         "jp_string": "ドラゴンステップ",
@@ -1464,11 +1464,11 @@
       },
       {
         "jp_string": "バードシュート",
-        "en_string": ""
+        "en_string": "Flutter Disaster"
       },
       {
         "jp_string": "バーニングバード",
-        "en_string": ""
+        "en_string": "Firebird Throw"
       },
       {
         "jp_string": "バーハ",
@@ -1500,7 +1500,7 @@
       },
       {
         "jp_string": "パワフルスロー",
-        "en_string": ""
+        "en_string": "Power Throw"
       },
       {
         "jp_string": "ヒャダルコ",
@@ -1580,7 +1580,7 @@
       },
       {
         "jp_string": "フローズンバード",
-        "en_string": ""
+        "en_string": "Icebird Throw"
       },
       {
         "jp_string": "ブレスクラッシュ",
@@ -1628,7 +1628,7 @@
       },
       {
         "jp_string": "プラズマリムーバー",
-        "en_string": ""
+        "en_string": "Plasma Remover"
       },
       {
         "jp_string": "プレートインパクト",
@@ -1724,7 +1724,7 @@
       },
       {
         "jp_string": "マジックアロー",
-        "en_string": ""
+        "en_string": "Conjury Conductor"
       },
       {
         "jp_string": "マジックバリア",
@@ -1860,7 +1860,7 @@
       },
       {
         "jp_string": "メタルウィング",
-        "en_string": ""
+        "en_string": "Metalicker"
       },
       {
         "jp_string": "メタルトラップ",
@@ -1884,7 +1884,7 @@
       },
       {
         "jp_string": "メディカルデバイス",
-        "en_string": ""
+        "en_string": "Medical Device"
       },
       {
         "jp_string": "メラ",
@@ -2060,11 +2060,11 @@
       },
       {
         "jp_string": "一閃突き",
-        "en_string": ""
+        "en_string": "T. Thrust"
       },
       {
         "jp_string": "一閃突き・改",
-        "en_string": ""
+        "en_string": "L. Thrust Kai"
       },
       {
         "jp_string": "不思議なきりで ブレスを1回回避 レンジャー専用",
@@ -2768,7 +2768,7 @@
       },
       {
         "jp_string": "天使の矢",
-        "en_string": ""
+        "en_string": "Holy Arrow"
       },
       {
         "jp_string": "天地のかまえ",
@@ -2860,7 +2860,7 @@
       },
       {
         "jp_string": "弓聖の守り星",
-        "en_string": ""
+        "en_string": "Guardian Star"
       },
       {
         "jp_string": "弓装備時の かいしん率が ３％増える",
@@ -2884,7 +2884,7 @@
       },
       {
         "jp_string": "強化ガジェット零式",
-        "en_string": ""
+        "en_string": "Gadget Type-0"
       },
       {
         "jp_string": "復活の杖",
@@ -3664,7 +3664,7 @@
       },
       {
         "jp_string": "狼牙突き",
-        "en_string": ""
+        "en_string": "Wolfsbane"
       },
       {
         "jp_string": "獣神のごとく 敵１体を ５連続で斬り刻む",
@@ -3800,7 +3800,7 @@
       },
       {
         "jp_string": "磁界シールド",
-        "en_string": ""
+        "en_string": "Magnetic Shield"
       },
       {
         "jp_string": "祈りのゴスペル",
@@ -4244,7 +4244,7 @@
       },
       {
         "jp_string": "雷鳴突き",
-        "en_string": ""
+        "en_string": "L. Thrust"
       },
       {
         "jp_string": "頭上から 敵１体を斬りつけ 大ダメージ",
