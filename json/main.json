@@ -16743,10 +16743,12 @@
         "en_string": "will appear."
       },
       {
+        "line_break": true,
         "jp_string": "倒すと　光る宝箱を",
-        "en_string": "A chest that|glows when defeated"
+        "en_string": "Chest glows|when defeated"
       },
       {
+        "line_break": true,
         "jp_string": "開けることが　できます。",
         "en_string": "You can|open it."
       },
@@ -17052,11 +17054,11 @@
       },
       {
         "jp_string": "戦士",
-        "en_string": "Warrior"
+        "en_string": "WAR"
       },
       {
         "jp_string": "戦士や武闘家が",
-        "en_string": "Warriors&Martial Art"
+        "en_string": "WAR&MAR"
       },
       {
         "jp_string": "使える特技を",
