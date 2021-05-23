@@ -7480,7 +7480,7 @@
       },
       {
         "jp_string": "ＨＰパサー",
-        "en_string": ""
+        "en_string": "H-Pathy"
       },
       {
         "jp_string": "ＨＰリンク",
@@ -7564,7 +7564,7 @@
       },
       {
         "jp_string": "ＭＰブレイク",
-        "en_string": ""
+        "en_string": "MP Break"
       },
       {
         "jp_string": "ＭＰリンク",
@@ -7668,11 +7668,11 @@
       },
       {
         "jp_string": "アースクラッシュⅠ",
-        "en_string": ""
+        "en_string": "Earth Crash I"
       },
       {
         "jp_string": "アースクラッシュⅡ",
-        "en_string": ""
+        "en_string": "Earth Crash II"
       },
       {
         "jp_string": "アーマービスケ",
@@ -7684,19 +7684,19 @@
       },
       {
         "jp_string": "アイギスの守り",
-        "en_string": ""
+        "en_string": "Aegis Defense"
       },
       {
         "jp_string": "アイギスの守りⅠ",
-        "en_string": ""
+        "en_string": "Aegis Defense I"
       },
       {
         "jp_string": "アイギスの守りⅡ",
-        "en_string": ""
+        "en_string": "Aegis Defense II"
       },
       {
         "jp_string": "アイギスの守りⅢ",
-        "en_string": ""
+        "en_string": "Aegis Defense III"
       },
       {
         "jp_string": "アイギスの守りが かかった！",
@@ -8396,7 +8396,7 @@
       },
       {
         "jp_string": "ウェイトブレイク",
-        "en_string": ""
+        "en_string": "Weight Break"
       },
       {
         "jp_string": "ウェディたちよ！ ウェディーゴー！",
@@ -8932,7 +8932,7 @@
       },
       {
         "jp_string": "オノむそう",
-        "en_string": ""
+        "en_string": "Axes of Evil"
       },
       {
         "jp_string": "おのれェェェ！ 忌々しき雑音めが！",
@@ -9176,7 +9176,7 @@
       },
       {
         "jp_string": "かえん斬り",
-        "en_string": ""
+        "en_string": "Flame Slash"
       },
       {
         "jp_string": "ガオー！",
@@ -9300,7 +9300,7 @@
       },
       {
         "jp_string": "かばう",
-        "en_string": ""
+        "en_string": "Whip Boy"
       },
       {
         "jp_string": "かばうのをやめた",
@@ -9320,7 +9320,7 @@
       },
       {
         "jp_string": "かぶと割り",
-        "en_string": ""
+        "en_string": "Helm Splitter"
       },
       {
         "jp_string": "かぶと割り女",
@@ -9424,7 +9424,7 @@
       },
       {
         "jp_string": "ギガスラッシュ",
-        "en_string": ""
+        "en_string": "Gigaslash"
       },
       {
         "jp_string": "ギガスラ制御",
@@ -9448,7 +9448,7 @@
       },
       {
         "jp_string": "ギガブレイク",
-        "en_string": ""
+        "en_string": "Gigagash"
       },
       {
         "jp_string": "ギガボンバー",
@@ -9724,7 +9724,7 @@
       },
       {
         "jp_string": "キャンセルショット",
-        "en_string": ""
+        "en_string": "Cancel Shot"
       },
       {
         "jp_string": "キャンディドロップ",
@@ -9780,7 +9780,7 @@
       },
       {
         "jp_string": "キラキラポーン",
-        "en_string": ""
+        "en_string": "Glitter Pawn"
       },
       {
         "jp_string": "キラキラポーンが きえた",
@@ -10056,7 +10056,7 @@
       },
       {
         "jp_string": "グランドネビュラ",
-        "en_string": ""
+        "en_string": "Solar Flair"
       },
       {
         "jp_string": "グランドプクロス",
@@ -11376,7 +11376,7 @@
       },
       {
         "jp_string": "シールドアタック",
-        "en_string": ""
+        "en_string": "Blockenspiel"
       },
       {
         "jp_string": "シールドカウンター",
@@ -11408,7 +11408,7 @@
       },
       {
         "jp_string": "シールドブレイク",
-        "en_string": ""
+        "en_string": "Shield Break"
       },
       {
         "jp_string": "ジェネラル・ブレイク",
@@ -11864,7 +11864,7 @@
       },
       {
         "jp_string": "シャインステッキ",
-        "en_string": ""
+        "en_string": "Shine Stick"
       },
       {
         "jp_string": "シャインソード",
@@ -12260,7 +12260,7 @@
       },
       {
         "jp_string": "スタンショット",
-        "en_string": ""
+        "en_string": "Stun Shot"
       },
       {
         "jp_string": "スタンゾーン",
@@ -12464,11 +12464,11 @@
       },
       {
         "jp_string": "スピリットゾーンⅠ",
-        "en_string": ""
+        "en_string": "Spirit Zone I"
       },
       {
         "jp_string": "スピリットゾーンⅡ",
-        "en_string": ""
+        "en_string": "Spirit Zone II"
       },
       {
         "jp_string": "スピリットゾーンの ＭＰ回復がおわった",
@@ -12556,7 +12556,7 @@
       },
       {
         "jp_string": "スペルガード",
-        "en_string": ""
+        "en_string": "Spell Guard"
       },
       {
         "jp_string": "スペルガードが かかった！",
@@ -12824,7 +12824,7 @@
       },
       {
         "jp_string": "たいあたり",
-        "en_string": ""
+        "en_string": "Body Slam"
       },
       {
         "jp_string": "たいあたりⅡ",
@@ -12852,7 +12852,7 @@
       },
       {
         "jp_string": "たいぼく斬",
-        "en_string": ""
+        "en_string": "Poplar Toppler"
       },
       {
         "jp_string": "ダイヤモンドダスト",
@@ -13348,11 +13348,11 @@
       },
       {
         "jp_string": "ちからの盾Ⅰ",
-        "en_string": ""
+        "en_string": "Strength Shield I"
       },
       {
         "jp_string": "ちからの盾Ⅱ",
-        "en_string": ""
+        "en_string": "Strength Shield II"
       },
       {
         "jp_string": "ちからをためた！",
@@ -13456,7 +13456,7 @@
       },
       {
         "jp_string": "チャージタックル",
-        "en_string": ""
+        "en_string": "Charge Tackle"
       },
       {
         "jp_string": "チャージタックルで ひったっくる！",
@@ -13676,7 +13676,7 @@
       },
       {
         "jp_string": "ティンクルバトン",
-        "en_string": ""
+        "en_string": "Tinkle Baton"
       },
       {
         "jp_string": "デス・スコルピオ",
@@ -13780,19 +13780,19 @@
       },
       {
         "jp_string": "デビルクラッシュⅠ",
-        "en_string": ""
+        "en_string": "Devil Crush I"
       },
       {
         "jp_string": "デビルクラッシュⅡ",
-        "en_string": ""
+        "en_string": "Devil Crush II"
       },
       {
         "jp_string": "デビルクラッシュⅢ",
-        "en_string": ""
+        "en_string": "Devil Crush III"
       },
       {
         "jp_string": "デビルンチャーム",
-        "en_string": ""
+        "en_string": "Devil's Delight"
       },
       {
         "jp_string": "デポップアクション",
@@ -14152,7 +14152,7 @@
       },
       {
         "jp_string": "ドラゴンスラッシュ",
-        "en_string": ""
+        "en_string": "Hydra Slash"
       },
       {
         "jp_string": "ドラゴンソード",
@@ -14176,7 +14176,7 @@
       },
       {
         "jp_string": "ドラゴン斬り",
-        "en_string": ""
+        "en_string": "Dragon Slash"
       },
       {
         "jp_string": "ドラゴン系の敵に 威力を発揮する 竜殺しのひと振り",
@@ -14224,7 +14224,7 @@
       },
       {
         "jp_string": "ドラムクラッシュ",
-        "en_string": ""
+        "en_string": "Monster Masher"
       },
       {
         "jp_string": "とりはだがたった！",
@@ -14492,7 +14492,7 @@
       },
       {
         "jp_string": "におうだち",
-        "en_string": ""
+        "en_string": "Forbearance"
       },
       {
         "jp_string": "にぎりつぶす",
@@ -15064,7 +15064,7 @@
       },
       {
         "jp_string": "パニパニハニー",
-        "en_string": ""
+        "en_string": "Pani Honey"
       },
       {
         "jp_string": "はにゃ～ん",
@@ -15128,7 +15128,7 @@
       },
       {
         "jp_string": "はやぶさ斬り",
-        "en_string": ""
+        "en_string": "Falcon Slash"
       },
       {
         "jp_string": "はやわざ",
@@ -15140,7 +15140,7 @@
       },
       {
         "jp_string": "パラディンガード",
-        "en_string": ""
+        "en_string": "Knight's Watch"
       },
       {
         "jp_string": "パラディンガード！",
@@ -15476,7 +15476,7 @@
       },
       {
         "jp_string": "ビッグシールド",
-        "en_string": ""
+        "en_string": "Immense Defence"
       },
       {
         "jp_string": "ビッグドリーム 出現効果がきえた",
@@ -15496,7 +15496,7 @@
       },
       {
         "jp_string": "ビッグバン",
-        "en_string": ""
+        "en_string": "Big Banga"
       },
       {
         "jp_string": "ビックリさせた！",
@@ -15784,7 +15784,7 @@
       },
       {
         "jp_string": "ファランクス",
-        "en_string": ""
+        "en_string": "Phalanx"
       },
       {
         "jp_string": "ファランクスが かかった！",
@@ -16036,7 +16036,7 @@
       },
       {
         "jp_string": "ブラストビネガー",
-        "en_string": ""
+        "en_string": "Plasma Blade"
       },
       {
         "jp_string": "プラズマブレードⅠ",
@@ -16100,7 +16100,7 @@
       },
       {
         "jp_string": "フリーズブレード",
-        "en_string": ""
+        "en_string": "Frost Fangs"
       },
       {
         "jp_string": "ふりおろし",
@@ -16144,11 +16144,11 @@
       },
       {
         "jp_string": "プレートインパクト",
-        "en_string": ""
+        "en_string": "Plate Impact"
       },
       {
         "jp_string": "ブレードガード",
-        "en_string": ""
+        "en_string": "Greatsword Guard"
       },
       {
         "jp_string": "ブレイクブレス",
@@ -16160,11 +16160,11 @@
       },
       {
         "jp_string": "ブレイブチャージⅠ",
-        "en_string": ""
+        "en_string": "Brave Charge I"
       },
       {
         "jp_string": "ブレイブチャージⅡ",
-        "en_string": ""
+        "en_string": "Brave Charge II"
       },
       {
         "jp_string": "ブレイブチャージの 効果がきえた",
@@ -16328,7 +16328,7 @@
       },
       {
         "jp_string": "ぶんまわし",
-        "en_string": ""
+        "en_string": "Helichopter"
       },
       {
         "jp_string": "ぶんれつ",
@@ -16344,7 +16344,7 @@
       },
       {
         "jp_string": "ヘヴィチャージ",
-        "en_string": ""
+        "en_string": "Heavy Charge"
       },
       {
         "jp_string": "ヘヴィチャージの 効果がきえた",
@@ -16568,7 +16568,7 @@
       },
       {
         "jp_string": "ぼうぎょ",
-        "en_string": ""
+        "en_string": "Defend"
       },
       {
         "jp_string": "ぼうぎょシールド",
@@ -16660,15 +16660,15 @@
       },
       {
         "jp_string": "ホップスティックⅠ",
-        "en_string": ""
+        "en_string": "Hop Stick I"
       },
       {
         "jp_string": "ホップスティックⅡ",
-        "en_string": ""
+        "en_string": "Hop Stick II"
       },
       {
         "jp_string": "ホップスティックⅢ",
-        "en_string": ""
+        "en_string": "Hop Stick III"
       },
       {
         "jp_string": "ホップスティックが きえた",
@@ -16956,7 +16956,7 @@
       },
       {
         "jp_string": "マジステッキ",
-        "en_string": ""
+        "en_string": "Magistick"
       },
       {
         "jp_string": "マジステッキ まじステッキ！",
@@ -17092,7 +17092,7 @@
       },
       {
         "jp_string": "まじん斬り",
-        "en_string": ""
+        "en_string": "Hatchet Man"
       },
       {
         "jp_string": "マシン系の敵に 威力を発揮する 鋼鉄を切り裂く拳",
@@ -17396,7 +17396,7 @@
       },
       {
         "jp_string": "まもりのたて",
-        "en_string": ""
+        "en_string": "Holy Impregnable"
       },
       {
         "jp_string": "まもりのたての効果が きえた",
@@ -17620,7 +17620,7 @@
       },
       {
         "jp_string": "ミラクルソード",
-        "en_string": ""
+        "en_string": "Miracle Slash"
       },
       {
         "jp_string": "ミラクルゾーン",
@@ -18136,7 +18136,7 @@
       },
       {
         "jp_string": "やいばくだき",
-        "en_string": ""
+        "en_string": "Attack Attacker"
       },
       {
         "jp_string": "やいばに 全身を包んで 自分の身を守る",
@@ -18144,7 +18144,7 @@
       },
       {
         "jp_string": "やいばのぼうぎょ",
-        "en_string": ""
+        "en_string": "Pincushion"
       },
       {
         "jp_string": "やいばのぼうぎょで はんげき！ \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに <%dB_VALUE>のダメージ！",
@@ -18516,7 +18516,7 @@
       },
       {
         "jp_string": "ラピッドステッキ",
-        "en_string": ""
+        "en_string": "Rapid Stick"
       },
       {
         "jp_string": "ラピッドステッキの 効果がきえた",
@@ -18584,7 +18584,7 @@
       },
       {
         "jp_string": "ランドインパクト",
-        "en_string": ""
+        "en_string": "Crackerwhack"
       },
       {
         "jp_string": "ランドプレス",
@@ -18896,7 +18896,7 @@
       },
       {
         "jp_string": "ロストアタック",
-        "en_string": ""
+        "en_string": "Morale Masher"
       },
       {
         "jp_string": "ロストスナイプ",
@@ -18920,15 +18920,15 @@
       },
       {
         "jp_string": "ロストブレイクⅠ",
-        "en_string": ""
+        "en_string": "Lost Break I"
       },
       {
         "jp_string": "ロストブレイクⅡ",
-        "en_string": ""
+        "en_string": "Lost Break II"
       },
       {
         "jp_string": "ロストブレイクⅢ",
-        "en_string": ""
+        "en_string": "Lost Break III"
       },
       {
         "jp_string": "ロックアップ",
@@ -19200,15 +19200,15 @@
       },
       {
         "jp_string": "不動のかまえⅠ",
-        "en_string": ""
+        "en_string": "Immovable Stance I"
       },
       {
         "jp_string": "不動のかまえⅡ",
-        "en_string": ""
+        "en_string": "Immovable Stance II"
       },
       {
         "jp_string": "不動のかまえⅢ",
-        "en_string": ""
+        "en_string": "Immovable Stance III"
       },
       {
         "jp_string": "不思議そうに こちらをみている",
@@ -19248,15 +19248,15 @@
       },
       {
         "jp_string": "不死鳥天舞Ⅰ",
-        "en_string": ""
+        "en_string": "Phoenix Tenma I"
       },
       {
         "jp_string": "不死鳥天舞Ⅱ",
-        "en_string": ""
+        "en_string": "Phoenix Tenma II"
       },
       {
         "jp_string": "不死鳥天舞Ⅲ",
-        "en_string": ""
+        "en_string": "Phoenix Tenma III"
       },
       {
         "jp_string": "不気味に微笑み 詠唱をはじめた……",
@@ -19708,7 +19708,7 @@
       },
       {
         "jp_string": "会心ガード",
-        "en_string": ""
+        "en_string": "Critical Guard"
       },
       {
         "jp_string": "会心ガード！",
@@ -19792,7 +19792,7 @@
       },
       {
         "jp_string": "会心必中",
-        "en_string": ""
+        "en_string": "Crit Claim"
       },
       {
         "jp_string": "会心攻撃が 必ず出る 夢の大技！",
@@ -20088,7 +20088,7 @@
       },
       {
         "jp_string": "全身全霊斬り",
-        "en_string": ""
+        "en_string": "Unbridled Blade"
       },
       {
         "jp_string": "八門崩絶",
@@ -21916,7 +21916,7 @@
       },
       {
         "jp_string": "大ぼうぎょ",
-        "en_string": ""
+        "en_string": "Defending Champ"
       },
       {
         "jp_string": "大丈夫？　しっかり！",
@@ -22012,11 +22012,11 @@
       },
       {
         "jp_string": "大地裂断Ⅰ",
-        "en_string": ""
+        "en_string": "Earth Breach I"
       },
       {
         "jp_string": "大地裂断Ⅱ",
-        "en_string": ""
+        "en_string": "Earth Breach II"
       },
       {
         "jp_string": "大声で歌いだした！ 混乱の効果！",
@@ -22028,7 +22028,7 @@
       },
       {
         "jp_string": "大旋風斬りⅠ",
-        "en_string": ""
+        "en_string": "Whirlwind Slash"
       },
       {
         "jp_string": "大旋風斬りⅡ",
@@ -25761,7 +25761,7 @@
       },
       {
         "jp_string": "渾身斬り",
-        "en_string": ""
+        "en_string": "Cutting Edge"
       },
       {
         "jp_string": "湯の花音頭",
@@ -26849,7 +26849,7 @@
       },
       {
         "jp_string": "真・オノむそう",
-        "en_string": ""
+        "en_string": "True Unmatched Axe"
       },
       {
         "jp_string": "真・かぶと割り",
@@ -26857,7 +26857,7 @@
       },
       {
         "jp_string": "真・やいばくだき",
-        "en_string": ""
+        "en_string": "True Crushing Blade"
       },
       {
         "jp_string": "真・らいめい斬り",
@@ -28257,7 +28257,7 @@
       },
       {
         "jp_string": "聖騎士の堅陣",
-        "en_string": ""
+        "en_string": "Strong Team"
       },
       {
         "jp_string": "聖騎士の堅陣！",
@@ -28617,7 +28617,7 @@
       },
       {
         "jp_string": "蒼天魔斬",
-        "en_string": ""
+        "en_string": "Parallax"
       },
       {
         "jp_string": "蒼月の守り",
@@ -29057,7 +29057,7 @@
       },
       {
         "jp_string": "超はやぶさ斬り",
-        "en_string": ""
+        "en_string": "Gyrfalcon Slash"
       },
       {
         "jp_string": "超元気タイムが終わった",
@@ -29685,11 +29685,11 @@
       },
       {
         "jp_string": "鉄壁の進軍Ⅰ",
-        "en_string": ""
+        "en_string": "Iron Advance I"
       },
       {
         "jp_string": "鉄壁の進軍Ⅱ",
-        "en_string": ""
+        "en_string": "Iron Advance II"
       },
       {
         "jp_string": "鉄壁の進軍の 効果がきえた",
@@ -29721,11 +29721,11 @@
       },
       {
         "jp_string": "鉄甲斬",
-        "en_string": ""
+        "en_string": "Scrap Axe"
       },
       {
         "jp_string": "鉄甲斬・改",
-        "en_string": ""
+        "en_string": "Scrap Axe Kai"
       },
       {
         "jp_string": "銀河のこんぺいとう",
@@ -30265,15 +30265,15 @@
       },
       {
         "jp_string": "降魔紅蓮斬Ⅰ",
-        "en_string": ""
+        "en_string": "Lotus Slash I"
       },
       {
         "jp_string": "降魔紅蓮斬Ⅱ",
-        "en_string": ""
+        "en_string": "Lotus Slash II"
       },
       {
         "jp_string": "降魔紅蓮斬Ⅲ",
-        "en_string": ""
+        "en_string": "Lotus Slash III"
       },
       {
         "jp_string": "限界を超えて すべて放出する技 しばらく行動不能",
