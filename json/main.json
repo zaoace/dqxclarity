@@ -3384,7 +3384,7 @@
       },
       {
         "jp_string": "お話の行き先",
-        "en_string": ""
+        "en_string": "Quests"
       },
       {
         "jp_string": "お話の行き先のみ表示へ",
@@ -6492,7 +6492,7 @@
       },
       {
         "jp_string": "アイコン非表示へ",
-        "en_string": ""
+        "en_string": "Hide Icons"
       },
       {
         "jp_string": "アイゼルの部屋",
@@ -6644,7 +6644,7 @@
       },
       {
         "jp_string": "アストルティアの世界",
-        "en_string": ""
+        "en_string": "World of Astoltia"
       },
       {
         "jp_string": "アストルティアカップ",
@@ -6836,7 +6836,7 @@
       },
       {
         "jp_string": "ウェナ諸島",
-        "en_string": ""
+        "en_string": "Wena Islands"
       },
       {
         "jp_string": "ウェルカムスタンプが押される期間",
@@ -6896,7 +6896,7 @@
       },
       {
         "jp_string": "エルトナ大陸",
-        "en_string": ""
+        "en_string": "Eltona Continent"
       },
       {
         "jp_string": "エルフ",
@@ -7008,7 +7008,7 @@
       },
       {
         "jp_string": "オーグリード大陸",
-        "en_string": ""
+        "en_string": "Ogreed Continent"
       },
       {
         "jp_string": "オータムジュエル",
@@ -7412,7 +7412,7 @@
       },
       {
         "jp_string": "キャラの場所",
-        "en_string": ""
+        "en_string": "NPC Location"
       },
       {
         "jp_string": "キャラの情報",
@@ -9948,7 +9948,7 @@
       },
       {
         "jp_string": "ドワチャッカ大陸",
-        "en_string": ""
+        "en_string": "Dwachakka Continent"
       },
       {
         "jp_string": "ドワーフ",
@@ -10956,7 +10956,7 @@
       },
       {
         "jp_string": "プクランド大陸",
-        "en_string": ""
+        "en_string": "Pukuland Continent"
       },
       {
         "jp_string": "プクリポ",
@@ -14252,7 +14252,7 @@
       },
       {
         "jp_string": "冒険ガイド",
-        "en_string": "Guide"
+        "en_string": "Walkthrough"
       },
       {
         "jp_string": "冒険ガイド設定",
@@ -15476,7 +15476,7 @@
       },
       {
         "jp_string": "地方の地図",
-        "en_string": ""
+        "en_string": "Region Map"
       },
       {
         "jp_string": "地景",
@@ -15760,7 +15760,7 @@
       },
       {
         "jp_string": "大陸一覧",
-        "en_string": ""
+        "en_string": "Continents"
       },
       {
         "jp_string": "大陸地図",
@@ -17706,7 +17706,7 @@
       },
       {
         "jp_string": "施設の場所",
-        "en_string": ""
+        "en_string": "Facilities"
       },
       {
         "jp_string": "旅の印・学園で速く移動できる",
@@ -21342,7 +21342,7 @@
       },
       {
         "jp_string": "行き先をみる",
-        "en_string": "Show Target"
+        "en_string": "Destination"
       },
       {
         "jp_string": "行き先選択",
