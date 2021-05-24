@@ -596,7 +596,7 @@
       },
       {
         "jp_string": "いざないの間",
-        "en_string": "In the meantime"
+        "en_string": "In the Meantime"
       },
       {
         "jp_string": "いにしえのゼルメア",
@@ -604,7 +604,7 @@
       },
       {
         "jp_string": "いろいろ検証用",
-        "en_string": "For var. verification"
+        "en_string": "Various Verifications"
       },
       {
         "jp_string": "うつしよの境界地",
@@ -628,7 +628,7 @@
       },
       {
         "jp_string": "その他のばしょ",
-        "en_string": "Others"
+        "en_string": "Other Locations"
       },
       {
         "jp_string": "つるぎの酒場",
@@ -656,23 +656,23 @@
       },
       {
         "jp_string": "ほこらの祭祀場・嵐",
-        "en_string": "Hokora Shrine / Storm"
+        "en_string": "Hokora Shrine・Storm"
       },
       {
         "jp_string": "ほこらの祭祀場・水",
-        "en_string": "Hokora Shrine / Water"
+        "en_string": "Hokora Shrine・Water"
       },
       {
         "jp_string": "ほこらの祭祀場・氷",
-        "en_string": "Hokora Shrine / Ice"
+        "en_string": "Hokora Shrine・Ice"
       },
       {
         "jp_string": "ほこらの祭祀場・炎",
-        "en_string": "Hokora Shrine / Flame"
+        "en_string": "Hokora Shrine・Flame"
       },
       {
         "jp_string": "ほこらの祭祀場・闇",
-        "en_string": "Hokora Shrine / Darkness"
+        "en_string": "Hokora Shrine・Darkness"
       },
       {
         "jp_string": "やまざこの町",
@@ -708,7 +708,7 @@
       },
       {
         "jp_string": "アズラン住宅村",
-        "en_string": "Azlan ResidentVillage"
+        "en_string": "Azlan Resident Vlg."
       },
       {
         "jp_string": "アズラン地方",
@@ -732,7 +732,7 @@
       },
       {
         "jp_string": "アルファ用アルウェ王妃の別荘跡(子供たちの隠れ家内部Test)",
-        "en_string": "Queen Alwe's Villa Ruins for Alpha (Test inside children's hideout)"
+        "en_string": "Queen Alwe's Villa Ruins for Alpha (Test Inside Children's Hideout)"
       },
       {
         "jp_string": "アルファ用オルフェア",
@@ -776,7 +776,7 @@
       },
       {
         "jp_string": "イムイ地下空洞",
-        "en_string": "ImuiUndergroundCavity"
+        "en_string": "Imui Underground Cave"
       },
       {
         "jp_string": "イル・ラビリンス",
@@ -792,7 +792,7 @@
       },
       {
         "jp_string": "ウルベア地下帝国",
-        "en_string": "Urubea UndergroundEmpire"
+        "en_string": "Urubea Underground Realm"
       },
       {
         "jp_string": "ウルベア地下遺跡",
@@ -800,7 +800,7 @@
       },
       {
         "jp_string": "ウルベア帝国城",
-        "en_string": "Urubea ImperialCastle"
+        "en_string": "Urubea Imperial Keep"
       },
       {
         "jp_string": "エステラの部屋",
@@ -816,7 +816,7 @@
       },
       {
         "jp_string": "エテーネ王宮",
-        "en_string": "Ethene RoyalPalace"
+        "en_string": "Ethene Royal Manor"
       },
       {
         "jp_string": "エピステーサ丘陵",
@@ -824,7 +824,7 @@
       },
       {
         "jp_string": "エピステーサ底なし穴",
-        "en_string": "Epistessa Bottomless Pit"
+        "en_string": "Epistesa Bottomless Pit"
       },
       {
         "jp_string": "エルトナの聖地",
@@ -848,15 +848,15 @@
       },
       {
         "jp_string": "オルセコ王家の墓",
-        "en_string": "Orseco Royal tomb"
+        "en_string": "Orseco Royal Tomb"
       },
       {
         "jp_string": "オルセコ闘技城",
-        "en_string": "Orseco FightingCastle"
+        "en_string": "Orseco Combat Castle"
       },
       {
         "jp_string": "オルセコ闘技城・舞台",
-        "en_string": "Orseco Fighting Castle / Stage"
+        "en_string": "Orseco Combat Castle・Stage"
       },
       {
         "jp_string": "オルセコ高地",
@@ -864,7 +864,7 @@
       },
       {
         "jp_string": "オルッパ地下洞くつ",
-        "en_string": "Orpah Underground Caves"
+        "en_string": "Orphea Underground Caves"
       },
       {
         "jp_string": "オルファの丘",
@@ -876,7 +876,7 @@
       },
       {
         "jp_string": "オルフェア住宅村",
-        "en_string": ""
+        "en_string": "Orphea Residential Vlg."
       },
       {
         "jp_string": "オルフェア地方東",
@@ -992,7 +992,7 @@
       },
       {
         "jp_string": "ガタラ住宅村",
-        "en_string": "Gatara Res.Village"
+        "en_string": "Gatara Res. Vlg."
       },
       {
         "jp_string": "ガタラ原野",
@@ -1000,7 +1000,7 @@
       },
       {
         "jp_string": "ガタラ大山林",
-        "en_string": "Gatara OyamaForest"
+        "en_string": "Gatara Oyama Frst"
       },
       {
         "jp_string": "ガミルゴの盾島",
@@ -1044,7 +1044,7 @@
       },
       {
         "jp_string": "キラキラ大風車塔内部",
-        "en_string": "Inside GlitteringWindmillTower"
+        "en_string": "Inside Glitter Windmill Tower"
       },
       {
         "jp_string": "キリカ草原",
