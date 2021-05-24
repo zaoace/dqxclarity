@@ -112,15 +112,15 @@
       },
       {
         "jp_string": "【160P】1%で２回行動",
-        "en_string": "(160p) 1% Double Action"
+        "en_string": "[160P] 1% Double Action"
       },
       {
         "jp_string": "【160P】1%テンション維持",
-        "en_string": "(160p) 1% Preserve Tension"
+        "en_string": "[160P] 1% Preserve Tension"
       },
       {
         "jp_string": "【160P】1.0%でターンを消費しない",
-        "en_string": "(160) 1% Don't Use Turn"
+        "en_string": "[160P] 1% Don't Use Turn"
       },
       {
         "jp_string": "【160P】30%で不滅の早詠みの杖",
@@ -140,7 +140,7 @@
       },
       {
         "jp_string": "【160P】うた160Pにする",
-        "en_string": "(160p) 160p into Song"
+        "en_string": "[160P] 160P into Song"
       },
       {
         "jp_string": "【160P】おうぎのまい+6%",
@@ -152,67 +152,67 @@
       },
       {
         "jp_string": "【160P】おどり160Pにする",
-        "en_string": "160p into Dance"
+        "en_string": "[160P] 160P into Dance"
       },
       {
         "jp_string": "【160P】おもさ+5",
-        "en_string": "(160p) Weight +5"
+        "en_string": "[160P] Weight +5"
       },
       {
         "jp_string": "【160P】かいしん率+1%",
-        "en_string": "(160p) Critical Rate +1%"
+        "en_string": "[160P] Critical Rate +1%"
       },
       {
         "jp_string": "【160P】かいふく魔力+20",
-        "en_string": "(160p) Magical Mending +20 "
+        "en_string": "[160P] Magical Mending +20 "
       },
       {
         "jp_string": "【160P】かえん斬り+10%",
-        "en_string": "(160p) Flame Slash +10%"
+        "en_string": "[160P] Flame Slash +10%"
       },
       {
         "jp_string": "【160P】かぶと割り+6%",
-        "en_string": "(160p) Helm Splitter +6%"
+        "en_string": "[160P] Helm Splitter +6%"
       },
       {
         "jp_string": "【160P】かまいたち+10%",
-        "en_string": "(160p) Wind Sickles +10%"
+        "en_string": "[160P] Wind Sickles +10%"
       },
       {
         "jp_string": "【160P】きまぐれな行動の発動率+10%",
-        "en_string": "(160p) Whimsical Action Activation Rate +10%"
+        "en_string": "[160P] Whimsical Action Activation Rate +10%"
       },
       {
         "jp_string": "【160P】けもの突き+10%",
-        "en_string": "(160p) Cattle Prod +10%"
+        "en_string": "[160P] Cattle Prod +10%"
       },
       {
         "jp_string": "【160P】こうげき力+10",
-        "en_string": "(160p) Attack +10"
+        "en_string": "[160P] Attack +10"
       },
       {
         "jp_string": "【160P】こうげき力+15",
-        "en_string": "(160p) Attack +15"
+        "en_string": "[160P] Attack +15"
       },
       {
         "jp_string": "【160P】こうげき力+5",
-        "en_string": "(160p) Attack +5"
+        "en_string": "[160P] Attack +5"
       },
       {
         "jp_string": "【160P】こうげき力+8",
-        "en_string": "(160p) Attack +8"
+        "en_string": "[160P] Attack +8"
       },
       {
         "jp_string": "【160P】こうげき魔力+20",
-        "en_string": "(160p) Magical Might +20"
+        "en_string": "[160P] Magical Might +20"
       },
       {
         "jp_string": "【160P】さいだいＨＰ+5",
-        "en_string": "(160p) Max HP +5"
+        "en_string": "[160P] Max HP +5"
       },
       {
         "jp_string": "【160P】さいだいＭＰ+20",
-        "en_string": "(160p) Max MP +20"
+        "en_string": "[160P] Max MP +20"
       },
       {
         "jp_string": "【160P】さいだいＭＰ+50",
@@ -220,23 +220,23 @@
       },
       {
         "jp_string": "【160P】さみだれうち+2%",
-        "en_string": "(160p) Rain of Pain +2%"
+        "en_string": "[160P] Rain of Pain +2%"
       },
       {
         "jp_string": "【160P】さみだれ突き+6%",
-        "en_string": "(160p) Multi Thrust +6%"
+        "en_string": "[160P] Multi Thrust +6%"
       },
       {
         "jp_string": "【160P】しばり打ち+8%",
-        "en_string": "(160p) Trammel Lash +8%"
+        "en_string": "[160P] Trammel Lash +8%"
       },
       {
         "jp_string": "【160P】しゅび力+10",
-        "en_string": "(160p) Defense +10"
+        "en_string": "[160P] Defense +10"
       },
       {
         "jp_string": "【160P】しんくうは+5%",
-        "en_string": "(160p) Vacuum Wave +5%"
+        "en_string": "[160P] Vacuum Wave +5%"
       },
       {
         "jp_string": "【160P】しんくう竜巻+1%",
@@ -244,27 +244,27 @@
       },
       {
         "jp_string": "【160P】せいけん爆撃+6%",
-        "en_string": "(160p) Holy Exploding Fist +6%"
+        "en_string": "[160P] Holy Exploding Fist +6%"
       },
       {
         "jp_string": "【160P】せいけん突き+6%",
-        "en_string": "(160p) Knuckle Sandwich +6%"
+        "en_string": "[160P] Knuckle Sandwich +6%"
       },
       {
         "jp_string": "【160P】たいぼく斬+10%",
-        "en_string": "(160p) Poplar Toppler +10%"
+        "en_string": "[160P] Poplar Toppler +10%"
       },
       {
         "jp_string": "【160P】ちから+10",
-        "en_string": "(160p) Strength +10"
+        "en_string": "[160P] Strength +10"
       },
       {
         "jp_string": "【160P】ちから+15",
-        "en_string": "(160p) Strength +15"
+        "en_string": "[160P] Strength +15"
       },
       {
         "jp_string": "【160P】ちからの盾の回復量+1%",
-        "en_string": "(160p) Strength Shield Recovery +1%"
+        "en_string": "[160P] Strength Shield Recovery +1%"
       },
       {
         "jp_string": "【160P】なぎはらい+2%",
@@ -276,103 +276,103 @@
       },
       {
         "jp_string": "【160P】ばくれつきゃく+1%",
-        "en_string": "(160p) Multifeet +1%"
+        "en_string": "[160P] Multifeet +1%"
       },
       {
         "jp_string": "【160P】ばくれつけん+6%",
-        "en_string": "(160p) Multifeet +6%"
+        "en_string": "[160P] Multifeet +6%"
       },
       {
         "jp_string": "【160P】ぶんまわし+8%",
-        "en_string": "(160p) Helichopter +8%"
+        "en_string": "[160P] Helichopter +8%"
       },
       {
         "jp_string": "【160P】まもりのたての効果時間+5秒",
-        "en_string": "(160p) Holy Impregnable duration +5 sec."
+        "en_string": "[160P] Holy Impregnable duration +5 sec."
       },
       {
         "jp_string": "【160P】みのまもり+10",
-        "en_string": "(160p) Resilience +10"
+        "en_string": "[160P] Resilience +10"
       },
       {
         "jp_string": "【160P】みのまもり+30",
-        "en_string": "(160p) Resilience +30"
+        "en_string": "[160P] Resilience +30"
       },
       {
         "jp_string": "【160P】らせん打ち+8%",
-        "en_string": "(160p) Hypnowhip +8%"
+        "en_string": "[160P] Hypnowhip +8%"
       },
       {
         "jp_string": "【160P】アゲハ乱舞+3%",
-        "en_string": "(160p) Butterfly Dance +3%"
+        "en_string": "[160P] Butterfly Dance +3%"
       },
       {
         "jp_string": "【160P】アルテマソード+2%",
-        "en_string": "(160p) Blade of Ultimate Power +2%"
+        "en_string": "[160P] Blade of Ultimate Power +2%"
       },
       {
         "jp_string": "【160P】アースクラッシュ+1%",
-        "en_string": "(160p) Earth Crash +1%"
+        "en_string": "[160P] Earth Crash +1%"
       },
       {
         "jp_string": "【160P】イオマータ+1%",
-        "en_string": "(160p) Kablam +1%"
+        "en_string": "[160P] Kablam +1%"
       },
       {
         "jp_string": "【160P】イオ系呪文+1%",
-        "en_string": "(160p) Bang-type damage +1%"
+        "en_string": "[160P] Bang-type damage +1%"
       },
       {
         "jp_string": "【160P】イオ系呪文+3%",
-        "en_string": "(160p) Bang-type damage +3%"
+        "en_string": "[160P] Bang-type damage +3%"
       },
       {
         "jp_string": "【160P】ウィングブロウ+6%",
-        "en_string": "(160p) Propeller Blade +6%"
+        "en_string": "[160P] Propeller Blade +6%"
       },
       {
         "jp_string": "【160P】ウェイトブレイク+5%",
-        "en_string": "(160p) Weight Break +5%"
+        "en_string": "[160P] Weight Break +5%"
       },
       {
         "jp_string": "【160P】オネロスハント+2%",
-        "en_string": "(160p) Oneros Hunt +2%"
+        "en_string": "[160P] Oneros Hunt +2%"
       },
       {
         "jp_string": "【160P】オノむそう+2%",
-        "en_string": "(160p) Axes of Evil +2%"
+        "en_string": "[160P] Axes of Evil +2%"
       },
       {
         "jp_string": "【160P】カウンター発動率+2%",
-        "en_string": "(160p) Counterattack Rate +2%"
+        "en_string": "[160P] Counterattack Rate +2%"
       },
       {
         "jp_string": "【160P】カオスエッジ+6%",
-        "en_string": "(160p) Chaos Edge +6%"
+        "en_string": "[160P] Chaos Edge +6%"
       },
       {
         "jp_string": "【160P】ガード時ヘナトス+2%",
-        "en_string": "(160p) Attack Down When Guard +2%"
+        "en_string": "[160P] Attack Down When Guard +2%"
       },
       {
         "jp_string": "【160P】ガード時ルカニ+2%",
-        "en_string": "(160p) Def. Down When Guard +2%"
+        "en_string": "[160P] Def. Down When Guard +2%"
       },
       {
         "jp_string": "【160P】キラーブーン+10%",
-        "en_string": "(160p) Fly Swat +10%"
+        "en_string": "[160P] Fly Swat +10%"
       },
       {
         "jp_string": "【160P】ギガスラッシュ+2%",
-        "en_string": "(160p) Gigaslash +2%"
+        "en_string": "[160P] Gigaslash +2%"
       },
       {
         "jp_string": "【160P】ギガスロー+1%",
-        "en_string": "(160p) Gigathrow +1%"
+        "en_string": "[160P] Gigathrow +1%"
       },
       {
         "jp_string": "【160P】ギガブレイク+8%",
-        "en_string": "(160p) Gigagash +8%"
+        "en_string": "[160P] Gigagash +8%"
       },
       {
         "jp_string": "【160P】ゴッドスマッシュ+1%",
@@ -380,51 +380,51 @@
       },
       {
         "jp_string": "【160P】ゴールドフィンガー+4%",
-        "en_string": "(160p) Rake n' Bake +4%"
+        "en_string": "[160P] Rake n' Bake +4%"
       },
       {
         "jp_string": "【160P】サイクロンアッパー+6%",
-        "en_string": "(160p) Air Raiser +6%"
+        "en_string": "[160P] Air Raiser +6%"
       },
       {
         "jp_string": "【160P】サマーソルトクロー+6%",
-        "en_string": "(160p) Somersault Claw +6%"
+        "en_string": "[160P] Somersault Claw +6%"
       },
       {
         "jp_string": "【160P】サンダーボルト+10%",
-        "en_string": "(160p) Thunderbolt +10%"
+        "en_string": "[160P] Thunderbolt +10%"
       },
       {
         "jp_string": "【160P】サンライトアロー+2%",
-        "en_string": "(160p) Sunlight Arrow +2%"
+        "en_string": "[160P] Sunlight Arrow +2%"
       },
       {
         "jp_string": "【160P】シャイニングボウ+2%",
-        "en_string": "(160p) Shining Shot +2%"
+        "en_string": "[160P] Shining Shot +2%"
       },
       {
         "jp_string": "【160P】シャインスコール+40%",
-        "en_string": "(160p) Starburst Throw +40%"
+        "en_string": "[160P] Starburst Throw +40%"
       },
       {
         "jp_string": "【160P】シールドブレイク+5%",
-        "en_string": "(160p) Shield Break +5%"
+        "en_string": "[160P] Shield Break +5%"
       },
       {
         "jp_string": "【160P】ジゴスパーク+8%",
-        "en_string": "(160p) Lightning Storm +8%"
+        "en_string": "[160P] Lightning Storm +8%"
       },
       {
         "jp_string": "【160P】スパークショット+8%",
-        "en_string": "(160p) Starstrike +8%"
+        "en_string": "[160P] Starstrike +8%"
       },
       {
         "jp_string": "【160P】スピリットゾーンの範囲+1m",
-        "en_string": "(160p) Spirit Zone range +1m"
+        "en_string": "[160P] Spirit Zone range +1m"
       },
       {
         "jp_string": "【160P】スライムブロウ+10%",
-        "en_string": "(160p) Ooze Bruiser +10%"
+        "en_string": "[160P] Ooze Bruiser +10%"
       },
       {
         "jp_string": "【160P】スリープダガー+6%",
@@ -440,79 +440,79 @@
       },
       {
         "jp_string": "【160P】タロットダメージ+20%",
-        "en_string": "(160p) Tarot damage +20%"
+        "en_string": "[160P] Tarot damage +20%"
       },
       {
         "jp_string": "【160P】ダークネスショット+6%",
-        "en_string": "(160p) Darkness Shot +6%"
+        "en_string": "[160P] Darkness Shot +6%"
       },
       {
         "jp_string": "【160P】デビルクラッシュ+4%",
-        "en_string": "(160p) Devil Crush +4%"
+        "en_string": "[160P] Devil Crush +4%"
       },
       {
         "jp_string": "【160P】デュアルカッター+2%",
-        "en_string": "(160p) Twomerang +2%"
+        "en_string": "[160P] Twomerang +2%"
       },
       {
         "jp_string": "【160P】デュアルブレイカー+3%",
-        "en_string": "(160p) Double Down +3%"
+        "en_string": "[160P] Double Down +3%"
       },
       {
         "jp_string": "【160P】ドラゴンスラッシュ+10%",
-        "en_string": "(160p) Hydra Slash +10%"
+        "en_string": "[160P] Hydra Slash +10%"
       },
       {
         "jp_string": "【160P】ドラゴン斬り+10%",
-        "en_string": "(160p) Dragon Slash +10%"
+        "en_string": "[160P] Dragon Slash +10%"
       },
       {
         "jp_string": "【160P】ドラムクラッシュ+10%",
-        "en_string": "(160p) Monster Masher +10%"
+        "en_string": "[160P] Monster Masher +10%"
       },
       {
         "jp_string": "【160P】ドルマ系呪文+1%",
-        "en_string": "(160p) Zam-type damage +1%"
+        "en_string": "[160P] Zam-type damage +1%"
       },
       {
         "jp_string": "【160P】ナイトメアファング+6%",
-        "en_string": "(160p) Nightmare Fang +6%"
+        "en_string": "[160P] Nightmare Fang +6%"
       },
       {
         "jp_string": "【160P】ネバネバ爆弾の射程強化+1m",
-        "en_string": "(160p) Sticky Bomb range +1m"
+        "en_string": "[160P] Sticky Bomb range +1m"
       },
       {
         "jp_string": "【160P】ネメシスエッジ+1%",
-        "en_string": "(160p) Nemesis Edge +1%"
+        "en_string": "[160P] Nemesis Edge +1%"
       },
       {
         "jp_string": "【160P】ハデスの宴+8%",
-        "en_string": "(160p) Feast of Hades +8%"
+        "en_string": "[160P] Feast of Hades +8%"
       },
       {
         "jp_string": "【160P】バイキルショット+3%",
-        "en_string": "(160p) Bikill Shot +3%"
+        "en_string": "[160P] Bikill Shot +3%"
       },
       {
         "jp_string": "【160P】バギ系呪文+1%",
-        "en_string": "(160p) Woosh-type damage +1%"
+        "en_string": "[160P] Woosh-type damage +1%"
       },
       {
         "jp_string": "【160P】バードシュート+10%",
-        "en_string": "(160p) Flutter Disaster +10%"
+        "en_string": "[160P] Flutter Disaster +10%"
       },
       {
         "jp_string": "【160P】バーニングバード+2%",
-        "en_string": "(160p) Firebird Throw +2%"
+        "en_string": "[160P] Firebird Throw +2%"
       },
       {
         "jp_string": "【160P】パワフルスロー+6%",
-        "en_string": "(160p) Power Throw +6%"
+        "en_string": "[160P] Power Throw +6%"
       },
       {
         "jp_string": "【160P】ヒャド系呪文+1%",
-        "en_string": "(160p) Crack-type damage +1%"
+        "en_string": "[160P] Crack-type damage +1%"
       },
       {
         "jp_string": "【160P】ヒャド系呪文+3%",
@@ -524,51 +524,51 @@
       },
       {
         "jp_string": "【160P】ヒュプノスハント+2%",
-        "en_string": "(160p) Persecutter +2%"
+        "en_string": "[160P] Persecutter +2%"
       },
       {
         "jp_string": "【160P】ビッグシールドの効果時間+5秒",
-        "en_string": "(160p) Immense Defence duration +5 sec."
+        "en_string": "[160P] Immense Defence duration +5 sec."
       },
       {
         "jp_string": "【160P】ビッグバン+8%",
-        "en_string": "(160p) Big Banga +8%"
+        "en_string": "[160P] Big Banga +8%"
       },
       {
         "jp_string": "【160P】ビーストファング+1%",
-        "en_string": "(160p) Beast Fang +1%"
+        "en_string": "[160P] Beast Fang +1%"
       },
       {
         "jp_string": "【160P】ピンクタイフーン+6%",
-        "en_string": "(160p) Pink Typhoon +6%"
+        "en_string": "[160P] Pink Typhoon +6%"
       },
       {
         "jp_string": "【160P】フリーズブレード+12%",
-        "en_string": "(160p) Frost Fangs +12%"
+        "en_string": "[160P] Frost Fangs +12%"
       },
       {
         "jp_string": "【160P】フローズンバード+6%",
-        "en_string": "(160p) Icebird Throw +6%"
+        "en_string": "[160P] Icebird Throw +6%"
       },
       {
         "jp_string": "【160P】ブレードガードの効果時間+2秒",
-        "en_string": "(160p) Greatsword Guard duration +2 sec."
+        "en_string": "[160P] Greatsword Guard duration +2 sec."
       },
       {
         "jp_string": "【160P】プラズマブレード+4%",
-        "en_string": "(160p) Plasma Blade +4%"
+        "en_string": "[160P] Plasma Blade +4%"
       },
       {
         "jp_string": "【160P】プレシャスレイン+2%",
-        "en_string": "(160p) Precious Rain +2%"
+        "en_string": "[160P] Precious Rain +2%"
       },
       {
         "jp_string": "【160P】プレートインパクト+6%",
-        "en_string": "(160p) Plate Impact +6%"
+        "en_string": "[160P] Plate Impact +6%"
       },
       {
         "jp_string": "【160P】ヘナトス系呪文成功率+10%",
-        "en_string": "(160p) Blunt-type success rate +10%"
+        "en_string": "[160P] Blunt-type success rate +10%"
       },
       {
         "jp_string": "【160P】ベホイミの回復量+6%",
@@ -576,63 +576,63 @@
       },
       {
         "jp_string": "【160P】ホイミの回復量+6%",
-        "en_string": "(160p) Midheal recovery +6%"
+        "en_string": "[160P] Midheal recovery +6%"
       },
       {
         "jp_string": "【160P】ホップスティックの範囲+1m",
-        "en_string": "(160p) Hop Stick range +1m"
+        "en_string": "[160P] Hop Stick range +1m"
       },
       {
         "jp_string": "【160P】マジックアロー+8%",
-        "en_string": "(160p) Conjury Conductor +8%"
+        "en_string": "[160P] Conjury Conductor +8%"
       },
       {
         "jp_string": "【160P】マダンテ+1%",
-        "en_string": "(160p) Magic Burst +1%"
+        "en_string": "[160P] Magic Burst +1%"
       },
       {
         "jp_string": "【160P】マホトーンの成功率+5%",
-        "en_string": "(160p) Fizzle success rate +5%"
+        "en_string": "[160P] Fizzle success rate +5%"
       },
       {
         "jp_string": "【160P】ミラクルソード+5%",
-        "en_string": "(160p) Miracle Slash +5%"
+        "en_string": "[160P] Miracle Slash +5%"
       },
       {
         "jp_string": "【160P】ムーンサルト+6%",
-        "en_string": "(160p) Harvest Moon +6%"
+        "en_string": "[160P] Harvest Moon +6%"
       },
       {
         "jp_string": "【160P】メラ系とギラ系呪文+1%",
-        "en_string": "(160p) Frizz/Sizz-type damage +1%"
+        "en_string": "[160P] Frizz/Sizz-type damage +1%"
       },
       {
         "jp_string": "【160P】メラ系呪文+1%",
-        "en_string": "(160p) Frizz-type damage +1%"
+        "en_string": "[160P] Frizz-type damage +1%"
       },
       {
         "jp_string": "【160P】メラ系呪文+3%",
-        "en_string": "(160p) Frizz-type damage +3%"
+        "en_string": "[160P] Frizz-type damage +3%"
       },
       {
         "jp_string": "【160P】メラ系呪文+50",
-        "en_string": "(160p) Frizz-type damage +50"
+        "en_string": "[160P] Frizz-type damage +50"
       },
       {
         "jp_string": "【160P】ライガークラッシュ+2%",
-        "en_string": "(160p) Wild Animual +2%"
+        "en_string": "[160P] Wild Animual +2%"
       },
       {
         "jp_string": "【160P】ラリホー系呪文成功率+5%",
-        "en_string": "(160p) Snooze success rate +5%"
+        "en_string": "[160P] Snooze success rate +5%"
       },
       {
         "jp_string": "【160P】ランドインパクト+2%",
-        "en_string": "(160p) Crackerwhack +2%"
+        "en_string": "[160P] Crackerwhack +2%"
       },
       {
         "jp_string": "【160P】レボルスライサー+1%",
-        "en_string": "(160p) Revol Slicer +1%"
+        "en_string": "[160P] Revol Slicer +1%"
       },
       {
         "jp_string": "【160P】ロストスナイプ+6%",
