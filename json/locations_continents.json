@@ -16,11 +16,11 @@
       },
       {
         "jp_string": "エテーネの島",
-        "en_string": "Island of Athens"
+        "en_string": "Island of Eterne"
       },
       {
         "jp_string": "エテーネ王国",
-        "en_string": "Kingdom of Athens"
+        "en_string": "Eterne Kingdom"
       },
       {
         "jp_string": "エルトナ大陸",
@@ -40,7 +40,7 @@
       },
       {
         "jp_string": "ラッカラン島",
-        "en_string": "Raqqaran Island"
+        "en_string": "Luckland Island"
       },
       {
         "jp_string": "レンダーシア",
@@ -48,11 +48,11 @@
       },
       {
         "jp_string": "レンドア島",
-        "en_string": "Rendoa Island"
+        "en_string": "Lendor Island"
       },
       {
         "jp_string": "偽りのエテーネの島",
-        "en_string": "False Isle of Etaine"
+        "en_string": "False Eterne Island"
       },
       {
         "jp_string": "偽りのレンダーシア",
@@ -60,15 +60,15 @@
       },
       {
         "jp_string": "古エテーネ王国",
-        "en_string": "Old Kingdom of Athens"
+        "en_string": "Old Eterne Kingdom"
       },
       {
         "jp_string": "古オーグリード",
-        "en_string": "Old OGreed"
+        "en_string": "Old Ogreed"
       },
       {
         "jp_string": "古グランゼドーラ",
-        "en_string": "Old Granzedoras"
+        "en_string": "Old Gran Zedora"
       },
       {
         "jp_string": "古ドワチャッカ",
@@ -76,7 +76,7 @@
       },
       {
         "jp_string": "大エテーネ島",
-        "en_string": "Greater Athens"
+        "en_string": "Greater Eterne Isle"
       },
       {
         "jp_string": "嵐の領界",
@@ -84,7 +84,7 @@
       },
       {
         "jp_string": "水の領界",
-        "en_string": "Water Field"
+        "en_string": "Water Realm"
       },
       {
         "jp_string": "氷の領界",
@@ -96,7 +96,7 @@
       },
       {
         "jp_string": "真のエテーネの島",
-        "en_string": "True Island of Etaine"
+        "en_string": "True Eterne Island"
       },
       {
         "jp_string": "真のレンダーシア",
@@ -104,11 +104,11 @@
       },
       {
         "jp_string": "闇の領界",
-        "en_string": "Dark Domains"
+        "en_string": "Dark Realm"
       },
       {
         "jp_string": "魔界",
-        "en_string": "Spirit"
+        "en_string": "Makai"
       }
     ]
   }
