@@ -6996,7 +6996,7 @@
       },
       {
         "jp_string": "オンラインモード",
-        "en_string": ""
+        "en_string": "Online Mode"
       },
       {
         "jp_string": "オンライン優先に",
@@ -10996,7 +10996,7 @@
       },
       {
         "jp_string": "プレイコース",
-        "en_string": ""
+        "en_string": "Play Course"
       },
       {
         "jp_string": "プレイコースを変える",
@@ -11040,7 +11040,7 @@
       },
       {
         "jp_string": "プレイヤー情報",
-        "en_string": ""
+        "en_string": "Player Information"
       },
       {
         "jp_string": "プレイヤー１",
@@ -13860,7 +13860,7 @@
       },
       {
         "jp_string": "元気チャージ(上限440時間)",
-        "en_string": ""
+        "en_string": "Energize Time (440H Max)"
       },
       {
         "jp_string": "元気チャージ交換",
@@ -14440,7 +14440,7 @@
       },
       {
         "jp_string": "利用券の有効期間",
-        "en_string": ""
+        "en_string": "Validity Period"
       },
       {
         "jp_string": "利用券の購入",
@@ -17914,7 +17914,7 @@
       },
       {
         "jp_string": "最後に冒険を中断した日時",
-        "en_string": ""
+        "en_string": "Last Date of Adventure"
       },
       {
         "jp_string": "最後の一人を",

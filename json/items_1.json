@@ -1,0 +1,10003 @@
+[
+  {
+    "hex_start": "54 45 58 54 10 00 00 00 B0 10 0C 00 00 00 00 00 00 00",
+    "strings": [
+      {
+        "jp_string": "<%sM_npc>の依頼書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<%sM_npc>の緊急依頼書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<%sM_pc>の手紙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<%sM_pc>の絵葉書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "GMドラクエ３０周年花火",
+        "en_string": ""
+      },
+      {
+        "jp_string": "GMロトの紋章型花火",
+        "en_string": ""
+      },
+      {
+        "jp_string": "LV100・ブーメラン_B",
+        "en_string": ""
+      },
+      {
+        "jp_string": "LV110・弓_A",
+        "en_string": ""
+      },
+      {
+        "jp_string": "LV120・こん_B",
+        "en_string": ""
+      },
+      {
+        "jp_string": "LV120・ブーメラン_B",
+        "en_string": ""
+      },
+      {
+        "jp_string": "LV120・ムチ_B",
+        "en_string": ""
+      },
+      {
+        "jp_string": "LV120・弓_B",
+        "en_string": ""
+      },
+      {
+        "jp_string": "LV90・こん_B",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あいじょうオムレツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あいじょうオムレツの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あいじょうオムレツ小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あおレンガの壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あおレンガの柱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あくまのきしの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あくまのきしの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あくまのタクト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あくまのタクトの秘密",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あくまのツメ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あくまのツメの秘密",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あくまのムチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あくまのムチの秘密",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あくま神官の像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あくま神官の像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あさぎガーベラ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あざやかな笹飾り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あずきガーベラ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あずきガーベラのタネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あたまリボン桃券",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あたまリボン水色券",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あたまリボン茶券",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あったか火鉢",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あぶない水着上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あぶない水着下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あまぐもの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あまつゆのいと",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやかしそう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやかしの魔弓",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやかしの魔弓伝説",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしいイス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしいオーブン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしいカウンタ大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしいカウンタ小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしいカーペット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしいタンス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしいチェスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしいテーブル大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしいテーブル小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしいバスタブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしいベッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしい大木の壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしい大木の柱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしい木",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしい本棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしい流し台",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしい長イス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしい間仕切り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしい食器棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやしい飾り棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あやめの染料",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あらくれバングル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あらくれパンツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あらくれブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あらくれボディ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あらくれマスク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ある船乗りの手記",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ある船長の航海日誌",
+        "en_string": ""
+      },
+      {
+        "jp_string": "あわあわ水着",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いかずちのたま",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いかずちの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いくさ化粧シール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いたずらもぐらの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いたずらもぐらの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いたずらもぐらの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いちごの便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いちばん星の贈り物",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いちょうの木",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いなずまのやり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いにしえの樹液",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いのちのきのみ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いばらのムチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いやしそう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いやしのぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いやしのスープ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いやしのズボン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いやしのブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いやしのムニエル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いやしのムニエルを得る",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いやしのムニエル・小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いやしのメガネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いやしの服",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うきわのタワー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うごくせきぞうの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うごくせきぞうの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うごく箱舟号",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うごく箱舟号・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うさぎのおまもり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うさぎのお面",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うさみみギフト・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うさみみギフト・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うさみみギフト・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うさみみギフト・青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うさみみギフト・黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うしのふん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うつくしい材木",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うつくしそう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うつしよの天箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うつしよの竜箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うつしよの金箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うつしよの銀箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うつしよの銅箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うつしよの闇箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うなれスライムウィップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うまのふん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うみなりの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うるし塗りの壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うるし塗りの柱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うるわしの館",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うるわしキノコ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うろこのかぶと",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うろこのこて",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うろこのよろい上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うろこのよろい下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うろこのブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うろこの盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うろこ模様の壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うろこ模様の柱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うんメェ～もち",
+        "en_string": ""
+      },
+      {
+        "jp_string": "えいゆうのやり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "えんぶのこん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おいしいミルク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おうぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おうごんのかけら",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おうじょのあい",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おおかなづち",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おおきづち",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おおきづちの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おおきづちの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おおとろの切り身",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おおばさみ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おおばさみ作りのヒント",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おきもの緑キノコ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おきもの赤キノコ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おしえてデーモン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おしゃれなベルト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おしゃれな水着",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おしゃれな水着・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おしゃれな水着・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おしゃれな水着・黄",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おしゃれな水着・黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おそうじ童子のこん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おたからさがしのすず",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おたからのタネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おたからの花びら",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おたから花",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おたのしみギュッと箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おてんば姫のふく",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おてんば姫のぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おてんば姫のブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おてんば姫グローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おとぎの森エプロン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おとぎの森カチーフ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おとぎの森グローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おとぎの森シューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おとぎの森スカート",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おとぎの森ブラウス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おとぎの森ボレロ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おとぎ話の家",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おどるほうせきの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おどる宝石の像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おどる宝石の像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おにこんぼう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おにごっこ帽",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おにのかなぼう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おばけキャンドルの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おばけキャンドル像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おふだのシール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おみくじボックス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おみくじボックスⅡ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おむつっこりの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おむつっこりの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おめかしカラー券",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おめかしレアカラー券",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おめかし体Ｃ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おめかしＶチケット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おめかしＶチケット改",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもいでのすず",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもいで映写機",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもさのたね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちのせ七輪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃのお天気・雨",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃのお天気・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃのサーカス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃのサーカス・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃのテント",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃのテント・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃのトンネル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃのトンネル・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの丸い家",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの丸い家・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの四角い家",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの四角い家・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの岩",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの岩・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの岩山",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの岩山・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの木",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの木・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの池",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの池・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの空・くもり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの空・晴れ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの草原",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの草原・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの草花",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもちゃの草花・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもてなしの畳",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おもてなしの行灯",
+        "en_string": ""
+      },
+      {
+        "jp_string": "おやぶんの大盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お友達紹介チケット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お名前忘れん帽",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お城の大きい壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お城の木の柱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様のイス・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様のオーブン・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様のカウンタ大・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様のカウンタ小・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様のキッチン・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様のタンス・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様のチェスト・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様のテーブル大・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様のテーブル小・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様のバスタブ・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様のパーティ机・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様のベッド・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様のベンチ・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様の本棚・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様の間仕切り・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様の食器棚・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様イス・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様オーブン・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様カウンタ大・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様カウンタ小・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様キッチン・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様タンス・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様チェスト・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様テーブル大・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様テーブル小・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様バスタブ・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様パーティ机・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様ベッド・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様ベンチ・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様本棚・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様間仕切り・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お姫様食器棚・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お招きのつばさ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お星様の風船",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お月見だんご",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お月見便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お正月のコタツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お正月の鏡餅",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お正月の門松",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お知らせ優待券",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お祝いクラッカー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お祭りのぞうり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お祭りのはちまき",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お祭りのハッピ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お祭りの半だこ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お祭りの天井ランプ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お祭りの足袋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お花のパーカー水着",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お花の外灯の作り方",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お花の外灯・ピンク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お花の外灯・ブルー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お花の浮いた噴水・金",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お花の浮いた噴水・銀",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お花の荷車・パステル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お花の荷車・ビビッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お花の鉢植え・家用",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お花見だんご傘",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お花見だんご傘の包み",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お花見便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お茶屋のパラソル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お茶屋のベンチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子な武器大全",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子のイス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子のオーブン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子のカウンター大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子のカウンター小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子のキッチン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子のタンス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子のチェスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子のテーブル大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子のテーブル小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子のバスタブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子のパーティ机",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子のベッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子のベンチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子の壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子の本棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子の柱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子の間仕切り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お菓子の食器棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "お詫びの笹だんご",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かいけつマスク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かいしんバーガー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かいしんバーガーの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かいぞくＴシャツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かいとうの仮面",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かがみ石",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かがやきそう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かがやきの樹液",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かき氷テーブル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かぐや姫の畑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かざぐるまのアーチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かざぐるまのオブジェ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かしのこん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かしのブーメラン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かしの大盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かしの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かぜきりのはね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かぜきりの弓",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かぜのブーメラン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かたりべのてぶくろ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かたりべのぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かたりべのブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かたりべの服上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かたりべの服下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かりうどの弓",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かんたん！マナパスタ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "かんたん！ムチレシピ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "がうがうキャップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "がうがうグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "がうがうスーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "がうがうパンツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "がうがうブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きしんのまそう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きしんのまそうの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きじゅつしのぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きじゅつしのズボン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きじゅつしのブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きじゅつしの服",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きじゅつしグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドールウェ女＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドールウェ男＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドールエル女＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドールエル男＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドールオガ女＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドールオガ男＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドールドワ女＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドールドワ男＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドールプク女＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドールプク男＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール・ウェ女",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール・ウェ男",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール・エル女",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール・エル男",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール・オガ女",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール・オガ男",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール・ドワ女",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール・ドワ男",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール・プク女",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール・プク男",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール・人間女",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール・人間男",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール・子供女",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール・子供男",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール交換券",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール人間女＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール人間男＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール子供女＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせかえドール子供男＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせきのつるぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせきのプチプチ香水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせきのプチ香水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせきの香水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きつけそう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きつねのお面",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きぬのぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きぬのサンダル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きぬのローブ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きぬのローブ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きのこのスティック",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きめんどうしの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きょじんのハンマー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きようさにくまん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きようさにくまんの秘密",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きようさのたね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きよめの水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きらめく星の贈り物",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きりさきダガー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きれいな枝",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きれいな肖像画",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きれいめリップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きんかい",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きんのゆびわ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きんのネックレス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きんのブレスレット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぎょうじゃのこん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぎんのかなづち",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぎんのこうせき",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぎんのこしだれ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぎんのこて",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぎんのはちがね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぎんのむねあて",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぎんのクギ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぎんのブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぎんのルアーの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぎんのレイピア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぎんの短剣",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くさび模様の壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くさび模様の柱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くさりかたびら上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くさりかたびら下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くさりがま",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くさりのあみぐつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くさりのあみごて",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くさりのはちがね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くじゃくのおうぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くすしのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くすしのぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くすしのローブ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くすしのローブ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くない",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くろがねのこて",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くろがねのはちがね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くろがねのよろい上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くろがねのよろい下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くろがねのブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くろぶたさんの貯金箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くわえ葉っぱ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くノ一の手甲",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くノ一の装束上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くノ一の装束下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くノ一の足袋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぐるぐるキャンディ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぐるぐるネジ巻き",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぐるぐるメガネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "けものの皮",
+        "en_string": ""
+      },
+      {
+        "jp_string": "けんじゃのいし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "けんじゃのせいすい",
+        "en_string": ""
+      },
+      {
+        "jp_string": "けんぽうぎ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "けんぽうぎ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "けんぽうの脚帯",
+        "en_string": ""
+      },
+      {
+        "jp_string": "けんぽうの腕帯",
+        "en_string": ""
+      },
+      {
+        "jp_string": "げんこつアメ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "げんこつダケ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "げんぶのかぶと",
+        "en_string": ""
+      },
+      {
+        "jp_string": "げんぶのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "げんぶの腕帯",
+        "en_string": ""
+      },
+      {
+        "jp_string": "げんぶの道着上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "げんぶの道着下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "げんませき",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こあくまのツノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こあくまのナイフ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こあくまのネイル術",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こあくまの弓",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こあくまネイル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こうげきピンモーラグ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こうげきモーモンラグ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こうもりのはね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こおりのやいば",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こおりのやいばの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こおりのツメ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こおりのツメの秘密",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こおりのブーメラン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こおりの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こおりの杖のレシピ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こがねマリー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こがらしのダガー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こがらしのダガーの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こくうまソース",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こぞうバックラー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こぼれ桜の番傘",
+        "en_string": ""
+      },
+      {
+        "jp_string": "こんぼう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなよろい飾り・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなイス・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなイス・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなオーガ胸像・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなキッチン・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなキッチン・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなグリル・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなグリル・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなタンス・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなタンス・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなダンロ・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなダンロ・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなチェスト・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなチェスト・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなツボ・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなツボ・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなテーブル大・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなテーブル小・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなバスタブ・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなバスタブ・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなパーティ机・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなベッド・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなベッド・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなラグ中・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなラグ中・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなラグ大・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなラグ大・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなラグ小・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなラグ小・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかなランプ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかな本棚・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかな本棚・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかな燭台",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかな玉座・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかな玉座・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかな花びん・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかな花びん・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかな長イス・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかな長イス・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかな間仕切り・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかな間仕切り・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかな食器棚・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかな食器棚・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかな飾り棚・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかな飾り棚・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかよろい飾り・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかオーガ胸像・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかカウンター大・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかカウンター小・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかカウンタ大・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかカウンタ小・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかテーブル大・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかテーブル小・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうかパーティ机・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごうけつの便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごきげんなぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ごくじょうソルト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ご近所なかよしボックス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さいほうサンダル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さいほう作業着上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さいほう職人の看板",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さいほう職人帽",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さいほう職人腕あて",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さいほう設備",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さえずりのみつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さくらのゆかた",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さくらの花びら",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さくらローズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さくら色の傘",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さざなみのしずく",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さざなみギフト・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さざなみギフト・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さざなみギフト・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さざなみギフト・黄",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さざなみギフト・黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さじんのやり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さじんのやりのレシピ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さすらいのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さすらいのこて",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さすらいのぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さすらいのコートの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さすらいのコート上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さすらいのコート下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さとりそう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さとりのかんむり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さとりのころも",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さとりのころもの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さとりのグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さとりのブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さばきの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さまようよろいの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さまようよろいの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さらつやシャンプー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さわると１５種に アレンジできる 犬の影絵・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さわると５種類に アレンジできる 樹木の影絵・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さわると７種類に アレンジできる 猫の影絵・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さんぞくのオノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さんぞくのサーベル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さんぞくウルフの剣",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しあわせの玉手箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しおかぜ草",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しおさいキャンディ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・×を描く",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・○を描く",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・いねむり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・うちわ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・うなずく",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・おそうじ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・おたから袋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・おびえる",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・お祝い",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・お祝い白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・お祝い緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・お祝い赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・お祝い青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・お祝い黄",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・お茶を飲む",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・かき氷",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・かわいがる",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・かんおけ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・くやしがる",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・けいれい",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・こまいぬ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・しゃぼん玉",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・そうめん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ぞうきん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・たいこを叩く",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・だいこん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ちょうはつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・つまみ食い",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・つまむ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・とまどう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ねる",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ねる２",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ねる３",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・のぞく",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ひやかす",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ひらめく",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ほほえむ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・まえならえ前",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・まえならえ後",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・まぶしい",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・まわる",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・みちくさ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・もじもじ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・アイドル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・アコーディオ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・イスに座る",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ウインク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・カニ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・カンパイ！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・カード引く",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ガクブル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ガリバー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ガード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・キュピーン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・キラ星",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・グレープ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・グー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ケーキ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・コイントス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ゴールデン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ゴールデン紫",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ゴールデン緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ゴールデン赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ゴールデン青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・サボテンダー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・シャワー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・シャンソン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ショック",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ジュエル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・スイカ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・スイカ割り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・スマイル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・スライム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・タクトをふる",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・タロット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・タンバリン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ダンシング",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ダンシング紫",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ダンシング緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ダンシング赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ダンシング青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・チアダンス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・チョキ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ツッコミ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ティンクル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・トランプ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・トロピカル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ナイス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ネオン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ネオンスター",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ネオン紫",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ネオン緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ネオン赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ネオン青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ネオン黄",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ハイタッチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ハート",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ハート射抜く",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・バトエン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・バトル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・バトル改",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・パレード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・パー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ビースト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ビート",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ピース",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ピーヒャラ笛",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・フィーバー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・フィーバー紫",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・フィーバー緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・フィーバー赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・フィーバー青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・フルート",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ペンペン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ホイッスル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ポップコーン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ミルク缶",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ムフフ本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・メイクアップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・モチつき手",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・モチ返し手",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ラインダンス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ラブレター",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・リバーダンス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・リベリオ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・リュート",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ロック",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・ヴァイオリン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・傘まわし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・写真を撮る",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・勉強する",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・升で乾杯",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・土下座",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・大テレ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・大泣き",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・宝箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・幸せのおどり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・座って本読み",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・怒る",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・恋の魔法",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・手をつなぐ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・投げキッス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・指さす",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・星の魔法",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・木箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・桜の魔法",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・決め前",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・決め右",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・決め右前",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・決め左",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・決め左前",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・決め後",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・波止場ポーズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・爆発",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・狼まわし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・画集を読む",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・盆踊り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・究極呪文",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・空気イス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・立って寝る",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・綿毛",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・綿毛タンポラ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・線香花火",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・羽根の魔法",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・花吹雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・花束",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・苦笑い",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・身支度",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・雪だるま",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・雪の魔法",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・風船",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・飛び出すＶ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・高笑い",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・Ｇシャワー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しぐさ書・Ｖロン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ししおどしセット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しずくモビール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "したんの弓",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しっかりせんべい",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しっくいと木板の壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しっくいと木板の柱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しなやかな材木",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しなやかな枝",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しにがみきぞくの盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しびれくらげモビール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しびれ砲弾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しましまマフラー赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しましまマフラー青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しもふりミート",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しゃっきりレタス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しゃっきりレタスのタネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しゅうれんぎ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しゅうれんぎ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しゅうれん用バンド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しゅうれん用ブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しゅうれん用リスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しゅらのこん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しょくにんのベルト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しんかのひせき",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しんこうのたね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しんごんのじゅず",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しんせんたまご",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しんぴのカード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しんりのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しんりのぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しんりのローブ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しんりのローブ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "じごくの弓",
+        "en_string": ""
+      },
+      {
+        "jp_string": "じょうぶな材木",
+        "en_string": ""
+      },
+      {
+        "jp_string": "じょうぶな枝",
+        "en_string": ""
+      },
+      {
+        "jp_string": "じょうぶな金具",
+        "en_string": ""
+      },
+      {
+        "jp_string": "じんめんじゅの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "じんめんじゅの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "すごろくダイス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "すごろくマット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "すごろく魔法戦士",
+        "en_string": ""
+      },
+      {
+        "jp_string": "すざくの弓",
+        "en_string": ""
+      },
+      {
+        "jp_string": "すばやさのたね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "するどいキバ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "するどい爪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいじゃのはい",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいすい",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいどうのかなづち",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいどうのかぶと",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいどうのこて",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいどうのつるぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいどうのやり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいどうのよろい上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいどうのよろい下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいどうのオノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいどうのツメ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいどうのブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいどうの大剣",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいどうの盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいれいせき",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいれいのいと",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいれいの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいれいの杖の書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいれいの粉",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せいれいの金具",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せかいじゅのしずく",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せかいじゅのリーフパイ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せかいじゅの葉",
+        "en_string": ""
+      },
+      {
+        "jp_string": "せんこう花火",
+        "en_string": ""
+      },
+      {
+        "jp_string": "たいまつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "たいようのおうぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "たけやり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "たけやりへいの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "たつじんのオノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "たつじんのオノの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "たてごとの弓",
+        "en_string": ""
+      },
+      {
+        "jp_string": "たびびとのリュック",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ためしてクルーガー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "たんすミミックの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "たんすミミックの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "だいおうキッズ帽子",
+        "en_string": ""
+      },
+      {
+        "jp_string": "だいまどうのうでわ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "だいまどうのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "だいまどうのぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "だいまどうローブ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "だいまどうローブ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "だるまストーブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ちいさなメダル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ちいさなメダルの盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ちいさな星の贈り物",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ちからのたね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ちからのゆびわ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ちからのペンダント",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ちびっこ竜族ポーチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ちょうのはね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ちょうネクタイ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "つきのめぐみ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "つけもの石",
+        "en_string": ""
+      },
+      {
+        "jp_string": "つままれスラベス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てくてくスライム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てっこうせき",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつかぶと",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのうであて",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのおうぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのかなぼう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのこしだれ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのこて",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのすねあて",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのつるぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのはちがね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのむねあて",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのやり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのよろい上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのよろい下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのオノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのクギ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのツメ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつのムチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつの大剣",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てつの大盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "てんびんぼう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "とうこんエキス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ときのすいしょう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ときめく砂糖菓子",
+        "en_string": ""
+      },
+      {
+        "jp_string": "とげウニ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "とこなつココナッツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "とこなつシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "とこなつハッピ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "とこなつハッピ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "とこなつバングル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "とこなつヘアバンド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "とつげき丸",
+        "en_string": ""
+      },
+      {
+        "jp_string": "とらんす一味ポーチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "とりなお草",
+        "en_string": ""
+      },
+      {
+        "jp_string": "とんがりメガネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どうぐ使いのぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どうぐ使いのズボン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どうぐ使いのブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どうぐ使いの服",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どうぐ使いの証",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どうぐ使いぼうし２",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どうぐ使いグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どうのこうせき",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どうのつるぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どうのオノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どうのツメ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どうの大剣",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どうの延板",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どくがのこな",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どくがのナイフ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どくけしそう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どくどくヘドロ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "どくばり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ながれ星の贈り物",
+        "en_string": ""
+      },
+      {
+        "jp_string": "なげきのこん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "なげきムーンの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "なげきムーングラス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "なないろのまゆ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "なみだのシール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "にくきゅうの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "にじいろの布きれ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "にちりんのこん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぬすっとずきん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぬすっとのうでわ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぬすっとのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぬすっとの服",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぬすっとタイツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ねこじゃらし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ねこひげ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ねこまどうぬいぐるみ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ねこまどうぬいぐるみ小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ねこまどうの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ねこまどうの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ねこまどうの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ねこまどう便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はがねのかなづち",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はがねのかぶと",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はがねのこて",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はがねのつるぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はがねのやり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はがねのよろい上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はがねのよろい下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はがねのオノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はがねのグリーブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はがねのツメ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はがねのブーメラン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はがねのムチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はがねの大剣",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はがねの大盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はくあいのゆびわ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はぐれメタルの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はぐれメタルの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はぐれメタル召喚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はぐメタコイン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はぐメタチケット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はけスティック",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はしゃのオノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はしゃのオノの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はじまりの紋章",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はじめての木工術",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はじめての武器鍛冶",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はじめよう！ホネ砕き",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はじめよう！杖作り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はじゃのつるぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はじゃのつるぎの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はなてスライムショット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はねおうぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はねぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はやてのキュロット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はやてのグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はやてのバンダナ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はやてのブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はやてのベスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はやてのリング",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はやぶさのツメ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はやぶさの剣",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はやぶさの剣の書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はやぶさの剣改",
+        "en_string": ""
+      },
+      {
+        "jp_string": "はやぶさの剣改の書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ばくだんいわ便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ばくだん岩の像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ばくだん岩の像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ばくだん岩召喚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ばしょうせん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ばんそうこう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひかりのつるぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひかりのタクト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひかりのタクトの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひかりの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひかりの杖の本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひかりの石",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひきよせのすず",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひっさつのおうぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひつじのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひつじのころもの絵本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひつじのころも上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひつじのころも下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひつじのずきん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひつじのてぶくろ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひまわりのタネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひまわりピアス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ひらめきのゆびわ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "びっくりトマト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "びっくりトマトのタネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぴちぴちカジキ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふうまの盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふくびきインク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふくびきウェア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふくびきウェア衣装券",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふくびき券",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふくびき補助券",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふくまねきの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふさふさの毛皮",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふしぎなきのみ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふしぎなイレモン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふしぎなドロドロ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふしぎな海草",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふしぎな豆",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふたつ結びエクステ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふちなしメガネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふぶきのオノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふぶきのオノの作り方",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわふうせん緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわふうせん赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわふうせん青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわエンゼル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわクマノミ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわジョニール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわジョニールの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわスライム物語",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわタツノコ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわドラキー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわバニー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわペコリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわホイミン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわモーモン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわ小麦",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわ小麦のタネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわ雲のイス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわ雲のソファ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわ雲のタンス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわ雲のチェスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわ雲のテーブル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわ雲のベッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわ雲のライト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわ雲のライト図鑑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわ雲のラグ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわ雲のラグ図鑑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわ雲の本棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわ雲の観測日記",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふわふわ雲ドレッサー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふんさいのおおなた",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ふんさいのおおなたの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぶたさんの貯金箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぶとうぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぶとうぎ２",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぶどうエキス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぶらり旅の荷物",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぷちスラキャップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "へびがわのムチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "へびのおうぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "へびのぬけがら",
+        "en_string": ""
+      },
+      {
+        "jp_string": "べっこうメガネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぺっぺっぺ画伯の絵",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぺろぺろキャンディ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ほうおうのおうぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ほうき星の贈り物",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ほしくずのつるぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ほしくずのピアス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ほしのカケラ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ほしのシール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ほっとするかばん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ほっとイヤーマフ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ほのおのつるぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ほのおのつるぎの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ほのおのツメ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ほのおのツメの作り方",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ほのおのブーメラン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ほのぐらい柱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ほほの傷シール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ぽかぽかマフラー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まがんの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まがんの杖の作り方",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まきの束",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まき割りセット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まけんしのレイピア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まごころの薬箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ましょうのおうぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まじないしのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まじないしターバン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まじないしローブ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まじないしローブ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まじゅうのツノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まじゅうのツメ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まじゅうのツメの作り方",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まじゅうのホネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まじゅうの皮",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まじんのかなづち",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まだらくも糸",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まっちゃガーベラ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まっちゃガーベラのタネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まてきのスティック",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まどうしのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まどうしのころも上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まどうしのころも下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まどうしのぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まどうしの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まどろみのこん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まふうじの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まほうのこて",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まほうのせいすい",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まほうのよろい上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まほうのよろい下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まほうのよろい下２",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まほうのグリーブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まほうの壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まほうの小ビン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まほうの材木",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まほうの柱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まほうの樹木",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まほうの盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まほうの金具",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まほうサークレット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもの使いずきん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもの使いずきん２",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもの使いのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもの使いのくつ２",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもの使いのブレス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもの使いの服",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもの使いの服２",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもの使いの証",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもの導師のズボン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもの導師のブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもの導師の服",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもの導師グローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもりのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもりのたね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもりのぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもりのペンダント",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まもりのローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まよけのすず",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まよけのツメ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まりょくのたね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まりょくの土",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まんげつそう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まんげつリング",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まんねん雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まんまるポテト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "まんまるポテトのタネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みかがみの盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みかわしそう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みかわしのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みかわしのぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みかわしの服上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みかわしの服下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みかわしオムレツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みかわしオムレツ調理法",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みがきずな",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みずたまの棺桶風ベッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みちくさコイン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みちびきのプチプチ香水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みちびきのプチ香水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みちびきの香水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みつあみエクステ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みやびな打ち掛け",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みやびな笹飾り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みやびな飾り扇子",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みやびな飾り皿",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みわくのリボン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "むぎわらぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "むげんの弓",
+        "en_string": ""
+      },
+      {
+        "jp_string": "めぐみのしずく",
+        "en_string": ""
+      },
+      {
+        "jp_string": "めざましリング",
+        "en_string": ""
+      },
+      {
+        "jp_string": "めざめの秘石",
+        "en_string": ""
+      },
+      {
+        "jp_string": "めざめの花",
+        "en_string": ""
+      },
+      {
+        "jp_string": "めざめの鬼石",
+        "en_string": ""
+      },
+      {
+        "jp_string": "もぐらのスコップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "もこふわパジャマ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ものほしざお",
+        "en_string": ""
+      },
+      {
+        "jp_string": "もみじのゆかた",
+        "en_string": ""
+      },
+      {
+        "jp_string": "もみじの木",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ももんじゃの浮き輪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やいばのこて",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やいばのはちがね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やいばのよろい上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やいばのよろい下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やいばのグリーブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やいばのブーメラン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やいばの燐光盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やくそう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やさしい鉄槌のくだし方",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やしゃのこん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やみしばりの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やみしばりの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やみしばりカカシの畑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やりなおしの宝珠",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やりなおしの無限石",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やりなお草",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やわらかい材木",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やわらかい枝",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やわらかい肉",
+        "en_string": ""
+      },
+      {
+        "jp_string": "やわらかウール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゆうきさんの絵",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゆうたのリュック",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゆうわくの弓",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゆめのかけら",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゆめみの天箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゆめみの竜箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゆめみの花",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゆめみの金箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゆめみの銀箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゆめみの銅箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゆめみの闇箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゆらゆら牛さん・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゆらゆら牛さん・黄",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゆらゆら羊さん・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゆらゆら羊さん・紫",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ようがんのカケラ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ようせいのあまざけ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ようせいのおでん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ようせいのひだね",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ようせいのわたアメ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ようせいのヤキソバ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ようせいのラムネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ようせいの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ようせいの杖の作り方",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ようせいの粉",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ようせいの霊薬",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ようせいの首かざり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "よごれたほうたい",
+        "en_string": ""
+      },
+      {
+        "jp_string": "よるのとばり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "よるのパピヨン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "よろこびの玉手箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "らいじんのやり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "らせつのこん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "らせつのこんの作り方",
+        "en_string": ""
+      },
+      {
+        "jp_string": "りぷとん画伯の絵",
+        "en_string": ""
+      },
+      {
+        "jp_string": "りんねの大盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ろうがぼう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "わくわくプレゼント箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "わたぼうお花おもちゃ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "わたぼうのお庭ランプ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "わたぼう気球おもちゃ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "わだつみのしずく",
+        "en_string": ""
+      },
+      {
+        "jp_string": "わらぞうり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アイアンウィング",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アイスタルト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アイスタルト・小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アイスバー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アイスブルーの染料",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アイスブルーダリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アイドルスーツ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アイドルスーツ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アイドルブレス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アイドルブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アイドルヘアバンド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アイリのぬいぐるみ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アガレスの紋章",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アキーラヘルム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アクアマリンの宝石",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アクアマリンマリー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アクセルギア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アクセルギアの破片",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アクティブウィッグ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アクロバットケーキ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アクロバーガー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アクロバーガーの作り方",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アクロバーガー・小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アグラニ風たいまつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アサガオのアーチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アサシンダガー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アジサイじんべい上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アジサイじんべい下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アジサイコサージュ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アジサイ姫ぞうり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アジサイ姫ゆかた上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アジサイ姫ゆかた下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アステライト鉱石",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アステルウィップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アスフェルド光章",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アスフェルド大光章",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アスフェルド学園便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アズラン駅の模型",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アズラン駅の模型・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アテナの系譜",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アテナの聖槍",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アトラスのお面",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アトラスカード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アトラスコイン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アトラス強カード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アトラス練習札",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アドミラルコート",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アドミラルハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アドミラルブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アヌビスのアンク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アヌビスのブローチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アバさまの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アビスキャンディ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アポカリプス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アポロンのオノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アマリリスの笑顔",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アメジスシード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アメジストの置物",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アメジストローズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アモンの紋章",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アモールの水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アラビアンアーム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アラビアンウェア上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アラビアンウェア下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アラビアンシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アラビアンターバン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アリアハンかんむり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アリアハンの剣",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アリアハンの盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アリアハングローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アリアハンブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アリアハンマント",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アルウェの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アルウェーンの便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アルケミストン帽子",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アルテミスの弓",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アルミラージの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アルミラージの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アロハな海パン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アロマの便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アローインプの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アローインプの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンカースピアー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンタッチャブル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンチイエローバー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンティーク扇風機",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンノウンアックス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンノウンウィップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンノウンエッジ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンノウンクロー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンノウンショット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンノウンシールド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンノウンステッキ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンノウンスピア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンノウンソード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンノウンダーク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンノウンハンマー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンノウンバスター",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンノウンファン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンノウンロッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンノウンワンド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンフィスバエナ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンルシアぬいぐるみ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンルシアのうちわ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンルシアの像＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アンルシアＴシャツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アークワンド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アークワンドの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アーマービスケ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イエローオーブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イエローリップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イエローリップのタネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イケてる海パン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イシスのアンク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イシスのブローチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イチゴのクッション",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イッドの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イビルアックス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イビルアックスミックス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イブニンググローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イブニングコート",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イブニングシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イルミネーション付き柵",
+        "en_string": ""
+      },
+      {
+        "jp_string": "インテリのうでわ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "インテリサンダル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "インテリハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "インテリローブ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "インテリローブ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イーグルダガー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イーグルダガー作成術",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イーリスの手記",
+        "en_string": ""
+      },
+      {
+        "jp_string": "イーリスの杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィキッドスタッフ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィキッドスーツ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィキッドスーツ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィキッドブレス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィキッドブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィキッドヘルム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードのタンス白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードのタンス黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードのランプ白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードのランプ黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードの仕切り白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードの仕切り黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードソファ・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードソファ・黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードチェア・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードチェア・黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードチェスト白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードチェスト黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードテーブル白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードテーブル黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードバス・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードバス・黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードベッド・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザードベッド・黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザード本棚・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザード本棚・黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザード植木鉢・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザード植木鉢・黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザード鏡台・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィザード鏡台・黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィッチコート",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィッチシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィッチハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウィッチブレス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウイングエッジ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウイングヘルム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェスタングローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェスタンスパッツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェスタンハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェスタンブラウス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェスタンブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェスタンレイピア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェスリーハンマー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェットスーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェットスーツ・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェットスーツ・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディお花見セット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディかまど",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディのサンダル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディのズボン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディのターバン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディのパレオ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディのパーティ机",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディのリスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディの人形・女",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディの人形・男",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディの便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディの服",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディの銅像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディカウンタ大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディカウンタ小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディタンス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディチェア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディチェスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディテーブル大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディテーブル小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディデスク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディバスタブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディバングル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディプランター",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディベッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディベンチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディングうさぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディングくま",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディングアーチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディングケーキ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディング便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディ本棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディ流し台",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディ間仕切り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディ風アーチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェディ食器棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウェナールピアス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウォーハンマー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウォールビスケ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウサぐるみのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウサぐるみのぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウサぐるみの服",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウサぐるみグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウサギぬいぐるみ・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウサギぬいぐるみ・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウサギぬいぐるみ・茶",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウサギぬいぐるみ・黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウサギぬいぐるみ小・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウサギぬいぐるみ小・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウサギぬいぐるみ小・茶",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウサギぬいぐるみ小・黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウサギパーカー上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウサギパーカー下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルタのグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルタのコート上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルタのコート下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルタのバンダナ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルタのピアス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルタのピアスの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルタのブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルフキャンディ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルベアの大盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルベアの大盾組立術",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルベアの宝剣",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルベアの秘法",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルベア金貨",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルベア銀貨",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウルベア銅貨",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウールグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウールコート上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウールコート下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウールシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウールスカート",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウールハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ウールブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エキゾチックピアス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エクリプスアックス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エクリプスアックスの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エゼバスソルト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エックスシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エッチなしたぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エテーネのうでわ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エテーネのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エテーネのこしぬの",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エテーネのまもり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エテーネの剣",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エテーネの服",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エテーネの村の便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エテーネの短剣",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エテーネルスープ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エトワールの伝説",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エトワールグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エトワールコート上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エトワールコート下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エトワールハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エトワールブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフおうぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフやり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフェクトダミー傘",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフェクト両手剣２",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフェクト剣モデルあり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフェクト剣モデルなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフェクト弓２",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフェクト盾２",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフオノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフスティック",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフツメ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフハンマー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフブーメラン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフムチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフ両手杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフ弓",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフ棍",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エフ短剣",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エメラルシード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エメラルドリリィ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エラい人のヒゲ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エリュテイアのオノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフお花見セット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフかまど",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフのじゅず",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフのサンダル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフのパーティ机",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフの人形・女",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフの人形・男",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフの便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフの平服上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフの平服下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフの烏帽子",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフの礼くつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフの礼服",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフの銅像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフの飲み薬",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフカウンタ大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフカウンタ小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフタンス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフチェア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフチェスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフテーブル大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフテーブル小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフデスク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフプランター",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフベッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフベンチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフ台所",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフ本棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフ浴槽",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフ間仕切り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフ風アーチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エルフ食器棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エレガントココア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エレガントドレス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エレガントヒール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エレガントブレス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エロスの弓",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンシェントククリ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンシェントクロー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンシェントタクト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンシェントワンド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンジェルウィング",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンジョイ浮き輪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンゼルスライム帽",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンゼルスラネオン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンゼルスラバルーン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンゼルチャイム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンゼルハーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンタシスマンの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンドウマメのラグ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンドウマメのラグの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンドウマメのラグ・紫",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンパイアブレード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エンパイアブレードの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エージェントの服上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エージェントの服下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エージェントアイ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エージェントグラブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エージェントハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エージェントブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エージェントマスク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エースのカード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オカルトメガネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オシリスのアンク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オシリスのブローチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オス三毛猫スーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オセアノスの祈り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オセアノススピア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オトリ召喚の札",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オニキスの魔剣",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オニキスの魔剣の本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オニグモの盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オノ(両手)",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オノ作り入門",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オバケのかぶりもの",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オバケのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オバケのローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールのイス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールのオーブン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールのカウンタ大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールのカウンタ小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールのカーペット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールのキッチン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールのタンス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールのダンロ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールのチェスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールのテーブル大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールのテーブル小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールのバスタブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールのパーティ机",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールのベッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールのベンチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールの本棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールの玉座",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールの置物",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールの間仕切り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オパールの食器棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オフィサーキャップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オリハルコン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オリハルコンの大剣の書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オリハルコンの短剣の書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オリーブマリー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オリーブマリーのタネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オルフェア駅の模型",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オルフェア駅の模型・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オルフェウスの弓",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オレンジと白の傘",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オレンジの本棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オレンジガーベラ傘",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オレンジスズラン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オレンジスズランのタネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガお花見セット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガのパーティ机",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガの人形・女",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガの人形・男",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガの便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガの村人うでわ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガの村人くつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガの村人服",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガの町人うでわ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガの町人ブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガの町人服",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガの銅像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガイス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガオーブン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガカウンタ大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガカウンタ小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガカーペット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガキッチン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガシールド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガタンス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガチェスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガツボ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガテーブル大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガテーブル小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガニックサラダ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガバスタブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガプランター",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガベッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガベンチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガ本棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガ机",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガ間仕切り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガ風アーチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーガ食器棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーシャングラス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オータムウェア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーディーンボウ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーディーンボウの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オートクレール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーブなプチプチ香水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーブなプチ香水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーブな香水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーレン両手杖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オーロラプラネタリウム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カイザーアックス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カイザーアックスの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カイザーブレード戦記",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カイトバックラー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カエルパーカー上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カエルパーカー下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カエル池",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カカシつきの畑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジノなプチ香水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジノな香水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジノのイス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジノオルゴール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジノコイン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジノコインチケット金",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジノコインチケット銀",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジノコインチケット銅",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジノバニースーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジノバニーヒール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジノバニーヘッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジノバニーリスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジノプレイチケット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジュアルドレス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジュアルヒール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カジュアルブレス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カチコチくるみ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カフェスズランのタネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カフェラテスズラン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カブのイス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カプサイせんべい",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カプサイシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カプサイスーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カプサイヘッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カプレーゼタクト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャつきの畑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャのキッチン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャのテーブル大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャのバスタブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャの便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャの本棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャの置物",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャの食器棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャイス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャオーブン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャカウンタ大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャカウンタ小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャカーペット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャタンス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャダンロ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャチェスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャテーブル小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャベッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャベンチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャランタン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カボチャ間仕切り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カミハルムイの紋章旗",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カミルのブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カミルのローブ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カミルのローブ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カムシカせんべえ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カメのおうぎ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カメレオン傘",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カラフルスラ花火台",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カラフルスラ花火台・橙",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カラフルスラ花火台・紫",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カラフルスラ花火台・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カラフル花火台",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カラフル花火台・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カラフル花火台・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カラフル花火台・青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カラフル風船・紫桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カラフル風船・赤黄",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カリスマクリーム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カリスマココア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カルサドラアックス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カルベロビュート",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カルベローナの記録",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カレイドスコープ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カンダタの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カンダタマント",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カンフーキャップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カンフーシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カンフージャケット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カンフーズボン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カンフーリスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガイアのオノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガタラのブタまん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガタラ風たいまつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガタラ駅の模型",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガタラ駅の模型・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガテリアの宝剣",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガナン帝国の勲章",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガネーシャエビルパック",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガブリエルのやり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガマのあぶら",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガラクタボックス１",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガラクタボックス２",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガラクタボックス３",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガラクタボックス４",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガラクタ城の家",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガラテアの神槍",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガルドリオン練習召喚符",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガーディアンサラダ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガーディアンサラダの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガーデニングセット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガーデンシャワー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガーデンスラ花火台・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガーデンスラ花火台・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガーデンスラ花火台・青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガーデンスラ花火台・黄",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガーデン花火台・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガーデン花火台・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガーデン花火台・青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガーデン花火台・黄",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガートラントの紋章旗",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガートラント風たいまつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガードーナツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガーネシード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガーリー柄の便利な壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キィンベルのぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キィンベルの服上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キィンベルの服下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キツネパーカー上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キツネパーカー下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キノコの壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キノコの柱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キメラの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キメラの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キメラの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キメラＴシャツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャットキャンディ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャットクロー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャットリベリオ像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャッ飛び便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャプテンの眼帯",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャプテンクロー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャプテングローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャプテンハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャプテンブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャプテンマント",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャラメルリップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャロルじんべい上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャロルじんべい下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャロルコサージュ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャロル姫ゆかた上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャロル姫ゆかた下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャロル姫ブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キャンピングハット券",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キュウサイポイント",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キュルル花火・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キュルル花火・虹",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キュルル花火・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キュルル花火・黄",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キューティココア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キュートなイヌミミ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キュートなウサミミ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キュートなクマミミ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キュートカカオ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キュートクリーム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キュートチョコ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キューブライト・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラキラねこまどう",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラキラスライム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラキラプリズニャン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラキラモビール・金",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラキラモビール・銀",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラキラモーモン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラパン白プリズム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラパン黒プリズム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラーなピッケル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラークリムソード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラーバイザー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラーパンサーの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラーパンサーの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラーパンサープリズム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラーピアス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラーマシンの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラーマシンの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラーマシンの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラーマシンヘルム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラーマシン便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラーマジンガカード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラーマジンガコイン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラーマジンガ強カード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キラーマジンガ練習札",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キルティングバッグ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キレキレキッシュ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キレキレキッシュ・小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングのカード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングのピース・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングのピース・黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングアックス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングアックスの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングスライムの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングスライムの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングスライムの盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングスライムネオン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングスライムハウス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングスライムパック",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングスライム噴水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングヒドラの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングヒドラカード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングヒドラコイン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングヒドラ強カード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングヒドラ練習札",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングブレード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングブレードのレシピ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キンスラ便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キーたんぬいぐるみ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キーたんのブローチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギガスクラッパー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギガスクラッパー見参",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギガンテスの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギガンテスの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギガンテス便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギサールの野菜",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギフトボックス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギャルいウィング",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギャルいウィングの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギャルいブレス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギャルいミュール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギャルのコサージュ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギャルの服",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとはぐりん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとアイゼル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとアオちゃん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとアンルシア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとアンルシアの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとウリボー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとエステラ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとエステラの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとエリザベッテ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとオサル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとオバケ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとクラウン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとケキちゃん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとコッコー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとサジェ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとサジェの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとザンク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとザンクの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとセラフィ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとセラフィの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとソーミャ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとダクキン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとダクキンの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとチュラリス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとチュラリスの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとヒストリカ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとヒストリカの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとヒューザ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとヒューザの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとフランジュ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとプオーン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとミラン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとメイヴ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとメイヴの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとメーダ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとラピス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとリィン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとリィンの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとリゼロッタ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとリゼロッタの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとリソル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとリルチェラ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとリルチェラの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとルコリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとルコリアの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとルナナ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとルナナの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとレグナード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとレグナードの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとワンワン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッと時の化身",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッと白き導き手",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッと魔勇者",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッと魔勇者の箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュッとＶロン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュメイ将軍カード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュメイ将軍コイン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギュメイ将軍練習札",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギルガランのうでわ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギルガランのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギルガランのピアス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギルガランの服上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギルガランの服下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギルガランピアスの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギルド移籍許可証",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギンガムの便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギンガムマフラー赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ギンガムマフラー黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クイックグラブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クイックケーキ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クイックジャケット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クイックハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クイックパンツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クイックブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クイーンのカード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クイーンのピース・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クイーンのピース・黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クイーンスライム噴水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クオードのサーベル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クッキーの便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クッキーの盾",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クマのぬいぐるみ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クマのぬいぐるみ・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クマのぬいぐるみ・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クマのぬいぐるみ・茶",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クマのぬいぐるみ・青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クマのぬいぐるみ小・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クマのぬいぐるみ小・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クマのぬいぐるみ小・茶",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クマのぬいぐるみ小・青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クモの巣カーペット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クライシスアイ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クライシスマスク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クラウンぬいぐるみ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クラウングローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クラウンシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クラウンズボン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クラウンハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クラウンベスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クラシック風の壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クラシック風の柱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クラッシュロッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クラハの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスタルエッジ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスタルクロー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスタルクローの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスタルピアス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスマスお菓子の壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスマスお菓子ツリー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスマスお菓子ライト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスマスお菓子飾り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスマスのこびと像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスマスのソリ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスマスのモール飾り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスマスの絵本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスマスアーチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスマスカード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスマスツリー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスマスツリー赤・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスマスツリー青・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリスマスパーティ机",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリムゾンウィング",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリムゾングリーブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリムゾングローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリムゾンヘルム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリムゾンメイルの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリムゾンメイル上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クリムゾンメイル下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クルスアックス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クルーガーグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クルーガースーツ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クルーガースーツ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クルーガーハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クルーガーブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クレイガーベラ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クレイジーマシュマロ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クレセントエッジ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クレセントエッジの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クレバーココア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クロウズぬいぐるみ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クロウズの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クロウズの像＋",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クロスブーメラン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クロスペンデュラム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クロッシュウェア上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クロッシュウェア下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クロッシュグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クロッシュシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クロッシュメット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クローしないツメ生産",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クローバーの家",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クローバーシールド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クローバーハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クローバーピアス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クローバーＴシャツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クーちゃんふうせん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グラコスのやり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グラコスの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グラコスの日記",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グラコスカード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グラコスコイン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グラコス強カード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グラコス練習札",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グラディウス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グラディウスのレシピ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グランドタイタス丼",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グランドピアノ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グランドピアノのイス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グリンガムのムチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グリンガムのレシピ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グリーンの壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グリーンの白壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グリーンオーブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グリーンポット中・家用",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グリーンポット大・家用",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グリーンポット小・家用",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレイツェルの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレイトグラタン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレイトグラタンの王様",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレイトグラタン・小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレモリーの紋章",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレン風たいまつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレン駅の模型",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレン駅の模型・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレースギフト・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレースギフト・紺",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレースギフト・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレースギフト・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレースギフト・黄",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレートアックス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレートアックスの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレートグラブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレートグリーブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレートハンマー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレートヘルム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレートマント",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレートマントのレシピ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレーブルーマリー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレープフルーツの本棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレーリリィ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレーリリィのタネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グローリーアックス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グローリーココア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ケイオスの儀式書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ケイオスソード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ケイオスネイル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ケイオスブレード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ケイオス写本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ケイロンの弓",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ケーキ神人形",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゲイボルグの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゲノミーキャップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゲルニック将軍カード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゲルニック将軍コイン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゲルニック将軍練習札",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コットン草",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コブタのマスク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コブタナックル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コブタパーカー上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コブタパーカー下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コポのポーチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コポのポーチの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コマンダーキャップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コマンダーグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コマンダーコート上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コマンダーコート下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コマンダーシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コロシアムでＳＳ ランクになった 証のトロフィー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コロシアムキャップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コロシアムバーガー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コーヒーカップ・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コーヒーカップ・緑",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コーヒーカップ・黄",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コーラルマリー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシックアーム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシックカウンター大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシックカウンター小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシックグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシックコート上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシックコート下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシックニーソ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシックハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシックパラソル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシックパラソルレシピ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシックビスチェ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシックフリル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシックブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシックミトラ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシック調のイス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシック調のオーブン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシック調のキッチン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシック調のタンス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシック調のチェスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシック調のバスタブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシック調のベッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシック調のベンチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシック調の本棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシック調の間仕切り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシック調の食器棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシック調テーブル大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシック調テーブル小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴシック調パーティ机",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴッドライクなオノ作成",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴッドライクな大剣作成",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴッドライクな槍作成",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴッドライクな短剣作成",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴッドライクな鉄槌作成",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴルスラメダル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴルフグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴルフシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴルフバイザー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴルフメンズウェア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴルフレディウェア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴレオン将軍カード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴレオン将軍コイン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴレオン将軍練習札",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴローさんスリッパ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴローさんリボン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴローさん部屋着上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴローさん部屋着下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴーゴー戦姫",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴージャスウィップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴージャスクッキー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴージャスクッキーの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴージャスクリーム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴージャスココア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴージャスティアラ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴースネル練習召喚符",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴードンハンマー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴールデンスライム像庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴールデントーテムの壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴールデントーテムの家",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴールデントーテムの柱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴールデントーテム像庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴールデンリング",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴールド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴールドストーン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴールドマンの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴールドマン衣装券",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴールドリリィ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴーレムの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴーレムの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴーレムの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴーレムネオン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴーレムパンチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴーレム召喚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サイキョーＶロンコイン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サイコロピアス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サイドワインダー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サイドワインダーの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サウザンドダガー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サウザンドダガーの製法",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サクランボのラグ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サクランボのラグの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サクランボのラグ・黄",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サザエクロー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サザンクロス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サジェのメガネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サタンフォーク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サツマイモのテーブル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サニーアンクレット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サバンナの水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サバンナウッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サファイアのピアス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サファイアプリズム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サフラングローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サフランハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サフランブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サフランローブ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サフランローブ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サボテンの鉢植え・家用",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サボテンダーの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サボテンダーコイン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サボテンダーマスク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サボテン・中",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サボテン・大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サボテン・小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サポ用アンルシアの剣",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サマーな砂風呂",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サマーウルフ衣装券",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サメの浮き輪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サラマンダー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サラマンダーのレシピ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サンゴールドスズラン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サンセットスズラン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サンタのくつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サンタのてぶくろ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サンタのランプ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サンタの服上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サンタの服下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サンタガールトップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サンタガールブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サンタキャップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サンタグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サンタスカート",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サンドフルーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サーカステントの家",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サーカスハウスの壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サーカスハウスの柱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サークルピアス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サーチランプ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サーペントウィップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "サーペントウィップの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ザオラグ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ザルトラ練習召喚符",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ザンクローネぬいぐるみ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ザンクローネの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ザ・キャッツメダル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ザ・フライパンメーカー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ザ・ボーンズメダル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シェルウィング",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シェンロンロッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シックな浮き輪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シトリンの足飾り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シマ柄のじんべい",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シャイニーウィング",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シャドウエッジ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シャボンのアーチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シャボンのオブジェ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シャル・ウィ・フリーズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シャワーラムネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シャンデリアストーリー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シャンデリアリターンズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シャンパンタワー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シャークスキン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シャーマニズム大全",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シャーマンアックス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シャーマンアックスの書",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シャーマンシールド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シュガーサブレ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シュガーシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シュガースーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シュガーハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シュパルトエッジ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シュパルトクロー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シュパルトブレード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シュメリアスカート",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シュメリアヒール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シュメリアピアス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シュメリアピアスの箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シュメリアブラウス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シュメリアブレス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ショコラなぼうし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ショコラなシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ショコラなドレス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ショコラなブレス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ショコラチケット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ショート足ヒレ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルク草",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルバーアックス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルバーウィング",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルバーオーブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルバークロー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルバーサークル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルバーダリア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルバーデビルの像",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルバーデビルの像・庭",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルバートレイ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルバーバングル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルフィード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルフウィング・桃",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルフウィング・桃の箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルフウィング・白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルフウィング・白の箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルフウィング・青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シルフウィング・青の箱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シンイのメット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シングルアンテナＡ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シングルアンテナＢ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シンプルイヤーマフ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シンプルキャップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シンプルシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シンプルズボン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シンプルパーカー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シンプル切り替え土台",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シンプルＴシャツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シーサイドドレッサー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シーサイドハウス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シーブスナイフ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シールドーナツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "シール特別交換券",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジェスターキャップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジェスターシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジェスタースーツ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジェスタースーツ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジャックのカード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジャックのローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジャッジメント",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジャングルリップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジャングルリップのタネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジャングル風の壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジャングル風の柱",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジャンボ玉ネギ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジャンボ玉ネギのタネ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジュエルダガー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジュエルブレード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジュエルロッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジュエルワンド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジュノーガ練習召喚符",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジュレット風たいまつ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジュレット駅の模型",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジュレット駅の模型・雪",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイカのイス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイカのイス・黄",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイカのタライ・金",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイカのタライ・銀",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイカのテーブル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイカのテーブル・黄",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイーツの便せん",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイートな服上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイートな服下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイートウィッグ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイートキャップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイートココア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイートヒール",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スウィートビキニ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スウィートビキニ白",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スウィートビキニ黒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スカルウィング",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スカルブレイク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スキルブック",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スクールブレザー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スコーピオンテイル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スコーピオンテイルの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スタジアムキャップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スタジアムシャツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スタジアムシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スタジアムパンツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スタジアムリスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スタミナライス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スタミナライスの作り方",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターのイスの作り方",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターのイス・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターのイス・青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターの足置き・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターの足置き・青",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターコート",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターコート２",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターシルクハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スタースイーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スタースイーツの絵本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スタースイーツ・小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターダムシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターダムスーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターダムハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターダムブレス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターライトの便利な壁",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターリュック",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターリーキャップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターリーシールド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターリースタッフ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターリーステッキ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターリースピア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターリーハット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターリーブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターリーリスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターリーロッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スターリーワンピ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームのイスと机の本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームイス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームイス・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームインテリアの本",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームオーブン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームオーブン・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームカウンタ大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームカウンタ大・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームカウンタ小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームカウンタ小・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームカッター",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームキッチン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームキッチン・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームグローブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームショット",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームシールド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームスーツ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームスーツ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームタンス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームタンス・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームチェスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームチェスト・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームテーブル大",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームテーブル大・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームテーブル小",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームテーブル小・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームハンマー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームバスタブ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームバスタブ・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームベッド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームベッド・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームベンチ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームベンチ・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチームモノクル",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチーム本棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチーム本棚・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチーム間仕切り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチーム間仕切り・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチーム食器棚",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スチーム食器棚・赤",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スティック",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スティック(片手)",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ステキなスティック作り",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ステンドシールド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ステンドレイピア",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ステージアーム",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ステージシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ステージジャンパー",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ステージチュチュ上",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ステージチュチュ下",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ステージバンド",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ステージパンツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ステージブーツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ステージリスト",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ステージリボン",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ステージ衣装大全",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ストライプゆかた",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ストリートシューズ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ストリートバンダナ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ストリートパンツ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ストリートベスト",
+        "en_string": ""
+      }
+    ]
+  }
+]

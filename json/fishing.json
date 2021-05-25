@@ -1,0 +1,755 @@
+[
+  {
+    "hex_start": "54 45 58 54 10 00 00 00 70 1C 00 00 00 00 00 00 00 00",
+    "strings": [
+      {
+        "jp_string": "<pc>のさおが　冷気を放った！",
+        "en_string": "<pc>Sao released a blast of cold air!"
+      },
+      {
+        "jp_string": "<pc>のさおが　燃え上がった！",
+        "en_string": "<pc>I've got a blazing bonfire!"
+      },
+      {
+        "jp_string": "<pc>のさおが　輝きだした！",
+        "en_string": "<pc>I've got to get out of here!"
+      },
+      {
+        "jp_string": "<pc>は　さおをゆるめた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<pc>は　さおを引いた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<pc>は　全力で引いた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<pc>は　釣り上げるのを　あきらめた。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "<pc>は　闇の力で引いた！",
+        "en_string": "<pc> pulled by the darkness!"
+      },
+      {
+        "jp_string": "あきらめる",
+        "en_string": "Give Up"
+      },
+      {
+        "jp_string": "あんこくの力で さかなに行動を させづらくする",
+        "en_string": "The power of darkness|makes it difficult|for fish to act."
+      },
+      {
+        "jp_string": "きせきの力で 釣りざおを引く 食いつき度が回復",
+        "en_string": ""
+      },
+      {
+        "jp_string": "きせきの力で引く",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くいつき度アップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くいつき度アップは 覚えているだけで　常にくいつき度が 少し　上がるようになります。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さおゆるめ回復量アップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さおゆるめ回復量アップは 覚えているだけで　さおをゆるめた時の 回復量が　少し　上がるようになります。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さおをゆるめて くいつき度を 回復させる",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さおをゆるめる",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さおをゆるめる回数が　<%dL_KISEKI>回増えた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さおを引いて さかなを近くに 引き寄せる",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さおを引く",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなが　トゲを出した！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなが　地面にもぐった！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなが　水流に乗って　遠ざかっていく！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなが　水流を巻き起こした！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなが　水面に飛び上がった！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなが　目を覚ました！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなの　つうこんのかみつき！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなの　超ちからため！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなのスミが　晴れた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなのテンションが　戻った。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなのトゲが　ひっこんだ。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなの凍結状態が　なおった。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなの力が抜けていて　多めに引き寄せられた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなの行動に反応して　ルアーが輝きだした！ やいばのルアーのチカラで　さかなを引き寄せた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなの闇が　晴れた。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　あごをゆらしている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　くるくると　回転した。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　こちらを威嚇している！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　じたばた暴れている！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　じっとしている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　すばやく泳ぎ去った！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　ちからをためた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　はげしく　かみついた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　ぼーっとしている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　ゆっくり泳いでいる。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　ゆらゆらしている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　ゆらゆらと　ただよっている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　ようすをうかがっている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　コロコロしている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　スミを出した！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　トゲを動かした！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　ヒゲを　ふるわせている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　凍り付いていて　動けない！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　吻を大きく　振り回した！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　地面にもぐっている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　大きく　体を動かした。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　大きくクチを　開けた！ 次の行動は　やばそうだ！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　大きく動き　波を起こした！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　大きな身体を　勢いよく動かした！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　大暴れをした！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　尾ひれを　ゆらめかせている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　必死に泳いでいる！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　必死に海底をはった！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　水の中を　旋回している。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　水底に　尾ひれを打ちつけた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　海底で飛び跳ねた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　疲れて　ぐったりしている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　疲れているようだ。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　眠っている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　闇に包まれ　おびえている！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　電気を放電した！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　電気を溜めている！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなは　首をはげしく振った！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなを　凍らせた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなを　地面から　引きずり出した！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなを　闇で包み込んだ！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなを倍の力で 引き寄せるが くいつき度が半減",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さらに引き寄せる力アップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さらに引き寄せる力アップは 覚えているだけで　常に　引き寄せる力が より　上がるようになります。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しかし　うまく発動しなかった！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "しかし　なにもおこらなかった。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "そよ風の浜",
+        "en_string": ""
+      },
+      {
+        "jp_string": "なかまのさかなが　集まって　暴れた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "なんと　さかなの状態異常が　解けてしまった！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "みかがみの泉",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オアシス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングサイズ確率アップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "キングサイズ確率アップは 覚えているだけで　キングサイズの魚が かかりやすく　なります。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "クデゥスの泉",
+        "en_string": ""
+      },
+      {
+        "jp_string": "コバルト池",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイカは　はげしい水の流れにさらわれた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイカは　プカプカと　ただよっている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スイカは　水の流れにさらわれた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "スライムの池",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ソーダの泉",
+        "en_string": ""
+      },
+      {
+        "jp_string": "トゲで　ルアーが削られる！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "トゲトゲルアーのチカラで くいつき度が　減らなかった！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ナツリ特製の旬の 秘められた力で 釣りさおを引く",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ハニーレイク",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ビッグサイズ確率アップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ビッグサイズ確率アップは 覚えているだけで　ビッグサイズの魚が かかりやすく　なります。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ヘドロの沼地",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ミス",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ミレナ海岸",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ルアーが　波にさらわれる！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "上流",
+        "en_string": ""
+      },
+      {
+        "jp_string": "下流",
+        "en_string": ""
+      },
+      {
+        "jp_string": "井戸水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "何も起こらない",
+        "en_string": ""
+      },
+      {
+        "jp_string": "全力で引く",
+        "en_string": ""
+      },
+      {
+        "jp_string": "内海",
+        "en_string": ""
+      },
+      {
+        "jp_string": "南の海",
+        "en_string": ""
+      },
+      {
+        "jp_string": "噴水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "回復の泉",
+        "en_string": ""
+      },
+      {
+        "jp_string": "地下水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "地底湖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "地流池",
+        "en_string": ""
+      },
+      {
+        "jp_string": "堀",
+        "en_string": ""
+      },
+      {
+        "jp_string": "大浴場",
+        "en_string": ""
+      },
+      {
+        "jp_string": "天使のルアーのチカラで　くいつき度が増えた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "天流池",
+        "en_string": ""
+      },
+      {
+        "jp_string": "女王の池",
+        "en_string": ""
+      },
+      {
+        "jp_string": "宝箱は　はげしい水の流れにさらわれた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "宝箱は　ゆらゆらと　ただよっている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "宝箱は　水の流れにさらわれた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "宣誓の滝",
+        "en_string": ""
+      },
+      {
+        "jp_string": "川",
+        "en_string": ""
+      },
+      {
+        "jp_string": "川の水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "川上流",
+        "en_string": ""
+      },
+      {
+        "jp_string": "川下流",
+        "en_string": ""
+      },
+      {
+        "jp_string": "巡礼の泉",
+        "en_string": ""
+      },
+      {
+        "jp_string": "幻影の川",
+        "en_string": ""
+      },
+      {
+        "jp_string": "旬のスイカは　はげしい水の流れにさらわれた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "旬のスイカは　プカプカと　ただよっている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "旬のスイカは　水の流れにさらわれた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "旬の力で引く",
+        "en_string": ""
+      },
+      {
+        "jp_string": "時雨の泉",
+        "en_string": ""
+      },
+      {
+        "jp_string": "東の川",
+        "en_string": ""
+      },
+      {
+        "jp_string": "東の浜",
+        "en_string": ""
+      },
+      {
+        "jp_string": "東の海",
+        "en_string": ""
+      },
+      {
+        "jp_string": "毒の海",
+        "en_string": ""
+      },
+      {
+        "jp_string": "毒沼",
+        "en_string": ""
+      },
+      {
+        "jp_string": "水たまり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "水堀",
+        "en_string": ""
+      },
+      {
+        "jp_string": "水場",
+        "en_string": ""
+      },
+      {
+        "jp_string": "水没地帯",
+        "en_string": ""
+      },
+      {
+        "jp_string": "水流が　収まった。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "水路",
+        "en_string": ""
+      },
+      {
+        "jp_string": "氷の力で引く",
+        "en_string": ""
+      },
+      {
+        "jp_string": "氷の重さで　引き寄せにくい！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "池",
+        "en_string": ""
+      },
+      {
+        "jp_string": "泉",
+        "en_string": ""
+      },
+      {
+        "jp_string": "波が　おさまった。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "海",
+        "en_string": ""
+      },
+      {
+        "jp_string": "海水",
+        "en_string": ""
+      },
+      {
+        "jp_string": "清澄の冷泉",
+        "en_string": ""
+      },
+      {
+        "jp_string": "温泉",
+        "en_string": ""
+      },
+      {
+        "jp_string": "湖",
+        "en_string": ""
+      },
+      {
+        "jp_string": "湿原",
+        "en_string": ""
+      },
+      {
+        "jp_string": "湿地帯",
+        "en_string": ""
+      },
+      {
+        "jp_string": "滝",
+        "en_string": ""
+      },
+      {
+        "jp_string": "滝壺",
+        "en_string": ""
+      },
+      {
+        "jp_string": "潮だまり",
+        "en_string": ""
+      },
+      {
+        "jp_string": "炎の力で引く",
+        "en_string": ""
+      },
+      {
+        "jp_string": "炎の力を込めて 釣りざおを引く 威力にムラがある",
+        "en_string": ""
+      },
+      {
+        "jp_string": "西の川",
+        "en_string": ""
+      },
+      {
+        "jp_string": "西の浜",
+        "en_string": ""
+      },
+      {
+        "jp_string": "貯水槽道しるべの川",
+        "en_string": ""
+      },
+      {
+        "jp_string": "釣りざおの冷気で さかなを凍らせる",
+        "en_string": ""
+      },
+      {
+        "jp_string": "釣りとくぎ「きせきの力で引く」が使える",
+        "en_string": ""
+      },
+      {
+        "jp_string": "釣りとくぎ「全力で引く」が使える",
+        "en_string": ""
+      },
+      {
+        "jp_string": "釣りとくぎ「旬の力で引く」が使える",
+        "en_string": ""
+      },
+      {
+        "jp_string": "釣りとくぎ「氷の力で引く」が使える",
+        "en_string": ""
+      },
+      {
+        "jp_string": "釣りとくぎ「炎の力で引く」が使える",
+        "en_string": ""
+      },
+      {
+        "jp_string": "釣りとくぎ「闇の力で引く」が使える",
+        "en_string": ""
+      },
+      {
+        "jp_string": "釣りをあきらめて さかなを逃がす",
+        "en_string": ""
+      },
+      {
+        "jp_string": "釣り会心率0.5％アップ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "釣り会心率0.5％アップは 覚えているだけで　常に釣り会心率が 0.5％分　上がるようになります。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "闇の力で引く",
+        "en_string": ""
+      },
+      {
+        "jp_string": "？？？",
+        "en_string": ""
+      },
+      {
+        "jp_string": "？？？は　はげしい水の流れにさらわれた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "？？？は　ゆらゆらと　ただよっている。",
+        "en_string": ""
+      },
+      {
+        "jp_string": "？？？は　水の流れにさらわれた！",
+        "en_string": ""
+      },
+      {
+        "jp_string": "さかなの行動時 時々 くいつき度が減らない",
+        "en_string": ""
+      },
+      {
+        "jp_string": "くいつき度がなくなった時 一度だけ復活",
+        "en_string": ""
+      },
+      {
+        "jp_string": "魚行動で くいつき度が減った時 引き寄せる",
+        "en_string": ""
+      }
+    ]
+  }
+]

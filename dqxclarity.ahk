@@ -28,8 +28,15 @@ if !isObject(dqx)
   }
 }
 
-Gui, +AlwaysOnTop +E0x08000000
+;; Open UI to prompt user which files they want to run
+FileSelectFile, SelectedFiles, M1, %A_ScriptDir%\json, Select file(s) to translate, JSON (*.json)
+if (SelectedFiles = "")
+  ExitApp
+
+;; Open Progress UI
+Gui, 1:Default
 Gui, Font, s12
+Gui, +AlwaysOnTop +E0x08000000
 Gui, Add, Edit, vNotes w500 r10 +ReadOnly -WantCtrlA -WantReturn,
 Gui, Show, Autosize
 
@@ -40,65 +47,67 @@ FileEncoding UTF-8
 startTime := A_TickCount
 
 ;; Loop through all files in json directory
-Loop, Files, json\*.json, F
+Loop, parse, SelectedFiles, `n
 {
-  FileRead, jsonData, %A_ScriptDir%\%A_LoopFileFullPath%
-  GuiControl,, Notes, Loading %A_LoopFileFullPath% ...
-  data := JSON.Load(jsonData)
-  textHex := dqx.hexStringToPattern(data.1.hex_start)  ;; Start of TEXT block
-  footAOB := [0, 0, 0, 0, 70, 79, 79, 84]  ;; End of TEXT block (FOOT)
-
-  startAddr := dqx.processPatternScan(,,textHex*)
-  endAddr := dqx.processPatternScan(startAddr,, footAOB*)
-
-  ;; Iterate over all json objects in strings[]
-  for i, obj in data.1.strings
+  if (A_Index != 1)  ;; Ignore first item as it's the folder itself
   {
+    FileRead, jsonData, %A_ScriptDir%\json\%A_LoopField%
+    GuiControl,, Notes, Loading json\%A_LoopField% ...
+    data := JSON.Load(jsonData)
+    textHex := dqx.hexStringToPattern(data.1.hex_start)  ;; Start of TEXT block
+    footAOB := [0, 0, 0, 0, 70, 79, 79, 84]  ;; End of TEXT block (FOOT)
 
-    ;; If en_string is blank, skip it
-    if (obj.en_string == "")
-      Continue
+    startAddr := dqx.processPatternScan(,,textHex*)
+    endAddr := dqx.processPatternScan(startAddr,, footAOB*)
 
-    ;; Convert utf-8 strings to hex
-    jp := 00 . convertStrToHex(obj.jp_string) . 00
-    jp := RegExReplace(jp, "\r\n", "")
-    jp_raw := obj.jp_string
-    jp_len := StrLen(jp)
-
-    ;; For other languages, we want to make the length of our JP hex
-    ;; string the same as what we're inputting.
-    en := 00 . convertStrToHex(obj.en_string) . 00
-    en := RegExReplace(en, "\r\n", "")
-    en_raw := obj.en_string
-    en_len := StrLen(en)
-
-    ;; Whether the string has line break characters we need to account for.
-    line_break := obj.line_break
-
-    GuiControl,, Notes, Reading %A_LoopFileFullPath%`n`nOn this text:`n`nJP: %jp_raw%`nEN:%en_raw%
-
-    ;; If the string length doesn't match, add null terms until it does.
-    if (jp_len != en_len)
+    ;; Iterate over all json objects in strings[]
+    for i, obj in data.1.strings
     {
-      ;; Remove the last 00 we added earlier as we aren't ready
-      ;; to 'terminate' the string yet. 
-      en := SubStr(en, 1, (en_len - 2))
-      Loop
-      {
-        en .= 00
-        new_len := StrLen(en)
-      }
-      Until ((jp_len - new_len) == 0)
+      ;; If en_string is blank, skip it
+      if (obj.en_string == "")
+        Continue
 
-      ;; Some sentences can scale multiple lines, so instead of a null terminator,
-      ;; we want to replace the spaces with the line break code '0a'. 
-      if (line_break != "")
+      ;; Convert utf-8 strings to hex
+      jp := 00 . convertStrToHex(obj.jp_string) . 00
+      jp := RegExReplace(jp, "\r\n", "")
+      jp_raw := obj.jp_string
+      jp_len := StrLen(jp)
+
+      ;; For other languages, we want to make the length of our JP hex
+      ;; string the same as what we're inputting.
+      en := 00 . convertStrToHex(obj.en_string) . 00
+      en := RegExReplace(en, "\r\n", "")
+      en_raw := obj.en_string
+      en_len := StrLen(en)
+
+      ;; Whether the string has line break characters we need to account for.
+      line_break := obj.line_break
+
+      GuiControl,, Notes, Reading json\%A_LoopField%`n`nOn this text:`n`nJP: %jp_raw%`nEN:%en_raw%
+
+      ;; If the string length doesn't match, add null terms until it does.
+      if (jp_len != en_len)
       {
-        jp := StrReplace(jp, "20", "0a")
-        en := StrReplace(en, "7c", "0a")
+        ;; Remove the last 00 we added earlier as we aren't ready
+        ;; to 'terminate' the string yet. 
+        en := SubStr(en, 1, (en_len - 2))
+        Loop
+        {
+          en .= 00
+          new_len := StrLen(en)
+        }
+        Until ((jp_len - new_len) == 0)
+
+        ;; Some sentences can scale multiple lines, so instead of a null terminator,
+        ;; we want to replace the spaces with the line break code '0a'. 
+        if (line_break != "")
+        {
+          jp := StrReplace(jp, "20", "0a")
+          en := StrReplace(en, "7c", "0a")
+        }
       }
+      memWrite(jp, en, jp_raw, en_raw, startAddr, endAddr)
     }
-    memWrite(jp, en, jp_raw, en_raw, startAddr, endAddr)
   }
 }
 
