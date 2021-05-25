@@ -4496,11 +4496,11 @@
       },
       {
         "jp_string": "いてつくはどう（専）",
-        "en_string": ""
+        "en_string": "Disruption Wave"
       },
       {
         "jp_string": "いてつくはどう（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Disruption Wave!"
       },
       {
         "jp_string": "いなずま（専）",
@@ -5280,7 +5280,7 @@
       },
       {
         "jp_string": "しばり打ち",
-        "en_string": ""
+        "en_string": "Trammel Lash"
       },
       {
         "jp_string": "しばり打ち+10%",
@@ -5636,7 +5636,7 @@
       },
       {
         "jp_string": "ちから+10（専）",
-        "en_string": ""
+        "en_string": "Strength +10"
       },
       {
         "jp_string": "ちから+15（専）",
@@ -7204,7 +7204,7 @@
       },
       {
         "jp_string": "らせん打ち",
-        "en_string": ""
+        "en_string": "Hypnowhip"
       },
       {
         "jp_string": "らせん打ち+10%",
@@ -7692,7 +7692,7 @@
       },
       {
         "jp_string": "オネロスハント",
-        "en_string": ""
+        "en_string": "Oneros Hunt"
       },
       {
         "jp_string": "オネロスハント+2%",
@@ -7960,7 +7960,7 @@
       },
       {
         "jp_string": "カオスエッジ",
-        "en_string": ""
+        "en_string": "Chaos Edge"
       },
       {
         "jp_string": "カオスエッジ+10%",
@@ -8088,7 +8088,7 @@
       },
       {
         "jp_string": "キラーブーン",
-        "en_string": ""
+        "en_string": "Fly Swat"
       },
       {
         "jp_string": "キラーブーン+10%",
@@ -9476,7 +9476,7 @@
       },
       {
         "jp_string": "スパークショット",
-        "en_string": ""
+        "en_string": "Starstrike"
       },
       {
         "jp_string": "スパークショット+10%",
@@ -9620,7 +9620,7 @@
       },
       {
         "jp_string": "スリープダガー",
-        "en_string": ""
+        "en_string": "Sleeper Hit"
       },
       {
         "jp_string": "スリープダガー+10%",
@@ -9872,7 +9872,7 @@
       },
       {
         "jp_string": "タナトスハント",
-        "en_string": ""
+        "en_string": "Victimiser"
       },
       {
         "jp_string": "タナトスハント+2%",
@@ -10296,11 +10296,11 @@
       },
       {
         "jp_string": "ダークマター（専）",
-        "en_string": ""
+        "en_string": "Dark Matter"
       },
       {
         "jp_string": "ダークマター（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Dark Matter!"
       },
       {
         "jp_string": "チカラが強く　回復もこなす",
@@ -11592,7 +11592,7 @@
       },
       {
         "jp_string": "ナイトメアファング",
-        "en_string": ""
+        "en_string": "Nightmare Fang"
       },
       {
         "jp_string": "ナイトメアファング+10%",
@@ -11668,7 +11668,7 @@
       },
       {
         "jp_string": "ネメシスエッジ",
-        "en_string": ""
+        "en_string": "Nemesis Edge"
       },
       {
         "jp_string": "ネメシスエッジ+1%",
@@ -11712,7 +11712,7 @@
       },
       {
         "jp_string": "ハデスの宴",
-        "en_string": ""
+        "en_string": "Feast of Hades"
       },
       {
         "jp_string": "ハデスの宴+10%",
@@ -11932,7 +11932,7 @@
       },
       {
         "jp_string": "バイキルショット",
-        "en_string": ""
+        "en_string": "Bikill Shot"
       },
       {
         "jp_string": "バイキルショット+3%",
@@ -13008,7 +13008,7 @@
       },
       {
         "jp_string": "ヒュプノスハント",
-        "en_string": ""
+        "en_string": "Persecutter"
       },
       {
         "jp_string": "ヒュプノスハント+2%",
@@ -15460,7 +15460,7 @@
       },
       {
         "jp_string": "ヴァイパーファング",
-        "en_string": ""
+        "en_string": "Cobra Strike"
       },
       {
         "jp_string": "ヴァイパーファング+10%",
@@ -16208,7 +16208,7 @@
         },
       {
         "jp_string": "事象反転",
-        "en_string": ""
+        "en_string": "Reversal"
       },
       {
         "jp_string": "事象反転の特技を　おぼえた！",
@@ -16372,7 +16372,7 @@
       },
       {
         "jp_string": "会心率と暴走率アップ（専）",
-        "en_string": ""
+        "en_string": "Attack and Spell Crit Up"
       },
       {
         "jp_string": "会心率を上げつつ",
@@ -16876,7 +16876,7 @@
       },
       {
         "jp_string": "全職業でこうげき魔力+10",
-        "en_string": ""
+        "en_string": "Natural Mag. Might +10"
       },
       {
         "jp_string": "全職業でこうげき魔力+5",
@@ -16980,7 +16980,7 @@
       },
       {
         "jp_string": "冥王のかま",
-        "en_string": ""
+        "en_string": "Dark King Slash"
       },
       {
         "jp_string": "冥王のかま+10%",
@@ -17560,7 +17560,7 @@
       },
       {
         "jp_string": "双竜打ち",
-        "en_string": ""
+        "en_string": "Twin Dragons"
       },
       {
         "jp_string": "双竜打ち+2%",
@@ -17968,7 +17968,7 @@
       },
       {
         "jp_string": "地ばしり打ち",
-        "en_string": ""
+        "en_string": "Groundbreaker"
       },
       {
         "jp_string": "地ばしり打ち+4%",
@@ -19224,7 +19224,7 @@
       },
       {
         "jp_string": "悶絶全方打ち",
-        "en_string": ""
+        "en_string": "Faint in Agony"
       },
       {
         "jp_string": "悶絶全方打ち+2%",
@@ -19260,7 +19260,7 @@
       },
       {
         "jp_string": "愛のムチ",
-        "en_string": ""
+        "en_string": "Love Lash"
       },
       {
         "jp_string": "愛のムチ+10%",
@@ -20340,11 +20340,11 @@
       },
       {
         "jp_string": "攻撃時たまにＭＰ回復",
-        "en_string": ""
+        "en_string": "Recover MP When Attacking"
       },
       {
         "jp_string": "攻撃時たまにＭＰ回復（専）",
-        "en_string": ""
+        "en_string": "Recover MP When Attacking"
       },
       {
         "jp_string": "攻撃時ためる",
@@ -20432,7 +20432,7 @@
       },
       {
         "jp_string": "救命の鎌",
-        "en_string": ""
+        "en_string": "Lifesaver"
       },
       {
         "jp_string": "救命の鎌の特技を　おぼえた！",
@@ -21056,7 +21056,7 @@
       },
       {
         "jp_string": "早詠みの陣",
-        "en_string": ""
+        "en_string": "Speed-Cast Ring"
       },
       {
         "jp_string": "早詠みの陣の特技を　おぼえた！",
@@ -21072,11 +21072,11 @@
       },
       {
         "jp_string": "暗黒連撃（専）",
-        "en_string": ""
+        "en_string": "Dark Barrage"
       },
       {
         "jp_string": "暗黒連撃（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Dark Barrage!"
       },
       {
         "jp_string": "暴走魔法陣",
@@ -21088,7 +21088,7 @@
       },
       {
         "jp_string": "根絶やしの重撃",
-        "en_string": ""
+        "en_string": "Eradication Blow"
       },
       {
         "jp_string": "根絶やしの重撃+1%",
@@ -21504,7 +21504,7 @@
       },
       {
         "jp_string": "極竜打ち",
-        "en_string": ""
+        "en_string": "Wyrm Whip"
       },
       {
         "jp_string": "極竜打ち+4%",
@@ -22340,7 +22340,7 @@
       },
       {
         "jp_string": "波動解放（専）",
-        "en_string": ""
+        "en_string": "Wave Release"
       },
       {
         "jp_string": "波動解放（専）の特技を　おぼえた！",
@@ -22544,7 +22544,7 @@
       },
       {
         "jp_string": "災いの斬撃",
-        "en_string": ""
+        "en_string": "Calamity Slash"
       },
       {
         "jp_string": "災いの斬撃+2%",
@@ -22592,7 +22592,7 @@
       },
       {
         "jp_string": "煉獄魔斬",
-        "en_string": ""
+        "en_string": "Demon Edge"
       },
       {
         "jp_string": "煉獄魔斬Ⅰ",
@@ -22600,7 +22600,7 @@
       },
       {
         "jp_string": "煉獄魔斬Ⅰ（専）",
-        "en_string": ""
+        "en_string": "Demon Edge I"
       },
       {
         "jp_string": "煉獄魔斬Ⅰ（専）の特技を　おぼえた！",
@@ -22644,7 +22644,7 @@
       },
       {
         "jp_string": "爪牙の陣",
-        "en_string": ""
+        "en_string": "Sap Circle"
       },
       {
         "jp_string": "爪牙の陣の特技を　おぼえた！",
@@ -23048,7 +23048,7 @@
       },
       {
         "jp_string": "疾風迅雷",
-        "en_string": ""
+        "en_string": "Thunder Gale"
       },
       {
         "jp_string": "疾風迅雷+10%",
@@ -24824,7 +24824,7 @@
       },
       {
         "jp_string": "蒼月の守り",
-        "en_string": ""
+        "en_string": "Blue Moon Guard"
       },
       {
         "jp_string": "蒼月の守り+2秒",
@@ -24848,7 +24848,7 @@
       },
       {
         "jp_string": "蒼月の守りの特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Blue Moon Guard!"
       },
       {
         "jp_string": "蘇生対象に　たまに　バイキルトが",
@@ -25132,7 +25132,7 @@
       },
       {
         "jp_string": "血吸いの守り",
-        "en_string": ""
+        "en_string": "Siphon Guard"
       },
       {
         "jp_string": "血吸いの守り+10秒",
@@ -25308,7 +25308,7 @@
       },
       {
         "jp_string": "行動時5%でテンション（専）",
-        "en_string": ""
+        "en_string": "Tension Up After Action +5%"
       },
       {
         "jp_string": "行動時5%で聖なる祈り",
@@ -25508,19 +25508,19 @@
       },
       {
         "jp_string": "装備時かいしん率+2%",
-        "en_string": "Rate of Advancement +2%"
+        "en_string": "Crit Rate +2% When Worn"
       },
       {
         "jp_string": "装備時かいしん率+3%",
-        "en_string": ""
+        "en_string": "Crit Rate +3% When Worn"
       },
       {
         "jp_string": "装備時かいしん率+4%",
-        "en_string": ""
+        "en_string": "Crit Rate +4% When Worn"
       },
       {
         "jp_string": "装備時かいしん率+5%",
-        "en_string": "Rate of Advancement +5%"
+        "en_string": "Crit Rate +5% When Worn"
       },
       {
         "jp_string": "装備時かいしん率+6%",
@@ -25536,7 +25536,7 @@
       },
       {
         "jp_string": "装備時かいふく魔力+40",
-        "en_string": ""
+        "en_string": "Mag. Mending +40 When Worn"
       },
       {
         "jp_string": "装備時きようさ+100",
@@ -25580,27 +25580,27 @@
       },
       {
         "jp_string": "装備時こうげき魔力+10",
-        "en_string": ""
+        "en_string": "Mag. Might +10 When Worn"
       },
       {
         "jp_string": "装備時こうげき魔力+20",
-        "en_string": ""
+        "en_string": "Mag. Might +20 When Worn"
       },
       {
         "jp_string": "装備時こうげき魔力+30",
-        "en_string": ""
+        "en_string": "Mag. Might +30 When Worn"
       },
       {
         "jp_string": "装備時こうげき魔力+35",
-        "en_string": ""
+        "en_string": "Mag. Might +35 When Worn"
       },
       {
         "jp_string": "装備時こうげき魔力+40",
-        "en_string": ""
+        "en_string": "Mag. Might +40 When Worn"
       },
       {
         "jp_string": "装備時こうげき魔力+60",
-        "en_string": ""
+        "en_string": "Mag. Might +60 When Worn"
       },
       {
         "jp_string": "装備時さいだいＨＰ+10",
@@ -25632,19 +25632,19 @@
       },
       {
         "jp_string": "装備時しゅび力+10",
-        "en_string": ""
+        "en_string": "Defense +10 When Worn"
       },
       {
         "jp_string": "装備時しゅび力+15",
-        "en_string": ""
+        "en_string": "Defense +15 When Worn"
       },
       {
         "jp_string": "装備時しゅび力+20",
-        "en_string": ""
+        "en_string": "Defense +20 When Worn"
       },
       {
         "jp_string": "装備時しゅび力+30",
-        "en_string": ""
+        "en_string": "Defense +30 When Worn"
       },
       {
         "jp_string": "装備時みとれる+5%",
@@ -25672,7 +25672,7 @@
       },
       {
         "jp_string": "装備時効果範囲+2m",
-        "en_string": ""
+        "en_string": "Range +2m When Worn"
       },
       {
         "jp_string": "装備時呪文暴走率+1%",
@@ -27688,11 +27688,11 @@
       },
       {
         "jp_string": "邪炎波（専）",
-        "en_string": ""
+        "en_string": "Evil Wave"
       },
       {
         "jp_string": "邪炎波（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You Learned Evil Wave!"
       },
       {
         "jp_string": "野獣のごとく",
@@ -28232,7 +28232,7 @@
       },
       {
         "jp_string": "闇のヴェール（専）",
-        "en_string": ""
+        "en_string": "Dark Veil"
       },
       {
         "jp_string": "闇のヴェール（専）の特技を　おぼえた！",
@@ -28240,11 +28240,11 @@
       },
       {
         "jp_string": "闇の加護（専）",
-        "en_string": ""
+        "en_string": "Dark Gift"
       },
       {
         "jp_string": "闇の加護（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Dark Gift!"
       },
       {
         "jp_string": "降魔紅蓮斬",
@@ -28468,7 +28468,7 @@
       },
       {
         "jp_string": "魂狩り",
-        "en_string": ""
+        "en_string": "Soul Hunt"
       },
       {
         "jp_string": "魂狩りの特技を　おぼえた！",
