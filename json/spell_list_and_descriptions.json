@@ -640,7 +640,7 @@
       },
       {
         "jp_string": "らせん打ち",
-        "en_string": ""
+        "en_string": "Hypnowhip"
       },
       {
         "jp_string": "アイスフォース",
@@ -2164,7 +2164,7 @@
       },
       {
         "jp_string": "事象反転",
-        "en_string": ""
+        "en_string": "Reversal"
       },
       {
         "jp_string": "二刀流",
@@ -2228,7 +2228,7 @@
       },
       {
         "jp_string": "会心率と暴走率アップ",
-        "en_string": ""
+        "en_string": "Attack and Spell Crit Up"
       },
       {
         "jp_string": "会心率アップと ダメージアップの 魔法陣を作る！",
@@ -2492,7 +2492,7 @@
       },
       {
         "jp_string": "冥王のかま",
-        "en_string": ""
+        "en_string": "Dark King Slash"
       },
       {
         "jp_string": "効果範囲+2m",
@@ -2512,7 +2512,7 @@
       },
       {
         "jp_string": "双竜打ち",
-        "en_string": ""
+        "en_string": "Twin Dragons"
       },
       {
         "jp_string": "反魂の秘術",
@@ -2736,7 +2736,7 @@
       },
       {
         "jp_string": "地ばしり打ち",
-        "en_string": ""
+        "en_string": "Groundbreaker"
       },
       {
         "jp_string": "地獄のいかずちで ダメージを与え たまにマヒさせる",
@@ -2940,7 +2940,7 @@
       },
       {
         "jp_string": "愛のムチ",
-        "en_string": ""
+        "en_string": "Love Lash"
       },
       {
         "jp_string": "慈愛の明星",
@@ -3120,7 +3120,7 @@
       },
       {
         "jp_string": "救命の鎌",
-        "en_string": ""
+        "en_string": "Lifesaver"
       },
       {
         "jp_string": "敵にかかっている よい効果を解除 賢者専用特技",
@@ -3324,7 +3324,7 @@
       },
       {
         "jp_string": "早詠みの陣",
-        "en_string": ""
+        "en_string": "Speed-Cast Ring"
       },
       {
         "jp_string": "明鏡止水",
@@ -3336,7 +3336,7 @@
       },
       {
         "jp_string": "暗黒連撃",
-        "en_string": ""
+        "en_string": "Dark Barrage"
       },
       {
         "jp_string": "暴走魔法陣",
@@ -3424,7 +3424,7 @@
       },
       {
         "jp_string": "極竜打ち",
-        "en_string": ""
+        "en_string": "Wyrm Whip"
       },
       {
         "jp_string": "武器ガード率+2%",
@@ -3532,7 +3532,7 @@
       },
       {
         "jp_string": "波動解放",
-        "en_string": ""
+        "en_string": "Wave Release"
       },
       {
         "jp_string": "波紋演舞",
@@ -3556,7 +3556,7 @@
       },
       {
         "jp_string": "災いの斬撃",
-        "en_string": ""
+        "en_string": "Calamity Slash"
       },
       {
         "jp_string": "災禍の陣",
@@ -3588,7 +3588,7 @@
       },
       {
         "jp_string": "爪牙の陣",
-        "en_string": ""
+        "en_string": "Sap Circle"
       },
       {
         "jp_string": "片手剣装備時に ２％で武器ガード できるようになる",
@@ -3676,7 +3676,7 @@
       },
       {
         "jp_string": "疾風迅雷",
-        "en_string": ""
+        "en_string": "Thunder Gale"
       },
       {
         "jp_string": "白いオオカミが ４回攻撃する レンジャー専用",
@@ -3940,7 +3940,7 @@
       },
       {
         "jp_string": "蒼月の守り",
-        "en_string": ""
+        "en_string": "Blue Moon Guard"
       },
       {
         "jp_string": "蘇生対象に バイキルトが かかるようになる",
@@ -3964,7 +3964,7 @@
       },
       {
         "jp_string": "血吸いの守り",
-        "en_string": ""
+        "en_string": "Siphon Guard"
       },
       {
         "jp_string": "行動せずに仲間の ダメージを受ける 戦士専用特技",
@@ -4128,7 +4128,7 @@
       },
       {
         "jp_string": "邪炎波",
-        "en_string": ""
+        "en_string": "Evil Wave"
       },
       {
         "jp_string": "鉄甲斬",
@@ -4200,11 +4200,11 @@
       },
       {
         "jp_string": "闇のヴェール",
-        "en_string": ""
+        "en_string": "Dark Veil"
       },
       {
         "jp_string": "闇の加護",
-        "en_string": ""
+        "en_string": "Dark Gift"
       },
       {
         "jp_string": "闇の攻撃と同時に デスパワーを吸収 デスマスター専用",
@@ -4268,7 +4268,7 @@
       },
       {
         "jp_string": "魂狩り",
-        "en_string": ""
+        "en_string": "Soul Hunt"
       },
       {
         "jp_string": "魅惑の旋風で 周囲の敵を 切りきざむ",
