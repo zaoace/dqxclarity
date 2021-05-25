@@ -5388,7 +5388,7 @@
       },
       {
         "jp_string": "なかまモンスター",
-        "en_string": ""
+        "en_string": "Fellow Monster"
       },
       {
         "jp_string": "なかまリスト",
@@ -10376,11 +10376,11 @@
       },
       {
         "jp_string": "バトル時じゅもん",
-        "en_string": "Battle Strateg"
+        "en_string": "Edit Spells"
       },
       {
         "jp_string": "バトル時とくぎ",
-        "en_string": "Battle Troops"
+        "en_string": "Edit Abilities"
       },
       {
         "jp_string": "バトル結果",
@@ -22559,7 +22559,7 @@
       },
       {
         "jp_string": "通常時じゅもん",
-        "en_string": "Normal Procedure"
+        "en_string": "Edit Field Skills"
       },
       {
         "jp_string": "通常装備へ",
@@ -22779,7 +22779,7 @@
       },
       {
         "jp_string": "達人のオーブ",
-        "en_string": ""
+        "en_string": "Master Orb"
       },
       {
         "jp_string": "達人のオーブについて",
