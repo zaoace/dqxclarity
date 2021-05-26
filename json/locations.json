@@ -656,23 +656,23 @@
       },
       {
         "jp_string": "ほこらの祭祀場・嵐",
-        "en_string": "Shrine Ritual Ground・Storm"
+        "en_string": "Storm Shrine Ritual Ground"
       },
       {
         "jp_string": "ほこらの祭祀場・水",
-        "en_string": "Shrine Ritual Ground・Water"
+        "en_string": "Water Shrine Ritual Ground"
       },
       {
         "jp_string": "ほこらの祭祀場・氷",
-        "en_string": "Shrine Ritual Ground・Ice"
+        "en_string": "Ice Shrine Ritual Ground"
       },
       {
         "jp_string": "ほこらの祭祀場・炎",
-        "en_string": "Shrine Ritual Ground・Flame"
+        "en_string": "Flame Shrine Ritual Ground"
       },
       {
         "jp_string": "ほこらの祭祀場・闇",
-        "en_string": "Shrine Ritual Ground・Dark"
+        "en_string": "Dark Shrine Ritual Ground"
       },
       {
         "jp_string": "やまざこの町",
@@ -1808,7 +1808,7 @@
       },
       {
         "jp_string": "マデ神殿祭具棟",
-        "en_string": "Made Temple Ritual Area"
+        "en_string": "Made Temple"
       },
       {
         "jp_string": "ミュルエルの森",
@@ -1856,7 +1856,7 @@
       },
       {
         "jp_string": "メダル王の城",
-        "en_string": "Medal King's Castle"
+        "en_string": "Medal King Castle"
       },
       {
         "jp_string": "メレアーデの部屋",
@@ -2156,7 +2156,7 @@
       },
       {
         "jp_string": "偽",
-        "en_string": "False"
+        "en_string": "F."
       },
       {
         "jp_string": "偽りの",
