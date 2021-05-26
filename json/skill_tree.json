@@ -4548,7 +4548,7 @@
       },
       {
         "jp_string": "うた",
-        "en_string": ""
+        "en_string": "Song"
       },
       {
         "jp_string": "うた160Pにする（専）",
@@ -4684,7 +4684,7 @@
       },
       {
         "jp_string": "おたから",
-        "en_string": ""
+        "en_string": "Acquisition"
       },
       {
         "jp_string": "おたからさがし（専）",
@@ -4712,7 +4712,7 @@
       },
       {
         "jp_string": "おどり",
-        "en_string": ""
+        "en_string": "Dance"
       },
       {
         "jp_string": "おどり160Pにする（専）",
@@ -4940,7 +4940,7 @@
       },
       {
         "jp_string": "きあい",
-        "en_string": ""
+        "en_string": "Focus"
       },
       {
         "jp_string": "きせきの雨",
@@ -5020,7 +5020,7 @@
       },
       {
         "jp_string": "きょくげい",
-        "en_string": ""
+        "en_string": "Litheness"
       },
       {
         "jp_string": "きようさ+30（専）",
@@ -5128,11 +5128,11 @@
       },
       {
         "jp_string": "こんらんのダンス（専）",
-        "en_string": ""
+        "en_string": "Dance of Confusion"
       },
       {
         "jp_string": "こんらんのダンス（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Dance of Confusion!"
       },
       {
         "jp_string": "さいだいＨＰ",
@@ -5208,7 +5208,7 @@
       },
       {
         "jp_string": "さとり",
-        "en_string": ""
+        "en_string": "Smarts"
       },
       {
         "jp_string": "さまざまな芸で盛り上げる",
@@ -5416,7 +5416,7 @@
       },
       {
         "jp_string": "しんこう心",
-        "en_string": ""
+        "en_string": "Faith"
       },
       {
         "jp_string": "しんだふり",
@@ -5700,11 +5700,11 @@
       },
       {
         "jp_string": "つるぎの舞（専）",
-        "en_string": ""
+        "en_string": "Sword Dance"
       },
       {
         "jp_string": "つるぎの舞（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Sword Dance!"
       },
       {
         "jp_string": "てなづける（専）",
@@ -5716,7 +5716,7 @@
       },
       {
         "jp_string": "とうこん",
-        "en_string": ""
+        "en_string": "Guts"
       },
       {
         "jp_string": "とうこん討ち（専）",
@@ -6308,19 +6308,19 @@
       },
       {
         "jp_string": "ねむりのダンス（専）",
-        "en_string": ""
+        "en_string": "Dance of Sleep"
       },
       {
         "jp_string": "ねむりのダンス（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Dance of Sleep!"
       },
       {
         "jp_string": "はくあい",
-        "en_string": ""
+        "en_string": "Virtue"
       },
       {
         "jp_string": "はどう",
-        "en_string": ""
+        "en_string": "Wave"
       },
       {
         "jp_string": "はやぶさ斬り",
@@ -6448,11 +6448,11 @@
       },
       {
         "jp_string": "ふういんのダンス（専）",
-        "en_string": ""
+        "en_string": "Dance of Sealing"
       },
       {
         "jp_string": "ふういんのダンス（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Dance of Sealing!"
       },
       {
         "jp_string": "ふつう",
@@ -6628,11 +6628,11 @@
       },
       {
         "jp_string": "まほう",
-        "en_string": ""
+        "en_string": "Spellcrft"
       },
       {
         "jp_string": "まものマスター",
-        "en_string": ""
+        "en_string": "Monster Master"
       },
       {
         "jp_string": "まもの使い時",
@@ -7152,11 +7152,11 @@
       },
       {
         "jp_string": "もうどくブルース（専）",
-        "en_string": ""
+        "en_string": "Poisonous Blues"
       },
       {
         "jp_string": "もうどくブルース（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Poisonous Blues!"
       },
       {
         "jp_string": "もろば斬り（専）",
@@ -7184,15 +7184,15 @@
       },
       {
         "jp_string": "ゆうかん",
-        "en_string": ""
+        "en_string": "Courage"
       },
       {
         "jp_string": "よみがえり節（専）",
-        "en_string": ""
+        "en_string": "Revival Clause"
       },
       {
         "jp_string": "よみがえり節（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Revival Clause!"
       },
       {
         "jp_string": "よろいが装備できる",
@@ -7312,7 +7312,7 @@
       },
       {
         "jp_string": "アイテムマスター",
-        "en_string": ""
+        "en_string": "Item Master"
       },
       {
         "jp_string": "アクロバットスター",
@@ -7744,7 +7744,7 @@
       },
       {
         "jp_string": "オノ",
-        "en_string": ""
+        "en_string": "Axe"
       },
       {
         "jp_string": "オノでの攻撃時　会心のいちげきが",
@@ -7936,7 +7936,7 @@
       },
       {
         "jp_string": "オーラ",
-        "en_string": ""
+        "en_string": "Feeling"
       },
       {
         "jp_string": "カウンターブースト（専）",
@@ -8516,7 +8516,7 @@
       },
       {
         "jp_string": "サバイバル",
-        "en_string": ""
+        "en_string": "Ruggedness"
       },
       {
         "jp_string": "サプライズラッシュ（専）",
@@ -8840,7 +8840,7 @@
       },
       {
         "jp_string": "スティック",
-        "en_string": ""
+        "en_string": "1H Wand"
       },
       {
         "jp_string": "スティックでの攻撃時",
@@ -10376,7 +10376,7 @@
       },
       {
         "jp_string": "ツメ",
-        "en_string": ""
+        "en_string": "Claw"
       },
       {
         "jp_string": "ツメでの攻撃時　会心のいちげきが",
@@ -11408,11 +11408,11 @@
       },
       {
         "jp_string": "ドラゴンステップ（専）",
-        "en_string": ""
+        "en_string": "Dragon Step"
       },
       {
         "jp_string": "ドラゴンステップ（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Dragon Step!"
       },
       {
         "jp_string": "ドラゴンスラッシュ",
@@ -11740,7 +11740,7 @@
       },
       {
         "jp_string": "ハンマー",
-        "en_string": ""
+        "en_string": "Hammer"
       },
       {
         "jp_string": "ハンマーでの攻撃時　会心のいちげきが",
@@ -13148,11 +13148,11 @@
       },
       {
         "jp_string": "ビーナスステップ（専）",
-        "en_string": ""
+        "en_string": "Venus Step"
       },
       {
         "jp_string": "ビーナスステップ（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Venus Step!"
       },
       {
         "jp_string": "ピオラの呪文を おぼえた！",
@@ -13224,7 +13224,7 @@
       },
       {
         "jp_string": "フォース",
-        "en_string": ""
+        "en_string": "Fource"
       },
       {
         "jp_string": "フォースを　範囲で　かけられるようになった！",
@@ -13368,7 +13368,7 @@
       },
       {
         "jp_string": "ブーメラン",
-        "en_string": ""
+        "en_string": "Boomerang"
       },
       {
         "jp_string": "ブーメランでの攻撃時",
@@ -14200,7 +14200,7 @@
       },
       {
         "jp_string": "ムチ",
-        "en_string": ""
+        "en_string": "Whip"
       },
       {
         "jp_string": "ムチでの攻撃時　会心のいちげきが",
@@ -14568,7 +14568,7 @@
       },
       {
         "jp_string": "ヤリ",
-        "en_string": ""
+        "en_string": "Spear"
       },
       {
         "jp_string": "ヤリでの攻撃時　会心のいちげきが",
@@ -15356,11 +15356,11 @@
       },
       {
         "jp_string": "ロイヤルステップ（専）",
-        "en_string": ""
+        "en_string": "Royal Step"
       },
       {
         "jp_string": "ロイヤルステップ（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Royal Step!"
       },
       {
         "jp_string": "ロストアタック",
@@ -15716,7 +15716,7 @@
       },
       {
         "jp_string": "両手剣",
-        "en_string": ""
+        "en_string": "Greatswrd"
       },
       {
         "jp_string": "両手剣での攻撃時　会心のいちげきが",
@@ -15916,7 +15916,7 @@
       },
       {
         "jp_string": "両手杖",
-        "en_string": ""
+        "en_string": "2H Wand"
       },
       {
         "jp_string": "両手杖で　呪文を唱えた時",
@@ -16312,11 +16312,11 @@
       },
       {
         "jp_string": "会心まいしんラップ（専）",
-        "en_string": ""
+        "en_string": "Confidence Rap"
       },
       {
         "jp_string": "会心まいしんラップ（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Confidence Rap!"
       },
       {
         "jp_string": "会心ガード",
@@ -16880,7 +16880,7 @@
       },
       {
         "jp_string": "全職業でこうげき魔力+5",
-        "en_string": ""
+        "en_string": "Natural Mag. Might +5"
       },
       {
         "jp_string": "全職業でさいだいＨＰ+10",
@@ -16936,15 +16936,15 @@
       },
       {
         "jp_string": "全職業でみりょく+10",
-        "en_string": ""
+        "en_string": "Natural Charm +10"
       },
       {
         "jp_string": "全職業でみりょく+20",
-        "en_string": ""
+        "en_string": "Natural Charm +20"
       },
       {
         "jp_string": "全職業でみりょく+60",
-        "en_string": ""
+        "en_string": "Natural Charm +60"
       },
       {
         "jp_string": "全職業で隠れた敵が見える",
@@ -17948,11 +17948,11 @@
       },
       {
         "jp_string": "回復のララバイ（専）",
-        "en_string": ""
+        "en_string": "Lullaby of Recovery"
       },
       {
         "jp_string": "回復のララバイ（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Lullaby of Recovery!"
       },
       {
         "jp_string": "回復呪文の　スペシャリスト。",
@@ -18664,7 +18664,7 @@
       },
       {
         "jp_string": "弓",
-        "en_string": ""
+        "en_string": "Bow"
       },
       {
         "jp_string": "弓での攻撃時　会心のいちげきが",
@@ -19784,7 +19784,7 @@
       },
       {
         "jp_string": "戦闘勝利時ＭＰ中回復",
-        "en_string": ""
+        "en_string": "Recover MP After Battle"
       },
       {
         "jp_string": "戦闘勝利時ＭＰ大回復",
@@ -19796,15 +19796,15 @@
       },
       {
         "jp_string": "戦鬼の乱れ舞（専）",
-        "en_string": ""
+        "en_string": "Demon's Dance"
       },
       {
         "jp_string": "戦鬼の乱れ舞（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Demon's Dance!"
       },
       {
         "jp_string": "扇",
-        "en_string": ""
+        "en_string": "Fan"
       },
       {
         "jp_string": "扇で　呪文を唱えた時",
@@ -21124,7 +21124,7 @@
       },
       {
         "jp_string": "格闘",
-        "en_string": ""
+        "en_string": "Fist"
       },
       {
         "jp_string": "格闘での攻撃時",
@@ -21284,7 +21284,7 @@
       },
       {
         "jp_string": "棍",
-        "en_string": ""
+        "en_string": "Stf"
       },
       {
         "jp_string": "棍での攻撃時　会心のいちげきが",
@@ -22652,7 +22652,7 @@
       },
       {
         "jp_string": "片手剣",
-        "en_string": ""
+        "en_string": "Sword"
       },
       {
         "jp_string": "片手剣での攻撃時　会心のいちげきが",
@@ -23484,7 +23484,7 @@
       },
       {
         "jp_string": "盾",
-        "en_string": ""
+        "en_string": "Shd"
       },
       {
         "jp_string": "盾装備中",
@@ -23912,7 +23912,7 @@
       },
       {
         "jp_string": "短剣",
-        "en_string": ""
+        "en_string": "Dagger"
       },
       {
         "jp_string": "短剣で　呪文を唱えた時",
@@ -24524,11 +24524,11 @@
       },
       {
         "jp_string": "祈りのゴスペル（専）",
-        "en_string": ""
+        "en_string": "Gospel of Prayer"
       },
       {
         "jp_string": "祈りのゴスペル（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Gospel of Prayer!"
       },
       {
         "jp_string": "神の息吹",
@@ -24560,7 +24560,7 @@
       },
       {
         "jp_string": "神速シャンソンⅠ（専）",
-        "en_string": ""
+        "en_string": "Godspeed Chanson"
       },
       {
         "jp_string": "神速シャンソンⅠ（専）の特技を　おぼえた！",
@@ -25496,15 +25496,15 @@
       },
       {
         "jp_string": "装備時かいしん率+1%",
-        "en_string": ""
+        "en_string": "Crit Rate +1% When Worn"
       },
       {
         "jp_string": "装備時かいしん率+1.2%",
-        "en_string": ""
+        "en_string": "Crit Rate +1.2% When Worn"
       },
       {
         "jp_string": "装備時かいしん率+1.5%",
-        "en_string": ""
+        "en_string": "Crit Rate +1.5% When Worn"
       },
       {
         "jp_string": "装備時かいしん率+2%",
@@ -25524,11 +25524,11 @@
       },
       {
         "jp_string": "装備時かいしん率+6%",
-        "en_string": ""
+        "en_string": "Crit Rate +5% When Worn"
       },
       {
         "jp_string": "装備時かいふく魔力+20",
-        "en_string": ""
+        "en_string": "Mag. Mending +20 When Worn"
       },
       {
         "jp_string": "装備時かいふく魔力+30",
@@ -25544,39 +25544,39 @@
       },
       {
         "jp_string": "装備時こうげき力+10",
-        "en_string": "AP +10 When Worn"
+        "en_string": "Attack +10 When Worn"
       },
       {
         "jp_string": "装備時こうげき力+15",
-        "en_string": "AP +15 When Worn"
+        "en_string": "Attack +15 When Worn"
       },
       {
         "jp_string": "装備時こうげき力+20",
-        "en_string": "AP +20 When Worn"
+        "en_string": "Attack +20 When Worn"
       },
       {
         "jp_string": "装備時こうげき力+25",
-        "en_string": "AP +25 When Worn"
+        "en_string": "Attack +25 When Worn"
       },
       {
         "jp_string": "装備時こうげき力+30",
-        "en_string": "AP +30 When Worn"
+        "en_string": "Attack +30 When Worn"
       },
       {
         "jp_string": "装備時こうげき力+40",
-        "en_string": ""
+        "en_string": "Attack +40 When Worn"
       },
       {
         "jp_string": "装備時こうげき力+5",
-        "en_string": "AP +5 When Worn"
+        "en_string": "Attack +5 When Worn"
       },
       {
         "jp_string": "装備時こうげき力+50",
-        "en_string": ""
+        "en_string": "Attack +50 When Worn"
       },
       {
         "jp_string": "装備時こうげき力+8",
-        "en_string": ""
+        "en_string": "Attack +8 When Worn"
       },
       {
         "jp_string": "装備時こうげき魔力+10",
@@ -25604,31 +25604,31 @@
       },
       {
         "jp_string": "装備時さいだいＨＰ+10",
-        "en_string": ""
+        "en_string": "HP +10 When Worn"
       },
       {
         "jp_string": "装備時さいだいＭＰ+100",
-        "en_string": ""
+        "en_string": "MP +100 When Worn"
       },
       {
         "jp_string": "装備時さいだいＭＰ+20",
-        "en_string": ""
+        "en_string": "MP +20 When Worn"
       },
       {
         "jp_string": "装備時さいだいＭＰ+30",
-        "en_string": ""
+        "en_string": "MP +30 When Worn"
       },
       {
         "jp_string": "装備時さいだいＭＰ+45",
-        "en_string": ""
+        "en_string": "MP +45 When Worn"
       },
       {
         "jp_string": "装備時さいだいＭＰ+50",
-        "en_string": ""
+        "en_string": "MP +50 When Worn"
       },
       {
         "jp_string": "装備時さいだいＭＰ+60",
-        "en_string": ""
+        "en_string": "MP +60 When Worn"
       },
       {
         "jp_string": "装備時しゅび力+10",
@@ -25792,11 +25792,11 @@
       },
       {
         "jp_string": "覚醒のアリア（専）",
-        "en_string": ""
+        "en_string": "Aria of Awakening"
       },
       {
         "jp_string": "覚醒のアリア（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You Learned Aria of Awakening!"
       },
       {
         "jp_string": "豪雪氷結乱撃",
@@ -27040,7 +27040,7 @@
       },
       {
         "jp_string": "身かわし率+2%（専）",
-        "en_string": ""
+        "en_string": "Dodge Rate +2%"
       },
       {
         "jp_string": "転生出現率アップ（専）",
@@ -27800,7 +27800,7 @@
       },
       {
         "jp_string": "鎌",
-        "en_string": ""
+        "en_string": "Scy"
       },
       {
         "jp_string": "鎌で　呪文を唱えた時",
@@ -28932,11 +28932,11 @@
       },
       {
         "jp_string": "魔力のバラード（専）",
-        "en_string": ""
+        "en_string": "Magical Ballad"
       },
       {
         "jp_string": "魔力のバラード（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Magical Ballad!"
       },
       {
         "jp_string": "魔力の息吹（専）",
