@@ -5536,7 +5536,7 @@
       },
       {
         "jp_string": "のこり",
-        "en_string": ""
+        "en_string": "Points"
       },
       {
         "jp_string": "のこり/合計：",
@@ -5900,7 +5900,7 @@
       },
       {
         "jp_string": "ふりわけ済みポイント",
-        "en_string": ""
+        "en_string": "Point Breakdown"
       },
       {
         "jp_string": "ふる",
@@ -8612,7 +8612,7 @@
       },
       {
         "jp_string": "スキルポイント",
-        "en_string": ""
+        "en_string": "Skill Points"
       },
       {
         "jp_string": "スキルポイント：",
@@ -9700,7 +9700,7 @@
       },
       {
         "jp_string": "デス",
-        "en_string": ""
+        "en_string": "Spirit"
       },
       {
         "jp_string": "デッキ<%sM_deck>のタロット数",
@@ -14800,7 +14800,7 @@
       },
       {
         "jp_string": "占い",
-        "en_string": ""
+        "en_string": "Divine"
       },
       {
         "jp_string": "印章",
@@ -15772,7 +15772,7 @@
       },
       {
         "jp_string": "天地",
-        "en_string": ""
+        "en_string": "Summon"
       },
       {
         "jp_string": "天気",
@@ -20906,7 +20906,7 @@
       },
       {
         "jp_string": "職業きりかえ",
-        "en_string": ""
+        "en_string": "Change Job"
       },
       {
         "jp_string": "職業で絞り込む",
@@ -20930,7 +20930,7 @@
       },
       {
         "jp_string": "職業クエスト",
-        "en_string": ""
+        "en_string": "Vocation Quest"
       },
       {
         "jp_string": "職業スキル",
@@ -22615,7 +22615,7 @@
       },
       {
         "jp_string": "遊び",
-        "en_string": ""
+        "en_string": "Play"
       },
       {
         "jp_string": "遊びたいことリスト",
