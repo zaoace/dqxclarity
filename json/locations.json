@@ -44,7 +44,7 @@
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>エテーネの村",
-        "en_string": ""
+        "en_string": "<%sW_REP_MAX_2ND_F>Ethene Village"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>ガリアル洞",
@@ -72,7 +72,7 @@
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>ゼドラ洞",
-        "en_string": ""
+        "en_string": "<%sW_REP_MAX_2ND_F>Zedora Cave"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>ソーラリア峡谷",
@@ -80,7 +80,7 @@
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>ダーマ神殿",
-        "en_string": ""
+        "en_string": "<%sW_REP_MAX_2ND_F>Dharma Temple"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>デフェル荒野",
@@ -88,7 +88,7 @@
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>ピラミッド",
-        "en_string": ""
+        "en_string": "<%sW_REP_MAX_2ND_F>Pyramid"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>ムルードの岩山",
@@ -108,7 +108,7 @@
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>リンジャの塔",
-        "en_string": ""
+        "en_string": "<%sW_REP_MAX_2ND_F>Linja Tower"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>ロヴォス高地",
@@ -120,11 +120,11 @@
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>ワルド水源",
-        "en_string": "<%sW_REP_MAX_2ND_F>Water Source"
+        "en_string": "<%sW_REP_MAX_2ND_F>Wald Outfall"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>三門の関所",
-        "en_string": "<%sW_REP_MAX_2ND_F>Sanmon Sekisho"
+        "en_string": "<%sW_REP_MAX_2ND_F>Sanmon Barrier"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>五行の塔",
@@ -160,7 +160,7 @@
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>海風の洞くつ",
-        "en_string": ""
+        "en_string": "<%sW_REP_MAX_2ND_F>Seabreeze Cave"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_F>禁呪の祭壇",
@@ -200,7 +200,7 @@
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_R>アラハギーロ城内",
-        "en_string": ""
+        "en_string": "<%sW_REP_MAX_2ND_R>Arahagiro Castle"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_R>アラハギーロ王国",
@@ -208,7 +208,7 @@
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_R>エテーネの村",
-        "en_string": ""
+        "en_string": "<%sW_REP_MAX_2ND_R>Ethene Village"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_R>ガリアル洞",
@@ -216,11 +216,11 @@
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_R>グランゼドーラ城",
-        "en_string": ""
+        "en_string": "<%sW_REP_MAX_2ND_R>Gran Zedora Castle"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_R>グランゼドーラ港",
-        "en_string": ""
+        "en_string": "<%sW_REP_MAX_2ND_R>Gran Zedora Harbor"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_R>グランゼドーラ領",
@@ -248,7 +248,7 @@
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_R>ゼドラ洞",
-        "en_string": ""
+        "en_string": "<%sW_REP_MAX_2ND_R>Zedora Cave"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_R>ダーマ神殿",
@@ -300,11 +300,11 @@
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_R>レビュール街道南",
-        "en_string": ""
+        "en_string": "<%sW_REP_MAX_2ND_R>Reviewle Highway South"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_R>レンダーシア上空",
-        "en_string": ""
+        "en_string": "<%sW_REP_MAX_2ND_R>Lendersia Skies"
       },
       {
         "jp_string": "<%sW_REP_MAX_2ND_R>ロヴォス高地",
@@ -524,11 +524,11 @@
       },
       {
         "jp_string": "<%sW_REP_MIN_2ND_F>グランゼドーラ城",
-        "en_string": ""
+        "en_string": "<%sW_REP_MIN_2ND_F>Gran Zedora Castle"
       },
       {
         "jp_string": "<%sW_REP_MIN_2ND_F>グランゼドーラ港",
-        "en_string": ""
+        "en_string": "<%sW_REP_MIN_2ND_F>Gran Zedora Harbor"
       },
       {
         "jp_string": "<%sW_REP_MIN_2ND_F>グランゼドーラ王国",
@@ -540,7 +540,7 @@
       },
       {
         "jp_string": "<%sW_REP_MIN_2ND_F>ナシームの洞くつ",
-        "en_string": ""
+        "en_string": "<%sW_REP_MIN_2ND_F>Nassim Cave"
       },
       {
         "jp_string": "<%sW_REP_MIN_2ND_F>メルサンディ穀倉帯",
@@ -548,7 +548,7 @@
       },
       {
         "jp_string": "<%sW_REP_MIN_2ND_F>モンスター格闘場",
-        "en_string": ""
+        "en_string": "<%sW_REP_MIN_2ND_F>Monster Arena"
       },
       {
         "jp_string": "<%sW_REP_MIN_2ND_F>リンジャハル海岸",
@@ -564,15 +564,15 @@
       },
       {
         "jp_string": "<%sW_REP_MIN_2ND_F>レンダーシア上空",
-        "en_string": ""
+        "en_string": "<%sW_REP_MIN_2ND_F>Lendersia Skies"
       },
       {
         "jp_string": "<%sW_REP_MIN_2ND_F>格闘場・闘いの広間",
-        "en_string": ""
+        "en_string": "<%sW_REP_MIN_2ND_F>Arena - Fighting Hall"
       },
       {
         "jp_string": "<%sW_REP_MIN_2ND_R>グランゼドーラ王国",
-        "en_string": "<%sW_REP_MIN_2ND_R>Gran Zeodra Kingdom"
+        "en_string": "<%sW_REP_MIN_2ND_R>Gran Zedora Kingdom"
       },
       {
         "jp_string": "<%sW_REP_MIN_2ND_R>メルサンディ穀倉帯",
@@ -580,7 +580,7 @@
       },
       {
         "jp_string": "<%sW_REP_MIN_2ND_R>格闘場・闘いの広間",
-        "en_string": ""
+        "en_string": "<%sW_REP_MIN_2ND_R>Arena - Fighting Hall"
       },
       {
         "jp_string": "<pc_original>城",
@@ -596,7 +596,7 @@
       },
       {
         "jp_string": "いざないの間",
-        "en_string": "In the Meantime"
+        "en_string": "Hall of Invitation"
       },
       {
         "jp_string": "いにしえのゼルメア",
@@ -620,11 +620,11 @@
       },
       {
         "jp_string": "けがれの谷底",
-        "en_string": ""
+        "en_string": "Injury Valley"
       },
       {
         "jp_string": "ご神体の間",
-        "en_string": "Between Gods"
+        "en_string": "Hall of Worship"
       },
       {
         "jp_string": "その他のばしょ",
@@ -656,23 +656,23 @@
       },
       {
         "jp_string": "ほこらの祭祀場・嵐",
-        "en_string": "Hokora Shrine・Storm"
+        "en_string": "Storm Shrine Ritual Ground"
       },
       {
         "jp_string": "ほこらの祭祀場・水",
-        "en_string": "Hokora Shrine・Water"
+        "en_string": "Water Shrine Ritual Ground"
       },
       {
         "jp_string": "ほこらの祭祀場・氷",
-        "en_string": "Hokora Shrine・Ice"
+        "en_string": "Ice Shrine Ritual Ground"
       },
       {
         "jp_string": "ほこらの祭祀場・炎",
-        "en_string": "Hokora Shrine・Flame"
+        "en_string": "Flame Shrine Ritual Ground"
       },
       {
         "jp_string": "ほこらの祭祀場・闇",
-        "en_string": "Hokora Shrine・Darkness"
+        "en_string": "Dark Shrine Ritual Ground"
       },
       {
         "jp_string": "やまざこの町",
@@ -692,11 +692,11 @@
       },
       {
         "jp_string": "アストルステーション",
-        "en_string": "Astor Station"
+        "en_string": "Astol Station"
       },
       {
         "jp_string": "アストルティア博物館",
-        "en_string": "Astortia Museum"
+        "en_string": "Astoltia Museum"
       },
       {
         "jp_string": "アスフェルド学園",
@@ -868,7 +868,7 @@
       },
       {
         "jp_string": "オルファの丘",
-        "en_string": "Orphea Hill"
+        "en_string": "Orpha Hill"
       },
       {
         "jp_string": "オルフェアの町",
@@ -980,11 +980,11 @@
       },
       {
         "jp_string": "ガイオス古海",
-        "en_string": "Gaios Furuumi"
+        "en_string": "Gaios Old Sea"
       },
       {
         "jp_string": "ガウシア樹海",
-        "en_string": "Gaussia Jukai"
+        "en_string": "Gaussia Woodlands"
       },
       {
         "jp_string": "ガケ沿いの集会所",
@@ -1000,7 +1000,7 @@
       },
       {
         "jp_string": "ガタラ大山林",
-        "en_string": "Gatara Oyama Frst"
+        "en_string": "Gatara Mtn. Forest"
       },
       {
         "jp_string": "ガミルゴの盾島",
@@ -1008,7 +1008,7 @@
       },
       {
         "jp_string": "ガラガの穴",
-        "en_string": "Rattle Hole"
+        "en_string": "Garaga Hole"
       },
       {
         "jp_string": "ガラシの塔",
@@ -1016,19 +1016,19 @@
       },
       {
         "jp_string": "ガートラント城",
-        "en_string": "Gartland Castle"
+        "en_string": "Gartlant Castle"
       },
       {
         "jp_string": "ガートラント城下町",
-        "en_string": "Gartland Castle Town"
+        "en_string": "Gartlant Castle Town"
       },
       {
         "jp_string": "ガートラント城駅",
-        "en_string": "Gartland Castle Stop"
+        "en_string": "Gartlant Castle Stop"
       },
       {
         "jp_string": "ガートラント領",
-        "en_string": "Gartland Territory"
+        "en_string": "Gartlant Territory"
       },
       {
         "jp_string": "キュララナビーチ",
@@ -1052,7 +1052,7 @@
       },
       {
         "jp_string": "ギアラの間",
-        "en_string": ""
+        "en_string": "Giara Place"
       },
       {
         "jp_string": "ギルザッド地方",
@@ -1060,7 +1060,7 @@
       },
       {
         "jp_string": "クイーンディオーレ号",
-        "en_string": ""
+        "en_string": "Queen Diore"
       },
       {
         "jp_string": "クドゥスの泉",
@@ -1076,15 +1076,15 @@
       },
       {
         "jp_string": "グランゼドーラ城",
-        "en_string": ""
+        "en_string": "Gran Zedora Castle"
       },
       {
         "jp_string": "グランゼドーラ駅",
-        "en_string": "Granzedora Station"
+        "en_string": "Gran Zedora Station"
       },
       {
         "jp_string": "グランドタイタス号",
-        "en_string": "House of Grammars"
+        "en_string": "Grand Titus"
       },
       {
         "jp_string": "グランマーズの館",
@@ -1268,7 +1268,7 @@
       },
       {
         "jp_string": "スイのやしろ",
-        "en_string": ""
+        "en_string": "Sui Shrine"
       },
       {
         "jp_string": "スイの塔",
@@ -1288,7 +1288,7 @@
       },
       {
         "jp_string": "スウィ～ツランド",
-        "en_string": "Swietland"
+        "en_string": "Sweetsland"
       },
       {
         "jp_string": "スタートアップ",
@@ -1304,11 +1304,11 @@
       },
       {
         "jp_string": "ゼクレス城",
-        "en_string": "Zecres Castle"
+        "en_string": "Zechres Castle"
       },
       {
         "jp_string": "ゼクレス城・テラス",
-        "en_string": ""
+        "en_string": "Zechres Castle - Terrace"
       },
       {
         "jp_string": "ゼクレス城・地下",
@@ -1356,15 +1356,15 @@
       },
       {
         "jp_string": "ダラズ大鉱脈",
-        "en_string": ""
+        "en_string": "Daraz Large Vein"
       },
       {
         "jp_string": "ダラズ採掘場",
-        "en_string": "Dara's Quarry"
+        "en_string": "Daraz Quarry"
       },
       {
         "jp_string": "ダラリア砂岩遺跡",
-        "en_string": ""
+        "en_string": "Galeria Sandstone Ruins"
       },
       {
         "jp_string": "ダンダダ団アジト",
@@ -1372,7 +1372,7 @@
       },
       {
         "jp_string": "チェス・ボード",
-        "en_string": ""
+        "en_string": "Chess Board"
       },
       {
         "jp_string": "チヒロの部屋",
@@ -1396,7 +1396,7 @@
       },
       {
         "jp_string": "ツボの封印空間",
-        "en_string": ""
+        "en_string": "Sealing Pot Space"
       },
       {
         "jp_string": "ツール検証用（StagePlan,LayoutToolなど）",
@@ -1416,7 +1416,7 @@
       },
       {
         "jp_string": "デス・ジャンクション",
-        "en_string": ""
+        "en_string": "Death Junction"
       },
       {
         "jp_string": "デズリンの家",
@@ -1428,7 +1428,7 @@
       },
       {
         "jp_string": "デモンマウンテン",
-        "en_string": ""
+        "en_string": "Demon Mountain"
       },
       {
         "jp_string": "デルクロアの研究室",
@@ -1464,7 +1464,7 @@
       },
       {
         "jp_string": "ドルワーム水晶宮",
-        "en_string": ""
+        "en_string": "Dolworm Crystal Palace"
       },
       {
         "jp_string": "ドルワーム水晶宮上層",
@@ -1476,11 +1476,11 @@
       },
       {
         "jp_string": "ドルワーム王国駅",
-        "en_string": ""
+        "en_string": "Dolworm Kingdom Stop"
       },
       {
         "jp_string": "ナギリ洞",
-        "en_string": ""
+        "en_string": "Nagiri Cave"
       },
       {
         "jp_string": "ナグアの洞くつ",
@@ -1496,11 +1496,11 @@
       },
       {
         "jp_string": "ナルビアの町",
-        "en_string": ""
+        "en_string": "Nalbia Village"
       },
       {
         "jp_string": "ネクロデア廃城",
-        "en_string": ""
+        "en_string": "Nekrodia Castle"
       },
       {
         "jp_string": "バットエンド司令部",
@@ -1508,7 +1508,7 @@
       },
       {
         "jp_string": "バトエンコロシアム",
-        "en_string": ""
+        "en_string": "Batoen Colosseum"
       },
       {
         "jp_string": "バトル班用テストマップ(ツスクル）",
@@ -1540,23 +1540,23 @@
       },
       {
         "jp_string": "バルディア山岳地帯",
-        "en_string": ""
+        "en_string": "Valdia Mountain Area"
       },
       {
         "jp_string": "バルディスタ城",
-        "en_string": ""
+        "en_string": "Valdista Castle"
       },
       {
         "jp_string": "バルディスタ要塞",
-        "en_string": ""
+        "en_string": "Valdista Fortress"
       },
       {
         "jp_string": "パルミオの研究所",
-        "en_string": "Palmyra's Laboratory"
+        "en_string": "Palmio's Laboratory"
       },
       {
         "jp_string": "ビタースイーツゾーン",
-        "en_string": ""
+        "en_string": "Bittersweets Zone"
       },
       {
         "jp_string": "ピテッザのほら穴",
@@ -1564,51 +1564,51 @@
       },
       {
         "jp_string": "ピラミッド第一の霊廟",
-        "en_string": ""
+        "en_string": "Pyramid Masoleum 1"
       },
       {
         "jp_string": "ピラミッド第七の霊廟",
-        "en_string": ""
+        "en_string": "Pyramid Masoleum 7"
       },
       {
         "jp_string": "ピラミッド第三の霊廟",
-        "en_string": ""
+        "en_string": "Pyramid Masoleum 3"
       },
       {
         "jp_string": "ピラミッド第九の霊廟",
-        "en_string": ""
+        "en_string": "Pyramid Masoleum 9"
       },
       {
         "jp_string": "ピラミッド第二の霊廟",
-        "en_string": ""
+        "en_string": "Pyramid Masoleum 2"
       },
       {
         "jp_string": "ピラミッド第五の霊廟",
-        "en_string": ""
+        "en_string": "Pyramid Masoleum 5"
       },
       {
         "jp_string": "ピラミッド第八の霊廟",
-        "en_string": ""
+        "en_string": "Pyramid Masoleum 8"
       },
       {
         "jp_string": "ピラミッド第六の霊廟",
-        "en_string": ""
+        "en_string": "Pyramid Masoleum 6"
       },
       {
         "jp_string": "ピラミッド第四の霊廟",
-        "en_string": ""
+        "en_string": "Pyramid Masoleum 4"
       },
       {
         "jp_string": "ピラミッド霊廟",
-        "en_string": ""
+        "en_string": "Pyramid Masoleum"
       },
       {
         "jp_string": "ファラザード城",
-        "en_string": ""
+        "en_string": "Farazard Castle"
       },
       {
         "jp_string": "フェザリアス山",
-        "en_string": ""
+        "en_string": "Fezarias Mountain"
       },
       {
         "jp_string": "フェルアバの大洞穴",
@@ -1624,7 +1624,7 @@
       },
       {
         "jp_string": "ブオーンの体内",
-        "en_string": ""
+        "en_string": "Inside Bjorn"
       },
       {
         "jp_string": "ブラニック採石場",
@@ -1636,11 +1636,11 @@
       },
       {
         "jp_string": "ブーナー熱帯雨林",
-        "en_string": "Booneer Rainforest"
+        "en_string": "Booner Rainforest"
       },
       {
         "jp_string": "ブーナー石洞",
-        "en_string": ""
+        "en_string": "Booner Rock Cave"
       },
       {
         "jp_string": "プクレットの村",
@@ -1652,7 +1652,7 @@
       },
       {
         "jp_string": "ププイアの穴",
-        "en_string": ""
+        "en_string": "Pupuia Hole"
       },
       {
         "jp_string": "プペラトンネル",
@@ -1660,7 +1660,7 @@
       },
       {
         "jp_string": "プペラホール",
-        "en_string": ""
+        "en_string": "Pupella Hole"
       },
       {
         "jp_string": "プログラマー検証ステージ1",
@@ -1724,15 +1724,15 @@
       },
       {
         "jp_string": "ベルヴァインの森東",
-        "en_string": ""
+        "en_string": "Belvain Forest East"
       },
       {
         "jp_string": "ベルヴァインの森西",
-        "en_string": ""
+        "en_string": "Belvain Forest West"
       },
       {
         "jp_string": "ベルヴァイン湖",
-        "en_string": ""
+        "en_string": "Belvain Lake"
       },
       {
         "jp_string": "ペシュヤ地下空洞",
@@ -1740,7 +1740,7 @@
       },
       {
         "jp_string": "ホワイトショコラ城",
-        "en_string": ""
+        "en_string": "White Chocolat Castle"
       },
       {
         "jp_string": "ボルターのかばん工房",
@@ -1772,7 +1772,7 @@
       },
       {
         "jp_string": "ポルネア山",
-        "en_string": ""
+        "en_string": "Polnea Mountain"
       },
       {
         "jp_string": "ポーポラ地方",
@@ -1780,11 +1780,11 @@
       },
       {
         "jp_string": "マイタウン",
-        "en_string": ""
+        "en_string": "My Town"
       },
       {
         "jp_string": "マイタウン海辺の村",
-        "en_string": ""
+        "en_string": "My Town Seaside Village"
       },
       {
         "jp_string": "マッチングテストステージ（同期テスト用）",
@@ -1796,7 +1796,7 @@
       },
       {
         "jp_string": "マデ島",
-        "en_string": "M. Island"
+        "en_string": "Made Isle"
       },
       {
         "jp_string": "マデ島＆エテーネ王宮（4.5CS専用）",
@@ -1804,11 +1804,11 @@
       },
       {
         "jp_string": "マデ神殿",
-        "en_string": ""
+        "en_string": "Made Temple"
       },
       {
         "jp_string": "マデ神殿祭具棟",
-        "en_string": ""
+        "en_string": "Made Temple"
       },
       {
         "jp_string": "ミュルエルの森",
@@ -1820,15 +1820,15 @@
       },
       {
         "jp_string": "ムストの町",
-        "en_string": ""
+        "en_string": "Must Village"
       },
       {
         "jp_string": "ムストの町・地下",
-        "en_string": ""
+        "en_string": "Must Village Underground"
       },
       {
         "jp_string": "ムーンキャロット王国",
-        "en_string": ""
+        "en_string": "Moon Carrot Kingdom"
       },
       {
         "jp_string": "メギストリスの都",
@@ -1836,11 +1836,11 @@
       },
       {
         "jp_string": "メギストリスの都駅",
-        "en_string": ""
+        "en_string": "City of Megistris Stop"
       },
       {
         "jp_string": "メギストリス城",
-        "en_string": ""
+        "en_string": "Megistris Castle"
       },
       {
         "jp_string": "メギストリス領",
@@ -1856,11 +1856,11 @@
       },
       {
         "jp_string": "メダル王の城",
-        "en_string": ""
+        "en_string": "Medal King Castle"
       },
       {
         "jp_string": "メレアーデの部屋",
-        "en_string": ""
+        "en_string": "Mereade's Room"
       },
       {
         "jp_string": "モガリム街道",
@@ -1868,11 +1868,11 @@
       },
       {
         "jp_string": "モガレの広間",
-        "en_string": ""
+        "en_string": "Mogare Hall"
       },
       {
         "jp_string": "モガレの洞くつ",
-        "en_string": ""
+        "en_string": "Mogare Cave"
       },
       {
         "jp_string": "モガレ修道院",
@@ -1880,19 +1880,19 @@
       },
       {
         "jp_string": "モグラの洞くつ",
-        "en_string": ""
+        "en_string": "Mogura Cave"
       },
       {
         "jp_string": "モコモコハウス",
-        "en_string": ""
+        "en_string": "Mokomoko House"
       },
       {
         "jp_string": "モリナラ地下洞",
-        "en_string": ""
+        "en_string": "Molinara Underground"
       },
       {
         "jp_string": "モリナラ地下洞・深淵",
-        "en_string": ""
+        "en_string": "Molinara Underground Abyss"
       },
       {
         "jp_string": "モリナラ大森林",
@@ -1900,11 +1900,11 @@
       },
       {
         "jp_string": "モリナラ広場",
-        "en_string": ""
+        "en_string": "Molinara Square"
       },
       {
         "jp_string": "モンスター酒場",
-        "en_string": ""
+        "en_string": "Monster Tavern"
       },
       {
         "jp_string": "モンセロ温泉峡",
@@ -1920,7 +1920,7 @@
       },
       {
         "jp_string": "ラッカラン住宅村",
-        "en_string": ""
+        "en_string": "Luckland Resident Area"
       },
       {
         "jp_string": "ラニアッカ断層帯",
@@ -1952,7 +1952,7 @@
       },
       {
         "jp_string": "ラーディス王島",
-        "en_string": "Ladis King Island"
+        "en_string": "King Ladis Island"
       },
       {
         "jp_string": "リシーの洞くつ",
@@ -1960,11 +1960,11 @@
       },
       {
         "jp_string": "リンクスのオフィス",
-        "en_string": ""
+        "en_string": "Lynx's Office"
       },
       {
         "jp_string": "リンクスの工場",
-        "en_string": ""
+        "en_string": "Lynx's Factory"
       },
       {
         "jp_string": "リンクル地方",
@@ -1972,7 +1972,7 @@
       },
       {
         "jp_string": "ルイーダの酒場",
-        "en_string": ""
+        "en_string": "Luida's Bar"
       },
       {
         "jp_string": "ルクスガルン大空洞",
@@ -2000,11 +2000,11 @@
       },
       {
         "jp_string": "レモンハルト劇場",
-        "en_string": ""
+        "en_string": "Lemonhart Theatre"
       },
       {
         "jp_string": "レーナム緑野",
-        "en_string": "Lenam Midorino"
+        "en_string": "Lenam Fields"
       },
       {
         "jp_string": "レーンの村",
@@ -2016,27 +2016,27 @@
       },
       {
         "jp_string": "ロンダの氷穴",
-        "en_string": "Rhonda's Ice Caves"
+        "en_string": "Rhonda Ice Caves"
       },
       {
         "jp_string": "ロンダ岬",
-        "en_string": ""
+        "en_string": "Rhonda Cape"
       },
       {
         "jp_string": "ヴァースのほら穴",
-        "en_string": ""
+        "en_string": "Verse Cave"
       },
       {
         "jp_string": "ヴァース大山林",
-        "en_string": "Verse Oyama Forest"
+        "en_string": "Verse Mtn. Forest"
       },
       {
         "jp_string": "ヴィスタリア姫の部屋",
-        "en_string": ""
+        "en_string": "Princess Vistaria's Room"
       },
       {
         "jp_string": "ヴェリナード城",
-        "en_string": ""
+        "en_string": "Verinard Castle"
       },
       {
         "jp_string": "ヴェリナード城下町",
@@ -2044,7 +2044,7 @@
       },
       {
         "jp_string": "ヴェリナード城駅",
-        "en_string": ""
+        "en_string": "Verinard Castle Stop"
       },
       {
         "jp_string": "ヴェリナード領北",
@@ -2068,7 +2068,7 @@
       },
       {
         "jp_string": "万魔の塔",
-        "en_string": ""
+        "en_string": "Manma Tower"
       },
       {
         "jp_string": "万魔の塔・一の災壇",
@@ -2128,7 +2128,7 @@
       },
       {
         "jp_string": "井戸の中",
-        "en_string": ""
+        "en_string": "Inside Well"
       },
       {
         "jp_string": "亡都の地下堂",
@@ -2156,11 +2156,11 @@
       },
       {
         "jp_string": "偽",
-        "en_string": ""
+        "en_string": "F."
       },
       {
         "jp_string": "偽りの",
-        "en_string": ""
+        "en_string": "False "
       },
       {
         "jp_string": "儀式の間",
@@ -2172,7 +2172,7 @@
       },
       {
         "jp_string": "光の神殿",
-        "en_string": ""
+        "en_string": "Light Temple"
       },
       {
         "jp_string": "光の郷フィネトカ",
@@ -2264,11 +2264,11 @@
       },
       {
         "jp_string": "古グランゼドーラ城",
-        "en_string": ""
+        "en_string": "Old Gran Zedora Castle"
       },
       {
         "jp_string": "古グランゼドーラ王国",
-        "en_string": ""
+        "en_string": "Old Gran Zedora Kingdom"
       },
       {
         "jp_string": "古グランゼドーラ領",
@@ -3816,7 +3816,7 @@
       },
       {
         "jp_string": "雄峰ランドン",
-        "en_string": ""
+        "en_string": "Landon Peak"
       },
       {
         "jp_string": "集会所",
@@ -3968,11 +3968,11 @@
       },
       {
         "jp_string": "黒のほこら",
-        "en_string": ""
+        "en_string": "Dark Shrine"
       },
       {
         "jp_string": "黒の間",
-        "en_string": ""
+        "en_string": "Dark Room"
       }
     ]
   }
