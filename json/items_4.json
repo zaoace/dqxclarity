@@ -2452,7 +2452,7 @@
       },
       {
         "jp_string": "マイタウンメダル",
-        "en_string": ""
+        "en_string": "My Town Medal"
       },
       {
         "jp_string": "マイタウン施設コーデ券",
@@ -6971,72 +6971,87 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＨＰ１９０～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 190 HP|to one companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＨＰ３００～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 300 HP|to one companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＨＰとＭＰを回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores HP|and MP of one|companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを２０～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 20 HP|to one companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを３０～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 30 HP|to one companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを３５～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 35 HP|to one companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを５０～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 50 HP|to one companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを６０～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 60 HP|to one companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを７０～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 70 HP|to one companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを８０～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 80 HP|to one companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＭＰ１５０～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 150 MP|for each|companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを１０回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 10 MP|to one|companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを３６～回復 ノンアルコール！",
-        "en_string": ""
+        "en_string": "Restores 36 MP|to one companion.|It's non-alcoholic!"
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを３６～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 36 MP|for each|companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを７０～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 70 MP|for a single|companion."
       },
       {
         "jp_string": "仲間ひとりの ＭＰを９０～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 90 MP|for a single|companion."
       },
       {
         "jp_string": "仲間ひとりの ＭＰを完全に回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores full MP|to one of your|companions."
       },
       {
         "jp_string": "仲間ひとりの マヒを治す 使ったらなくなる",
@@ -7523,8 +7538,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "使うと３０分間 乗れるようになる ドルボードの燃料",
-        "en_string": ""
+        "en_string": "When you use it,|you'll be able to|ride for 30mins."
       },
       {
         "jp_string": "使うと３０枚 ちいさなメダルが 手に入るチケット",

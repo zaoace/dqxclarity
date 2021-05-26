@@ -3792,7 +3792,7 @@
       },
       {
         "jp_string": "こ",
-        "en_string": ""
+        "en_string": " "
       },
       {
         "jp_string": "こうかんリスト",
@@ -4396,7 +4396,7 @@
       },
       {
         "jp_string": "すてる",
-        "en_string": ""
+        "en_string": "Discard"
       },
       {
         "jp_string": "すでに遊んでいるアカウントを登録する",
@@ -5144,7 +5144,7 @@
       },
       {
         "jp_string": "どうする？",
-        "en_string": "What do we do?"
+        "en_string": "Do what?"
       },
       {
         "jp_string": "どくのちりょう",
@@ -5744,11 +5744,11 @@
       },
       {
         "jp_string": "ふくびき券",
-        "en_string": ""
+        "en_string": "Lottery Ticket"
       },
       {
         "jp_string": "ふくびき補助券",
-        "en_string": ""
+        "en_string": "Lottery Coupon"
       },
       {
         "jp_string": "ふしぎな三面鏡",
@@ -6552,7 +6552,7 @@
       },
       {
         "jp_string": "アイテム倉庫",
-        "en_string": ""
+        "en_string": "Item Warehouse"
       },
       {
         "jp_string": "アイテム名",
@@ -8556,7 +8556,7 @@
       },
       {
         "jp_string": "スカウトの書",
-        "en_string": ""
+        "en_string": "Scout's Book"
       },
       {
         "jp_string": "スキップ",
@@ -8804,7 +8804,7 @@
       },
       {
         "jp_string": "スペシャルふくびき券",
-        "en_string": ""
+        "en_string": "Special Lottery Ticket"
       },
       {
         "jp_string": "スペシャルチケットを買う",
@@ -10672,7 +10672,7 @@
       },
       {
         "jp_string": "ビンゴ券",
-        "en_string": "BingoTicket"
+        "en_string": "Bingo Ticket"
       },
       {
         "jp_string": "ピタリ賞",
@@ -13628,7 +13628,7 @@
       },
       {
         "jp_string": "依頼書",
-        "en_string": ""
+        "en_string": "Requests"
       },
       {
         "jp_string": "依頼書クエストクリア回数",
@@ -17178,19 +17178,19 @@
       },
       {
         "jp_string": "所持数",
-        "en_string": ""
+        "en_string": "Stock"
       },
       {
         "jp_string": "所持数<%nM_num>こ",
-        "en_string": ""
+        "en_string": "Stock: <%nM_num>"
       },
       {
         "jp_string": "所持数<%nM_syozisuu>こ",
-        "en_string": ""
+        "en_string": "Stock: <%nM_syozisuu>"
       },
       {
         "jp_string": "所持数<%nM_syozisuu>匹",
-        "en_string": ""
+        "en_string": "Stock: <%nM_syozisuu>"
       },
       {
         "jp_string": "所持数順",
@@ -20590,7 +20590,7 @@
       },
       {
         "jp_string": "素材",
-        "en_string": ""
+        "en_string": "Mats"
       },
       {
         "jp_string": "素材/未鑑定アイテム",
@@ -20614,7 +20614,7 @@
       },
       {
         "jp_string": "紫の錬金石",
-        "en_string": ""
+        "en_string": "Purple AlcStone"
       },
       {
         "jp_string": "紫水晶の羽根",
@@ -20726,7 +20726,7 @@
       },
       {
         "jp_string": "緑の錬金石",
-        "en_string": ""
+        "en_string": "Green Al Stone"
       },
       {
         "jp_string": "編成",
@@ -22174,7 +22174,7 @@
       },
       {
         "jp_string": "赤の錬金石",
-        "en_string": ""
+        "en_string": "Red AlcStone"
       },
       {
         "jp_string": "走る",
@@ -23775,7 +23775,7 @@
       },
       {
         "jp_string": "青の錬金石",
-        "en_string": ""
+        "en_string": "Blue AlcStone"
       },
       {
         "jp_string": "非公開",
@@ -24127,7 +24127,7 @@
       },
       {
         "jp_string": "黄の錬金石",
-        "en_string": ""
+        "en_string": "Yellow AlcStone"
       },
       {
         "jp_string": "黄水晶の羽根",
@@ -24143,7 +24143,7 @@
       },
       {
         "jp_string": "黒の錬金石",
-        "en_string": ""
+        "en_string": "Black AlcStone"
       },
       {
         "jp_string": "黒ストローク",

@@ -2663,8 +2663,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "経験値とゴールド ３０分間２倍に！ 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Double your XP|and gold for 30|minutes."
       },
       {
         "jp_string": "経験値のみを ２５０００ 入手できる本",

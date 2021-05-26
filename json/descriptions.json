@@ -130,7 +130,7 @@
       {
         "line_break": true,
         "jp_string": "入れてくれる チームを 探している状態",
-        "en_string": "I'm looking for a|team that'll let|us in."
+        "en_string": "I'm looking for a|team that will|let me in."
       },
       {
         "line_break": true,
@@ -140,7 +140,7 @@
       {
         "line_break": true,
         "jp_string": "「まわりに」の 発言内容が 見えなくなる状態",
-        "en_string": "I don't want to|see what others are|saying."
+        "en_string": "I don't want to|see what others|are saying."
       },
       {
         "line_break": true,
