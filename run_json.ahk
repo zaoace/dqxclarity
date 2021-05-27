@@ -68,6 +68,14 @@ for i, obj in data.1.strings
   ;; If the string length doesn't match, add null terms until it does.
   if (jp_len != en_len)
   {
+    ;; If en_len is longer than the jp_len, we'll get stuck in an
+    ;; infinite loop until we OOM, so check this here.
+    if (en_len > jp_len)
+    {
+      MsgBox String too long. Please fix and try again.`nFile: %1%`nJP string: %jp_raw%`nEN string: %en_raw%`n
+      ExitApp
+    }
+
     ;; Remove the last 00 we added earlier as we aren't ready
     ;; to 'terminate' the string yet. 
     en := SubStr(en, 1, (en_len - 2))
