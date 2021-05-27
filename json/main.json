@@ -3804,15 +3804,15 @@
       },
       {
         "jp_string": "こうげき力",
-        "en_string": ""
+        "en_string": "Off. Ability"
       },
       {
         "jp_string": "こうげき力・右",
-        "en_string": ""
+        "en_string": "Atk Power・Right"
       },
       {
         "jp_string": "こうげき力・左",
-        "en_string": ""
+        "en_string": "Atk Power・Left"
       },
       {
         "jp_string": "こうげき力右",
@@ -4788,11 +4788,11 @@
       },
       {
         "jp_string": "ちから",
-        "en_string": ""
+        "en_string": "Attack"
       },
       {
         "jp_string": "ちから+50",
-        "en_string": ""
+        "en_string": "Attack+50"
       },
       {
         "jp_string": "ちからが",
@@ -6104,7 +6104,7 @@
       },
       {
         "jp_string": "みのまもり",
-        "en_string": ""
+        "en_string": "Resilience"
       },
       {
         "jp_string": "みやぶったモンスターの種類",
@@ -6112,7 +6112,7 @@
       },
       {
         "jp_string": "みりょく",
-        "en_string": ""
+        "en_string": "Charm"
       },
       {
         "jp_string": "みる",
@@ -18878,7 +18878,7 @@
       },
       {
         "jp_string": "消費ＭＰ",
-        "en_string": ""
+        "en_string": "MP Cost:"
       },
       {
         "jp_string": "淡水魚",
@@ -22366,7 +22366,7 @@
       },
       {
         "jp_string": "追加効果はありません",
-        "en_string": ""
+        "en_string": "No Additional Effects"
       },
       {
         "line_break": true,
@@ -23303,7 +23303,7 @@
       },
       {
         "jp_string": "錬金効果",
-        "en_string": ""
+        "en_string": "Alch. Effect"
       },
       {
         "jp_string": "錬金効果のチェンジ",
@@ -23399,15 +23399,15 @@
       },
       {
         "jp_string": "錬金効果（<%sM_renkinkouka>）",
-        "en_string": ""
+        "en_string": "Alch. Effect (<%sM_renkinkouka>)"
       },
       {
         "jp_string": "錬金効果１",
-        "en_string": ""
+        "en_string": "Alch. Effect 1"
       },
       {
         "jp_string": "錬金効果２",
-        "en_string": ""
+        "en_string": "Alch. Effect 2"
       },
       {
         "jp_string": "錬金受付中",

@@ -9472,8 +9472,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "獣系の敵に 威力を発揮する 荒々しい突き",
-        "en_string": ""
+        "en_string": "A rough thrust|effective to|beast enemies."
       },
       {
         "jp_string": "獣系への ダメージが １７５％増える",

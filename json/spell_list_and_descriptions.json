@@ -3671,8 +3671,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "獣系の敵に 威力を発揮する 荒々しい突き",
-        "en_string": ""
+        "en_string": "A rough thrust|effective to|beast enemies."
       },
       {
         "jp_string": "疾風迅雷",
@@ -4255,8 +4256,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "風のやいばを 巻きおこし 敵１体を攻撃",
-        "en_string": ""
+        "en_string": "Create a wind|spell to attack|an enemy."
       },
       {
         "jp_string": "飛んでいる敵に 威力を発揮する 華麗な宙返り",

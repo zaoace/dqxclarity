@@ -5096,7 +5096,7 @@
       },
       {
         "jp_string": "こうげき力",
-        "en_string": ""
+        "en_string": "Off. Ability"
       },
       {
         "jp_string": "こうげき魔力",
@@ -5632,7 +5632,7 @@
       },
       {
         "jp_string": "ちから",
-        "en_string": ""
+        "en_string": "Attack"
       },
       {
         "jp_string": "ちから+10（専）",
@@ -7068,7 +7068,7 @@
       },
       {
         "jp_string": "みのまもり",
-        "en_string": ""
+        "en_string": "Resilience"
       },
       {
         "jp_string": "みのまもり+10（専）",
