@@ -26,7 +26,7 @@ startTime := A_TickCount
 ;; Loop through all files in json directory
 Loop, Files, json\*.json, F
 {
-  Run, %A_ScriptDir%\run_json.ahk %A_LoopFileFullPath%
+  Run, %A_ScriptDir%\run_json.exe %A_LoopFileFullPath%
 }
 
 while (numberOfRunningProcesses != 0)

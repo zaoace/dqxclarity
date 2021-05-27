@@ -3804,7 +3804,7 @@
       },
       {
         "jp_string": "こうげき力",
-        "en_string": "Off. Ability"
+        "en_string": "Attack"
       },
       {
         "jp_string": "こうげき力・右",
@@ -4788,7 +4788,7 @@
       },
       {
         "jp_string": "ちから",
-        "en_string": "Attack"
+        "en_string": "Strength"
       },
       {
         "jp_string": "ちから+50",
