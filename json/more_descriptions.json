@@ -8,31 +8,31 @@
       },
       {
         "jp_string": "03MSコロシアム受付へ　ようこそ！ 対戦したい　パーティーリーダーを 選んでください。",
-        "en_string": ""
+        "en_string": "03MSWelcome to the coliseum! Please choose the party leader you want to play against."
       },
       {
         "jp_string": "<%nL_TOU>等",
-        "en_string": ""
+        "en_string": "<%nL_TOU>etc"
       },
       {
         "jp_string": "<%sL_DOKU_PCNAME>は 生き返った！",
-        "en_string": ""
+        "en_string": "<%sL_DOKU_PCNAME> is revived!"
       },
       {
         "jp_string": "<%sL_PC_NICK>は　<%sL_KAITAI_ITEM>を 装備した！",
-        "en_string": ""
+        "en_string": "<%sL_PC_NICK> equipped <%sL_KAITAI_ITEM>! "
       },
       {
         "jp_string": "<%sL_SENDER_NAME>からの届け物",
-        "en_string": ""
+        "en_string": "Delivery from <%sL_SENDER_NAME>"
       },
       {
         "jp_string": "<%sL_SERVER>に　移動しました。",
-        "en_string": ""
+        "en_string": "Moved to <%sL_SERVER>."
       },
       {
         "jp_string": "<%sM_pc>からの手紙",
-        "en_string": ""
+        "en_string": "Letter from <%sM_pc>"
       },
       {
         "jp_string": "<%sM_space>１～<%sM_space>５",
@@ -52,27 +52,27 @@
       },
       {
         "jp_string": "♀キャラ",
-        "en_string": ""
+        "en_string": "Male"
       },
       {
         "jp_string": "♂キャラ",
-        "en_string": ""
+        "en_string": "Female"
       },
       {
         "jp_string": "「<%sL_SYOKUNIN>であれば　 　仕事の依頼が受けられます。<bw_break>",
-        "en_string": ""
+        "en_string": "As a <%sL_SYOKUNIN>, you can receive work orders.<bw_break>"
       },
       {
         "jp_string": "「たしかに　移動しましたであります。",
-        "en_string": ""
+        "en_string": "It's certaintly moved."
       },
       {
         "jp_string": "「どれを移動するでありますか？",
-        "en_string": ""
+        "en_string": "Which do you want to move?"
       },
       {
         "jp_string": "あなたにとって 勝利とは　戦うことで 得られるものですか？",
-        "en_string": ""
+        "en_string": "Is victory what you want out of fighting?"
       },
       {
         "jp_string": "あなたのエントリーを　取り消しました。 またの機会を　お待ちしております。",
@@ -80,11 +80,11 @@
       },
       {
         "jp_string": "あなたのパーティーの エントリーを　取り消しました。 またの機会を　お待ちしております。",
-        "en_string": ""
+        "en_string": "Your entry was cancelled. We'll be expecting you again."
       },
       {
         "jp_string": "あなたのパーティーは まだエントリーされていませんよ。",
-        "en_string": ""
+        "en_string": "Your party hasn't been entered yet."
       },
       {
         "jp_string": "あなたのパーティーは　 既にエントリーされていますよ。 <br> ともに戦うなかまと 対戦相手が　決まるまで しばらく　お待ちください。",
@@ -116,11 +116,11 @@
       },
       {
         "jp_string": "いつでも",
-        "en_string": ""
+        "en_string": "Anytime"
       },
       {
         "jp_string": "おしゃれ装備",
-        "en_string": ""
+        "en_string": "Fashion Equipment"
       },
       {
         "jp_string": "おやめになるのですね？ ありがとうございました。 またの機会を　お待ちしてます。",
@@ -136,7 +136,7 @@
       },
       {
         "jp_string": "お金かせぎ",
-        "en_string": ""
+        "en_string": "Earn Money"
       },
       {
         "jp_string": "かしこまりました。 またの機会を　お待ちしております。",
@@ -144,36 +144,36 @@
       },
       {
         "jp_string": "きせかえドール",
-        "en_string": ""
+        "en_string": "Dress-up Doll"
       },
       {
         "line_break": true,
         "jp_string": "この場所を ルーラストーンに 記憶させます",
-        "en_string": "Register this|place in|the Zoomstone"
+        "en_string": "Register this|place in|a Zoomstone"
       },
       {
         "jp_string": "すぐにもう一度チャレンジする",
-        "en_string": ""
+        "en_string": "Challenge Again"
       },
       {
         "jp_string": "そうびひん",
-        "en_string": ""
+        "en_string": "Equipment Bag"
       },
       {
         "jp_string": "その他",
-        "en_string": ""
+        "en_string": "Other"
       },
       {
         "jp_string": "その他コンテンツの報酬",
-        "en_string": ""
+        "en_string": "Other Content Rewards"
       },
       {
         "jp_string": "その他２",
-        "en_string": ""
+        "en_string": "Other 2"
       },
       {
         "jp_string": "その他３",
-        "en_string": ""
+        "en_string": "Other 3"
       },
       {
         "jp_string": "それでは あなたのパーティーのエントリーを　 受け付けたままでいます。 <br> ともに戦うなかまと 対戦相手が　決まるまで しばらく　お待ちください。",
@@ -193,11 +193,11 @@
       },
       {
         "jp_string": "つかうもの",
-        "en_string": ""
+        "en_string": "Items"
       },
       {
         "jp_string": "なんでも",
-        "en_string": ""
+        "en_string": "Anyone"
       },
       {
         "jp_string": "ひとりで練習にはげむ",
@@ -218,11 +218,11 @@
       },
       {
         "jp_string": "やりこみ派",
-        "en_string": ""
+        "en_string": "Speedrun"
       },
       {
         "jp_string": "よろず屋",
-        "en_string": ""
+        "en_string": "General Shop"
       },
       {
         "jp_string": "アクセサリーショップ",
@@ -258,7 +258,7 @@
       },
       {
         "jp_string": "ギャグで場を和ませる",
-        "en_string": ""
+        "en_string": "Use a gag"
       },
       {
         "jp_string": "クエスト装備",
@@ -266,39 +266,39 @@
       },
       {
         "jp_string": "コイン屋",
-        "en_string": ""
+        "en_string": "Coin Shop"
       },
       {
         "jp_string": "コラボイベントの報酬",
-        "en_string": ""
+        "en_string": "Collab Event Rewards"
       },
       {
         "jp_string": "サブキャラOK",
-        "en_string": ""
+        "en_string": "Alt Character OK"
       },
       {
         "jp_string": "サポートモンスタ ーの説明",
-        "en_string": ""
+        "en_string": "Support Monster Description"
       },
       {
         "jp_string": "シナリオ攻略",
-        "en_string": ""
+        "en_string": "Scenario Capture"
       },
       {
         "jp_string": "シニア",
-        "en_string": ""
+        "en_string": "Senior"
       },
       {
         "jp_string": "ストーリーの報酬",
-        "en_string": ""
+        "en_string": "Story Rewards"
       },
       {
         "jp_string": "タネ屋",
-        "en_string": ""
+        "en_string": "Seed Shop"
       },
       {
         "jp_string": "ダーマの神殿の衣装",
-        "en_string": ""
+        "en_string": "Dharma Outfit"
       },
       {
         "line_break": true,
@@ -307,7 +307,7 @@
       },
       {
         "jp_string": "チームLv",
-        "en_string": ""
+        "en_string": "Team Level"
       },
       {
         "jp_string": "チームクエスト",
@@ -315,35 +315,35 @@
       },
       {
         "jp_string": "チームメンバー",
-        "en_string": ""
+        "en_string": "Team Member"
       },
       {
         "jp_string": "チームレベル順",
-        "en_string": ""
+        "en_string": "Team Level Order"
       },
       {
         "jp_string": "チーム購買部",
-        "en_string": ""
+        "en_string": "Team Shop"
       },
       {
         "jp_string": "ドルボードのカラーを変更。 ※カラーリング用の素材が 　必要となります。",
-        "en_string": ""
+        "en_string": "Change dolboard color. (Coloring materials required.)"
       },
       {
         "jp_string": "ドルボードのフォルムを変更。 ※プリズムをひとつ以上マシンに　取り付ける必要があります。",
-        "en_string": ""
+        "en_string": "Change dolboard form. (One or more prisms are needed.)"
       },
       {
         "jp_string": "ドワーフ",
-        "en_string": ""
+        "en_string": "Dwarf"
       },
       {
         "jp_string": "ハウジング",
-        "en_string": ""
+        "en_string": "Housing"
       },
       {
         "jp_string": "ハウジングショップ",
-        "en_string": ""
+        "en_string": "Housing Shop"
       },
       {
         "jp_string": "バトルの準備の説 明",
@@ -359,19 +359,19 @@
       },
       {
         "jp_string": "プクリポ",
-        "en_string": ""
+        "en_string": "Puklipo"
       },
       {
         "jp_string": "プリズムなし",
-        "en_string": ""
+        "en_string": "No Prism"
       },
       {
         "jp_string": "プレゼント屋",
-        "en_string": ""
+        "en_string": "Present Shop"
       },
       {
         "jp_string": "ボス討伐",
-        "en_string": ""
+        "en_string": "Boss Subj."
       },
       {
         "jp_string": "メニューシーケンス復旧中です。　プランナー原田",
@@ -379,27 +379,27 @@
       },
       {
         "jp_string": "メンバー数順",
-        "en_string": ""
+        "en_string": "By no. of members"
       },
       {
         "jp_string": "モンスター系",
-        "en_string": ""
+        "en_string": "Monster type"
       },
       {
         "jp_string": "ルーラストーン",
-        "en_string": ""
+        "en_string": "Zoomstone"
       },
       {
         "jp_string": "レシピ屋",
-        "en_string": ""
+        "en_string": "Recipe Shop"
       },
       {
         "jp_string": "レベル上げ",
-        "en_string": ""
+        "en_string": "Level Up"
       },
       {
         "jp_string": "人間",
-        "en_string": ""
+        "en_string": "Human"
       },
       {
         "jp_string": "仲間に向けてがんばろうと励ます",
@@ -422,71 +422,71 @@
       },
       {
         "jp_string": "休日メイン",
-        "en_string": ""
+        "en_string": "Main Holiday"
       },
       {
         "jp_string": "住宅商",
-        "en_string": ""
+        "en_string": "Realtor"
       },
       {
         "jp_string": "住宅商の衣装",
-        "en_string": ""
+        "en_string": "Realtor Outfit"
       },
       {
         "jp_string": "便せん",
-        "en_string": ""
+        "en_string": "Paper"
       },
       {
         "jp_string": "便せん屋",
-        "en_string": ""
+        "en_string": "Paper Shop"
       },
       {
         "jp_string": "冒険の記録と ゲームの中断が おこなえます",
-        "en_string": ""
+        "en_string": "Record Adventure and Quit Game"
       },
       {
         "jp_string": "冒険者の酒場",
-        "en_string": ""
+        "en_string": "Adventure Tavern"
       },
       {
         "jp_string": "冒険者の酒場の衣装",
-        "en_string": ""
+        "en_string": "Tavern Outfit"
       },
       {
         "jp_string": "初心者歓迎",
-        "en_string": ""
+        "en_string": "Beginners"
       },
       {
         "jp_string": "売れない",
-        "en_string": ""
+        "en_string": "Can't sell"
       },
       {
         "jp_string": "売店",
-        "en_string": ""
+        "en_string": "Shop"
       },
       {
         "jp_string": "夜",
-        "en_string": ""
+        "en_string": "Eve"
       },
       {
         "jp_string": "女",
-        "en_string": ""
+        "en_string": "F"
       },
       {
         "jp_string": "季節の報酬・春夏",
-        "en_string": ""
+        "en_string": "Seasonal Rewards (Sp/Su)"
       },
       {
         "jp_string": "季節の報酬・秋冬",
-        "en_string": ""
+        "en_string": "Seasonal Rewards (Fa/Wi)"
       },
       {
         "jp_string": "季節イベント",
-        "en_string": ""
+        "en_string": "Seasonal Event"
       },
       {
         "jp_string": "学生",
-        "en_string": ""
+        "en_string": "School"
       },
       {
         "jp_string": "家具",
@@ -534,59 +534,59 @@
       },
       {
         "jp_string": "戦闘メイン",
-        "en_string": ""
+        "en_string": "Main Combat"
       },
       {
         "jp_string": "手持ち装備",
-        "en_string": ""
+        "en_string": "Hand equipment"
       },
       {
         "jp_string": "手紙を選ぶ",
-        "en_string": ""
+        "en_string": "Choose a letter"
       },
       {
         "jp_string": "指定しない",
-        "en_string": ""
+        "en_string": "Not specified"
       },
       {
         "jp_string": "攻略メイン",
-        "en_string": ""
+        "en_string": "Main Strategy"
       },
       {
         "jp_string": "教会",
-        "en_string": ""
+        "en_string": "Church"
       },
       {
         "jp_string": "教会の衣装",
-        "en_string": ""
+        "en_string": "Church Outfit"
       },
       {
         "jp_string": "料理屋",
-        "en_string": ""
+        "en_string": "Eatery"
       },
       {
         "jp_string": "旅のコンシェルジュ",
-        "en_string": ""
+        "en_string": "Travel Concierge"
       },
       {
         "jp_string": "旅コンの衣装",
-        "en_string": ""
+        "en_string": "Concierge Outfit"
       },
       {
         "jp_string": "旅人バザー",
-        "en_string": ""
+        "en_string": "Traveler Bazaar"
       },
       {
         "jp_string": "旅人バザーの衣装",
-        "en_string": ""
+        "en_string": "Traveler Bazaar Outfit"
       },
       {
         "jp_string": "昼",
-        "en_string": ""
+        "en_string": "Day"
       },
       {
         "jp_string": "最近送った人",
-        "en_string": ""
+        "en_string": "Recently Sent"
       },
       {
         "jp_string": "朝",
@@ -594,19 +594,19 @@
       },
       {
         "jp_string": "未実装です。",
-        "en_string": ""
+        "en_string": "Not implemented"
       },
       {
         "jp_string": "植物系",
-        "en_string": ""
+        "en_string": "Plant"
       },
       {
         "jp_string": "武器と盾の店",
-        "en_string": ""
+        "en_string": "Weapon & Shield Shop"
       },
       {
         "jp_string": "武器と防具の店",
-        "en_string": ""
+        "en_string": "Weapon & Armor Shop"
       },
       {
         "jp_string": "武器鍛冶中断・・・・orz<ask>",
@@ -618,15 +618,15 @@
       },
       {
         "jp_string": "毎日プレイ",
-        "en_string": ""
+        "en_string": "Daily Play"
       },
       {
         "jp_string": "水着屋",
-        "en_string": ""
+        "en_string": "Swim Shop"
       },
       {
         "jp_string": "消費アイテム",
-        "en_string": ""
+        "en_string": "Usable Items"
       },
       {
         "jp_string": "熱き戦いの場　コロシアムへ　ようこそ！ こちらは　６人対戦専用受付です。 エントリーされますか？",
@@ -634,11 +634,11 @@
       },
       {
         "jp_string": "特典やプレゼント",
-        "en_string": ""
+        "en_string": "Presents and Benefits"
       },
       {
         "jp_string": "特典屋",
-        "en_string": ""
+        "en_string": "Prize Shop"
       },
       {
         "jp_string": "特等",
@@ -646,7 +646,7 @@
       },
       {
         "jp_string": "特訓",
-        "en_string": ""
+        "en_string": "Sp. Tr."
       },
       {
         "jp_string": "申し訳ございません。 ただいま　エントリーがいっぱいなので、 すこし待ってから　エントリーしてください。",
@@ -658,31 +658,31 @@
       },
       {
         "jp_string": "男",
-        "en_string": ""
+        "en_string": "Man"
       },
       {
         "jp_string": "石系",
-        "en_string": ""
+        "en_string": "Stone"
       },
       {
         "jp_string": "社会人",
-        "en_string": ""
+        "en_string": "Society"
       },
       {
         "jp_string": "素材タネ屋",
-        "en_string": ""
+        "en_string": "Seed Shop"
       },
       {
         "jp_string": "素材タネ屋の衣装",
-        "en_string": ""
+        "en_string": "Seed Shop Outfit"
       },
       {
         "jp_string": "素材屋",
-        "en_string": ""
+        "en_string": "Mat. Shop"
       },
       {
         "jp_string": "素材集め",
-        "en_string": ""
+        "en_string": "Materials"
       },
       {
         "jp_string": "続けて　次の対戦相手と 戦うか　リーダーが決めています。 <break>",
@@ -694,47 +694,47 @@
       },
       {
         "jp_string": "聖守護者の闘戦記の装備",
-        "en_string": ""
+        "en_string": "Battle of Holy Guardian Equipment"
       },
       {
         "jp_string": "職人の装備",
-        "en_string": ""
+        "en_string": "Craftsman Gear"
       },
       {
         "jp_string": "職人メイン",
-        "en_string": ""
+        "en_string": "Main Craftsman"
       },
       {
         "jp_string": "職業の証",
-        "en_string": ""
+        "en_string": "Class Proof"
       },
       {
         "jp_string": "職業専用装備",
-        "en_string": ""
+        "en_string": "Job Only Equipment"
       },
       {
         "jp_string": "荷物を選ぶ",
-        "en_string": ""
+        "en_string": "Choose luggage"
       },
       {
         "jp_string": "討伐隊",
-        "en_string": ""
+        "en_string": "Sub. Corp"
       },
       {
         "jp_string": "説明を聞くの説明",
-        "en_string": ""
+        "en_string": "Listen to explanation"
       },
       {
         "jp_string": "誰でも",
-        "en_string": ""
+        "en_string": "Anyone"
       },
       {
         "jp_string": "誰と対戦する？",
-        "en_string": ""
+        "en_string": "Play against whom?"
       },
       {
         "jp_string": "転職神官",
-        "en_string": ""
+        "en_string": "Job Priest"
       },
       {
         "jp_string": "連戦モードは未実装です。 エントランスに戻ります。",
@@ -742,47 +742,47 @@
       },
       {
         "jp_string": "道具屋",
-        "en_string": ""
+        "en_string": "Item Shop"
       },
       {
         "jp_string": "郵便局",
-        "en_string": ""
+        "en_string": "P. Office"
       },
       {
         "jp_string": "郵便局の衣装",
-        "en_string": ""
+        "en_string": "Post Office Outfit"
       },
       {
         "jp_string": "釣りの褒美",
-        "en_string": ""
+        "en_string": "Fishing Reward"
       },
       {
         "jp_string": "錬金釜のカラーを変更。 ※カラーリング用の素材と 　料金が必要となります。",
-        "en_string": ""
+        "en_string": "Change alchemy pot color. (Coloring materials/fees required.)"
       },
       {
         "jp_string": "錬金釜のフォルムを変更。 ※プリズムをひとつ以上錬金釜に　取り付ける必要があります。",
-        "en_string": ""
+        "en_string": "Change alchemy pot form. (One or more prisms must be attached.)"
       },
       {
         "jp_string": "防具屋",
-        "en_string": ""
+        "en_string": "Gear Shop"
       },
       {
         "jp_string": "雑談メイン",
-        "en_string": ""
+        "en_string": "Main Chat"
       },
       {
         "jp_string": "雑談好き",
-        "en_string": ""
+        "en_string": "Like to chat"
       },
       {
         "jp_string": "預かり所",
-        "en_string": ""
+        "en_string": "Outfit"
       },
       {
         "jp_string": "預かり所の衣装魔法の迷宮",
-        "en_string": ""
+        "en_string": "Magic Labyrinth Outfit"
       },
       {
         "jp_string": "（仮MES） エントランスへジャンプします",
