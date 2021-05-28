@@ -1,0 +1,404 @@
+﻿[
+  {
+    "hex_start": "54 45 58 54 10 00 00 00 00 0C 00 00 00 00 00 00 00 00",
+    "skip_first_foot": true,
+    "strings": [
+      {
+        "jp_string": "5000年の旅路　遥かなる故郷へ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いにしえの竜の伝承",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いにしえの竜の伝承のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "いばらの巫女と滅びの神",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うつろなる花のゆりかご",
+        "en_string": ""
+      },
+      {
+        "jp_string": "うつろなる花のゆりかごのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アズランのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アズランの話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アラハギーロのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "アラハギーロの話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "エテーネの村のおはなし",
+        "en_string": "Story of the Village of Ethene"
+      },
+      {
+        "jp_string": "エテーネの村の話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オルフェアのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "オルフェアの話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カミハルムイのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "カミハルムイの話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガタラのおはなし",
+        "en_string": "The Story of Gatara"
+      },
+      {
+        "jp_string": "ガタラの話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ガートラントのおはなし",
+        "en_string": "The Story of Gartland"
+      },
+      {
+        "jp_string": "ガートラントの話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グランゼドーラのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グランゼドーラの話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "グレンのおはなし",
+        "en_string": "The Story of Glenn"
+      },
+      {
+        "jp_string": "グレンの話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴーラ領",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゴーラ領のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジャディンの園",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジャディンの園のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジュレットのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ジュレットの話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "セレドのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "セレドの話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゼクレス魔導国",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゼクレス魔導国のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゼクレス魔導国復興",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ゼクレス魔導国復興のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ドルワームのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ドルワームの話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ナドラガンドの決戦",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ナドラガンドの決戦のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "バルディスタ要塞",
+        "en_string": ""
+      },
+      {
+        "jp_string": "バルディスタ要塞のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "バルディスタ要塞復興",
+        "en_string": ""
+      },
+      {
+        "jp_string": "バルディスタ要塞復興のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ホーローとの出会い後のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ホーローとの出会い後の話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "メギストリスのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "メギストリスの話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "メルサンディのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "メルサンディの話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "レンダーシアのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "レンダーシアの話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ヴェリナードのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "ヴェリナードの話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "出身村のおはなし",
+        "en_string": "Story of My Home Village"
+      },
+      {
+        "jp_string": "出身村の話",
+        "en_string": ""
+      },
+      {
+        "jp_string": "勇者復活",
+        "en_string": ""
+      },
+      {
+        "jp_string": "勇者復活のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "天翔ける希望の双翼",
+        "en_string": ""
+      },
+      {
+        "jp_string": "天翔ける希望の双翼のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "嵐穿つ断罪の虚空",
+        "en_string": ""
+      },
+      {
+        "jp_string": "嵐穿つ断罪の虚空のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "悠久の果ての決戦",
+        "en_string": ""
+      },
+      {
+        "jp_string": "悠久の果ての決戦のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "新たなる旅立ち",
+        "en_string": ""
+      },
+      {
+        "jp_string": "新たなる旅立ちのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "栄光の勇者と消されし盟友",
+        "en_string": ""
+      },
+      {
+        "jp_string": "栄光の勇者と消されし盟友のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "氷雪と恵みの彼方へ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "氷雪と恵みの彼方へのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "王の戴冠",
+        "en_string": ""
+      },
+      {
+        "jp_string": "王の戴冠のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "目覚めし五つの種族",
+        "en_string": "Awakening of the 5 Tribes"
+      },
+      {
+        "jp_string": "真実は蒼き水の深淵に",
+        "en_string": ""
+      },
+      {
+        "jp_string": "真実は蒼き水の深淵にのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "眠れる勇者と導きの盟友",
+        "en_string": "Sleeping Hero and Their Ally"
+      },
+      {
+        "jp_string": "砂の都ファラザード",
+        "en_string": ""
+      },
+      {
+        "jp_string": "砂の都ファラザードのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "砂上の魔神帝国",
+        "en_string": ""
+      },
+      {
+        "jp_string": "砂上の魔神帝国のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "神の覚醒",
+        "en_string": ""
+      },
+      {
+        "jp_string": "神の覚醒のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "紡がれし勇気の絆",
+        "en_string": ""
+      },
+      {
+        "jp_string": "紡がれし勇気の絆のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "聖炎の解放者",
+        "en_string": ""
+      },
+      {
+        "jp_string": "聖炎の解放者のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "赤き大地の双王子",
+        "en_string": ""
+      },
+      {
+        "jp_string": "赤き大地の双王子のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "遥かなる故郷へ",
+        "en_string": ""
+      },
+      {
+        "jp_string": "遥かなる故郷へのおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "遥かなる未来への旅路",
+        "en_string": ""
+      },
+      {
+        "jp_string": "遥かなる未来への旅路のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "重なりし運命の大地",
+        "en_string": ""
+      },
+      {
+        "jp_string": "重なりし運命の大地のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "闇の根源闇の根源のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "闇を抱く月光の楽園",
+        "en_string": ""
+      },
+      {
+        "jp_string": "闇を抱く月光の楽園のおはなし",
+        "en_string": ""
+      },
+      {
+        "jp_string": "魔界大戦",
+        "en_string": ""
+      },
+      {
+        "jp_string": "魔界大戦のおはなし",
+        "en_string": ""
+      }
+    ]
+  }
+]

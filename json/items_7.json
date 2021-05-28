@@ -1444,11 +1444,11 @@
       },
       {
         "jp_string": "扇",
-        "en_string": ""
+        "en_string": "Fan"
       },
       {
         "jp_string": "扇(片手)",
-        "en_string": ""
+        "en_string": "Fan"
       },
       {
         "jp_string": "扇風機のレシピ",
@@ -2272,11 +2272,11 @@
       },
       {
         "jp_string": "棍",
-        "en_string": ""
+        "en_string": "Stf"
       },
       {
         "jp_string": "棍(両手)",
-        "en_string": ""
+        "en_string": "Staff"
       },
       {
         "jp_string": "森人のてぶくろ",
@@ -2876,7 +2876,7 @@
       },
       {
         "jp_string": "片手剣",
-        "en_string": ""
+        "en_string": "1H Sword"
       },
       {
         "jp_string": "片羽根ピアス",
@@ -3560,7 +3560,7 @@
       },
       {
         "jp_string": "盾",
-        "en_string": ""
+        "en_string": "Shd"
       },
       {
         "jp_string": "真・暗殺武器の歴史",
@@ -3588,7 +3588,7 @@
       },
       {
         "jp_string": "短剣(片手)",
-        "en_string": ""
+        "en_string": "Dagger"
       },
       {
         "jp_string": "石だたみ柄のラグ",

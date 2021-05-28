@@ -6428,8 +6428,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "銅で作られた ありきたりな剣",
-        "en_string": ""
+        "en_string": "Plain old|sword made of|copper."
       },
       {
         "jp_string": "銅で作られた 小さなナイフ",

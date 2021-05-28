@@ -38,8 +38,15 @@ FileRead, jsonData, %1%
 data := JSON.Load(jsonData)
 textHex := dqx.hexStringToPattern(data.1.hex_start)  ;; Start of TEXT block
 footAOB := [0, 0, 0, 0, 70, 79, 79, 84]  ;; End of TEXT block (FOOT)
+skipFirstFoot := data.1.skip_first_foot
 
 startAddr := dqx.processPatternScan(,,textHex*)
+
+;; Have found a few identical TEXT blocks that I have to filter out by skipping
+;; to the next result. 
+if (skipFirstFoot != "")
+  startAddr := dqx.processPatternScan(startAddr + 1,,textHex*)
+
 endAddr := dqx.processPatternScan(startAddr,, footAOB*)
 
 ;; Iterate over all json objects in strings[]
@@ -50,14 +57,14 @@ for i, obj in data.1.strings
     Continue
 
   ;; Convert utf-8 strings to hex
-  jp := 00 . convertStrToHex(obj.jp_string) . 00
+  jp := 00 . convertStrToHex(obj.jp_string)
   jp := RegExReplace(jp, "\r\n", "")
   jp_raw := obj.jp_string
   jp_len := StrLen(jp)
 
   ;; For other languages, we want to make the length of our JP hex
   ;; string the same as what we're inputting.
-  en := 00 . convertStrToHex(obj.en_string) . 00
+  en := 00 . convertStrToHex(obj.en_string)
   en := RegExReplace(en, "\r\n", "")
   en_raw := obj.en_string
   en_len := StrLen(en)
@@ -76,16 +83,6 @@ for i, obj in data.1.strings
       ExitApp
     }
 
-    ;; Remove the last 00 we added earlier as we aren't ready
-    ;; to 'terminate' the string yet. 
-    en := SubStr(en, 1, (en_len - 2))
-    Loop
-    {
-      en .= 00
-      new_len := StrLen(en)
-    }
-    Until ((jp_len - new_len) == 0)
-
     ;; Some sentences can scale multiple lines, so instead of a null terminator,
     ;; we want to replace the spaces with the line break code '0a'. 
     if (line_break != "")
@@ -93,6 +90,19 @@ for i, obj in data.1.strings
       jp := StrReplace(jp, "20", "0a")
       en := StrReplace(en, "7c", "0a")
     }
+
+    ;; Add null term to end of jp string
+    jp .= 00
+
+    ;; Add null terms until the length of the en string
+    ;; matches the jp string.
+    Loop
+    {
+      en .= 00
+      new_len := StrLen(en)
+    }
+    Until ((jp_len - new_len) == 0)
   }
+
   memWrite(jp, en, jp_raw, en_raw, startAddr, endAddr)
 }

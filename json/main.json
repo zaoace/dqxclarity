@@ -84,7 +84,7 @@
       },
       {
         "jp_string": "(マイコーデ<%nM_00>)<%sM_kabuse>",
-        "en_string": "(My Codes <%nM_00>)<%sM_kabuse>"
+        "en_string": "(Glamour <%nM_00>)<%sM_kabuse>"
       },
       {
         "jp_string": "(モン)",
@@ -2032,7 +2032,7 @@
       },
       {
         "jp_string": "[種別順]",
-        "en_string": ""
+        "en_string": "[Type]"
       },
       {
         "jp_string": "[討伐数順]",
@@ -2604,7 +2604,7 @@
       },
       {
         "jp_string": "あと",
-        "en_string": ""
+        "en_string": "After"
       },
       {
         "jp_string": "あと <%02dM_hh>時間<%02dM_mm>分",
@@ -3400,7 +3400,7 @@
       },
       {
         "jp_string": "お話の行き先非表示へ",
-        "en_string": ""
+        "en_string": "Hide Story Destination"
       },
       {
         "jp_string": "お返事いりません",
@@ -3576,7 +3576,7 @@
       },
       {
         "jp_string": "かさ",
-        "en_string": ""
+        "en_string": "Umbrl."
       },
       {
         "jp_string": "かざりつける",
@@ -3632,7 +3632,7 @@
       },
       {
         "jp_string": "からだ上",
-        "en_string": ""
+        "en_string": "Chest"
       },
       {
         "jp_string": "からだ上の防具",
@@ -3644,7 +3644,7 @@
       },
       {
         "jp_string": "からだ下",
-        "en_string": ""
+        "en_string": "Pants"
       },
       {
         "jp_string": "からだ下の防具",
@@ -3688,7 +3688,7 @@
       },
       {
         "jp_string": "きほん",
-        "en_string": ""
+        "en_string": "Base"
       },
       {
         "jp_string": "きょうかおねがい",
@@ -3816,11 +3816,11 @@
       },
       {
         "jp_string": "こうげき力右",
-        "en_string": ""
+        "en_string": "Attack"
       },
       {
         "jp_string": "こうげき力左",
-        "en_string": ""
+        "en_string": "L. Attack"
       },
       {
         "jp_string": "こうげき魔力",
@@ -3988,7 +3988,7 @@
       },
       {
         "jp_string": "これまでのおはなし",
-        "en_string": "Story so far"
+        "en_string": "Story So Far"
       },
       {
         "jp_string": "これまでのおはなしを開きます",
@@ -4304,7 +4304,7 @@
       },
       {
         "jp_string": "しゅび力",
-        "en_string": ""
+        "en_string": "Defense"
       },
       {
         "jp_string": "しゅるい",
@@ -4336,7 +4336,7 @@
       },
       {
         "jp_string": "じゅもんは　覚えていません",
-        "en_string": ""
+        "en_string": "I don't know any spells."
       },
       {
         "jp_string": "じゅもん未入力",
@@ -4356,7 +4356,7 @@
       },
       {
         "jp_string": "すいてる",
-        "en_string": ""
+        "en_string": "Low"
       },
       {
         "jp_string": "すがた",
@@ -4416,7 +4416,7 @@
       },
       {
         "jp_string": "すべて",
-        "en_string": ""
+        "en_string": "All"
       },
       {
         "jp_string": "すべてのスキル をリセットした！",
@@ -4560,11 +4560,11 @@
       },
       {
         "jp_string": "そうび(表示)",
-        "en_string": ""
+        "en_string": "Display"
       },
       {
         "jp_string": "そうび(非表示)",
-        "en_string": ""
+        "en_string": "Hide"
       },
       {
         "jp_string": "そうび(顔コーデ)",
@@ -4720,7 +4720,7 @@
       },
       {
         "jp_string": "その他のアクセ",
-        "en_string": ""
+        "en_string": "Other"
       },
       {
         "jp_string": "その他の場所",
@@ -5640,7 +5640,7 @@
       },
       {
         "jp_string": "はずす",
-        "en_string": ""
+        "en_string": "Remove"
       },
       {
         "jp_string": "はちゃめちゃ妨害型",
@@ -5876,7 +5876,7 @@
       },
       {
         "jp_string": "ふつうに着る",
-        "en_string": ""
+        "en_string": "Casual Wear"
       },
       {
         "jp_string": "ふつうの立ちかた",
@@ -6084,7 +6084,7 @@
       },
       {
         "jp_string": "みぎて",
-        "en_string": ""
+        "en_string": "R. Hand"
       },
       {
         "jp_string": "みせる",
@@ -6188,7 +6188,7 @@
       },
       {
         "jp_string": "もっと見る",
-        "en_string": ""
+        "en_string": "See More"
       },
       {
         "jp_string": "もっと見るの説明(問題行為～)（仮メッセージ）",
@@ -6212,7 +6212,7 @@
       },
       {
         "jp_string": "もどる",
-        "en_string": ""
+        "en_string": "Return"
       },
       {
         "jp_string": "もどるスキルポイント",
@@ -6512,7 +6512,7 @@
       },
       {
         "jp_string": "アイテムの歴史",
-        "en_string": ""
+        "en_string": "Item History"
       },
       {
         "jp_string": "アイテムの歴史はありません",
@@ -6520,7 +6520,7 @@
       },
       {
         "jp_string": "アイテムの歴史を見る",
-        "en_string": ""
+        "en_string": "See Item History"
       },
       {
         "jp_string": "アイテムを使う",
@@ -6680,7 +6680,7 @@
       },
       {
         "jp_string": "アタマ",
-        "en_string": ""
+        "en_string": "Head"
       },
       {
         "jp_string": "アタマからだ上",
@@ -6860,7 +6860,7 @@
       },
       {
         "jp_string": "ウデ",
-        "en_string": ""
+        "en_string": "Glove"
       },
       {
         "jp_string": "ウデの防具",
@@ -8564,7 +8564,7 @@
       },
       {
         "jp_string": "スキル",
-        "en_string": " Skill"
+        "en_string": "Skill"
       },
       {
         "jp_string": "スキルきりかえ",
@@ -8756,7 +8756,7 @@
       },
       {
         "jp_string": "スティック",
-        "en_string": "Wand"
+        "en_string": "1H Wand"
       },
       {
         "jp_string": "ステータス",
@@ -8972,7 +8972,7 @@
       },
       {
         "jp_string": "セット",
-        "en_string": ""
+        "en_string": "Set"
       },
       {
         "jp_string": "セットしたカラーとツヤを元に戻す",
@@ -9012,11 +9012,11 @@
       },
       {
         "jp_string": "セット効果",
-        "en_string": ""
+        "en_string": "Set Effects"
       },
       {
         "jp_string": "セット効果はありません",
-        "en_string": ""
+        "en_string": "No Set Effects"
       },
       {
         "jp_string": "セット可能",
@@ -9032,15 +9032,15 @@
       },
       {
         "jp_string": "セット装備",
-        "en_string": ""
+        "en_string": "Set Equip"
       },
       {
         "jp_string": "セット装備はありません",
-        "en_string": ""
+        "en_string": "No Set Equipment"
       },
       {
         "jp_string": "セット装備を見る",
-        "en_string": ""
+        "en_string": "See Set Equipment"
       },
       {
         "jp_string": "セット順",
@@ -9168,7 +9168,7 @@
       },
       {
         "jp_string": "タネ",
-        "en_string": ""
+        "en_string": "Seed"
       },
       {
         "jp_string": "タブきりかえ",
@@ -10496,7 +10496,7 @@
       },
       {
         "jp_string": "パラメータしょうさい",
-        "en_string": ""
+        "en_string": "Registered Attr."
       },
       {
         "jp_string": "パラメータとじゅもん・とくぎ",
@@ -10504,7 +10504,7 @@
       },
       {
         "jp_string": "パラメータとそうび",
-        "en_string": ""
+        "en_string": "Attr. and Equip"
       },
       {
         "jp_string": "パラメーター",
@@ -10516,7 +10516,7 @@
       },
       {
         "jp_string": "パラメータ変化を見る",
-        "en_string": ""
+        "en_string": "View Attribute Changes"
       },
       {
         "jp_string": "パラメータ強化",
@@ -11276,7 +11276,7 @@
       },
       {
         "jp_string": "マイコーデへ",
-        "en_string": ""
+        "en_string": "Glamour"
       },
       {
         "jp_string": "マイコーデをぬぐ",
@@ -11288,7 +11288,7 @@
       },
       {
         "jp_string": "マイコーデを登録する",
-        "en_string": ""
+        "en_string": "Register Glamour"
       },
       {
         "jp_string": "マイコーデを着る",
@@ -11300,7 +11300,7 @@
       },
       {
         "jp_string": "マイコーデメニュー",
-        "en_string": ""
+        "en_string": "Glamour Menu"
       },
       {
         "jp_string": "マイコーデ内容",
@@ -11564,7 +11564,7 @@
       },
       {
         "jp_string": "メニュー表示",
-        "en_string": ""
+        "en_string": "Menu Display"
       },
       {
         "jp_string": "メモする",
@@ -11572,7 +11572,7 @@
       },
       {
         "jp_string": "メモをする",
-        "en_string": ""
+        "en_string": "Make Note"
       },
       {
         "jp_string": "メラやヒャドなど",
@@ -11836,7 +11836,7 @@
       },
       {
         "jp_string": "ユニフォームをぬぐ",
-        "en_string": ""
+        "en_string": "Take Off"
       },
       {
         "jp_string": "ユニフォームを着る",
@@ -12292,7 +12292,7 @@
       },
       {
         "jp_string": "レベル順に",
-        "en_string": ""
+        "en_string": "By Level"
       },
       {
         "jp_string": "レベル０に",
@@ -12464,7 +12464,7 @@
       },
       {
         "jp_string": "ロック",
-        "en_string": ""
+        "en_string": "Lock"
       },
       {
         "jp_string": "ロックしない",
@@ -12820,7 +12820,7 @@
       },
       {
         "jp_string": "並び順をかえる",
-        "en_string": ""
+        "en_string": "Sort Order"
       },
       {
         "jp_string": "並べ替え設定",
@@ -13208,7 +13208,7 @@
       },
       {
         "jp_string": "他アクセ",
-        "en_string": ""
+        "en_string": "Other Acc."
       },
       {
         "jp_string": "他プレイヤーとのトラブル",
@@ -13536,7 +13536,7 @@
       },
       {
         "jp_string": "使い込み・店売り不可",
-        "en_string": ""
+        "en_string": "Can't sell to stores"
       },
       {
         "jp_string": "使い込み度",
@@ -14348,7 +14348,7 @@
       },
       {
         "jp_string": "分",
-        "en_string": ""
+        "en_string": "M"
       },
       {
         "jp_string": "分未満",
@@ -14948,7 +14948,7 @@
       },
       {
         "jp_string": "取り引き不可",
-        "en_string": ""
+        "en_string": "Can't trade"
       },
       {
         "jp_string": "取り引き優先に",
@@ -15068,7 +15068,7 @@
       },
       {
         "jp_string": "右",
-        "en_string": ""
+        "en_string": "R."
       },
       {
         "jp_string": "右の台",
@@ -15112,7 +15112,7 @@
       },
       {
         "jp_string": "合成エナジー",
-        "en_string": ""
+        "en_string": "Synth. Energy"
       },
       {
         "jp_string": "合成ポイント",
@@ -15456,7 +15456,7 @@
       },
       {
         "jp_string": "地図を見る",
-        "en_string": ""
+        "en_string": "View Map"
       },
       {
         "jp_string": "地域",
@@ -15812,7 +15812,7 @@
       },
       {
         "jp_string": "契約時間",
-        "en_string": ""
+        "en_string": "Time Left"
       },
       {
         "jp_string": "契約統計",
@@ -16472,7 +16472,7 @@
       },
       {
         "jp_string": "左",
-        "en_string": ""
+        "en_string": "L."
       },
       {
         "jp_string": "左の台",
@@ -16584,7 +16584,7 @@
       },
       {
         "jp_string": "店売り不可",
-        "en_string": ""
+        "en_string": "Can't sell"
       },
       {
         "jp_string": "座っている人",
@@ -17350,11 +17350,11 @@
       },
       {
         "jp_string": "指アクセ",
-        "en_string": ""
+        "en_string": "Ring Acc."
       },
       {
         "jp_string": "指アクセサリー",
-        "en_string": ""
+        "en_string": "Ring"
       },
       {
         "jp_string": "指定した冒険者を確認",
@@ -17770,7 +17770,7 @@
       },
       {
         "jp_string": "時間",
-        "en_string": ""
+        "en_string": "H"
       },
       {
         "jp_string": "時間の流れ",
@@ -18182,7 +18182,7 @@
       },
       {
         "jp_string": "札アクセ",
-        "en_string": ""
+        "en_string": "Tag Acc."
       },
       {
         "jp_string": "札アクセサリー",
@@ -18518,7 +18518,7 @@
       },
       {
         "jp_string": "武器・盾",
-        "en_string": ""
+        "en_string": "Wep/Shields"
       },
       {
         "jp_string": "武器万象の間",
@@ -19622,7 +19622,7 @@
       },
       {
         "jp_string": "盾",
-        "en_string": ""
+        "en_string": "Shd"
       },
       {
         "jp_string": "盾をかえる",
@@ -19678,7 +19678,7 @@
       },
       {
         "jp_string": "知り合い",
-        "en_string": ""
+        "en_string": "Friends"
       },
       {
         "jp_string": "知り合いを探す",
@@ -19874,11 +19874,11 @@
       },
       {
         "jp_string": "種別で絞り込む",
-        "en_string": ""
+        "en_string": "Sort by Type"
       },
       {
         "jp_string": "種別順",
-        "en_string": ""
+        "en_string": "Type"
       },
       {
         "jp_string": "種別順で並べなおす",
@@ -19886,7 +19886,7 @@
       },
       {
         "jp_string": "種別順に",
-        "en_string": "Reorder"
+        "en_string": "Auto Sort"
       },
       {
         "jp_string": "種族",
@@ -20570,7 +20570,7 @@
       },
       {
         "jp_string": "紋章",
-        "en_string": ""
+        "en_string": "Crest"
       },
       {
         "jp_string": "納品する",
@@ -20806,7 +20806,7 @@
       },
       {
         "jp_string": "耐性しょうさい",
-        "en_string": ""
+        "en_string": "Resistances"
       },
       {
         "jp_string": "耐性アップ",
@@ -20910,15 +20910,15 @@
       },
       {
         "jp_string": "職業で絞り込む",
-        "en_string": ""
+        "en_string": "Sort by Job"
       },
       {
         "jp_string": "職業とは",
-        "en_string": ""
+        "en_string": "Sort by Type"
       },
       {
         "jp_string": "職業の証",
-        "en_string": ""
+        "en_string": "Class Proof"
       },
       {
         "jp_string": "職業ふり直し",
@@ -20946,7 +20946,7 @@
       },
       {
         "jp_string": "職業レベル",
-        "en_string": ""
+        "en_string": "Job Level"
       },
       {
         "jp_string": "職業別",
@@ -20970,7 +20970,7 @@
       },
       {
         "jp_string": "職業選択",
-        "en_string": ""
+        "en_string": "Jobs"
       },
       {
         "jp_string": "職業重複なし",
@@ -21010,7 +21010,7 @@
       },
       {
         "jp_string": "胸アクセ",
-        "en_string": ""
+        "en_string": "Chest Acc."
       },
       {
         "jp_string": "胸アクセサリー",
@@ -21018,7 +21018,7 @@
       },
       {
         "jp_string": "腰アクセ",
-        "en_string": ""
+        "en_string": "Wrist Acc."
       },
       {
         "jp_string": "腰アクセサリー",
@@ -21422,7 +21422,7 @@
       },
       {
         "jp_string": "表示メニュー",
-        "en_string": ""
+        "en_string": "Display"
       },
       {
         "jp_string": "表示設定",
@@ -21446,7 +21446,7 @@
       },
       {
         "jp_string": "装備できない",
-        "en_string": ""
+        "en_string": "Can't Equip"
       },
       {
         "jp_string": "装備できる",
@@ -21454,7 +21454,7 @@
       },
       {
         "jp_string": "装備できる仲間モンスター",
-        "en_string": ""
+        "en_string": "Monsters that can equip"
       },
       {
         "jp_string": "装備できる仲間モンスターはいません",
@@ -21462,7 +21462,7 @@
       },
       {
         "jp_string": "装備できる仲間モンスターを見る",
-        "en_string": ""
+        "en_string": "Show Which Monsters Can Equip"
       },
       {
         "jp_string": "装備の内容",
@@ -21702,7 +21702,7 @@
       },
       {
         "jp_string": "見た目装備情報",
-        "en_string": ""
+        "en_string": "Equip Info."
       },
       {
         "jp_string": "見た目設定",
@@ -22214,7 +22214,7 @@
       },
       {
         "jp_string": "足",
-        "en_string": ""
+        "en_string": "Toe"
       },
       {
         "jp_string": "足の防具",
@@ -22371,7 +22371,7 @@
       {
         "line_break": true,
         "jp_string": "追加効果を見る",
-        "en_string": "Additional|effects"
+        "en_string": "Add. Effects"
       },
       {
         "jp_string": "追加部屋に移動",
@@ -22535,7 +22535,7 @@
       },
       {
         "jp_string": "通常そうび情報",
-        "en_string": ""
+        "en_string": "Normal Equip."
       },
       {
         "jp_string": "通常の値段より",
@@ -23091,11 +23091,11 @@
       },
       {
         "jp_string": "配置変更モードへ",
-        "en_string": ""
+        "en_string": "Change Mode"
       },
       {
         "jp_string": "配置変更モード終了",
-        "en_string": ""
+        "en_string": "Exit Mode"
       },
       {
         "jp_string": "配置数<%nM_syozisuu>こ",
@@ -23415,7 +23415,7 @@
       },
       {
         "jp_string": "錬金強化を見る",
-        "en_string": ""
+        "en_string": "Alchemy Effects"
       },
       {
         "jp_string": "錬金強化屋での強化に必要な最大素材数",
@@ -23919,7 +23919,7 @@
       },
       {
         "jp_string": "頭表示なしで着る",
-        "en_string": ""
+        "en_string": "Wear Without Head"
       },
       {
         "jp_string": "頭表示切り替え",
@@ -23935,7 +23935,7 @@
       },
       {
         "jp_string": "顔アクセ",
-        "en_string": ""
+        "en_string": "Face Acc."
       },
       {
         "jp_string": "顔アクセサリー",
@@ -24019,7 +24019,7 @@
       },
       {
         "jp_string": "首アクセ",
-        "en_string": ""
+        "en_string": "Neck Acc."
       },
       {
         "jp_string": "首アクセサリー",
