@@ -10,21 +10,21 @@ Translates the command menu and other misc. text into English for the popular ga
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 **The way this is being done is not currently very efficient and can be slow to run each time. This is a work in progress of a few days worth of work that I wanted to get out there and share for those that may be considering giving Dragon Quest X a shot.**
 
-In action: https://imgur.com/ne10wiG
+In action:
+
+https://user-images.githubusercontent.com/17505625/120054067-5e995f80-bff3-11eb-9bc6-77595985eb10.mp4
 
 ## How to use
 
-Download the latest version of `dqxclarity` from the [releases](https://github.com/jmctune/dqxclarity/releases) section. Open a fresh instance of Dragon Quest X and run `dqxclarity.exe`. A window will open notifying you of what it's doing. On most machines, it seems to take anywhere between 50-120 seconds to run. In its current state, this number will only increase as more text is added, but tuning this number down is being investigated.
+Download the latest version of `dqxclarity` from the [releases](https://github.com/jmctune/dqxclarity/releases) section. Open a fresh instance of Dragon Quest X and run `dqxclarity.exe` (don't run `run_json.exe` directly). You will be asked how many files you want to simultaenously translate. This option exists for people with slower computers. 10 is the default and is fine. Faster numbers will translate faster, but will likely spike your CPU to 100%. On most machines, it seems to take anywhere between 30-90 seconds to run. In its current state, this number will only increase as more text is added, but tuning this number down is being investigated.
 
-**Ensure you only run dqxclarity one time per game session. Running more than once will not hurt, but will not do you any good either.**
+**You really only need to run dqxclarity one time per game session. Running more than once will not hurt, but will not do you any good either (unless you're testing translations)**
 
-**You might see untranslated menu items when running from time to time. Yes, it's buggy and yes, I'm aware. Be thrilled it's in the state it's in now -- it will eventually get fixed.**
-
-You'll probably see `problem.txt`, `address.txt` and `times.txt` pop up in that folder. Ignore them. Debug logs. If I ask for them, there they are.
+**You might see untranslated menus when running from time to time. Yes, it's buggy and yes, I'm aware. Be thrilled it's in the state it's in now -- it will eventually get fixed.**
 
 ## How it works
 
-In the `json` folder is a structure of Japanese and English translated text. The Japanese text is convered from a utf-8 string to hex, then searched for in the active process's memory. When found, it replaces the hex values with its English equivalent.
+In the `json` folder is a structure of Japanese and English translated text. The Japanese text is converted from a utf-8 string to hex, then searched for in the active process's memory. When found, it replaces the hex values with its English equivalent.
 
 As an example, with a structure like the following:
 
@@ -39,16 +39,13 @@ As an example, with a structure like the following:
 
 `jp_string` is converted to a utf-8 hex string with the `convertStrToHex()` function, as well as the `en_string` value.
 
-Strings are prepended and appended with `00` (null terminators) as this seems to be a reliable way to find the menu items.
+Strings are prepended and appended with `00` (null terminators) as this begins and completes the string.
 
-There are a few different json keys that can change the behavior of how the script operates. As every string isn't created equally in memory, sometimes you need to alter its behavior. The following flags are also applicable:
+There are a few different json keys in `strings[]` that can change the behavior of how the script operates. As every string isn't created equally in memory, sometimes you need to alter its behavior. The following flags are also applicable:
 
-`ignore_first_term`: Boolean. Don't add the first null terminator to the hex'd value.<br>
-`ignore_last_term`: Boolean. Don't add the last null terminator to the hex'd value.<br>
 `line_break`: In `jp_string`, replace spaces with `0a` (line break). In `en_string`, replace "|" characters with `0a`. This is typically used for menu descriptions.<br>
-`loop_count`: Integer. If there is more than one match (you can verify with CE), you will want to iterate over all of the results to replace all instances of that match. By default, it only finds the first match and moves on, but a `loop_count` of 2 would find the first match, then continue scanning from the last found memory address + 1.<br>
 
-All of the above flags are optional, but `jp_string` and `en_string` are mandatory.
+The above flags are situational, but `jp_string` and `en_string` are always mandatory.
 
 ## How to contribute
 
@@ -75,12 +72,3 @@ In-game, "フレンドや", "チームメンバーに", and "かきおきを書�
 The format should match what the rest of the files look like. Pay attention to spaces (no tabs) and keep everything indented the same (two spaces per indent).
 
 Preferably, you would fork this repo and submit a pull request, but if you're unfamiliar with git, you can provide your json changes to the #clarity-discussion channel and get them merged.
-
-These are the things that are known to work and need translating:
-
-- All class talent trees (just the actual skill/spell name). Categories and skill/spell descriptions will not currently work with dqxclarity
-- Command menu items (Mostly things in Misc and Beastiary)
-- Command menu descriptions
-- Any untranslated items in the battle menus
-
-If it's not on this list, don't worry about it as dqxclarity probably can't consistently change it.
