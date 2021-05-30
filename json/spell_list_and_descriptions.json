@@ -44,7 +44,7 @@
       },
       {
         "jp_string": "おたからさがし",
-        "en_string": ""
+        "en_string": "Nose for Treasure"
       },
       {
         "jp_string": "おたけび",
@@ -52,7 +52,7 @@
       },
       {
         "jp_string": "おはらい",
-        "en_string": ""
+        "en_string": "Benediction"
       },
       {
         "jp_string": "お宝ハンター",
@@ -116,7 +116,7 @@
       },
       {
         "jp_string": "かわいがる",
-        "en_string": ""
+        "en_string": "Pet Monster"
       },
       {
         "jp_string": "きまぐれ",
@@ -464,7 +464,7 @@
       },
       {
         "jp_string": "ぬすむ",
-        "en_string": "Steal"
+        "en_string": "Half-Inch"
       },
       {
         "jp_string": "ぬすむで アイテムをぬすむ 成功率が増える",
@@ -1460,7 +1460,7 @@
       },
       {
         "jp_string": "バナナトラップ",
-        "en_string": "Banana Trap"
+        "en_string": "Banana Time"
       },
       {
         "jp_string": "バードシュート",
@@ -1584,7 +1584,7 @@
       },
       {
         "jp_string": "ブレスクラッシュ",
-        "en_string": "Breath Crash"
+        "en_string": "Breath Breaker"
       },
       {
         "jp_string": "ブレードガード",
@@ -1680,7 +1680,7 @@
       },
       {
         "jp_string": "ボケ",
-        "en_string": "Prat"
+        "en_string": "Fool"
       },
       {
         "jp_string": "ボケたおして 周囲の敵を わらわせる",
@@ -1776,7 +1776,7 @@
       },
       {
         "jp_string": "マホトラのころも",
-        "en_string": "Fizzle Outfit"
+        "en_string": "Magic Outfit"
       },
       {
         "jp_string": "マホトーン",
@@ -1856,7 +1856,7 @@
       },
       {
         "jp_string": "メガボンバー",
-        "en_string": "Mega Bomber"
+        "en_string": "Mega Bomb"
       },
       {
         "jp_string": "メタルウィング",
@@ -2764,7 +2764,7 @@
       },
       {
         "jp_string": "天使の守り",
-        "en_string": ""
+        "en_string": "Holy Shield"
       },
       {
         "jp_string": "天使の矢",
@@ -2848,7 +2848,7 @@
       },
       {
         "jp_string": "常時呪文暴走率+2%",
-        "en_string": ""
+        "en_string": "Critical Spell Rate+2%"
       },
       {
         "jp_string": "弓のこうげきが さらに遠くから 当たるようになる",
@@ -3869,11 +3869,11 @@
       },
       {
         "jp_string": "聖なる祈り",
-        "en_string": ""
+        "en_string": "Care Prayer"
       },
       {
         "jp_string": "聖女の守り",
-        "en_string": ""
+        "en_string": "Alma Mater"
       },
       {
         "jp_string": "聖者の詩",
@@ -4302,7 +4302,7 @@
       },
       {
         "jp_string": "魔力かくせい",
-        "en_string": ""
+        "en_string": "Channel Anger"
       },
       {
         "jp_string": "魔力のバラード",
@@ -4310,7 +4310,7 @@
       },
       {
         "jp_string": "魔力の息吹",
-        "en_string": ""
+        "en_string": "Focus Pocus"
       },
       {
         "jp_string": "魔導の書",
@@ -4346,7 +4346,7 @@
       },
       {
         "jp_string": "魔結界",
-        "en_string": ""
+        "en_string": "Mage Ward"
       },
       {
         "jp_string": "鳥系の敵に 威力を発揮する あざやかな弓の技",

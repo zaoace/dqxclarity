@@ -713,7 +713,7 @@
       },
       {
         "jp_string": "おはらい",
-        "en_string": ""
+        "en_string": "Benediction"
       },
       {
         "jp_string": "おはらいの特技を　おぼえた！",
@@ -2869,11 +2869,11 @@
       },
       {
         "jp_string": "ツッコミ",
-        "en_string": ""
+        "en_string": "Sober Slap"
       },
       {
         "jp_string": "ツッコミの特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Sober Slap!"
       },
       {
         "jp_string": "ツッコミの達人",
@@ -3477,7 +3477,7 @@
       },
       {
         "jp_string": "ぬすむ",
-        "en_string": ""
+        "en_string": "Half Inch"
       },
       {
         "jp_string": "ぬすむの特技を　おぼえた！",
@@ -3761,11 +3761,11 @@
       },
       {
         "jp_string": "ハッスルダンス",
-        "en_string": ""
+        "en_string": "Hustle Dance"
       },
       {
         "jp_string": "ハッスルダンス+15%",
-        "en_string": ""
+        "en_string": "Hustle Dance+15%"
       },
       {
         "jp_string": "ハッスルダンスの回復量が　増えた！",
@@ -7045,7 +7045,7 @@
       },
       {
         "jp_string": "天使の守り",
-        "en_string": ""
+        "en_string": "Holy Shield"
       },
       {
         "jp_string": "天使の守りの特技を　おぼえた！",
@@ -7737,19 +7737,19 @@
       },
       {
         "jp_string": "常時呪文暴走率+1%",
-        "en_string": ""
+        "en_string": "Critical Spell Rate+1%"
       },
       {
         "jp_string": "常時呪文暴走率+10%",
-        "en_string": ""
+        "en_string": "Critical Spell Rate+10%"
       },
       {
         "jp_string": "常時呪文暴走率+3%",
-        "en_string": ""
+        "en_string": "Critical Spell Rate+3%"
       },
       {
         "jp_string": "常時呪文暴走率+5%",
-        "en_string": ""
+        "en_string": "Critical Spell Rate+5%"
       },
       {
         "jp_string": "常時呪文発動速度+10%",
@@ -9934,7 +9934,7 @@
       },
       {
         "jp_string": "聖なる祈り",
-        "en_string": ""
+        "en_string": "Care Prayer"
       },
       {
         "jp_string": "聖なる祈りの特技を　おぼえた！",
@@ -9942,7 +9942,7 @@
       },
       {
         "jp_string": "聖女の守り",
-        "en_string": ""
+        "en_string": "Alma Mater"
       },
       {
         "jp_string": "聖女の守りの特技を　おぼえた！",
@@ -10774,7 +10774,7 @@
       },
       {
         "jp_string": "魔力かくせい",
-        "en_string": ""
+        "en_string": "Channel Anger"
       },
       {
         "jp_string": "魔力かくせいの特技を　おぼえた！",
