@@ -7484,7 +7484,7 @@
       },
       {
         "jp_string": "ＨＰリンク",
-        "en_string": ""
+        "en_string": "HP Link"
       },
       {
         "jp_string": "ＨＰリンクがきれた",
@@ -7568,7 +7568,7 @@
       },
       {
         "jp_string": "ＭＰリンク",
-        "en_string": ""
+        "en_string": "MP Link"
       },
       {
         "jp_string": "ＭＰリンクがきれた",
@@ -8588,7 +8588,7 @@
       },
       {
         "jp_string": "エモノ呼び",
-        "en_string": ""
+        "en_string": "Call Monster"
       },
       {
         "jp_string": "エモノ呼びの咆哮Ⅰ",
@@ -8848,11 +8848,11 @@
       },
       {
         "jp_string": "おたからさがし",
-        "en_string": ""
+        "en_string": "Nose for Treasure"
       },
       {
         "jp_string": "おたからさがしのすず",
-        "en_string": ""
+        "en_string": "Treasure Map"
       },
       {
         "jp_string": "おたからの位置が 地図に かきこまれた！",
@@ -8944,7 +8944,7 @@
       },
       {
         "jp_string": "おはらい",
-        "en_string": ""
+        "en_string": "Benediction"
       },
       {
         "jp_string": "おびえ攻撃",
@@ -8960,7 +8960,7 @@
       },
       {
         "jp_string": "おもいでのすず",
-        "en_string": ""
+        "en_string": "Evac Bell"
       },
       {
         "jp_string": "おもさがふえた！",
@@ -9392,7 +9392,7 @@
       },
       {
         "jp_string": "かわいがる",
-        "en_string": ""
+        "en_string": "Pet Monster"
       },
       {
         "jp_string": "がん☆ばれ",
@@ -9768,7 +9768,7 @@
       },
       {
         "jp_string": "キラージャグリング",
-        "en_string": ""
+        "en_string": "Have a Ball"
       },
       {
         "jp_string": "キラーブーン",
@@ -12120,7 +12120,7 @@
       },
       {
         "jp_string": "しんだふり",
-        "en_string": ""
+        "en_string": "Play Dead"
       },
       {
         "jp_string": "しんぴのさとり",
@@ -12672,7 +12672,7 @@
       },
       {
         "jp_string": "せかいじゅの葉",
-        "en_string": ""
+        "en_string": "Yggdrasil Leaf"
       },
       {
         "jp_string": "セクシービーム",
@@ -12940,7 +12940,7 @@
       },
       {
         "jp_string": "タップダンス",
-        "en_string": ""
+        "en_string": "Tap Dance"
       },
       {
         "jp_string": "たつまき",
@@ -13568,7 +13568,7 @@
       },
       {
         "jp_string": "ツッコミ",
-        "en_string": ""
+        "en_string": "Sober Slap"
       },
       {
         "jp_string": "ツッコんで 仲間ひとりを われに返す",
@@ -14048,7 +14048,7 @@
       },
       {
         "jp_string": "どくけしそう",
-        "en_string": ""
+        "en_string": "Antidote Hrb"
       },
       {
         "jp_string": "どくこうげき",
@@ -14548,7 +14548,7 @@
       },
       {
         "jp_string": "ぬすむ",
-        "en_string": ""
+        "en_string": "Half-Inch"
       },
       {
         "jp_string": "ネイルレーザー",
@@ -14960,7 +14960,7 @@
       },
       {
         "jp_string": "ハッスルダンス",
-        "en_string": ""
+        "en_string": "Hustle Dance"
       },
       {
         "jp_string": "バッチリがんばります！ 中距離",
@@ -15040,7 +15040,7 @@
       },
       {
         "jp_string": "バナナトラップ",
-        "en_string": ""
+        "en_string": "Banana Time"
       },
       {
         "jp_string": "バナナトラップを しかけた！",
@@ -15880,7 +15880,7 @@
       },
       {
         "jp_string": "ぶきみなひかり",
-        "en_string": ""
+        "en_string": "Spooky Aura"
       },
       {
         "jp_string": "ぶきみな咆哮",
@@ -16192,7 +16192,7 @@
       },
       {
         "jp_string": "ブレスクラッシュ",
-        "en_string": ""
+        "en_string": "Breath Breaker"
       },
       {
         "jp_string": "ブレスダメージ軽減の 効果時間延長！",
@@ -16592,7 +16592,7 @@
       },
       {
         "jp_string": "ボケ",
-        "en_string": ""
+        "en_string": "Fool"
       },
       {
         "jp_string": "ボケたおして 周囲の敵を わらわせる",
@@ -17120,7 +17120,7 @@
       },
       {
         "jp_string": "まだらくも糸",
-        "en_string": ""
+        "en_string": "Decelaratium"
       },
       {
         "jp_string": "マダンテ",
@@ -17324,7 +17324,7 @@
       },
       {
         "jp_string": "マホトラのころも",
-        "en_string": ""
+        "en_string": "Magic Outfit"
       },
       {
         "jp_string": "マホトラのころもが きえた",
@@ -17444,7 +17444,7 @@
       },
       {
         "jp_string": "まんげつそう",
-        "en_string": ""
+        "en_string": "Moonwart Bulb"
       },
       {
         "jp_string": "まんげつ斬り",
@@ -17592,7 +17592,7 @@
       },
       {
         "jp_string": "みやぶる",
-        "en_string": ""
+        "en_string": "See Through"
       },
       {
         "jp_string": "ミラージュボール",
@@ -17796,7 +17796,7 @@
       },
       {
         "jp_string": "メガボンバー",
-        "en_string": ""
+        "en_string": "Mega Bomb"
       },
       {
         "jp_string": "メガロボール",
@@ -17824,7 +17824,7 @@
       },
       {
         "jp_string": "めざめの花",
-        "en_string": ""
+        "en_string": "Wakerobin"
       },
       {
         "jp_string": "メタキンチケット",
@@ -19188,7 +19188,7 @@
       },
       {
         "jp_string": "上やくそう",
-        "en_string": ""
+        "en_string": "Super Medicine"
       },
       {
         "jp_string": "上空からレーザーが 降り注いだ！",
@@ -22120,7 +22120,7 @@
       },
       {
         "jp_string": "天使の守り",
-        "en_string": ""
+        "en_string": "Holy Shield"
       },
       {
         "jp_string": "天使の守りが みたまを呼び戻した",
@@ -28210,11 +28210,11 @@
       },
       {
         "jp_string": "聖なる祈り",
-        "en_string": ""
+        "en_string": "Care Prayer"
       },
       {
         "jp_string": "聖女の守り",
-        "en_string": ""
+        "en_string": "Alma Mater"
       },
       {
         "jp_string": "聖女の守りが 死のふちから守った！",
@@ -29070,7 +29070,7 @@
       },
       {
         "jp_string": "超元気玉",
-        "en_string": ""
+        "en_string": "Bonus Orb L"
       },
       {
         "jp_string": "超全身全霊斬り",
@@ -30962,7 +30962,7 @@
       },
       {
         "jp_string": "魔力かくせい",
-        "en_string": ""
+        "en_string": "Channel Anger"
       },
       {
         "jp_string": "魔力が臨界に達した！",
@@ -30994,7 +30994,7 @@
       },
       {
         "jp_string": "魔力の息吹",
-        "en_string": ""
+        "en_string": "Focus Pocus"
       },
       {
         "jp_string": "魔力の息吹がおわった",
@@ -31262,7 +31262,7 @@
       },
       {
         "jp_string": "魔結界",
-        "en_string": ""
+        "en_string": "Mage Ward"
       },
       {
         "jp_string": "魔蝕",

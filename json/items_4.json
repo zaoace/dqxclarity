@@ -4292,7 +4292,7 @@
       },
       {
         "jp_string": "やわらかい枝を 加工した木材 職人のための素材",
-        "en_string": ""
+        "en_string": "Wood made from soft branches, a material for craftsmen."
       },
       {
         "jp_string": "やわらかウールで ふんわり編まれた あったかマフラー",
@@ -5920,7 +5920,7 @@
       },
       {
         "jp_string": "一緒に戦う仲間が みんな元気玉効果 使ったらなくなる",
-        "en_string": ""
+        "en_string": "dunno lol"
       },
       {
         "jp_string": "一羽の蝶が はねを休める 幻想的なモノクル",
@@ -7059,7 +7059,7 @@
       },
       {
         "jp_string": "仲間ひとりの 毒を治す 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Cures one|companion|of poison."
       },
       {
         "jp_string": "仲間ひとりの 混乱を治す 使ったらなくなる",
@@ -7087,7 +7087,7 @@
       },
       {
         "jp_string": "仲間ひとりをＨＰ 半分で生き返す 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Revives party member|with half HP.|"
       },
       {
         "jp_string": "仲間モンスターの スキルポイントを 振り直せる魔草",

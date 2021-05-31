@@ -1280,7 +1280,7 @@
       },
       {
         "jp_string": "フレンドが　いません。",
-        "en_string": ""
+        "en_string": "I don't have any friends."
       },
       {
         "jp_string": "<speed=0><%sM_pc>は",
@@ -1940,7 +1940,7 @@
       },
       {
         "jp_string": "[参加中]",
-        "en_string": ""
+        "en_string": "[Party]"
       },
       {
         "jp_string": "[取り引き優先]",
@@ -1968,7 +1968,7 @@
       },
       {
         "jp_string": "[待機中]",
-        "en_string": ""
+        "en_string": "[Sub]"
       },
       {
         "jp_string": "[所持数順]",
@@ -2792,7 +2792,7 @@
       },
       {
         "jp_string": "いのちだいじに",
-        "en_string": ""
+        "en_string": "Focus On Healing"
       },
       {
         "jp_string": "いばしょを確認",
@@ -3076,7 +3076,7 @@
       },
       {
         "jp_string": "おめかしグッズ",
-        "en_string": ""
+        "en_string": "Dress Up"
       },
       {
         "jp_string": "おめかし衣装",
@@ -6748,7 +6748,7 @@
       },
       {
         "jp_string": "イエローダイアリー",
-        "en_string": ""
+        "en_string": "Yellow Name Diary"
       },
       {
         "jp_string": "イス",
@@ -10216,7 +10216,7 @@
       },
       {
         "jp_string": "バッチリがんばれ",
-        "en_string": ""
+        "en_string": "No Mercy"
       },
       {
         "jp_string": "バットエンドに勝つために",
@@ -10364,7 +10364,7 @@
       },
       {
         "jp_string": "バトル参加設定",
-        "en_string": ""
+        "en_string": "Party Setup"
       },
       {
         "jp_string": "バトル操作設定",
@@ -13572,7 +13572,7 @@
       },
       {
         "jp_string": "使用とくぎ設定",
-        "en_string": ""
+        "en_string": "Skill Usage"
       },
       {
         "jp_string": "使用中の素材",
@@ -14828,7 +14828,7 @@
       },
       {
         "jp_string": "参加中",
-        "en_string": ""
+        "en_string": "Party"
       },
       {
         "jp_string": "参加方法について",
@@ -16830,7 +16830,7 @@
       },
       {
         "jp_string": "待機中",
-        "en_string": ""
+        "en_string": "Sub"
       },
       {
         "jp_string": "後<%'dM_test2>個",
@@ -20594,7 +20594,7 @@
       },
       {
         "jp_string": "素材/未鑑定アイテム",
-        "en_string": ""
+        "en_string": "Materials"
       },
       {
         "jp_string": "素材が足りません",
@@ -24787,11 +24787,11 @@
       },
       {
         "jp_string": "ＭＰつかうな",
-        "en_string": "Don't use MP."
+        "en_string": "Don't use MP"
       },
       {
         "jp_string": "ＭＰつかわないで",
-        "en_string": "Don't use your MP."
+        "en_string": "Don't use your MP"
       },
       {
         "jp_string": "ＭＰリンクをはずす",

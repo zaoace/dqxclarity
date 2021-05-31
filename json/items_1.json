@@ -164,7 +164,7 @@
       },
       {
         "jp_string": "あやかしそう",
-        "en_string": ""
+        "en_string": "Narspicious"
       },
       {
         "jp_string": "あやかしの魔弓",
@@ -492,7 +492,7 @@
       },
       {
         "jp_string": "うるわしキノコ",
-        "en_string": ""
+        "en_string": "Belle Cap"
       },
       {
         "jp_string": "うろこのかぶと",
@@ -624,7 +624,7 @@
       },
       {
         "jp_string": "おたからさがしのすず",
-        "en_string": ""
+        "en_string": "Treasure Map"
       },
       {
         "jp_string": "おたからのタネ",
@@ -764,7 +764,7 @@
       },
       {
         "jp_string": "おもいでのすず",
-        "en_string": ""
+        "en_string": "Evac Bell"
       },
       {
         "jp_string": "おもいで映写機",
@@ -1260,7 +1260,7 @@
       },
       {
         "jp_string": "かがやきそう",
-        "en_string": ""
+        "en_string": "Sparkle Weed"
       },
       {
         "jp_string": "かがやきの樹液",
@@ -1804,7 +1804,7 @@
       },
       {
         "jp_string": "げんこつダケ",
-        "en_string": ""
+        "en_string": "Fisticup"
       },
       {
         "jp_string": "げんぶのかぶと",
@@ -2176,7 +2176,7 @@
       },
       {
         "jp_string": "さえずりのみつ",
-        "en_string": ""
+        "en_string": "BirdsongNectar"
       },
       {
         "jp_string": "さくらのゆかた",
@@ -2284,7 +2284,7 @@
       },
       {
         "jp_string": "さまようよろいの書",
-        "en_string": ""
+        "en_string": "Book of Restless Armour"
       },
       {
         "jp_string": "さらつやシャンプー",
@@ -3164,7 +3164,7 @@
       },
       {
         "jp_string": "じょうぶな枝",
-        "en_string": ""
+        "en_string": "SturdyBranch"
       },
       {
         "jp_string": "じょうぶな金具",
@@ -3200,7 +3200,7 @@
       },
       {
         "jp_string": "するどいキバ",
-        "en_string": ""
+        "en_string": "Nimble Claw"
       },
       {
         "jp_string": "するどい爪",
@@ -3296,7 +3296,7 @@
       },
       {
         "jp_string": "せかいじゅの葉",
-        "en_string": ""
+        "en_string": "Yggdrasil Leaf"
       },
       {
         "jp_string": "せんこう花火",
@@ -3316,7 +3316,7 @@
       },
       {
         "jp_string": "たけやりへいの書",
-        "en_string": ""
+        "en_string": "Book of Bambooligon"
       },
       {
         "jp_string": "たつじんのオノ",
@@ -3344,7 +3344,7 @@
       },
       {
         "jp_string": "たんすミミックの書",
-        "en_string": ""
+        "en_string": "Book of Mimic"
       },
       {
         "jp_string": "だいおうキッズ帽子",
@@ -3404,7 +3404,7 @@
       },
       {
         "jp_string": "ちょうのはね",
-        "en_string": ""
+        "en_string": "Butterfly Wing"
       },
       {
         "jp_string": "ちょうネクタイ",
@@ -3428,7 +3428,7 @@
       },
       {
         "jp_string": "てっこうせき",
-        "en_string": ""
+        "en_string": "Iron Ore"
       },
       {
         "jp_string": "てつかぶと",
@@ -3600,7 +3600,7 @@
       },
       {
         "jp_string": "どうのこうせき",
-        "en_string": ""
+        "en_string": "Copper Ore"
       },
       {
         "jp_string": "どうのつるぎ",
@@ -3632,7 +3632,7 @@
       },
       {
         "jp_string": "どくけしそう",
-        "en_string": ""
+        "en_string": "Antidote Hrb"
       },
       {
         "jp_string": "どくどくヘドロ",
@@ -3724,7 +3724,7 @@
       },
       {
         "jp_string": "ねこまどうの書",
-        "en_string": "Book of Cat's Path"
+        "en_string": "Book of Meowgician"
       },
       {
         "jp_string": "ねこまどう便せん",
@@ -3736,11 +3736,11 @@
       },
       {
         "jp_string": "はがねのかぶと",
-        "en_string": ""
+        "en_string": "Steel Helmet"
       },
       {
         "jp_string": "はがねのこて",
-        "en_string": ""
+        "en_string": "Steel Gauntlets"
       },
       {
         "jp_string": "はがねのつるぎ",
@@ -3752,11 +3752,11 @@
       },
       {
         "jp_string": "はがねのよろい上",
-        "en_string": ""
+        "en_string": "Steel Cuirass"
       },
       {
         "jp_string": "はがねのよろい下",
-        "en_string": ""
+        "en_string": "Steel Undergarments"
       },
       {
         "jp_string": "はがねのオノ",
@@ -3764,7 +3764,7 @@
       },
       {
         "jp_string": "はがねのグリーブ",
-        "en_string": ""
+        "en_string": "Steel Boots"
       },
       {
         "jp_string": "はがねのツメ",
@@ -4384,7 +4384,7 @@
       },
       {
         "jp_string": "まだらくも糸",
-        "en_string": ""
+        "en_string": "Decelaratium"
       },
       {
         "jp_string": "まっちゃガーベラ",
@@ -4568,7 +4568,7 @@
       },
       {
         "jp_string": "まんげつそう",
-        "en_string": ""
+        "en_string": "Moonwart Bulb"
       },
       {
         "jp_string": "まんげつリング",
@@ -4688,7 +4688,7 @@
       },
       {
         "jp_string": "めざめの花",
-        "en_string": ""
+        "en_string": "Wakerobin"
       },
       {
         "jp_string": "めざめの鬼石",
@@ -4764,7 +4764,7 @@
       },
       {
         "jp_string": "やみしばりの書",
-        "en_string": ""
+        "en_string": "Hellbound Horror Book"
       },
       {
         "jp_string": "やみしばりカカシの畑",
@@ -4792,7 +4792,7 @@
       },
       {
         "jp_string": "やわらかい枝",
-        "en_string": ""
+        "en_string": "Soft Branch"
       },
       {
         "jp_string": "やわらかい肉",
@@ -5952,7 +5952,7 @@
       },
       {
         "jp_string": "ウルベア金貨",
-        "en_string": "Gold Urub. Coin"
+        "en_string": "Urubea Gold Coin"
       },
       {
         "jp_string": "ウルベア銀貨",
@@ -7496,8 +7496,7 @@
       },
       {
         "jp_string": "キラーマシンの書",
-        "en_string": "Killer Machine Book"
-      },
+        "en_string": "Book of Killing Machine"
       {
         "jp_string": "キラーマシンヘルム",
         "en_string": "Killer Machine Helm"
