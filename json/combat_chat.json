@@ -7484,7 +7484,7 @@
       },
       {
         "jp_string": "ＨＰリンク",
-        "en_string": "HP Share"
+        "en_string": "HP Link"
       },
       {
         "jp_string": "ＨＰリンクがきれた",
@@ -7568,7 +7568,7 @@
       },
       {
         "jp_string": "ＭＰリンク",
-        "en_string": ""
+        "en_string": "MP Link"
       },
       {
         "jp_string": "ＭＰリンクがきれた",
@@ -8852,7 +8852,7 @@
       },
       {
         "jp_string": "おたからさがしのすず",
-        "en_string": ""
+        "en_string": "Treasure Map"
       },
       {
         "jp_string": "おたからの位置が 地図に かきこまれた！",
@@ -8960,7 +8960,7 @@
       },
       {
         "jp_string": "おもいでのすず",
-        "en_string": ""
+        "en_string": "Evac Bell"
       },
       {
         "jp_string": "おもさがふえた！",
@@ -17120,7 +17120,7 @@
       },
       {
         "jp_string": "まだらくも糸",
-        "en_string": ""
+        "en_string": "Decelaratium"
       },
       {
         "jp_string": "マダンテ",
@@ -17444,7 +17444,7 @@
       },
       {
         "jp_string": "まんげつそう",
-        "en_string": ""
+        "en_string": "Moonwart Bulb"
       },
       {
         "jp_string": "まんげつ斬り",
@@ -17824,7 +17824,7 @@
       },
       {
         "jp_string": "めざめの花",
-        "en_string": ""
+        "en_string": "Wakerobin"
       },
       {
         "jp_string": "メタキンチケット",

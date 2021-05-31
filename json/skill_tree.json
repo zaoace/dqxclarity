@@ -29818,7 +29818,7 @@
       },
       {
         "jp_string": "ＨＰリンク（専）",
-        "en_string": "HP Share (Monster)"
+        "en_string": "HP Link"
       },
       {
         "jp_string": "ＨＰリンク（専）の特技を　おぼえた！",
@@ -29842,11 +29842,11 @@
       },
       {
         "jp_string": "ＭＰリンク（専）",
-        "en_string": "MP Share （Monster）"
+        "en_string": "MP Link"
       },
       {
         "jp_string": "ＭＰリンク（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned MP Link!"
       },
       {
         "jp_string": "ＳＳＳのタロット",

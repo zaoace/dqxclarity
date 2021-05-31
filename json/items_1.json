@@ -624,7 +624,7 @@
       },
       {
         "jp_string": "おたからさがしのすず",
-        "en_string": ""
+        "en_string": "Treasure Map"
       },
       {
         "jp_string": "おたからのタネ",
@@ -764,7 +764,7 @@
       },
       {
         "jp_string": "おもいでのすず",
-        "en_string": ""
+        "en_string": "Evac Bell"
       },
       {
         "jp_string": "おもいで映写機",
@@ -3736,11 +3736,11 @@
       },
       {
         "jp_string": "はがねのかぶと",
-        "en_string": ""
+        "en_string": "Steel Helmet"
       },
       {
         "jp_string": "はがねのこて",
-        "en_string": ""
+        "en_string": "Steel Gauntlets"
       },
       {
         "jp_string": "はがねのつるぎ",
@@ -3752,11 +3752,11 @@
       },
       {
         "jp_string": "はがねのよろい上",
-        "en_string": ""
+        "en_string": "Steel Cuirass"
       },
       {
         "jp_string": "はがねのよろい下",
-        "en_string": ""
+        "en_string": "Steel Undergarments"
       },
       {
         "jp_string": "はがねのオノ",
@@ -3764,7 +3764,7 @@
       },
       {
         "jp_string": "はがねのグリーブ",
-        "en_string": ""
+        "en_string": "Steel Boots"
       },
       {
         "jp_string": "はがねのツメ",
@@ -4384,7 +4384,7 @@
       },
       {
         "jp_string": "まだらくも糸",
-        "en_string": ""
+        "en_string": "Decelaratium"
       },
       {
         "jp_string": "まっちゃガーベラ",
@@ -4568,7 +4568,7 @@
       },
       {
         "jp_string": "まんげつそう",
-        "en_string": ""
+        "en_string": "Moonwart Bulb"
       },
       {
         "jp_string": "まんげつリング",
@@ -4688,7 +4688,7 @@
       },
       {
         "jp_string": "めざめの花",
-        "en_string": ""
+        "en_string": "Wakerobin"
       },
       {
         "jp_string": "めざめの鬼石",
