@@ -2293,11 +2293,11 @@
       },
       {
         "jp_string": "ソードライダー",
-        "en_string": ""
+        "en_string": "Sword Knight"
       },
       {
         "jp_string": "ソードライダーⅡ",
-        "en_string": ""
+        "en_string": "Sword Knight-Ⅱ"
       },
       {
         "jp_string": "そうびなし",
@@ -4913,11 +4913,11 @@
       },
       {
         "jp_string": "マジックライダー",
-        "en_string": ""
+        "en_string": "Magic Knight"
       },
       {
         "jp_string": "マジックライダーⅡ",
-        "en_string": ""
+        "en_string": "Magic Knight-Ⅱ"
       },
       {
         "jp_string": "マジット",
@@ -4989,7 +4989,7 @@
       },
       {
         "jp_string": "マホトラ",
-        "en_string": ""
+        "en_string": "Drain Magic"
       },
       {
         "jp_string": "マホドラキー",
@@ -9321,7 +9321,7 @@
       },
       {
         "jp_string": "片手剣の極意",
-        "en_string": ""
+        "en_string": "1HSwordSkill"
       },
       {
         "jp_string": "片手剣装備で　ドラゴン系モンスターを 攻撃時の威力が　あがった！",
