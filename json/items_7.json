@@ -9024,11 +9024,11 @@
       },
       {
         "jp_string": "アッシュダリア",
-        "en_string": ""
+        "en_string": "Ash Dalia"
       },
       {
         "jp_string": "あったかセラフィ",
-        "en_string": ""
+        "en_string": "Warm Seraphy"
       },
       {
         "jp_string": "あつめると マイタウン権利証 封書と交換できる",
@@ -9036,7 +9036,7 @@
       },
       {
         "jp_string": "アテナのまもり",
-        "en_string": ""
+        "en_string": "Athena Charm"
       },
       {
         "jp_string": "あでやかな黒鳥が 舞い踊るような サークレット",
@@ -9084,19 +9084,19 @@
       },
       {
         "jp_string": "アトラスカプセル",
-        "en_string": ""
+        "en_string": "Atlas Capsule"
       },
       {
         "jp_string": "アトラスのぬいぐるみ",
-        "en_string": ""
+        "en_string": "Atlas Plushie"
       },
       {
         "jp_string": "アトラス強メダル",
-        "en_string": ""
+        "en_string": "Altas Medal S"
       },
       {
         "jp_string": "あなたと私の弓作り",
-        "en_string": ""
+        "en_string": "You and I Making a Bow"
       },
       {
         "jp_string": "あなたのウデに ギュッとくっつく Ｖロン人形",
@@ -9364,11 +9364,11 @@
       },
       {
         "jp_string": "アニバーサリープリズム",
-        "en_string": ""
+        "en_string": "Anniversary Prism"
       },
       {
         "jp_string": "アノマロカリス",
-        "en_string": ""
+        "en_string": "Anomalcaris"
       },
       {
         "jp_string": "あの世との境目で 拾えるという砂 職人のための素材",
@@ -9380,23 +9380,23 @@
       },
       {
         "jp_string": "アビスサイズ",
-        "en_string": ""
+        "en_string": "Abyss Size"
       },
       {
         "jp_string": "アビスセーラー上",
-        "en_string": ""
+        "en_string": "Abyss Sailor Upper"
       },
       {
         "jp_string": "アビスセーラー下",
-        "en_string": ""
+        "en_string": "Abyss Sailor Lower"
       },
       {
         "jp_string": "アビスハット",
-        "en_string": ""
+        "en_string": "Abyss Hat"
       },
       {
         "jp_string": "アビスブーツ",
-        "en_string": ""
+        "en_string": "Abyss Boots"
       },
       {
         "jp_string": "あぶなっかしくて 見てられない 女性専用の水着",
@@ -9412,15 +9412,15 @@
       },
       {
         "jp_string": "あまつゆの集め方",
-        "en_string": ""
+        "en_string": "How to collect rain dew"
       },
       {
         "jp_string": "あまりにも 役に立たなそうな ダストンの像",
-        "en_string": ""
+        "en_string": "A seemingly|useless statue|of Duston."
       },
       {
         "jp_string": "あまりのあまさで 仲間ひとりの ＨＰを６０～回復",
-        "en_string": ""
+        "en_string": "Recovers about|60 HP with|sweetness."
       },
       {
         "jp_string": "アマリリスが 特別に１回だけ ほほえんでくれる",
@@ -9532,19 +9532,19 @@
       },
       {
         "jp_string": "アルウェーンのアーチ",
-        "en_string": ""
+        "en_string": "Alwane Arch"
       },
       {
         "jp_string": "アルウェーンのゴミ箱",
-        "en_string": ""
+        "en_string": "Alwane Trash Bin"
       },
       {
         "jp_string": "アルウェーンのチェア",
-        "en_string": ""
+        "en_string": "Alwane Chair"
       },
       {
         "jp_string": "アルウェーンのベンチ",
-        "en_string": ""
+        "en_string": "Alwane Bench"
       },
       {
         "jp_string": "アルウェーンの街灯",
@@ -9552,19 +9552,20 @@
       },
       {
         "jp_string": "アルウェーン丸テーブル",
-        "en_string": ""
+        "en_string": "Alwane Round Table"
       },
       {
+        "line_break":true,
         "jp_string": "アルウェ王妃が 求めるクリーム ＨＰが回復する",
-        "en_string": ""
+        "en_string": "Cream of|Princess Alwe|that restores HP."
       },
       {
         "jp_string": "アルゴン",
-        "en_string": ""
+        "en_string": "Argon"
       },
       {
         "jp_string": "アルゴンキッズが ギュッと詰まった キュートなポーチ",
-        "en_string": ""
+        "en_string": "A cute pouch|packed with|Argon Kids."
       },
       {
         "jp_string": "アルゴンキッズの像",
@@ -9652,183 +9653,193 @@
       },
       {
         "jp_string": "アロケルのおうぎ",
-        "en_string": ""
+        "en_string": "Alloces Fan"
       },
       {
         "jp_string": "アロワナ",
-        "en_string": ""
+        "en_string": "Arowana"
       },
       {
         "jp_string": "アワードキャップ",
-        "en_string": ""
+        "en_string": "Award Cap"
       },
       {
         "jp_string": "アワードジャケット",
-        "en_string": ""
+        "en_string": "Award Jacket"
       },
       {
         "jp_string": "アワードスニーカー",
-        "en_string": ""
+        "en_string": "Award Sneakers"
       },
       {
         "jp_string": "アワウキ貝",
-        "en_string": ""
+        "en_string": "Foamy Shellfish"
       },
       {
         "jp_string": "アンティーク風の壁",
-        "en_string": ""
+        "en_string": "Antique Wall"
       },
       {
         "jp_string": "アンティーク風の柱",
-        "en_string": ""
+        "en_string": "Antique Pillar"
       },
       {
         "jp_string": "アンノウンサイズ",
-        "en_string": ""
+        "en_string": "Unknown Size"
       },
       {
         "jp_string": "アンバーダリア",
-        "en_string": ""
+        "en_string": "Amber Dalia"
       },
       {
         "jp_string": "アンモナイト",
-        "en_string": ""
+        "en_string": "Ammonite"
       },
       {
         "jp_string": "アンルシアが 描かれた 庭用の肖像画",
-        "en_string": ""
+        "en_string": "Anlucia is|drawn on this|garden portrait."
       },
       {
         "jp_string": "アンルシアが 描かれた 肖像画",
-        "en_string": ""
+        "en_string": "Anlucia is|drawn on this|portrait."
       },
       {
         "jp_string": "アンルシアカプセル",
-        "en_string": ""
+        "en_string": "Anlucia Capsule"
       },
       {
         "jp_string": "アンルシアキッチン",
-        "en_string": ""
+        "en_string": "Anlucia Kitchen"
       },
       {
         "jp_string": "アンルシアソファ",
-        "en_string": ""
+        "en_string": "Anlucia Sofa"
       },
       {
+        "line_break":true,
         "jp_string": "アンルシアと ピクニック気分を 味わえる庭具",
-        "en_string": ""
+        "en_string": "A picnic set|that features|Anlucia."
       },
       {
+        "line_break":true,
         "jp_string": "アンルシアと 相合傘ができる ステキな庭具",
-        "en_string": ""
+        "en_string": "An umbrella|you can use|with Anlucia."
       },
       {
+        "line_break":true,
         "jp_string": "アンルシアに 渡すことができる すてきなギフト",
-        "en_string": ""
+        "en_string": "A nice gift|you can give|to Anlucia."
       },
       {
+        "line_break":true,
         "jp_string": "アンルシアの ギュッとちゃんが 入っている箱",
-        "en_string": ""
+        "en_string": "A box that|contains an|Anlucia arm doll."
       },
       {
+        "line_break":true,
         "jp_string": "アンルシアの となりに座れる スイートなソファ",
-        "en_string": ""
+        "en_string": "A sweet sofa|that sits next|to Anlucia."
       },
       {
+        "line_break":true,
         "jp_string": "アンルシアの姿が 胸に焼きついた 盟友のＴシャツ",
-        "en_string": ""
+        "en_string": "A t-shirt|with the image|on Anlucia on it."
       },
       {
         "jp_string": "アンルシアの肖像画・庭",
-        "en_string": ""
+        "en_string": "Anlucia Portrait - Garden"
       },
       {
         "jp_string": "アンルシアパラソル",
-        "en_string": ""
+        "en_string": "Anlucia Parasol"
       },
       {
+        "line_break":true,
         "jp_string": "アンルシア愛が 全面に描かれた ファン必携うちわ",
-        "en_string": ""
+        "en_string": "A must have|item for fans of|Anlucia."
       },
       {
         "jp_string": "イースターアーチ",
-        "en_string": ""
+        "en_string": "Easter Arch"
       },
       {
+        "line_break":true,
         "jp_string": "イースターエッグ で飾り付けられた カラフルなツリー",
-        "en_string": ""
+        "en_string": "A colorful tree|decorated with|Easter eggs."
       },
       {
         "jp_string": "イースターエッグツリー",
-        "en_string": ""
+        "en_string": "Easter Egg Tree"
       },
       {
         "jp_string": "イースターエッグライト",
-        "en_string": ""
+        "en_string": "Easter Egg Light"
       },
       {
         "jp_string": "イースタートピアリー",
-        "en_string": ""
+        "en_string": "Easter Topiary"
       },
       {
         "jp_string": "イースターの 仲間がいっぱいの 楽しいアーチ",
-        "en_string": ""
+        "en_string": "A fun arch|featuring friends|of Easter."
       },
       {
         "jp_string": "イースターのランタン",
-        "en_string": ""
+        "en_string": "Easter Lantern"
       },
       {
         "jp_string": "イア・タア シンパッ ケウ……！",
-        "en_string": ""
+        "en_string": "Iya ta shinpa keu!"
       },
       {
         "jp_string": "いいね！されると 色が変わる チーム用の帽子",
-        "en_string": ""
+        "en_string": "A team hat|that changes|color if touched."
       },
       {
+        "line_break":true,
         "jp_string": "いいね！されると 色が変わる みんなで遊ぶ帽子",
-        "en_string": ""
+        "en_string": "A hat that|changes color|if touched."
       },
       {
         "jp_string": "イエローアイ",
-        "en_string": ""
+        "en_string": "Yellow Eye"
       },
       {
         "jp_string": "イエローエッグ",
-        "en_string": ""
+        "en_string": "Yellow Egg"
       },
       {
         "jp_string": "イエローエッグ２",
-        "en_string": ""
+        "en_string": "Yellow Egg 2"
       },
       {
         "jp_string": "イエローの花束",
-        "en_string": ""
+        "en_string": "Yellow Bouquet"
       },
       {
         "jp_string": "イエローパーチ",
-        "en_string": ""
+        "en_string": "Yellow Perch"
       },
       {
         "jp_string": "イエローリップが 咲く栽培用のタネ ５日で収穫可能",
-        "en_string": ""
+        "en_string": "Seeds for yellow|lips that grow|in 5 days."
       },
       {
         "jp_string": "イカ",
-        "en_string": ""
+        "en_string": "Squid"
       },
       {
         "jp_string": "イカスピア",
-        "en_string": ""
+        "en_string": "Squid Spear"
       },
       {
         "jp_string": "イカダ風の座椅子",
-        "en_string": ""
+        "en_string": "Raft-style Chair"
       },
       {
+        "line_break":true,
         "jp_string": "いかつい装飾で 下半身を守る よろいの下部分",
-        "en_string": ""
+        "en_string": "Rugged armor|that protects|the lower body."
       },
       {
         "jp_string": "いかにも怪しい ランプ錬金道具",
@@ -9840,11 +9851,11 @@
       },
       {
         "jp_string": "イカ焼きプリズム",
-        "en_string": ""
+        "en_string": "Grilled Squid Prism"
       },
       {
         "jp_string": "イクチオサウルス",
-        "en_string": ""
+        "en_string": "Ichthyosaurus"
       },
       {
         "jp_string": "イケイケな風情が 気分を盛り上げる シラナミの絵画",
@@ -9852,15 +9863,15 @@
       },
       {
         "jp_string": "いさましいツノ",
-        "en_string": ""
+        "en_string": "Awkward Horn"
       },
       {
         "jp_string": "イシダイ",
-        "en_string": ""
+        "en_string": "B. Knifejaw"
       },
       {
         "jp_string": "イシュマウリオルゴール",
-        "en_string": "Ishmari Music Box"
+        "en_string": "Ishmauri Music Box"
       },
       {
         "jp_string": "イセエビ",
@@ -9871,8 +9882,9 @@
         "en_string": "Lobster Photo"
       },
       {
+        "line_break":true,
         "jp_string": "いたいけな瞳が あいらしい ミシュアの像",
-        "en_string": ""
+        "en_string": "A Mishua statue|with lovely|eyes."
       },
       {
         "jp_string": "いたスト・お店マス",
@@ -9899,108 +9911,108 @@
         "en_string": "Naughty Rabbit Field"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いたずらもぐらが 愛用する スコップ型の棍",
-        "en_string": "A shovel|that is a mole's|favorite"
+        "en_string": "A shovel|that is a mole's|favorite."
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いたずら心の たっぷりつまった キュートな弓",
-        "en_string": "A cute bow|full of naughty|hearts"
+        "en_string": "A cute bow|full of naughty|hearts."
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いたずら気分が ニョキッと生えた こあくま的なツノ",
-        "en_string": "A small,|devilish looking|weapon"
+        "en_string": "A small,|devilish looking|weapon."
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いちごチョコ色の ドーナツ型をした 大きなクッション",
-        "en_string": "A large|chocolate donut|shaped cushion"
+        "en_string": "A large|chocolate donut|shaped cushion."
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "イチゴモチーフが ワンポイントの かわいいアーチ",
-        "en_string": "A cute arch|with a strawberry|motif"
+        "en_string": "A cute arch|with a strawberry|motif."
       },
       {
         "jp_string": "イチゴヤドクガエル",
         "en_string": "Strawberry Poison Frog"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "イチゴを実らせる アストルティアに 自生している野草",
-        "en_string": "Native Astoltia|grass that grows|strawberries"
+        "en_string": "Native Astoltia|grass that grows|strawberries."
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いちばん星から 生まれた贈り物 早速開けてみよう",
         "en_string": "A gift born|from stars. Let's|open it now!"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いちょうの葉が はらはらと散る いちょうの木",
-        "en_string": "A gingko tree|with its leaves|scattered"
+        "en_string": "A gingko tree|with its leaves|scattered."
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっかくウサギが モチーフの角付き たれ耳バンド",
-        "en_string": "A rabbit|motif with|drooping ears"
+        "en_string": "A rabbit|motif with|drooping ears."
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっそ魔除けに なってくれそうな 災厄の王の絵画",
-        "en_string": "A painting of|the King of|Calamity"
+        "en_string": "A painting of|the King of|Calamity."
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱいあつめて 月の交換屋に 持っていこう！",
         "en_string": "Take these to|the Moon Exchange|shop!"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱいあつめて 酒場の交換屋へ 持っていこう！",
-        "en_string": "Take these to|the Tavern Exchange|shop!"
+        "en_string": "Take these to|the Tavern|Exchange shop!"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用てぶくろ",
-        "en_string": "Gloves that|can be alchemized|in one shot"
+        "en_string": "Gloves that can|be alchemized|in one shot."
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用のくつ",
-        "en_string": "Shoes that|can be alchemized|in one shot"
+        "en_string": "Shoes that can|be alchemized|in one shot."
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用のズボン",
-        "en_string": "Pants that|can be alchemized|in one shot"
+        "en_string": "Pants that can|be alchemized|in one shot."
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用のつるぎ",
-        "en_string": "A sword that|can be alchemized|in one shot"
+        "en_string": "A sword that can|be alchemized|in one shot."
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用のぼうし",
-        "en_string": "A helm that|can be alchemized|in one shot"
+        "en_string": "A helm that can|be alchemized|in one shot."
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用のよろい",
-        "en_string": "Armor that|can be alchemized|in one shot"
+        "en_string": "Armor that can|be alchemized|in one shot."
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用の杖",
-        "en_string": "A cane that|can be alchemized|in one shot"
+        "en_string": "A cane that can|be alchemized|in one shot."
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用の盾",
-        "en_string": "A shield that|can be alchemized|in one shot"
+        "en_string": "A shield that|can be alchemized|in one shot."
       },
       {
         "jp_string": "いっぱつのくつ",
