@@ -9625,7 +9625,7 @@
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。",
-        "en_string": ""
+        "en_string": "<speed=0><%sM_pc> (<%sM_type>)|I think it's best not to mess with it right now.|Number of kills: <%dM_kill_num>"
       },
       {
         "special_line_break": true,
@@ -9916,7 +9916,7 @@
         "special_line_break": true,
         "jp_string": "選択した　すべての手紙を　削除します。|削除した手紙は　もとに戻せないため|再度　選択した手紙の確認を　おすすめします。<br>|再確認したうえで　選択した手紙を|本当に　削除しても　よろしいですか？<yesno 2><break>",
         "en_string": ""
-      }      
+      }
     ]
   }
 ]

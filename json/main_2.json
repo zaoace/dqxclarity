@@ -3,8 +3,6 @@
     "hex_start": "00 00 54 45 58 54 10 00 00 00 10 99 02 00 00 00 00 00 E3 81 BE",
     "strings": [
       {
-<<<<<<< HEAD:json/main_2.json
-=======
         "jp_string": "一覧から選ぶ",
         "en_string": "Select from list"
       },
@@ -10001,7 +9999,6 @@
         "en_string": ""
       },
       {
->>>>>>> ac877eb3c93fc972d2bc56f9331ad50597cbd2ee:json/main.json
         "jp_string": "ネコの名前を変える",
         "en_string": ""
       },
@@ -18529,7 +18526,7 @@
       },
       {
         "jp_string": "武器切替",
-        "en_string": "Swap Weapon" 
+        "en_string": "Swap Weapon"
       },
       {
         "jp_string": "武器盾表示切り替え",
@@ -23692,7 +23689,7 @@
         "jp_string": "離席中",
         "en_string": "AFK"
       },
-      { 
+      {
         "jp_string": "難易度",
         "en_string": "Diff."
       },

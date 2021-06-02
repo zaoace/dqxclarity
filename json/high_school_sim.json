@@ -3,7 +3,7 @@
     "hex_start": "54 45 58 54 10 00 00 00 B0",
     "strings": [
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "１０％の確率で　ＨＰ１で生き残る！",
         "en_string": "You have a 1%|chance of surviving|with 1 HP."
       },
@@ -57,7 +57,7 @@
         "en_string": "F Form II"
       },
       {
-        "line_break":true
+        "line_break": true,
         "jp_string": "ＨＰ１で生き残る 確率が増える",
         "en_string": "Increase chance|to survive with|1 HP."
       },
