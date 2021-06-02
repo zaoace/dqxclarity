@@ -3,157 +3,159 @@
     "hex_start": "54 45 58 54 10 00 00 00 B0",
     "strings": [
       {
+        "line_break": true
         "jp_string": "１０％の確率で　ＨＰ１で生き残る！",
-        "en_string": ""
+        "en_string": "You have a 1%|chance of surviving|with 1 HP."
       },
       {
         "jp_string": "１回だけ ブレス系の攻撃を はねかえす",
-        "en_string": ""
+        "en_string": "Null a breath|type attack one|time."
       },
       {
         "line_break": true,
         "jp_string": "２５．０％の確率で 行動ターンを　消費しなくなった！",
-        "en_string": "You have a 25%|chance of no longer|consuming a turn."
+        "en_string": "You have a 25%|chance of no longer|consuming a turn!"
       },
       {
         "jp_string": "２５％の確率で ターン消費しない",
-        "en_string": ""
+        "en_string": "25% chance to|not consume a|turn"
       },
       {
         "jp_string": "5.0%ターン消費なし",
-        "en_string": ""
+        "en_string": "5% No Turn Consumption"
       },
       {
         "jp_string": "５．０％の確率で ターン消費しない",
-        "en_string": ""
+        "en_string": "5% chance to|not consume a|turn"
       },
       {
         "jp_string": "５．０％の確率で 行動ターンを　消費しなくなった！",
-        "en_string": ""
+        "en_string": "You have a 5%|chance of no longer|consuming a turn!"
       },
       {
         "jp_string": "6.0%ターン消費なし",
-        "en_string": ""
+        "en_string": "6% No Turn Consumption"
       },
       {
         "jp_string": "６．０％の確率で ターン消費しない",
-        "en_string": ""
+        "en_string": "6% chance to|not consume a|turn"
       },
       {
         "jp_string": "６．０％の確率で 行動ターンを　消費しなくなった！",
-        "en_string": ""
+        "en_string": "You have a 6%|chance of no longer|consuming a turn!"
       },
       {
         "jp_string": "８つの鉄球を なげつけて 攻撃力を下げる",
-        "en_string": ""
+        "en_string": "Throw 8 iron|balls to reduce|attack power."
       },
       {
         "jp_string": "ＡガジェットⅡ",
-        "en_string": ""
+        "en_string": "A Gadget II"
       },
       {
         "jp_string": "ＦフォームⅡ",
-        "en_string": ""
+        "en_string": "F Form II"
       },
       {
+        "line_break":true
         "jp_string": "ＨＰ１で生き残る 確率が増える",
-        "en_string": ""
+        "en_string": "Increase chance|to survive with|1 HP."
       },
       {
         "jp_string": "ＨＰ１で生き残る率が　増えた！",
-        "en_string": ""
+        "en_string": "Chance to survive with 1 HP increased!"
       },
       {
         "jp_string": "ＨＰアップ",
-        "en_string": ""
+        "en_string": "HP Up"
       },
       {
         "jp_string": "ＨＰが　０　になる　攻撃を受けた時 耐えて　生き残るようになった！",
-        "en_string": ""
+        "en_string": "Endure and survive when HP reaches 0!"
       },
       {
         "jp_string": "ＨＰが０になる 攻撃を受けても たまに生き残る",
-        "en_string": ""
+        "en_string": "Sometimes survive|an attack when|HP reaches 0"
       },
       {
         "jp_string": "ＨＰが半分以上時 即死をまぬがれる",
-        "en_string": ""
+        "en_string": "Avoid instant death when HP above 50%"
       },
       {
         "jp_string": "ＭＰ１００を 仲間に分け与える 神秘の踊り",
-        "en_string": ""
+        "en_string": "A dance that|recovers 100 MP|to allies."
       },
       {
         "jp_string": "ＭＰアップ",
-        "en_string": ""
+        "en_string": "MP Up"
       },
       {
         "jp_string": "ＭＰパサー",
-        "en_string": ""
+        "en_string": "M-Pathy"
       },
       {
         "jp_string": "ＭＰパサーの特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "Learned M-Pathy!"
       },
       {
         "jp_string": "ＭＰをかなり使い 敵を打ち滅ぼす 最強の光の特技",
-        "en_string": ""
+        "en_string": "A strong|light attack that|uses all MP"
       },
       {
         "jp_string": "ＭＰを消費する時 たまにＭＰを 消費しない",
-        "en_string": ""
+        "en_string": "Sometimes does|not consume|any MP"
       },
       {
         "jp_string": "ＭＰを消費する時 たまに消費しないようになった！",
-        "en_string": ""
+        "en_string": "Sometimes you won't consume any MP!"
       },
       {
         "jp_string": "ＭＰ吸収率+5%",
-        "en_string": ""
+        "en_string": "MP Absorb Rate +5%"
       },
       {
         "jp_string": "ＭＰ消費しない率+10%",
-        "en_string": ""
+        "en_string": "No Consume MP Rate +10%"
       },
       {
         "jp_string": "ＭＰ消費しない率+20%",
-        "en_string": ""
+        "en_string": "No Consume MP Rate +20%"
       },
       {
         "jp_string": "ＭＰ消費しない率+5%",
-        "en_string": ""
+        "en_string": "No Consume MP Rate +5%"
       },
       {
         "jp_string": "アームズガジェット",
-        "en_string": ""
+        "en_string": "Arms Gadget"
       },
       {
         "jp_string": "アイゼル",
-        "en_string": ""
+        "en_string": "Eisel"
       },
       {
         "jp_string": "アイゼルは さらに　ＨＰ１で生き残るようになった！",
-        "en_string": ""
+        "en_string": "Eisel can now survive with 1 HP!"
       },
       {
         "jp_string": "アイゼルは　さらに テンションリンクするようになった！",
-        "en_string": ""
+        "en_string": "Eisel can now Tension Link!"
       },
       {
         "jp_string": "アイゼルは たまに　ＨＰ１で生き残るようになった！",
-        "en_string": ""
+        "en_string": "Eisel can occasionally survive with 1 HP!"
       },
       {
         "jp_string": "アイゼルは　ちからが　１０　増えた！",
-        "en_string": ""
+        "en_string": "Eisel's Strength increased by 10!"
       },
       {
         "jp_string": "アイゼルは　ちからが　２０　増えた！",
-        "en_string": ""
+        "en_string": "Eisel's Strength increased by 20!"
       },
       {
         "jp_string": "アイゼルは　テンションリンクを　おぼえた！",
-        "en_string": ""
+        "en_string": "Eisel learned Tension Link!"
       },
       {
         "jp_string": "アイゼルは　守護神の城壁を　おぼえた！",
