@@ -72,6 +72,9 @@ for i, obj in data.1.strings
   ;; Whether the string has line break characters we need to account for.
   line_break := obj.line_break
 
+  ;; Whether we have 'special line breaks' we need to account for
+  special_line_break := obj.special_line_break
+
   ;; If the string length doesn't match, add null terms until it does.
   if (jp_len != en_len)
   {
@@ -88,6 +91,15 @@ for i, obj in data.1.strings
     if (line_break != "")
     {
       jp := StrReplace(jp, "20", "0a")
+      en := StrReplace(en, "7c", "0a")
+    }
+
+    ;; A lot of dialog text has spaces and line breaks in them, so we need to handle
+    ;; these differently as using spaces as line breaks won't work here. This replaces
+    ;; the pipe ('|') with a line break. 
+    if (special_line_break != "")
+    {
+      jp := StrReplace(jp, "7c", "0a")
       en := StrReplace(en, "7c", "0a")
     }
 

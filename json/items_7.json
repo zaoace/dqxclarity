@@ -152,11 +152,11 @@
       },
       {
         "jp_string": "大地の竜玉",
-        "en_string": "Earth Dragon Orb"
+        "en_string": "Land Dragon Orb"
       },
       {
         "jp_string": "大地の竜玉の破片",
-        "en_string": "Earth Dragon Orb shard"
+        "en_string": "Land Dragon Orb shard"
       },
       {
         "jp_string": "大地の羽毛",
@@ -196,7 +196,7 @@
       },
       {
         "jp_string": "大戦鬼大戦記",
-        "en_string": "War Demon's Records"
+        "en_string": "War Demon's Record"
       },
       {
         "jp_string": "大獄剣",
@@ -9899,27 +9899,27 @@
         "en_string": "Naughty Rabbit Field"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いたずらもぐらが 愛用する スコップ型の棍",
         "en_string": "A shovel|that is a mole's|favorite"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いたずら心の たっぷりつまった キュートな弓",
         "en_string": "A cute bow|full of naughty|hearts"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いたずら気分が ニョキッと生えた こあくま的なツノ",
         "en_string": "A small,|devilish looking|weapon"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いちごチョコ色の ドーナツ型をした 大きなクッション",
         "en_string": "A large|chocolate donut|shaped cushion"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "イチゴモチーフが ワンポイントの かわいいアーチ",
         "en_string": "A cute arch|with a strawberry|motif"
       },
@@ -9928,77 +9928,77 @@
         "en_string": "Strawberry Poison Frog"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "イチゴを実らせる アストルティアに 自生している野草",
         "en_string": "Native Astoltia|grass that grows|strawberries"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いちばん星から 生まれた贈り物 早速開けてみよう",
         "en_string": "A gift born|from stars. Let's|open it now!"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いちょうの葉が はらはらと散る いちょうの木",
         "en_string": "A gingko tree|with its leaves|scattered"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっかくウサギが モチーフの角付き たれ耳バンド",
         "en_string": "A rabbit|motif with|drooping ears"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっそ魔除けに なってくれそうな 災厄の王の絵画",
         "en_string": "A painting of|the King of|Calamity"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱいあつめて 月の交換屋に 持っていこう！",
         "en_string": "Take these to|the Moon Exchange|shop!"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱいあつめて 酒場の交換屋へ 持っていこう！",
         "en_string": "Take these to|the Tavern Exchange|shop!"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用てぶくろ",
         "en_string": "Gloves that|can be alchemized|in one shot"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用のくつ",
         "en_string": "Shoes that|can be alchemized|in one shot"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用のズボン",
         "en_string": "Pants that|can be alchemized|in one shot"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用のつるぎ",
         "en_string": "A sword that|can be alchemized|in one shot"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用のぼうし",
         "en_string": "A helm that|can be alchemized|in one shot"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用のよろい",
         "en_string": "Armor that|can be alchemized|in one shot"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用の杖",
         "en_string": "A cane that|can be alchemized|in one shot"
       },
       {
-        "line_break": true
+        "line_break": true,
         "jp_string": "いっぱつしあげで 錬金できる 錬金専用の盾",
         "en_string": "A shield that|can be alchemized|in one shot"
       },
