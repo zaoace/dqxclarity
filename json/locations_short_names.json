@@ -20,71 +20,71 @@
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER><%sW_MAP_NAME>",
-        "en_string": "<%nW_INSTANCE_NO>Block<%sW_DELIMITER><%sW_MAP_NAME>"
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> <%sW_MAP_NAME>"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>うるわしの浜辺地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> Beautiful Beach"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>おごそかな林道地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Terrifying Forest Road"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>のどかな農村地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> Idyllic Village"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>トゥーンタウン地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> Toontown District"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>フラワーガーデン地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> Flower Garden District"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>マッシュルーム地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> Mushroom District"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>レンダーヒルズ地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> Lender Hills District"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>古代都市地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> Ancient City"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>採掘現場地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> Mining Site"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>未開のジャングル地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> Savage Jungle"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>水没遺跡地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> Submerged Ruins"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>白亜の臨海都市地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> Chalky Seaside City"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>草原地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> Meadow"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>雪原地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> Snowfield"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>雲上地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> Above Clouds"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>静かなる湿原地区",
-        "en_string": ""
+        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER> Quiet Marsh"
       },
       {
         "jp_string": "<%sW_MAP_NAME>",
@@ -92,7 +92,7 @@
       },
       {
         "jp_string": "<%sW_MAP_NAME> 出口",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME> Exit"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO>",
@@ -100,147 +100,147 @@
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>すごろくルーム",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Sugoroku Room"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>すごろくルーム 出口",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Sugoroku Room Exit"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>エントランス",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Entrance"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>カジノテラス",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Casino Terrace"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>コイン販売所",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Coin Counter"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>サウスルーム",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> South Room"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>シーサイドルーム",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Seaside Room"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>スライムレースホール",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Slime Race Hall"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>スライムレースホール 入口",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Slime Race Hall Entrance"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>スライムレースホール 出口",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Slime Race Hall Exit"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>センターホール",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Center Hall"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>センターホール 入口",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Center Hall Entrance"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>センターホール 出口",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Center Hall Exit"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ノースルーム",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> North Room"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ビンゴすごろくホール",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Bingo/Sugoroku Hall"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ビンゴすごろくホール 入口",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Bingo/Sugoroku Hall Entrance"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ビンゴすごろくホール 出口",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Bingo/Sugoroku Hall Exit"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>受付",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Desk"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>景品交換所",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Prize Exchange"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>預かり所",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Coatroom"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-カジノテラス",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Casino Terrace 1F"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-サウスルーム",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> South Room 1F"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-シーサイドルーム",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Seaside Room 1F"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-センターホール",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Center Hall 1F"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-ノースルーム",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> North Room 1F"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-カジノテラス",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Casino Terrace 2F"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-サウスルーム",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> South Room 2F"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-シーサイドルーム",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Seaside Room 2F"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-センターホール",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Center Hall 2F"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-ノースルーム",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> North Room 2F"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>３階-カジノテラス",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Casino Terrace 3F"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>３階-センターホール",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> Center Hall 3F"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>３階-ＶＩＰルーム",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> VIP Room 3F"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ＶＩＰルーム",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> VIP Room"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ＶＩＰルーム 入口",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> VIP Room Entrance"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ＶＩＰルーム 出口",
-        "en_string": ""
+        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER> VIP Room Exit"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>",
