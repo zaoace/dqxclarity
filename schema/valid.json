@@ -1,0 +1,11 @@
+[
+  {
+    "hex_start": "string",
+    "strings": [
+      {
+        "jp_string": "foo",
+        "en_string": "bar"
+      }
+    ]
+  }
+]
