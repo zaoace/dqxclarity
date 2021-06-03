@@ -4497,7 +4497,7 @@
       },
       {
         "jp_string": "いなずま（専）",
-        "en_string": ""
+        "en_string": "Lightning（EX）"
       },
       {
         "jp_string": "いなずま（専）の特技を　おぼえた！",
@@ -5306,7 +5306,7 @@
       },
       {
         "jp_string": "しょうかん",
-        "en_string": ""
+        "en_string": "Summoner"
       },
       {
         "jp_string": "しんくうは",
@@ -5422,7 +5422,7 @@
       },
       {
         "jp_string": "じわれ（専）",
-        "en_string": ""
+        "en_string": "Fissure（EX）"
       },
       {
         "jp_string": "じわれ（専）の特技を　おぼえた！",
@@ -5586,11 +5586,11 @@
       },
       {
         "jp_string": "たまにＭＰ消費しない",
-        "en_string": ""
+        "en_string": "Rarely Consume No MP"
       },
       {
         "jp_string": "たまにＭＰ消費しない（専）",
-        "en_string": ""
+        "en_string": "Rarely Consume No MP（EX）"
       },
       {
         "jp_string": "ためる参（専）",
@@ -6411,7 +6411,7 @@
       },
       {
         "jp_string": "ひばしら（専）",
-        "en_string": ""
+        "en_string": "Pyre o Fire（EX）"
       },
       {
         "jp_string": "ひばしら（専）の特技を　おぼえた！",
@@ -7123,7 +7123,7 @@
       },
       {
         "jp_string": "めいどうふうま（専）",
-        "en_string": ""
+        "en_string": "King Fissure（EX）"
       },
       {
         "jp_string": "めいどうふうま（専）の特技を　おぼえた！",
@@ -7215,7 +7215,7 @@
       },
       {
         "jp_string": "れんごく火炎",
-        "en_string": ""
+        "en_string": "Hellfire"
       },
       {
         "jp_string": "れんごく火炎Ⅰ",
