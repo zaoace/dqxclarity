@@ -596,7 +596,7 @@
       },
       {
         "jp_string": "<%sM_item><%sM_rurastone><%sM_dot><%sM_sub>の石",
-        "en_string": ""
+        "en_string": "<%sM_item><%sM_rurastone><%sM_dot><%sM_sub>"
       },
       {
         "jp_string": "<%sM_item>のとくちょう",
@@ -656,7 +656,7 @@
       },
       {
         "jp_string": "<%sM_job>のレベル",
-        "en_string": "<%sM_job> levels"
+        "en_string": "<%sM_job>'s level"
       },
       {
         "jp_string": "<%sM_job>の特徴",
@@ -744,7 +744,7 @@
       },
       {
         "jp_string": "<%sM_name>の家の石",
-        "en_string": "<%sM_name> house stone"
+        "en_string": "<%sM_name>'s House"
       },
       {
         "jp_string": "<%sM_name>宛にチームチャット",
@@ -808,7 +808,7 @@
       },
       {
         "jp_string": "<%sM_pc>の",
-        "en_string": "<%sM_pc>"
+        "en_string": "<%sM_pc>'s"
       },
       {
         "jp_string": "<%sM_pc>のお宝の写真",
@@ -908,7 +908,7 @@
       },
       {
         "jp_string": "<%sM_pc>パーティ",
-        "en_string": "<%sM_pc>party"
+        "en_string": "<%sM_pc> party"
       },
       {
         "jp_string": "<%sM_pc>ルール",
@@ -924,7 +924,7 @@
       },
       {
         "jp_string": "<%sM_percent>％ダウン！",
-        "en_string": "<%sM_percent>%down!"
+        "en_string": "<%sM_percent>% down!"
       },
       {
         "jp_string": "<%sM_race>の姿に仮装することができる",
@@ -940,7 +940,7 @@
       },
       {
         "jp_string": "<%sM_rank>ランク　への試験が受けられるようになった！",
-        "en_string": "You can now take the test to <%sM_rank> rank!"
+        "en_string": "You can now take the test to rank <%sM_rank>!"
       },
       {
         "jp_string": "<%sM_rank>ランクの対戦パーティ 一覧",
@@ -960,7 +960,7 @@
       },
       {
         "jp_string": "<%sM_skill1>スキル",
-        "en_string": "<%sM_skill1>skill"
+        "en_string": "<%sM_skill1> skill"
       },
       {
         "jp_string": "<%sM_skill1>スキル をリセットした！",
@@ -992,7 +992,7 @@
       },
       {
         "jp_string": "<%sM_syokugyou>のスキル",
-        "en_string": "<%sM_syokugyou> skills"
+        "en_string": "<%sM_syokugyou>'s skills"
       },
       {
         "jp_string": "<%sM_syokunin>レシピの成功回数",
@@ -1008,7 +1008,7 @@
       },
       {
         "jp_string": "倒す時　<%sM_01>が浮かびあがる。",
-        "en_string": "If you defeat it, <%sM_01> comes 2 life."
+        "en_string": "When defeated, <%sM_01> emerges."
       },
       {
         "jp_string": "<%sW_REP_MIN_4TH_P>エテーネ王国",
@@ -1020,7 +1020,7 @@
       },
       {
         "jp_string": "<color_yellow>地下<%nM_OPEN_FLOOR>階が　選べるようになりました！",
-        "en_string": "<color_yellow>You can now choose the basement<%nM_OPEN_FLOOR>floor!"
+        "en_string": "<color_yellow>You can now choose basement floor <%nM_OPEN_FLOOR>!"
       },
       {
         "jp_string": "<partner>への依頼",
@@ -1028,15 +1028,15 @@
       },
       {
         "jp_string": "レベル転生をしたときに　追加スキルの選択が",
-        "en_string": "If you do a lvl reincarnation, you can select add. skills."
+        "en_string": "No additional skills were selected when level was reincarnated."
       },
       {
         "jp_string": "行われていません。追加スキルは",
-        "en_string": ""
+        "en_string": " Additional skills can be selected from"
       },
       {
         "jp_string": "魔物管理人から　覚えることができます。",
-        "en_string": "You can learn it from the Demon Keeper."
+        "en_string": "the monster manager."
       },
       {
         "jp_string": "目覚めし冒険者の広場　思い出アルバムに",
@@ -1048,7 +1048,7 @@
       },
       {
         "jp_string": "思い出アルバムに　写真を保存しています。",
-        "en_string": "I'm storing the photos in my memory album."
+        "en_string": "The photos have been stored in the memory album."
       },
       {
         "jp_string": "しばらく　お待ちください。",
@@ -1064,11 +1064,11 @@
       },
       {
         "jp_string": "撮影した写真が　表示されない場合も",
-        "en_string": "U may not be able 2 see the pic you've taken."
+        "en_string": "Even if the photo isn't displayed,"
       },
       {
         "jp_string": "保存は　されております。",
-        "en_string": "The data has been saved."
+        "en_string": " the data has been saved."
       },
       {
         "jp_string": "思い出アルバムから　ご確認ください。",
@@ -1076,23 +1076,23 @@
       },
       {
         "jp_string": "撮影枚数が　いっぱいです。",
-        "en_string": "I have a lot of pictures to take."
+        "en_string": "Your album is full."
       },
       {
         "jp_string": "写真を保存すると　一番古い写真が",
-        "en_string": "If u save a pic, the oldest pic is displayed."
+        "en_string": "When saving, the oldest photo"
       },
       {
         "jp_string": "上書きされますが　よろしいですか？",
-        "en_string": "It will be overwritten. Are you sure?"
+        "en_string": " will be overwritten. Are you sure?"
       },
       {
         "jp_string": "<speed=0><%sL_PC_NICK>とは　すでに",
-        "en_string": "What is <speed=0><%sL_PC_NICK> already?"
+        "en_string": "<speed=0><%sL_PC_NICK> is already"
       },
       {
         "jp_string": "フレンドになっています。",
-        "en_string": "I'm a friend."
+        "en_string": " a friend."
       },
       {
         "jp_string": "<speed=0><%sL_PC_NICK>への　さそいを　取り消した！",
@@ -1100,11 +1100,11 @@
       },
       {
         "jp_string": "<speed=0><%sL_PC_NICK>への　フレンドのさそいを",
-        "en_string": "Send a friend to <speed=0><%sL_PC_NICK>"
+        "en_string": "<speed=0>Friend request to <%sL_PC_NICK>"
       },
       {
         "jp_string": "取り消して　いいですか？<yesno><close>",
-        "en_string": "Cancel it. Are you sure? <yesno><close>"
+        "en_string": " will be cancelled. Are you sure? <yesno><close>"
       },
       {
         "jp_string": "<speed=0><%sL_PC_NICK>を　フレンドに　さそいました。",
@@ -1112,11 +1112,11 @@
       },
       {
         "jp_string": "ログアウト中の相手には　ログイン時に",
-        "en_string": "If you are logged out, you will be asked to log in."
+        "en_string": "If they are logged out, they will receive a friend"
       },
       {
         "jp_string": "フレンドのさそいが　届きます。",
-        "en_string": "You received an inviite from a friend."
+        "en_string": " request when they log in."
       },
       {
         "jp_string": "<speed=0><%sL_PC_NICK>を　フレンドに　さそいました。",
@@ -1140,11 +1140,11 @@
       },
       {
         "jp_string": "ブラックリストに加えると",
-        "en_string": "Add to Blacklist"
+        "en_string": "Adding them to the blacklist"
       },
       {
         "jp_string": "フレンド申請が　取り消されますが",
-        "en_string": "Your friend request will be canceled."
+        "en_string": " will cancel your friend request. "
       },
       {
         "jp_string": "よろしいですか？<yesno><close>",
@@ -1152,11 +1152,11 @@
       },
       {
         "jp_string": "フレンド申請受信数が　上限に達しています。",
-        "en_string": "Can't receive any more freind requests."
+        "en_string": "Can't receive any more friend requests."
       },
       {
         "jp_string": "時間を置いて　もう一度お試しください。",
-        "en_string": "Give it some time and try again."
+        "en_string": "Please wait awhile and try again."
       },
       {
         "jp_string": "すでに　ブラックリストに登録されています。",
@@ -1164,19 +1164,19 @@
       },
       {
         "jp_string": "すでに　リクエストを送っているか",
-        "en_string": "You've already sent a request"
+        "en_string": "It seems you've already sent a request"
       },
       {
         "jp_string": "フレンド登録済みのようです。",
-        "en_string": "Already registered as a friend."
+        "en_string":  "or registered them as a friend."
       },
       {
         "jp_string": "オンラインにいないので",
-        "en_string": "I'm not online."
+        "en_string": "They're not online, "
       },
       {
         "jp_string": "フレンドに　さそえませんでした。",
-        "en_string": "I couldn't invite him to be my friend."
+        "en_string": "so you can't send a friend request."
       },
       {
         "jp_string": "フレンドリストが　いっぱいのようです。",
@@ -1184,19 +1184,19 @@
       },
       {
         "jp_string": "フレンドに　さそえませんでした。",
-        "en_string": "I couldn't invite him to be my friend."
+        "en_string": "Friend request couldn't be sent."
       },
       {
         "jp_string": "フレンドリストに　登録されています。<br>",
-        "en_string": "You have been added to our friend list. <br>"
+        "en_string": "Added to friends list. <br>"
       },
       {
         "jp_string": "ブラックリストに加えると",
-        "en_string": "Added to blacklist"
+        "en_string": "Adding them to the blacklist"
       },
       {
         "jp_string": "フレンドリストからは　はずされますが",
-        "en_string": "You'll be removed from the friends list"
+        "en_string": " will remove them from your friends list."
       },
       {
         "jp_string": "よろしいですか？<yesno><close>",
@@ -1204,23 +1204,23 @@
       },
       {
         "jp_string": "ブラックリストに登録されているので",
-        "en_string": "I'm on the blacklist."
+        "en_string": "They're on the blacklist,"
       },
       {
         "jp_string": "フレンドには　さそえません。",
-        "en_string": "I can't invite you to be my friend."
+        "en_string": "so they can't be added as a friend."
       },
       {
         "jp_string": "フレンドに　さそいますか？<yesno><close>",
-        "en_string": "Would you like to invite a friend? <yesno><close>"
+        "en_string": "Would you like to add a friend? <yesno><close>"
       },
       {
         "jp_string": "フレンドに　さそえませんでした。",
-        "en_string": "I couldn't invite him to be my friend."
+        "en_string": "I couldn't invite them to be my friend."
       },
       {
         "jp_string": "時間を置いて　もう一度お試しください。",
-        "en_string": "Give it some time and try again."
+        "en_string": "Please wait awhile and try again."
       },
       {
         "jp_string": "ブラックリストから　はずしました。",
@@ -1228,11 +1228,11 @@
       },
       {
         "jp_string": "ブラックリストから　はずしますか？<yesno><close>",
-        "en_string": "Do you want to be removed from the blacklist? <yesno><close>"
+        "en_string": "Remove from the blacklist? <yesno><close>"
       },
       {
         "jp_string": "ブラックリストから　はずせませんでした。",
-        "en_string": "I couldn't remove you of the blacklist."
+        "en_string": "Couldn't remove from the blacklist."
       },
       {
         "jp_string": "時間を置いて　もう一度お試しください。",
@@ -1240,23 +1240,23 @@
       },
       {
         "jp_string": "ブラックリストに　加えました。",
-        "en_string": "I've added you to the blacklist."
+        "en_string": "Added to the blacklist."
       },
       {
         "jp_string": "ブラックリストに　加えますか？<yesno><close>",
-        "en_string": "Do you want to be added to the blacklist? <yesno><close>"
+        "en_string": "Add to the blacklist? <yesno><close>"
       },
       {
         "jp_string": "ブラックリストに　加えられませんでした。",
-        "en_string": "I was not added to the blacklist."
+        "en_string": "They were not added to the blacklist."
       },
       {
         "jp_string": "名前と　キャラＩＤを　確認してください。",
-        "en_string": "Please confirm your name and character ID."
+        "en_string": "Please confirm their name and character ID."
       },
       {
         "jp_string": "ブラックリストに　加えられませんでした。",
-        "en_string": "I was not added to the blacklist."
+        "en_string": "They were not added to the blacklist."
       },
       {
         "jp_string": "時間を置いて　もう一度お試しください。",
@@ -1268,11 +1268,11 @@
       },
       {
         "jp_string": "<%sM_syokunin>用のレシピです！",
-        "en_string": ""
+        "en_string": "It's a <%sM_syokunin> recipe!"
       },
       {
         "jp_string": "本当に　使ってもよろしいですか？<yesno 2><close>",
-        "en_string": ""
+        "en_string": "Is it really okay to use this?<yesno 2><close>"
       },
       {
         "jp_string": "<speed=0><%sM_pc>には　参照できる",
@@ -1284,131 +1284,131 @@
       },
       {
         "jp_string": "<speed=0><%sM_pc>は",
-        "en_string": ""
+        "en_string": "<speed=0><%sM_pc> is"
       },
       {
         "jp_string": "フレンドリストから　はずせません！",
-        "en_string": ""
+        "en_string": "Can't remove from friends list!"
       },
       {
         "jp_string": "<speed=0><%sM_pc>を",
-        "en_string": ""
+        "en_string": "<speed=0><%sM_pc>"
       },
       {
         "jp_string": "フレンドリストから　はずしました。",
-        "en_string": ""
+        "en_string": "Removed from friends list."
       },
       {
         "jp_string": "<speed=0><%sM_pc>を",
-        "en_string": ""
+        "en_string": "<speed=0><%sM_pc>"
       },
       {
         "jp_string": "フレンドリストから　はずせませんでした。",
-        "en_string": ""
+        "en_string": "Couldn't remove from friends list."
       },
       {
         "jp_string": "時間を置いて　もう一度お試しください。",
-        "en_string": ""
+        "en_string": "Wait a while and try again."
       },
       {
         "jp_string": "<speed=0>いまは　だれも　さそっていません。",
-        "en_string": ""
+        "en_string": "<speed=0>No one is inviting right now."
       },
       {
         "jp_string": "<speed=0>この行き先は　条件を満たすまで",
-        "en_string": ""
+        "en_string": "<speed=0>Until conditions are met, this destination"
       },
       {
         "jp_string": "見ることが　できません。",
-        "en_string": ""
+        "en_string": " cannot be seen."
       },
       {
         "jp_string": "<speed=0>すでに無効な　さそいに　なっています。",
-        "en_string": ""
+        "en_string": "<speed=0>The invitation is invalid."
       },
       {
         "jp_string": "<speed=0>すでに相手から　フレンドのさそいが　あります。",
-        "en_string": ""
+        "en_string": "<speed=0>Already have another friend's invitation."
       },
       {
         "jp_string": "『へんじをする』から　相手を選び",
-        "en_string": ""
+        "en_string": "Select \"Request\" to reply"
       },
       {
         "jp_string": "さそいに対して　返事をしましょう。",
-        "en_string": ""
+        "en_string": " to their request."
       },
       {
         "jp_string": "<speed=0>そのスロットには　キャラクターが",
-        "en_string": ""
+        "en_string": "<speed=0>There is no character registered"
       },
       {
         "jp_string": "登録されていません。",
-        "en_string": ""
+        "en_string": " in that slot."
       },
       {
         "jp_string": "<speed=0>どの　フレンドのさそいを　取り消しますか？<break>",
-        "en_string": ""
+        "en_string": "<speed=0>Cancel which friend request?<break>"
       },
       {
         "jp_string": "<speed=0>ほかの冒険者と　パーティを組んでいる時は",
-        "en_string": ""
+        "en_string": "<speed=0>When in a party with others, you must"
       },
       {
         "jp_string": "参加する人の数だけ　ゼルメアの聖紋が必要です。",
-        "en_string": ""
+        "en_string": "pay an additional Zelmea Crest for each person."
       },
       {
         "jp_string": "ゼルメアの聖紋を　<%nM_NUM>個使って",
-        "en_string": ""
+        "en_string": "Using <%nM_NUM> Zelmea Crests,"
       },
       {
         "jp_string": "装備レベル<%nM_LV>の防具が　手に入る",
-        "en_string": ""
+        "en_string": " you can get level <%nM_LV> equipment "
       },
       {
         "jp_string": "地下<%nM_FLOOR>階に　行きますか？<yesno><close>",
-        "en_string": ""
+        "en_string": " by going to B<%nM_FLOOR>F. Is this okay? <yesno><close>"
       },
       {
         "jp_string": "<speed=0>コンテンツの　近くの場所まで　移動しますか？",
-        "en_string": ""
+        "en_string": "<speed=0>Warp to the area of this content?"
       },
       {
         "jp_string": "<yesno><close>",
-        "en_string": ""
+        "en_string": "<yesno><close>"
       },
       {
         "jp_string": "<speed=0>サーバーとの通信に失敗し",
-        "en_string": ""
+        "en_string": "<speed=0>Server communication failed."
       },
       {
         "jp_string": "思い出アルバムへの保存が　できませんでした。",
-        "en_string": ""
+        "en_string": " Could not save to the memory album."
       },
       {
         "jp_string": "エラーコード：<%sERRID>",
-        "en_string": ""
+        "en_string": " Error Code: <%sERRID>"
       },
       {
         "jp_string": "<speed=0>ゼルメアの聖紋を　<%nM_NUM>個使って",
-        "en_string": ""
+        "en_string": "<speed=0>Using <%nM_NUM> Zelmea Crests,"
       },
       {
         "jp_string": "装備レベル<%nM_LV>の防具が　手に入る",
-        "en_string": ""
+        "en_string": " you can get level <%nM_LV> equipment "
       },
       {
         "jp_string": "地下<%nM_FLOOR>階に　行きますか？<yesno><close>",
-        "en_string": ""
+        "en_string": " by going to B<%nM_FLOOR>F. Is this okay? <yesno><close>"
       },
       {
         "jp_string": "<speed=0>フレンドに　さそうことができる",
-        "en_string": ""
+        "en_string": "<speed=0>There was no one I could"
       },
       {
         "jp_string": "相手が　いませんでした。",
-        "en_string": ""
+        "en_string": " invite to be my friend."
       },
       {
         "jp_string": "<speed=0>フレンドに　さそう相手を　選んでください。<break>",
@@ -1424,103 +1424,103 @@
       },
       {
         "jp_string": "<%sL_PC_NICK>を　フレンドに　さそいますか？<yesno><close>",
-        "en_string": ""
+        "en_string": "Send friend request to <%sL_PC_NICK>?<yesno><close>"
       },
       {
         "jp_string": "<speed=0>フレンドリストが　いっぱいです！",
-        "en_string": ""
+        "en_string": "<speed=0>Friends list is full！"
       },
       {
         "jp_string": "これ以上は　登録できません。",
-        "en_string": ""
+        "en_string": " You can't send any more requests."
       },
       {
         "jp_string": "<speed=0>フレンドリストが　取得できませんでした。",
-        "en_string": ""
+        "en_string": "<speed=0>Friends list could not be retrieved."
       },
       {
         "jp_string": "時間をおいて　もう一度お試しください。",
-        "en_string": ""
+        "en_string": " Please wait awhile and try again."
       },
       {
         "jp_string": "<speed=0>フレンド情報を　取得中です。",
-        "en_string": ""
+        "en_string": "<speed=0>Receiving friend information."
       },
       {
         "jp_string": "しばらくお待ちください。<break>",
-        "en_string": ""
+        "en_string": " Please wait a while.<break>"
       },
       {
         "jp_string": "<speed=0>ブラックリストが　いっぱいです！",
-        "en_string": ""
+        "en_string": "<speed=0>Blacklist is full!"
       },
       {
         "jp_string": "これ以上は　登録できません。",
-        "en_string": ""
+        "en_string": "You can't add any more."
       },
       {
         "jp_string": "<speed=0>ブラックリストには　誰も登録されていません。",
-        "en_string": ""
+        "en_string": "<speed=0>No one is registered on the blacklist."
       },
       {
         "jp_string": "<speed=0>リクエストを送って　相手がＯＫしたら",
-        "en_string": ""
+        "en_string": "<speed=0>If you send a request and they are okay with it,"
       },
       {
         "jp_string": "お互いのフレンドリストに　登録されます。",
-        "en_string": ""
+        "en_string": " you will be registered as friends."
       },
       {
         "jp_string": "よろしいですか？<yesno><close>",
-        "en_string": ""
+        "en_string": " Is that okay?<yesno><close>"
       },
       {
         "jp_string": "<speed=0>一部の情報を　取得できなかった",
-        "en_string": ""
+        "en_string": "<speed=0>Some character information could"
       },
       {
         "jp_string": "キャラクターがいます。",
-        "en_string": ""
+        "en_string": "not be received."
       },
       {
         "jp_string": "<speed=0>上記の内容で送信してもよろしいですか？",
-        "en_string": ""
+        "en_string": "<speed=0>Are you sure you want to send this content?"
       },
       {
         "jp_string": "<color_yellow>※システム情報も一緒に送られます。<color_white><yesno><close>",
-        "en_string": ""
+        "en_string": "<color_yellow> (System information will also be sent.)<color_white><yesno><close>"
       },
       {
         "jp_string": "<speed=0>仲間に　さそっていて",
-        "en_string": ""
+        "en_string": "<speed=0>There is a player who"
       },
       {
         "jp_string": "まだ　返事をもらっていない相手が　います。",
-        "en_string": ""
+        "en_string": " has still not replied to your request."
       },
       {
         "jp_string": "返事を待つか　さそいを取り消してください。",
-        "en_string": ""
+        "en_string": " Please wait for a reply or cancel the request."
       },
       {
         "jp_string": "<speed=0>入力されていない項目があります。",
-        "en_string": ""
+        "en_string": "<speed=0>Some fields are still empty."
       },
       {
         "jp_string": "名前と　キャラＩＤを　正しく入力してください。",
-        "en_string": ""
+        "en_string": " Please check that the character name and ID are correct."
       },
       {
         "jp_string": "<speed=0>入力した　名前と　キャラＩＤに",
-        "en_string": ""
+        "en_string": "<speed=0>There wasn't anyone who matched"
       },
       {
         "jp_string": "当てはまる人が　いませんでした。",
-        "en_string": ""
+        "en_string": " the supplied name and ID."
       },
       {
         "jp_string": "名前と　キャラＩＤを　確認してください。",
-        "en_string": ""
+        "en_string": " Please check the name and ID."
       },
       {
         "jp_string": "<speed=0>参加条件を　満たしていないため",
@@ -1652,7 +1652,7 @@
       },
       {
         "jp_string": "GMサポート",
-        "en_string": ""
+        "en_string": "GM Support"
       },
       {
         "jp_string": "ID/パスワード不明",
@@ -1676,7 +1676,7 @@
       },
       {
         "jp_string": "Lv<%dM_lv>まで",
-        "en_string": ""
+        "en_string": "Until Lv<%dM_lv>"
       },
       {
         "jp_string": "Lv<%dM_lv>以上装備可",
@@ -1716,15 +1716,15 @@
       },
       {
         "jp_string": "[ システム ]",
-        "en_string": ""
+        "en_string": "[ System ]"
       },
       {
         "jp_string": "[ 上級 ]",
-        "en_string": ""
+        "en_string": "[ Adv. ]"
       },
       {
         "jp_string": "[ 中級 ]",
-        "en_string": ""
+        "en_string": "[ Novice ]"
       },
       {
         "jp_string": "[ 全て表示 ]",
@@ -1732,31 +1732,31 @@
       },
       {
         "jp_string": "[ 初級 ]",
-        "en_string": ""
+        "en_string": "[ Begnr. ]"
       },
       {
         "jp_string": "[ 固定 ]",
-        "en_string": ""
+        "en_string": "[ Fixed ]"
       },
       {
         "jp_string": "[ 超上級 ]",
-        "en_string": ""
+        "en_string": "[ Super ]"
       },
       {
         "jp_string": "[ 通常 ]",
-        "en_string": ""
+        "en_string": "[ Nrml. ]"
       },
       {
         "jp_string": "[ID順]",
-        "en_string": ""
+        "en_string": "[By ID]"
       },
       {
         "jp_string": "[L1/R1ボタン]",
-        "en_string": ""
+        "en_string": "[L1/R1 Button]"
       },
       {
         "jp_string": "[L1ボタン]",
-        "en_string": ""
+        "en_string": "[L1 Button]"
       },
       {
         "jp_string": "[Lv<%2dM_nn>]",
@@ -1764,7 +1764,7 @@
       },
       {
         "jp_string": "[R1ボタン]",
-        "en_string": ""
+        "en_string": "[R1 Button]"
       },
       {
         "jp_string": "[　　50音順　　]",
@@ -1772,23 +1772,23 @@
       },
       {
         "jp_string": "[　とうろく順　]",
-        "en_string": ""
+        "en_string": "[  In Order  ]"
       },
       {
         "jp_string": "[おうち中]",
-        "en_string": ""
+        "en_string": "[Inside]"
       },
       {
         "jp_string": "[おとも中]",
-        "en_string": ""
+        "en_string": "[Friend]"
       },
       {
         "jp_string": "[つよさ順]",
-        "en_string": ""
+        "en_string": "[By Stats]"
       },
       {
         "jp_string": "[なつき度上限]",
-        "en_string": ""
+        "en_string": "[Max. Happiness]"
       },
       {
         "jp_string": "[ウ]",
@@ -1824,7 +1824,7 @@
       },
       {
         "jp_string": "[サポート]",
-        "en_string": ""
+        "en_string": "[Support]"
       },
       {
         "jp_string": "[セット済]",
@@ -1852,7 +1852,7 @@
       },
       {
         "jp_string": "[メッセージ]",
-        "en_string": ""
+        "en_string": "[Message]"
       },
       {
         "jp_string": "[モンスター順]",
@@ -1868,7 +1868,7 @@
       },
       {
         "jp_string": "[リーダー]",
-        "en_string": ""
+        "en_string": "[Leader]"
       },
       {
         "jp_string": "[レ]",
@@ -1940,7 +1940,7 @@
       },
       {
         "jp_string": "[参加中]",
-        "en_string": "[Party]"
+        "en_string": "[Active]"
       },
       {
         "jp_string": "[取り引き優先]",
@@ -1968,7 +1968,7 @@
       },
       {
         "jp_string": "[待機中]",
-        "en_string": "[Sub]"
+        "en_string": "[Standby]"
       },
       {
         "jp_string": "[所持数順]",
@@ -2048,15 +2048,15 @@
       },
       {
         "jp_string": "[Ｌボタン]",
-        "en_string": ""
+        "en_string": "[L Button]"
       },
       {
         "jp_string": "[Ｌ・Ｒボタン]",
-        "en_string": ""
+        "en_string": "[L/R Button]"
       },
       {
         "jp_string": "[Ｒボタン]",
-        "en_string": ""
+        "en_string": "[R Button]"
       },
       {
         "jp_string": "×××ワールド障害発生のお知らせ",
@@ -2140,23 +2140,23 @@
       },
       {
         "jp_string": "★★★のみ",
-        "en_string": ""
+        "en_string": "3★ Only"
       },
       {
         "jp_string": "★★のみ",
-        "en_string": ""
+        "en_string": "2★ Only"
       },
       {
         "jp_string": "★★以上",
-        "en_string": ""
+        "en_string": "2★ or more"
       },
       {
         "jp_string": "★のみ",
-        "en_string": ""
+        "en_string": "★ Only"
       },
       {
         "jp_string": "★の数でみる",
-        "en_string": ""
+        "en_string": "By No. of ★"
       },
       {
         "jp_string": "★以上",
