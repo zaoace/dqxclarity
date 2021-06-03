@@ -7755,17 +7755,17 @@
       {
         "line_break": true,
         "jp_string": "ドルボードは　燃料切れだった！ ドルセリンを　チャージしますか？<yesno><close>",
-        "en_string": "The dolboard is out of fuel! Use Dolserin to charge it?<yesno><close>"
+        "en_string": "The dolboard is out of fuel!|Use Dolserin to charge it?<yesno><close>"
       },
       {
         "line_break": true,
         "jp_string": "ドルボードは　燃料切れだった！ 学園外で　ドルセリンをチャージすれば 30分間　乗れるようになります。",
-        "en_string": "The dolboard is out of fuel! Use Dolserin to charge the tank for 30 minutes."
+        "en_string": "The dolboard is out of fuel!|Use Dolserin to charge the tank for 30 minutes."
       },
       {
         "line_break": true,
         "jp_string": "ドルボードは　燃料切れだった！ 道具屋で買える　ドルセリンをチャージすれば 30分間　乗れるようになります。",
-        "en_string": "The dolboard is out of fuel! Buy Dolserin from a general store to refill it."
+        "en_string": "The dolboard is out of fuel!|Buy Dolserin from a general store to refill it."
       },
       {
         "line_break": true,
@@ -9605,52 +9605,52 @@
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。",
-        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems very strong...|Number of kills: <%dM_kill_num>"
+        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems very strong...|Kills: <%dM_kill_num>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>",
-        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems very strong...|Number of kills: <%dM_kill_num> <%sM_saw>"
+        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems very strong...|Kills: <%dM_kill_num> <%sM_saw>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|ほぼ同格の相手だ。|討伐数 <%dM_kill_num>匹。",
-        "en_string": "<speed=0>It's a <%sM_pc>. (<%sM_type>)|Seems like an even opponent.|Number of kills: <%dM_kill_num>"
+        "en_string": "<speed=0>It's a <%sM_pc>. (<%sM_type>)|Seems like an even opponent.|Kills: <%dM_kill_num>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|ほぼ同格の相手だ。|討伐数 <%dM_kill_num>匹。<%sM_saw>",
-        "en_string": "<speed=0>It's a <%sM_pc>. (<%sM_type>)|Seems like an even opponent.|Number of kills: <%dM_kill_num> <%sM_saw>"
+        "en_string": "<speed=0>It's a <%sM_pc>. (<%sM_type>)|Seems like an even opponent.|Kills: <%dM_kill_num> <%sM_saw>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。",
-        "en_string": "<speed=0><%sM_pc> (<%sM_type>)|I think it's best not to mess with it.|Number of kills: <%dM_kill_num>."
+        "en_string": "<speed=0><%sM_pc> (<%sM_type>)|I think it's best not to mess with it.|Kills: <%dM_kill_num>."
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>",
-        "en_string": "<speed=0><%sM_pc>（<%sM_type>)|I think it's best not to mess with it.|Number of kills: <%dM_kill_num>. <%sM_saw>"
+        "en_string": "<speed=0><%sM_pc>（<%sM_type>)|I think it's best not to mess with it.|Kills: <%dM_kill_num>. <%sM_saw>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|強そうだ……。|討伐数 <%dM_kill_num>匹。",
-        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems strong...|Number of kills: <%dM_kill_num>"
+        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems strong...|Kills: <%dM_kill_num>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>",
-        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems strong...|Number of kills: <%dM_kill_num> <%sM_saw>"
+        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems strong...|Kills: <%dM_kill_num> <%sM_saw>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|格下の相手のようだ。|討伐数 <%dM_kill_num>匹。",
-        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems pretty weak.|Number of kills: <%dM_kill_num>"
+        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems pretty weak.|Kills: <%dM_kill_num>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|格下の相手のようだ。|討伐数 <%dM_kill_num>匹。<%sM_saw>",
-        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems pretty weak.|Number of kills: <%dM_kill_num> <%sM_saw>"
+        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems pretty weak.|Kills: <%dM_kill_num> <%sM_saw>"
       },
       {
         "special_line_break": true,
