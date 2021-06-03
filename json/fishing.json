@@ -69,6 +69,7 @@
         "en_string": "Loosening Recovery Up will increase the amount recovered when you loose your line."
       },
       {
+        "line_break":true,
         "jp_string": "さおをゆるめて くいつき度を 回復させる",
         "en_string": "Loose your line|and restore|biting frequency."
       },
