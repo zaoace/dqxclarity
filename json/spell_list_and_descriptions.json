@@ -160,11 +160,11 @@
       },
       {
         "jp_string": "げんま召喚",
-        "en_string": "Summon Genma"
+        "en_string": "Summon Spirit"
       },
       {
         "jp_string": "げんま解放",
-        "en_string": ""
+        "en_string": "Spirit Release"
       },
       {
         "jp_string": "こうげきに 光のチカラを宿す 魔法戦士専用特技",
@@ -360,15 +360,15 @@
       },
       {
         "jp_string": "たまに２回攻撃",
-        "en_string": "Sometimes Atk Twice"
+        "en_string": "Rarely Atk Twice"
       },
       {
         "jp_string": "たまにＨＰ１生き残り",
-        "en_string": "Sometimes Survive at 1 HP"
+        "en_string": "Rarely Survive at 1 HP"
       },
       {
         "jp_string": "たまにＭＰ消費しない",
-        "en_string": "Sometimes Consume No MP"
+        "en_string": "Rarely Consume No MP"
       },
       {
         "jp_string": "ためる",
@@ -507,8 +507,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "ひばしらを立て 敵１体を攻撃 天地雷鳴士専用",
-        "en_string": ""
+        "en_string": "Create a pillar|of flames that|singes an enemy."
       },
       {
         "jp_string": "ひゃくれつなめ",
@@ -2523,8 +2524,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "周囲に土ダメージ 風耐性も下げる 天地雷鳴士専用",
-        "en_string": ""
+        "en_string": "Earth attack that|hits in an area|Wind Res.↓"
       },
       {
         "jp_string": "周囲に闇の攻撃 闇耐性も下げる 魔剣士専用特技",
@@ -2659,8 +2661,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "周囲を落雷で攻撃 たまにマヒさせる 天地雷鳴士専用",
-        "en_string": ""
+        "en_string": "Lightning attack|that hits an area|Rarely Paralyzes"
       },
       {
         "jp_string": "呪文がかなり 暴走しやすくなる 魔法陣を作る",
@@ -3512,7 +3515,7 @@
       },
       {
         "jp_string": "水神のたつまき",
-        "en_string": ""
+        "en_string": "Water Gods Tornado"
       },
       {
         "jp_string": "水系の敵に 威力を発揮する 軽やかな扇の技",
@@ -3696,8 +3699,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "直線上に土攻撃 雷耐性も下げる 天地雷鳴士専用",
-        "en_string": ""
+        "en_string": "Summon earth|spikes in a line.|Lightning Res.↓"
       },
       {
         "jp_string": "相手の攻撃を 受けながしつつ なぐりかかる大技",

@@ -8292,7 +8292,7 @@
       },
       {
         "jp_string": "いなずま",
-        "en_string": ""
+        "en_string": "Lightning"
       },
       {
         "jp_string": "いなずま斬り",
@@ -10324,15 +10324,15 @@
       },
       {
         "jp_string": "げんま召喚",
-        "en_string": ""
+        "en_string": "Summon Spirit"
       },
       {
         "jp_string": "げんま召喚！？",
-        "en_string": ""
+        "en_string": "Summon Spirit!?"
       },
       {
         "jp_string": "げんま召喚？",
-        "en_string": ""
+        "en_string": "Summon Spirit?"
       },
       {
         "jp_string": "げんま解放",
@@ -12080,7 +12080,7 @@
       },
       {
         "jp_string": "じわれ",
-        "en_string": ""
+        "en_string": "Fissure"
       },
       {
         "jp_string": "じわれの印",
@@ -15572,11 +15572,12 @@
       },
       {
         "jp_string": "ひばしら",
-        "en_string": ""
+        "en_string": "Pyre o Fire"
       },
       {
+        "line_break": true,
         "jp_string": "ひばしらを立て 敵１体を攻撃 天地雷鳴士専用",
-        "en_string": ""
+        "en_string": "Create a pillar|of flames that|singes an enemy."
       },
       {
         "jp_string": "ひゃくれつなめ",
@@ -16864,7 +16865,7 @@
       },
       {
         "jp_string": "マグマ",
-        "en_string": ""
+        "en_string": "Magma"
       },
       {
         "jp_string": "マグマが 噴き出した！",
@@ -17772,7 +17773,7 @@
       },
       {
         "jp_string": "めいどうふうま",
-        "en_string": ""
+        "en_string": "King Fissure"
       },
       {
         "jp_string": "メガキャノン",
@@ -20779,8 +20780,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "周囲に土ダメージ 風耐性も下げる 天地雷鳴士専用",
-        "en_string": ""
+        "en_string": "Earth attack that|hits in an area|Wind Res.↓"
       },
       {
         "jp_string": "周囲に闇ダメージ 様々な状態異常を 引き起こす",
@@ -21195,8 +21197,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "周囲を落雷で攻撃 たまにマヒさせる 天地雷鳴士専用",
-        "en_string": ""
+        "en_string": "Lightning attack|that hits an area|Rarely Paralyzes"
       },
       {
         "jp_string": "呪いがとけた",
@@ -22587,8 +22590,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "宝箱に魔物が 潜んでいないか じっと見きわめる",
-        "en_string": ""
+        "en_string": "Keep an eye out|for any demons|lurking in chests."
       },
       {
         "jp_string": "宝箱をじっと見つめた",
@@ -25372,7 +25376,7 @@
       },
       {
         "jp_string": "水神のたつまき",
-        "en_string": ""
+        "en_string": "Water Gods Tornado"
       },
       {
         "jp_string": "水神の舞",
@@ -26789,8 +26793,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "直線上に土攻撃 雷耐性も下げる 天地雷鳴士専用",
-        "en_string": ""
+        "en_string": "Summon earth|spikes in a line.|Lightning Res.↓"
       },
       {
         "jp_string": "相手のダメージを 下げる一撃を放ち 武器ガードも上昇",
