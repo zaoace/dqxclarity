@@ -9625,12 +9625,20 @@
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。",
+<<<<<<< Updated upstream
         "en_string": "<speed=0>It's a <%sM_pc>. (<%sM_type>)|It's best not to mess with it right now.|Number of kills: <%dM_kill_num>"
+=======
+        "en_string": "<speed=0><%sM_pc> (<%sM_type>)|I think it's best not to mess with it.|Number of kills: <%dM_kill_num>."
+>>>>>>> Stashed changes
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>",
+<<<<<<< Updated upstream
         "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|It's best not to mess with it right now.|Number of kills: <%dM_kill_num> <%sM_saw>"
+=======
+        "en_string": "<speed=0><%sM_pc>（<%sM_type>)|I think it's best not to mess with it.|Number of kills: <%dM_kill_num>. <%sM_saw>"
+>>>>>>> Stashed changes
       },
       {
         "special_line_break": true,
