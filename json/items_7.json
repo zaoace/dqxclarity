@@ -9420,6 +9420,7 @@
         "en_string": "A seemingly|useless statue|of Duston."
       },
       {
+        "line_break": true,
         "jp_string": "あまりのあまさで 仲間ひとりの ＨＰを６０～回復",
         "en_string": "Recovers about|60 HP with|sweetness."
       },
@@ -9565,20 +9566,21 @@
         "en_string": "Argon"
       },
       {
+        "line_break": true,
         "jp_string": "アルゴンキッズが ギュッと詰まった キュートなポーチ",
         "en_string": "A cute pouch|packed with|Argon Kids."
       },
       {
         "jp_string": "アルゴンキッズの像",
-        "en_string": ""
+        "en_string": "Argon Kids Photo"
       },
       {
         "jp_string": "アルゴングレートの像",
-        "en_string": ""
+        "en_string": "Argon Great Photo"
       },
       {
         "jp_string": "アルゴンズポーチ",
-        "en_string": ""
+        "en_string": "Argon's Pouch"
       },
       {
         "jp_string": "アルテミスの恵み",
@@ -9697,10 +9699,12 @@
         "en_string": "Ammonite"
       },
       {
+        "line_break":true,
         "jp_string": "アンルシアが 描かれた 庭用の肖像画",
         "en_string": "Anlucia is|drawn on this|garden portrait."
       },
       {
+        "line_break":true,
         "jp_string": "アンルシアが 描かれた 肖像画",
         "en_string": "Anlucia is|drawn on this|portrait."
       },
@@ -9781,6 +9785,7 @@
         "en_string": "Easter Topiary"
       },
       {
+        "line_break":true,
         "jp_string": "イースターの 仲間がいっぱいの 楽しいアーチ",
         "en_string": "A fun arch|featuring friends|of Easter."
       },
@@ -9793,6 +9798,7 @@
         "en_string": "Iya ta shinpa keu!"
       },
       {
+        "line_break":true,
         "jp_string": "いいね！されると 色が変わる チーム用の帽子",
         "en_string": "A team hat|that changes|color if touched."
       },
@@ -9822,6 +9828,7 @@
         "en_string": "Yellow Perch"
       },
       {
+        "line_break":true,
         "jp_string": "イエローリップが 咲く栽培用のタネ ５日で収穫可能",
         "en_string": "Seeds for yellow|lips that grow|in 5 days."
       },
