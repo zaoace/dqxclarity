@@ -7044,12 +7044,12 @@
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰ１９０～回復 使ったらなくなる",
-        "en_string": "Restores 190 HP|to one companion."
+        "en_string": "Restores 190 HP|to a single|companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰ３００～回復 使ったらなくなる",
-        "en_string": "Restores 300 HP|to one companion."
+        "en_string": "Restores 300 HP|to a single|companion."
       },
       {
         "line_break": true,
@@ -7059,47 +7059,47 @@
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを２０～回復 使ったらなくなる",
-        "en_string": "Restores 20 HP|to one companion."
+        "en_string": "Restores 20 HP|to a single|companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを３０～回復 使ったらなくなる",
-        "en_string": "Restores 30 HP|to one companion."
+        "en_string": "Restores 30 HP|to a single|companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを３５～回復 使ったらなくなる",
-        "en_string": "Restores 35 HP|to one companion."
+        "en_string": "Restores 35 HP|to a single|companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを５０～回復 使ったらなくなる",
-        "en_string": "Restores 50 HP|to one companion."
+        "en_string": "Restores 50 HP|to a single|companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを６０～回復 使ったらなくなる",
-        "en_string": "Restores 60 HP|to one companion."
+        "en_string": "Restores 60 HP|to a single|companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを７０～回復 使ったらなくなる",
-        "en_string": "Restores 70 HP|to one companion."
+        "en_string": "Restores 70 HP|to a single|companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを８０～回復 使ったらなくなる",
-        "en_string": "Restores 80 HP|to one companion."
+        "en_string": "Restores 80 HP|to a single|companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＭＰ１５０～回復 使ったらなくなる",
-        "en_string": "Restores 150 MP|to one|companion."
+        "en_string": "Restores 150 MP|to a single|companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを１０回復 使ったらなくなる",
-        "en_string": "Restores 10 MP|to one|companion."
+        "en_string": "Restores 10 MP|to a single|companion."
       },
       {
         "line_break": true,
@@ -7109,17 +7109,17 @@
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを３６～回復 使ったらなくなる",
-        "en_string": "Restores 36 MP| for a single|companion."
+        "en_string": "Restores 36 MP|to a single|companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを７０～回復 使ったらなくなる",
-        "en_string": "Restores 70 MP| for a single|companion."
+        "en_string": "Restores 70 MP|to a single|companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを９０～回復 使ったらなくなる",
-        "en_string": "Restores 90 MP| for a single|companion."
+        "en_string": "Restores 90 MP|to a single|companion."
       },
       {
         "line_break": true,
