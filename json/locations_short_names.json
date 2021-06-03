@@ -248,7 +248,7 @@
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F""
+        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F"
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階<%sW_AUTODUNG_CF>",
