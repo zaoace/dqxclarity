@@ -24,7 +24,7 @@
       },
       {
         "jp_string": "10秒後に終了します。何かボタンを押すと中止されます。",
-        "en_string": ""
+        "en_string": "Logging off in 10 seconds. Press any button to cancel."
       },
       {
         "jp_string": "1280×720",
@@ -36,7 +36,7 @@
       },
       {
         "jp_string": "2位だった",
-        "en_string": ""
+        "en_string": "2nd Place"
       },
       {
         "jp_string": "3450衣装",
@@ -48,35 +48,35 @@
       },
       {
         "jp_string": "3位だった",
-        "en_string": ""
+        "en_string": "3rd Place"
       },
       {
         "jp_string": "<%2sCLASS>ランク",
-        "en_string": ""
+        "en_string": "<%2sCLASS> Rank"
       },
       {
         "jp_string": "<%dM_gold>ゴールド　失った……。",
-        "en_string": ""
+        "en_string": "Lost <%dM_gold> gold..."
       },
       {
         "jp_string": "<%dM_gold>ゴールドを 手に入れた！",
-        "en_string": ""
+        "en_string": "Received <%dM_gold> gold!"
       },
       {
         "jp_string": "<%nEV_NUM>番目の文字",
-        "en_string": ""
+        "en_string": "<%nEV_NUM> Character"
       },
       {
         "jp_string": "<%sL_FISH>を　入れた！",
-        "en_string": ""
+        "en_string": "Put in <%sL_FISH>!"
       },
       {
         "jp_string": "<%sL_FISH>を　逃した！",
-        "en_string": ""
+        "en_string": "<%sL_FISH> escaped!"
       },
       {
         "jp_string": "<%sL_FISH>を　釣った！",
-        "en_string": ""
+        "en_string": "Caught <%sL_FISH>!"
       },
       {
         "jp_string": "<%sL_MINION>を　休ませてあげますか？<yesno><close>",
@@ -92,23 +92,23 @@
       },
       {
         "jp_string": "<%sM_Badge>を　手に入れた！",
-        "en_string": ""
+        "en_string": "Received <%sM_Badge>!"
       },
       {
         "jp_string": "<%sM_action>は　ドルボードでは　使えない！",
-        "en_string": ""
+        "en_string": "Can't use <%sM_action> on the dolboard!"
       },
       {
         "jp_string": "<%sM_action>は　飛竜では　使えない！",
-        "en_string": ""
+        "en_string": "Can't use <%sM_action> on your dragon!"
       },
       {
         "jp_string": "<%sM_action>を　おぼえる",
-        "en_string": ""
+        "en_string": "Learned <%sM_action>"
       },
       {
         "jp_string": "<%sM_item>",
-        "en_string": ""
+        "en_string": "<%sM_item>"
       },
       {
         "jp_string": "<%sM_item><%sM_plusnum>の登録を　更新した。",
@@ -116,23 +116,23 @@
       },
       {
         "jp_string": "<%sM_item><%sM_plusnum>を 手に入れた！",
-        "en_string": ""
+        "en_string": "Received <%sM_plusnum> <%sM_item>!"
       },
       {
         "jp_string": "<%sM_item><%sM_plusnum>を　はずした。",
-        "en_string": ""
+        "en_string": "Tossed <%sM_plusnum> <%sM_item>."
       },
       {
         "jp_string": "<%sM_item><%sM_plusnum>を　登録した。",
-        "en_string": ""
+        "en_string": "Registered <%sM_plusnum> <%sM_item>."
       },
       {
         "jp_string": "<%sM_item><%sM_plusnum>を　装備した。",
-        "en_string": ""
+        "en_string": "Equipped <%sM_plusnum> <%sM_item>."
       },
       {
         "jp_string": "<%sM_item><%sM_plusnum>を　装備した！",
-        "en_string": ""
+        "en_string": "Equipped <%sM_plusnum> <%sM_item>!"
       },
       {
         "jp_string": "<%sM_item><%sM_plusnum>を　解除した。",
@@ -140,11 +140,11 @@
       },
       {
         "jp_string": "<%sM_item>を 手に入れた！",
-        "en_string": ""
+        "en_string": "Received <%sM_item>!"
       },
       {
         "jp_string": "<%sM_item>バッジを　はずした。",
-        "en_string": ""
+        "en_string": "Tossed the <%sM_item> badge."
       },
       {
         "jp_string": "<%sM_item>バッジを　装備した。",
@@ -152,7 +152,7 @@
       },
       {
         "jp_string": "<%sM_monster>は　かなしそうだ......。",
-        "en_string": ""
+        "en_string": "<%sM_monster> looks sad..."
       },
       {
         "jp_string": "<%sM_monster>を　仲間にしますか？<se_nots System 0><break>",
@@ -164,19 +164,19 @@
       },
       {
         "jp_string": "<%sM_monster_name>で　よろしいですか？<yesno><break>",
-        "en_string": ""
+        "en_string": "<%sM_monster_name> is okay?"
       },
       {
         "jp_string": "<%sM_npc>のお願い",
-        "en_string": ""
+        "en_string": "<%sM_npc>'s Request"
       },
       {
         "jp_string": "<%sM_npc>の話を聞く",
-        "en_string": ""
+        "en_string": "<%sM_npc>'s Story"
       },
       {
         "jp_string": "<%sM_pc>だ。",
-        "en_string": ""
+        "en_string": "It's <%sM_pc>."
       },
       {
         "jp_string": "<%sM_pc>に　わたすそうびを選んでください。",
@@ -184,7 +184,7 @@
       },
       {
         "jp_string": "<%sM_pc>は <%sM_item>を使った。",
-        "en_string": ""
+        "en_string": "<%sM_pc> used <%sM_item>."
       },
       {
         "jp_string": "<%sM_pc>は <%sM_monster>を 仲間にする方法を 覚えた！",
@@ -200,7 +200,7 @@
       },
       {
         "jp_string": "<%sM_pc>は　ルーラストーンを使った！",
-        "en_string": ""
+        "en_string": "<%sM_pc> used a zoomstone!"
       },
       {
         "jp_string": "<%sM_pc>は　別チームのため　誘えません。",
@@ -212,7 +212,7 @@
       },
       {
         "jp_string": "<%sM_pc>を　チームに入れた！",
-        "en_string": ""
+        "en_string": "<%sM_pc> joined a team!"
       },
       {
         "jp_string": "<%sM_rurastone>へ行ける石",
@@ -548,7 +548,7 @@
       },
       {
         "jp_string": "<speed=0>ここでは　ロックできません。",
-        "en_string": ""
+        "en_string": "<speed=0>You can't lock that here."
       },
       {
         "jp_string": "<speed=0>ここでは　仲間から抜けられません！",
@@ -556,7 +556,7 @@
       },
       {
         "jp_string": "<speed=0>ここでは　使えません！",
-        "en_string": ""
+        "en_string": "<speed=0>You can't use that here!"
       },
       {
         "jp_string": "<speed=0>ここでは　冒険を中断できません！",
@@ -568,7 +568,7 @@
       },
       {
         "jp_string": "<speed=0>ここでは　設定できません！",
-        "en_string": ""
+        "en_string": "<speed=0>You cannot change settings here!"
       },
       {
         "jp_string": "<speed=0>ここでは　追加スキル変更は　できません！",
@@ -580,7 +580,7 @@
       },
       {
         "jp_string": "<speed=0>このクエストは　すでにクリアしています。",
-        "en_string": ""
+        "en_string": "<speed=0>This quest has already been cleared."
       },
       {
         "jp_string": "<speed=0>このバトルに必要な素材が足りません。",
@@ -6515,27 +6515,27 @@
       {
         "line_break": true,
         "jp_string": "<speed=0>救護室に　戻りますか？ フェルドは　失いません。<yesno2><close>",
-        "en_string": ""
+        "en_string": "Return to the first aid room? You won't lose Feld.<yesno2><close>"
       },
       {
         "line_break": true,
         "jp_string": "<speed=0>新しい<%sM_action>をつくると　いちばん 古いものが消えますが　よろしいですか？ <yesno><close>",
-        "en_string": ""
+        "en_string": "<speed=0>Creating a new <%sM_action> causes the old one to disappear. Is this okay?<yesno><close>"
       },
       {
         "line_break": true,
         "jp_string": "<speed=0>新しいバクダンをつくると　いちばん 古いものが消えますが　よろしいですか？ <yesno><close>",
-        "en_string": ""
+        "en_string": "<speed=0>Is it okay to replace your current bomb with a new one?<yesno><close>"
       },
       {
         "line_break": true,
         "jp_string": "<speed=0>新しいボディガードを呼ぶと 今のボディガードが消えますが　よろしいですか？ <yesno><close>",
-        "en_string": ""
+        "en_string": "<speed=0>Is it okay to replace your current bodyguard with a new one?<yesno><close>"
       },
       {
         "line_break": true,
         "jp_string": "<speed=0>新しいリレミトゲートをつくると　いちばん 古いものが消えますが　よろしいですか？ <yesno><close>",
-        "en_string": ""
+        "en_string": "<speed=0>Is it okay to overwrite your previous Evac gate?<yesno><close>"
       },
       {
         "line_break": true,
@@ -6555,7 +6555,7 @@
       {
         "line_break": true,
         "jp_string": "<speed=0>日替わりクエスト『<%sM_Quest1>』を キャンセルしました。",
-        "en_string": ""
+        "en_string": "<speed=0>Daily quest '<%sM_Quest1>' cancelled."
       },
       {
         "line_break": true,
@@ -6830,7 +6830,7 @@
       {
         "line_break": true,
         "jp_string": "<speed=0>通信エラーのため　情報が取得できませんでした。 エラーコード：<%sERRID>",
-        "en_string": ""
+        "en_string": "<speed=0>Information unavailable due to connection error. Error Code: <%sERRID>"
       },
       {
         "line_break": true,
@@ -6880,42 +6880,42 @@
       {
         "line_break": true,
         "jp_string": "<speed=0>顔アイコンの表情を 『<%sM_Facial>』に　変更しました。",
-        "en_string": ""
+        "en_string": "<speed=0>Changed facial expression to '<%sM_Facial>'"
       },
       {
         "line_break": true,
         "jp_string": "<speed=0>顔アイコンの表情を　変更できます。 顔を隠すような　装備をしている場合は 表情が見えませんので　ご注意ください。<break>",
-        "en_string": ""
+        "en_string": "<speed=0>You can change the facial expression of your face icon.<break>"
       },
       {
         "line_break": true,
         "jp_string": "<speed=0>飛竜に　乗っている状態では ついてクン設定を　変更できません！ 降りてから　お試しください。　",
-        "en_string": ""
+        "en_string": "<speed=0>You cannot change pet settings while riding your dragon!"
       },
       {
         "line_break": true,
         "jp_string": "<speed=0>魔法の迷宮から 元の場所に　戻りますか？ ゴールドは　失いません。<yesno2><close>",
-        "en_string": ""
+        "en_string": "<speed=0>Leave the magic labyrinth? You won't lose any gold.<yesno2><close>"
       },
       {
         "line_break": true,
         "jp_string": "<speed=0>魔法の迷宮から出て　元の場所に 戻って　よいですか？<yesno><close>",
-        "en_string": ""
+        "en_string": "<speed=0>Do you want to leave the magic labyrinth?<yesno><close>"
       },
       {
         "line_break": true,
         "jp_string": "JISキーボードで 入力します",
-        "en_string": ""
+        "en_string": "Input with|JIS keyboard."
       },
       {
         "line_break": true,
         "jp_string": "L1/R1ボタンを 押したときの 動きを設定します",
-        "en_string": ""
+        "en_string": "Set movement|when pressing|L1/R1 button."
       },
       {
         "line_break": true,
         "jp_string": "USキーボードで 入力します ローマ字入力のみ",
-        "en_string": ""
+        "en_string": "Romaji only input|with a US|keyboard."
       },
       {
         "line_break": true,
@@ -7060,7 +7060,7 @@
       {
         "line_break": true,
         "jp_string": "お話の行き先を 設定します",
-        "en_string": "Set destination|of the convo."
+        "en_string": "Set destination|of the story."
       },
       {
         "line_break": true,
@@ -7075,7 +7075,7 @@
       {
         "line_break": true,
         "jp_string": "お部屋のネコの 名前を変えたり お別れできる",
-        "en_string": ""
+        "en_string": "You can|rename or abandon|your cats."
       },
       {
         "line_break": true,
@@ -7120,12 +7120,12 @@
       {
         "line_break": true,
         "jp_string": "このクエストは期間が終了しているので リプレイすることはできません。",
-        "en_string": ""
+        "en_string": "This quest expired and cannot be replayed."
       },
       {
         "line_break": true,
         "jp_string": "このルーラストーンは　場所の記憶がありません。 教会で　ルーラストーンに 場所を記憶させることができます。",
-        "en_string": ""
+        "en_string": "This zoomstone has no location set. Set a location at a church or waypoint."
       },
       {
         "line_break": true,
@@ -7190,7 +7190,7 @@
       {
         "line_break": true,
         "jp_string": "これ以上　クエストを リプレイすることは　できません！",
-        "en_string": ""
+        "en_string": "You can no longer replay this quest!"
       },
       {
         "line_break": true,
@@ -7210,12 +7210,12 @@
       {
         "line_break": true,
         "jp_string": "しかし　何も起こらなかった……。 ドルセリンを使うには　岳都ガタラで受けられる クエストを　クリアする必要があります。",
-        "en_string": ""
+        "en_string": "But, nothing happened... To use Dolserin, complete a quest in Gatara."
       },
       {
         "line_break": true,
         "jp_string": "せかいじゅの葉を 使ってこの場所で 復活します",
-        "en_string": ""
+        "en_string": "Resurrected here using a Yggdrasil Leaf"
       },
       {
         "line_break": true,
@@ -7230,17 +7230,17 @@
       {
         "line_break": true,
         "jp_string": "ついてクンの 各種設定をします",
-        "en_string": "Configure settings|for your pets."
+        "en_string": "Configure settings|for your pets.|"
       },
       {
         "line_break": true,
         "jp_string": "ついてクンの 機能設定をします",
-        "en_string": "Configure your|pet's settings."
+        "en_string": "Configure your|pet's settings.|"
       },
       {
         "line_break": true,
         "jp_string": "ついてクンを 一覧から選びます",
-        "en_string": "Select a pet|from the list."
+        "en_string": "Select a pet|from the list.|"
       },
       {
         "line_break": true,
@@ -7250,17 +7250,17 @@
       {
         "line_break": true,
         "jp_string": "つかまえた ネコを確認できる 図鑑を開く",
-        "en_string": ""
+        "en_string": "View an album|of all the cats|you've caught."
       },
       {
         "line_break": true,
         "jp_string": "つかまえる方法や ネコバッグの 説明が聞ける",
-        "en_string": ""
+        "en_string": "Explanation of|how to catch|cats."
       },
       {
         "line_break": true,
         "jp_string": "どちらのモンスターを モンスター酒場に　送りますか？<break>",
-        "en_string": ""
+        "en_string": "Send which monster to the monster tavern?<break>"
       },
       {
         "line_break": true,
@@ -7270,17 +7270,17 @@
       {
         "line_break": true,
         "jp_string": "なかまモンスターを　はずしますか？ <yesno><close>",
-        "en_string": ""
+        "en_string": "Do you want to remove the fellow monster? <yesno><close>"
       },
       {
         "line_break": true,
         "jp_string": "なかまモンスターを　設定しますか？ <yesno><close>",
-        "en_string": ""
+        "en_string": "Do you want to set a fellow monster? <yesno><close>"
       },
       {
         "line_break": true,
         "jp_string": "なんと　<%sM_monster>が　起きあがり 仲間になりたそうに　こちらを見ている！",
-        "en_string": ""
+        "en_string": "Looks like <%sM_monster> got up and wants to be friends!"
       },
       {
         "line_break": true,
@@ -7295,7 +7295,7 @@
       {
         "line_break": true,
         "jp_string": "ふつうモードで 戦います 経験値：１．５倍",
-        "en_string": ""
+        "en_string": "Fight in normal mode. (1.5x EXP)"
       },
       {
         "line_break": true,
@@ -7390,27 +7390,27 @@
       {
         "line_break": true,
         "jp_string": "アイテムを 使ってこの場所で 復活します",
-        "en_string": ""
+        "en_string": "Resurrect at|this location|with items."
       },
       {
         "line_break": true,
         "jp_string": "アイテムを捧げて 勇気の輝石を 増やします",
-        "en_string": ""
+        "en_string": "Dedicate items|to power up|courage pyroxene."
       },
       {
         "line_break": true,
         "jp_string": "アクセに　好きな効果を付けられる 会心の合成の　発生率が上がる",
-        "en_string": ""
+        "en_string": "You can add an accessory effect of your choosing. Increased chance of critical synthesis."
       },
       {
         "line_break": true,
         "jp_string": "アタマ装備を　『表示する』から『非表示』に 変更しますか？　守備力は　変わりません。<yesno><close>",
-        "en_string": ""
+        "en_string": "Do you want to change your headgear from 'Show' to 'Hide'?<yesno><close>"
       },
       {
         "line_break": true,
         "jp_string": "アタマ装備を　『非表示』から『表示する』に 変更しますか？<yesno><close>",
-        "en_string": ""
+        "en_string": "Do you want to change your headgear from 'Hide' to 'Show'?<yesno><close>"
       },
       {
         "line_break": true,
@@ -7425,27 +7425,27 @@
       {
         "line_break": true,
         "jp_string": "アンルシアの スキルや作戦を 設定します",
-        "en_string": ""
+        "en_string": "Set Anlucia's|skills and|battle strategy."
       },
       {
         "line_break": true,
         "jp_string": "アンルシアの 装備やスキルを 設定します",
-        "en_string": ""
+        "en_string": "Set equipment|and skills for|Anlucia."
       },
       {
         "line_break": true,
         "jp_string": "エテーネの村で　ともに過ごした あなたの[兄弟]の　名前と姿を思いだし 決定してください。",
-        "en_string": ""
+        "en_string": "Decide the name and appearance of your sibling, whom you spent time with in Ethene Village."
       },
       {
         "line_break": true,
         "jp_string": "エントリーを　中断しますか？ <yesno2><close>",
-        "en_string": ""
+        "en_string": "Suspend your entry? <yesno2><close>"
       },
       {
         "line_break": true,
         "jp_string": "オルファの丘の 元の場所に もどります",
-        "en_string": ""
+        "en_string": "Return to|Orpha Hill.|"
       },
       {
         "line_break": true,
@@ -7460,7 +7460,7 @@
       {
         "line_break": true,
         "jp_string": "キャラクターデータの保存に　失敗しました。 申し訳ございませんが　もう一度 あなたの<kyodai_rel3>の姿を選び　決定してください。",
-        "en_string": ""
+        "en_string": "Failed to save character data. Please select your sibling again."
       },
       {
         "line_break": true,
@@ -7470,17 +7470,17 @@
       {
         "line_break": true,
         "jp_string": "キーボードでの 文字入力モードを 設定します",
-        "en_string": ""
+        "en_string": "Set the input|mode of your|keyboard."
       },
       {
         "line_break": true,
         "jp_string": "キーボードの 文字入力を かな入力にします",
-        "en_string": ""
+        "en_string": "Set keyboard|to kana input.|"
       },
       {
         "line_break": true,
         "jp_string": "キーボードの 文字入力を ローマ字にします",
-        "en_string": ""
+        "en_string": "Set keyboard|to romaji input.|"
       },
       {
         "line_break": true,
@@ -7570,7 +7570,7 @@
       {
         "line_break": true,
         "jp_string": "コントローラーが 自動で切られる 時間を設定します",
-        "en_string": ""
+        "en_string": "Set time when|controller auto|turns off."
       },
       {
         "line_break": true,
@@ -7590,7 +7590,7 @@
       {
         "line_break": true,
         "jp_string": "サポート仲間や 仲間モンスターを 非表示にします",
-        "en_string": ""
+        "en_string": "Hide party|members and|fellow monsters."
       },
       {
         "line_break": true,
@@ -7620,7 +7620,7 @@
       {
         "line_break": true,
         "jp_string": "スライムレースの トップ１００を 確認できます",
-        "en_string": ""
+        "en_string": "View the Top|100 of the|Slime Races."
       },
       {
         "line_break": true,
@@ -7645,27 +7645,27 @@
       {
         "line_break": true,
         "jp_string": "タイトルロゴを 表示して 写真を撮ります",
-        "en_string": ""
+        "en_string": "Display title|logo and take|a photo."
       },
       {
         "line_break": true,
         "jp_string": "タッチキーの 透過率を 設定します",
-        "en_string": ""
+        "en_string": "Sets touch key|transparency.|"
       },
       {
         "line_break": true,
         "jp_string": "タッチスクリーン ソフトキーの 透過を設定します",
-        "en_string": ""
+        "en_string": "Set touch|screen soft key|transparency."
       },
       {
         "line_break": true,
         "jp_string": "ダンジョンから　ぬけだしますが よろしいですか？<yesno><close>",
-        "en_string": ""
+        "en_string": "You will leave the dungeon. Is this okay?"
       },
       {
         "line_break": true,
         "jp_string": "チャットルームを ひらきます",
-        "en_string": ""
+        "en_string": "Open a chat|room.|"
       },
       {
         "line_break": true,
@@ -7730,52 +7730,52 @@
       {
         "line_break": true,
         "jp_string": "ドルボードと 錬金釜の 各種設定をします",
-        "en_string": ""
+        "en_string": "Change dolboard|and alchemy pot|appearance."
       },
       {
         "line_break": true,
         "jp_string": "ドルボードに 乗車時の視点を 設定します",
-        "en_string": "Set viewpoint|when riding the|Dolworm board."
+        "en_string": "Set viewpoint|when riding the|dolboard."
       },
       {
         "line_break": true,
         "jp_string": "ドルボードに　乗っているため 実行することが　できません。",
-        "en_string": ""
+        "en_string": "Cannot execute while riding a dolboard."
       },
       {
         "line_break": true,
         "jp_string": "ドルボードに　乗っているため 寝ることが　できません。",
-        "en_string": ""
+        "en_string": "Can't sleep when riding a dolboard."
       },
       {
         "line_break": true,
         "jp_string": "ドルボードの 各種設定をします",
-        "en_string": "Configure Dolworm|Board Settings."
+        "en_string": "Configure dolboard|settings."
       },
       {
         "line_break": true,
         "jp_string": "ドルボードは　燃料切れだった！ ドルセリンを　チャージしますか？<yesno><close>",
-        "en_string": ""
+        "en_string": "The dolboard is out of fuel! Use Dolserin to charge it?<yesno><close>"
       },
       {
         "line_break": true,
         "jp_string": "ドルボードは　燃料切れだった！ 学園外で　ドルセリンをチャージすれば 30分間　乗れるようになります。",
-        "en_string": ""
+        "en_string": "The dolboard is out of fuel! Use Dolserin to charge the tank for 30 minutes."
       },
       {
         "line_break": true,
         "jp_string": "ドルボードは　燃料切れだった！ 道具屋で買える　ドルセリンをチャージすれば 30分間　乗れるようになります。",
-        "en_string": ""
+        "en_string": "The dolboard is out of fuel! Buy Dolserin from a general store to refill it."
       },
       {
         "line_break": true,
         "jp_string": "ネコ缶を使って ネコをつかまえる ことができる",
-        "en_string": ""
+        "en_string": "Catch a cat|using a can of|cat food."
       },
       {
         "line_break": true,
         "jp_string": "バッグのネコと お別れしたり 確認したりできる",
-        "en_string": ""
+        "en_string": "Say goodbye to|a cat in your|cat bag."
       },
       {
         "line_break": true,
@@ -7790,82 +7790,82 @@
       {
         "line_break": true,
         "jp_string": "バトルに参加する パーティを 登録します",
-        "en_string": ""
+        "en_string": "Register members|who will|participate."
       },
       {
         "line_break": true,
         "jp_string": "バトルロードの システムについて 説明します",
-        "en_string": ""
+        "en_string": "Explanation of|Battle Road|system."
       },
       {
         "line_break": true,
         "jp_string": "バトル中に よく使うセリフを 設定します",
-        "en_string": ""
+        "en_string": "Set common|lines used in|battle."
       },
       {
         "line_break": true,
         "jp_string": "バトル中に 表示する呪文を 選択できます",
-        "en_string": ""
+        "en_string": "Choose which|spells to show|during battle."
       },
       {
         "line_break": true,
         "jp_string": "バトル中に 表示する特技を 選択できます",
-        "en_string": ""
+        "en_string": "Choose which|skills to show|during battle."
       },
       {
         "line_break": true,
         "jp_string": "バトル中に使う セリフの内容を 変更します",
-        "en_string": ""
+        "en_string": "Change content|of lines used|during battle."
       },
       {
         "line_break": true,
         "jp_string": "バトル中の さくせんを 変更します",
-        "en_string": ""
+        "en_string": "Change the|strategy used|during battle."
       },
       {
         "line_break": true,
         "jp_string": "バトル中の 操作方法の 設定ができます",
-        "en_string": ""
+        "en_string": "Change method|operation|during battle."
       },
       {
         "line_break": true,
         "jp_string": "バトル時の 視点の高さを 変更します",
-        "en_string": ""
+        "en_string": "Change viewpoint|height during|battle."
       },
       {
         "line_break": true,
         "jp_string": "パーティの ついてクンを 非表示にします",
-        "en_string": ""
+        "en_string": "Hide party|member's pets.|"
       },
       {
         "line_break": true,
         "jp_string": "パーティの仲間を 自分の部屋に 誘うことができる",
-        "en_string": ""
+        "en_string": "Invite party|members to|your room."
       },
       {
         "line_break": true,
         "jp_string": "パーティの登録や 装備変更などの 準備をします",
-        "en_string": ""
+        "en_string": "Prepare for|a party and|ready equipment."
       },
       {
         "line_break": true,
         "jp_string": "ヒマなので 誘ってほしいと 言いたい状態",
-        "en_string": "I'm not busy,|so I'd like to|ask you out."
+        "en_string": "I'm not busy,|so I'd like to|invite you."
       },
       {
         "line_break": true,
         "jp_string": "ピントを合わせる カメラからの距離 を調整できます",
-        "en_string": ""
+        "en_string": "Adjust the|distance from|the camera."
       },
       {
         "line_break": true,
         "jp_string": "ピントを合わせる 奥行きの深さを 調整できます",
-        "en_string": ""
+        "en_string": "Adjust the|depth of|the camer."
       },
       {
         "line_break": true,
         "jp_string": "フィルターなしで いつも通りの 写真を撮ります",
-        "en_string": ""
+        "en_string": "Take a normal|photo with|no filter."
       },
       {
         "line_break": true,
@@ -7880,7 +7880,7 @@
       {
         "line_break": true,
         "jp_string": "フレンドが 書いたかきおきを 読みます",
-        "en_string": "I'll read the|notes my friends|write."
+        "en_string": "Read the|notes my friends|have written."
       },
       {
         "line_break": true,
@@ -7910,12 +7910,12 @@
       {
         "line_break": true,
         "jp_string": "フレンド全員の ついてクンを 非表示にします",
-        "en_string": ""
+        "en_string": "Hide all|friends and|pets."
       },
       {
         "line_break": true,
         "jp_string": "フレンド全員を 非表示にします",
-        "en_string": ""
+        "en_string": "Hide all|friends."
       },
       {
         "line_break": true,
@@ -7925,22 +7925,22 @@
       {
         "line_break": true,
         "jp_string": "フレームなしで いつも通りの 写真を撮ります",
-        "en_string": ""
+        "en_string": "Take a|normal photo|with no frame."
       },
       {
         "line_break": true,
         "jp_string": "フレームをつけて いつもと変わった 写真を撮ります",
-        "en_string": ""
+        "en_string": "Attach a|different frame|for photos."
       },
       {
         "line_break": true,
         "jp_string": "フレームレート 最高30fpsで 描画します",
-        "en_string": ""
+        "en_string": "Sets the frame|rate to 30 FPS.|"
       },
       {
         "line_break": true,
         "jp_string": "フレームレート 最高60fpsで 描画します",
-        "en_string": ""
+        "en_string": "Sets the frame|rate to 60 FPS.|"
       },
       {
         "line_break": true,
@@ -7950,17 +7950,17 @@
       {
         "line_break": true,
         "jp_string": "プレイヤー以外の あいのり状態を 設定します",
-        "en_string": ""
+        "en_string": "Set your|dolboard carpool|status."
       },
       {
         "line_break": true,
         "jp_string": "ボイスの音量を 変更します",
-        "en_string": ""
+        "en_string": "Change voice|volume.|"
       },
       {
         "line_break": true,
         "jp_string": "ボイス終了時に メッセージを 自動で送ります",
-        "en_string": ""
+        "en_string": "Auto advance|dialogue when|voice finishes."
       },
       {
         "line_break": true,
@@ -8110,7 +8110,7 @@
       {
         "line_break": true,
         "jp_string": "リアルマネートレード（ＲＭＴ）をしている疑いがある プレイヤーを見かけたら　こちらから通報をお願いします。 返信は　基本　おこなっておりませんので　ご了承ください。",
-        "en_string": ""
+        "en_string": "If you see a player involved in RMT, please report them. You will not receive a reply to this report."
       },
       {
         "line_break": true,
@@ -8285,7 +8285,7 @@
       {
         "line_break": true,
         "jp_string": "仲間モンスターの おめかしグッズを 作ります",
-        "en_string": ""
+        "en_string": "Make accessories|that your|monster can wear."
       },
       {
         "line_break": true,
@@ -8295,7 +8295,7 @@
       {
         "line_break": true,
         "jp_string": "仲間モンスターの スキルポイントを リセットします",
-        "en_string": ""
+        "en_string": "Reset your|monster's skill|points."
       },
       {
         "line_break": true,
@@ -8600,12 +8600,12 @@
       {
         "line_break": true,
         "jp_string": "宝珠ポイントを アイテムと 交換します",
-        "en_string": ""
+        "en_string": "Redeem your|jewel points|for items."
       },
       {
         "line_break": true,
         "jp_string": "宝箱が　遠くにあるので 手が届かない！",
-        "en_string": ""
+        "en_string": "The treasure chest is far and out of reach!"
       },
       {
         "line_break": true,
@@ -8635,12 +8635,12 @@
       {
         "line_break": true,
         "jp_string": "弱いモードで 戦います",
-        "en_string": ""
+        "en_string": "Fight in easy mode."
       },
       {
         "line_break": true,
         "jp_string": "強いモードで 戦います 経験値：２．０倍",
-        "en_string": ""
+        "en_string": "Fight in hard mode. (2x EXP)"
       },
       {
         "line_break": true,
@@ -8690,7 +8690,7 @@
       {
         "line_break": true,
         "jp_string": "手前をぼかし 背景を 引き立てます",
-        "en_string": ""
+        "en_string": "Blur the|foreground to|enhance photo."
       },
       {
         "line_break": true,
@@ -8960,12 +8960,12 @@
       {
         "line_break": true,
         "jp_string": "票の　振り分けを中止します。 よろしいですか？<yesno><close>",
-        "en_string": ""
+        "en_string": "Voting distribution will cancel. Is this okay?<yesno><close>"
       },
       {
         "line_break": true,
         "jp_string": "票の振り分けを終了し　これで投票します。 よろしいですか？<yesno><close>",
-        "en_string": ""
+        "en_string": "Finishing vote distribution. Is this okay?<yesno><close>"
       },
       {
         "line_break": true,
@@ -8975,17 +8975,17 @@
       {
         "line_break": true,
         "jp_string": "移動演出時の イベントを スキップします",
-        "en_string": ""
+        "en_string": "Skip events|during move|production."
       },
       {
         "line_break": true,
         "jp_string": "移動演出時の イベントを スキップしません",
-        "en_string": ""
+        "en_string": "Don't skip|events during|move production."
       },
       {
         "line_break": true,
         "jp_string": "第<%nNUM>回バトエン大会 ",
-        "en_string": ""
+        "en_string": "Batoen Tournament No. <%nNUM>"
       },
       {
         "line_break": true,
@@ -9020,67 +9020,67 @@
       {
         "line_break": true,
         "jp_string": "自分の ついてクンだけ 音を再生します",
-        "en_string": ""
+        "en_string": "Play Pet Sounds"
       },
       {
         "line_break": true,
         "jp_string": "自分の ついてクンを 非表示にします",
-        "en_string": ""
+        "en_string": "Hide Pet"
       },
       {
         "line_break": true,
         "jp_string": "自分のパーティと　相手パーティが 全員　おなじ場所にいないと　誘えません！",
-        "en_string": ""
+        "en_string": "You can't invite unless you and their party are in the same place!"
       },
       {
         "line_break": true,
         "jp_string": "自分を 非表示にします",
-        "en_string": ""
+        "en_string": "Hide Yourself"
       },
       {
         "line_break": true,
         "jp_string": "自室へ行きます 自室では野菜を 栽培できます",
-        "en_string": ""
+        "en_string": "Go to your room|where you can|grow vegetables."
       },
       {
         "line_break": true,
         "jp_string": "衣装の　モデルになる人を 選んでください。",
-        "en_string": ""
+        "en_string": "Please choose the model of the costume."
       },
       {
         "line_break": true,
         "jp_string": "表示物に関する 設定をします",
-        "en_string": ""
+        "en_string": "Change display|related settings.|"
       },
       {
         "line_break": true,
         "jp_string": "装備を登録し バトルロードで 使用可能にします",
-        "en_string": ""
+        "en_string": "Change equipment|and make it|available to use."
       },
       {
         "line_break": true,
         "jp_string": "装備を登録したり モンスターの 装備を変更します",
-        "en_string": ""
+        "en_string": "Register or|change monster|equipment."
       },
       {
         "line_break": true,
         "jp_string": "装備デッキの変更や デッキの編成を 行います",
-        "en_string": ""
+        "en_string": "Change and|organize your|deck."
       },
       {
         "line_break": true,
         "jp_string": "視点が移動する 速度を選べます",
-        "en_string": ""
+        "en_string": "Choose viewpoint|moving speed.|"
       },
       {
         "line_break": true,
         "jp_string": "設定した 復活場所に もどります",
-        "en_string": ""
+        "en_string": "Return to|set resurrection|point."
       },
       {
         "line_break": true,
         "jp_string": "設定した内容で 決定します",
-        "en_string": ""
+        "en_string": "Determined by content settings."
       },
       {
         "line_break": true,
@@ -9100,62 +9100,62 @@
       {
         "line_break": true,
         "jp_string": "返事がない。 無料の　体験版のようだ……。 {color=yellow}※フレンドや　なかまとのチャットは　可能です。{reset}",
-        "en_string": ""
+        "en_string": "No reply. Looks like a trial player.|{color=yellow}(Friend and friend chat possible.){reset}"
       },
       {
         "line_break": true,
         "jp_string": "返事がない仲間がいたため コロシアムのさそいが　キャンセルされました。",
-        "en_string": ""
+        "en_string": "The Coliseum invitation was cancelled due to a member not accepting."
       },
       {
         "line_break": true,
         "jp_string": "迫力のある 写真を撮ります",
-        "en_string": ""
+        "en_string": "Take powerful photos."
       },
       {
         "line_break": true,
         "jp_string": "迷宮から 元の場所に もどります",
-        "en_string": ""
+        "en_string": "Return to|original place|from labyrinth."
       },
       {
         "line_break": true,
         "jp_string": "迷宮に入る前 いた場所に もどります",
-        "en_string": ""
+        "en_string": "Return to your|previous|location."
       },
       {
         "line_break": true,
         "jp_string": "迷宮の システムについて 説明します",
-        "en_string": ""
+        "en_string": "Explains the|labyrinth|system."
       },
       {
         "line_break": true,
         "jp_string": "追加パッケージ「<3rd_title>」が インストールされていないため プレイすることができません。",
-        "en_string": ""
+        "en_string": "You cannot play due to '<3rd_title>' not being installed."
       },
       {
         "line_break": true,
         "jp_string": "追加パッケージ「<3rd_title>」が インストールされていないため 再生できません。",
-        "en_string": ""
+        "en_string": "You cannot play due to '<3rd_title>' not being installed."
       },
       {
         "line_break": true,
         "jp_string": "追加パッケージ「<3rd_title>」が インストールされていないため 対象マップへの移動に　失敗しました。",
-        "en_string": ""
+        "en_string": "Cannot move to this map due to '<3rd_title>' not being installed."
       },
       {
         "line_break": true,
         "jp_string": "追加パッケージ「<3rd_title>」の レジストレーションコードが未登録のため プレイすることができません。",
-        "en_string": ""
+        "en_string": "Registration code for '<3rd_title>' hasn't been registered, so you cannot play."
       },
       {
         "line_break": true,
         "jp_string": "追加パッケージ「<3rd_title>」の レジストレーションコードが未登録のため 再生できません。",
-        "en_string": ""
+        "en_string": "Registration code for '<3rd_title>' hasn't been registered, so you cannot play."
       },
       {
         "line_break": true,
         "jp_string": "追加パッケージ「<3rd_title>」の レジストレーションコードが未登録のため 対象マップへの移動に　失敗しました。",
-        "en_string": ""
+        "en_string": "Registration code for '<3rd_title>' hasn't been registered, so you cannot move to this map."
       },
       {
         "line_break": true,
@@ -9180,52 +9180,52 @@
       {
         "line_break": true,
         "jp_string": "通信エラーが　発生しました。 時間をおいて　再度　お試しください。 <end>",
-        "en_string": ""
+        "en_string": "A communication error has occurred. Please try again later."
       },
       {
         "line_break": true,
         "jp_string": "通常時によく使う セリフとしぐさを 設定します",
-        "en_string": ""
+        "en_string": "Set commonly|used phrases and|gestures."
       },
       {
         "line_break": true,
         "jp_string": "通常時の 視点の高さを 変更します",
-        "en_string": ""
+        "en_string": "Change the|normal viewpoint|height."
       },
       {
         "line_break": true,
         "jp_string": "連れていく 仲間モンスターを 選びます",
-        "en_string": ""
+        "en_string": "Choose a monster|companion to|take."
       },
       {
         "line_break": true,
         "jp_string": "連れている 仲間モンスターを 預けます",
-        "en_string": ""
+        "en_string": "Deposit your|monster|companions."
       },
       {
         "line_break": true,
         "jp_string": "連れてきたネコを 渡してお部屋に 出てきてもらう",
-        "en_string": ""
+        "en_string": "Bring the cat|you found to|your room."
       },
       {
         "line_break": true,
         "jp_string": "週に１回の 達人クエストに 挑戦します",
-        "en_string": ""
+        "en_string": "Challenge the|Master Quest|once per week."
       },
       {
         "line_break": true,
         "jp_string": "週１回 クエストクリアで 石版か宝珠を獲得",
-        "en_string": ""
+        "en_string": "Earn jewels|for clearing|weekly quests."
       },
       {
         "line_break": true,
         "jp_string": "遊びかたの くわしい説明を 聞きます",
-        "en_string": ""
+        "en_string": "See an|explanation of|how to play."
       },
       {
         "line_break": true,
         "jp_string": "遊びたいこと リストの説明を 確認できます",
-        "en_string": ""
+        "en_string": "Check your|list of what you|want to play."
       },
       {
         "line_break": true,
@@ -9235,22 +9235,22 @@
       {
         "line_break": true,
         "jp_string": "達人について くわしい説明を 聞きます",
-        "en_string": ""
+        "en_string": "Listen to an|explanation of|the master orb."
       },
       {
         "line_break": true,
         "jp_string": "達人のオーブに 関するコマンドを 選べます",
-        "en_string": ""
+        "en_string": "You can choose|master orb|commands here."
       },
       {
         "line_break": true,
         "jp_string": "達人ポイントを ふりわけて 宝珠を強化します",
-        "en_string": ""
+        "en_string": "Distribute your|master orb points|to your jewels."
       },
       {
         "line_break": true,
         "jp_string": "選んだ相手に 自動的に ついていきます",
-        "en_string": ""
+        "en_string": "Automatically|follow the|selected person."
       },
       {
         "line_break": true,
@@ -9370,7 +9370,7 @@
       {
         "line_break": true,
         "jp_string": "ＢＧＭを 設定します",
-        "en_string": ""
+        "en_string": "Set BGM"
       },
       {
         "line_break": true,
@@ -9505,12 +9505,12 @@
       {
         "special_line_break": true,
         "jp_string": "<%sM_send>を　モンスター酒場に　送ります。|よろしいですか？<se_nots System 0><break>",
-        "en_string": ""
+        "en_string": "Sending <%sM_send> to the monster tavern.|Is this okay?<se_nots System 0><break>"
       },
       {
         "special_line_break": true,
         "jp_string": "<%sM_send>を　仲間にして|モンスター酒場に 送った！|あと<%dM_bar>匹まで　仲間にできます。<me 61>",
-        "en_string": ""
+        "en_string": "Sent <%sM_send> to the monster tavern!|You can hold <%dM_bar> more monsters there.<me 61>"
       },
       {
         "special_line_break": true,
@@ -9570,7 +9570,7 @@
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_Badge>バッジを　手に入れた！|<se_nots System 7>",
-        "en_string": ""
+        "en_string": "<speed=0>Obtained the <%sM_Badge> badge！|<se_nots System 7>"
       },
       {
         "special_line_break": true,
@@ -9605,52 +9605,52 @@
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。",
-        "en_string": ""
+        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems very strong...|Number of kills: <%dM_kill_num>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|かなり　強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>",
-        "en_string": ""
+        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems very strong...|Number of kills: <%dM_kill_num> <%sM_saw>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|ほぼ同格の相手だ。|討伐数 <%dM_kill_num>匹。",
-        "en_string": ""
+        "en_string": "<speed=0>It's a <%sM_pc>. (<%sM_type>)|Seems like an even opponent.|Number of kills: <%dM_kill_num>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|ほぼ同格の相手だ。|討伐数 <%dM_kill_num>匹。<%sM_saw>",
-        "en_string": ""
+        "en_string": "<speed=0>It's a <%sM_pc>. (<%sM_type>)|Seems like an even opponent.|Number of kills: <%dM_kill_num> <%sM_saw>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。",
-        "en_string": "<speed=0><%sM_pc> (<%sM_type>)|I think it's best not to mess with it right now.|Number of kills: <%dM_kill_num>"
+        "en_string": "<speed=0><%sM_pc> (<%sM_type>)|I think it's best not to mess with it.|Number of kills: <%dM_kill_num>."
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|今は　手を出さない方が　よさそうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>",
-        "en_string": ""
+        "en_string": "<speed=0><%sM_pc>（<%sM_type>)|I think it's best not to mess with it.|Number of kills: <%dM_kill_num>. <%sM_saw>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|強そうだ……。|討伐数 <%dM_kill_num>匹。",
-        "en_string": ""
+        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems strong...|Number of kills: <%dM_kill_num>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|強そうだ……。|討伐数 <%dM_kill_num>匹。<%sM_saw>",
-        "en_string": ""
+        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems strong...|Number of kills: <%dM_kill_num> <%sM_saw>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|格下の相手のようだ。|討伐数 <%dM_kill_num>匹。",
-        "en_string": ""
+        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems pretty weak.|Number of kills: <%dM_kill_num>"
       },
       {
         "special_line_break": true,
         "jp_string": "<speed=0><%sM_pc>（<%sM_type>）だ。|格下の相手のようだ。|討伐数 <%dM_kill_num>匹。<%sM_saw>",
-        "en_string": ""
+        "en_string": "<speed=0>It's a <%sM_pc>.（<%sM_type>)|Seems pretty weak.|Number of kills: <%dM_kill_num> <%sM_saw>"
       },
       {
         "special_line_break": true,
