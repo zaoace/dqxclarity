@@ -191,23 +191,23 @@
         "en_string": ""
       },
       {
-        "jp_string": "\s<%sL_ACTOR>\m<%sL_ACTOR_ID>\eは グーを出した。",
+        "jp_string": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは グーを出した。",
         "en_string": ""
       },
       {
-        "jp_string": "\s<%sL_ACTOR>\m<%sL_ACTOR_ID>\eは チョキを出した。",
+        "jp_string": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは チョキを出した。",
         "en_string": ""
       },
       {
-        "jp_string": "\s<%sL_ACTOR>\m<%sL_ACTOR_ID>\eは パーを出した。\s<%sL_ACTOR>\m<%sL_ACTOR_ID>\eは　カードを引いた。　→　<%sL_STRING>",
+        "jp_string": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは パーを出した。\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　カードを引いた。　→　<%sL_STRING>",
         "en_string": ""
       },
       {
-        "jp_string": "\s<%sL_ACTOR>\m<%sL_ACTOR_ID>\eは　コインをなげた。　→　<%sL_STRING>",
+        "jp_string": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　コインをなげた。　→　<%sL_STRING>",
         "en_string": ""
       },
       {
-        "jp_string": "\s<%sL_ACTOR>\m<%sL_ACTOR_ID>\eは　ダイスをふった。　→　<%dL_VALUE>",
+        "jp_string": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　ダイスをふった。　→　<%dL_VALUE>",
         "en_string": ""
       },
       {
@@ -1581,7 +1581,7 @@
       {
         "jp_string": "ＶＪの飛び出すＶ",
         "en_string": ""
-      }   
+      }
     ]
   }
 ]

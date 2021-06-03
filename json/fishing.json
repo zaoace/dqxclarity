@@ -44,7 +44,7 @@
         "en_string": "Fish have|trouble acting in|darkness power."
       },
       {
-        "line_break":true,
+        "line_break": true,
         "jp_string": "きせきの力で 釣りざおを引く 食いつき度が回復",
         "en_string": "Reel the rod|with the power|of a miracle."
       },
@@ -81,7 +81,7 @@
         "en_string": "Number of times to loosen rod increased by <%dL_KISEKI>!"
       },
       {
-        "line_break":true,
+        "line_break": true,
         "jp_string": "さおを引いて さかなを近くに 引き寄せる",
         "en_string": "Reel your line|and pull the|fish closer."
       },
@@ -399,7 +399,7 @@
         "en_string": "The splinter lure's power did not reduce the biting chance!"
       },
       {
-        "line_break":true,
+        "line_break": true,
         "jp_string": "ナツリ特製の旬の 秘められた力で 釣りさおを引く",
         "en_string": "A rod made by|Natsuri with a|hidden power."
       },
@@ -668,7 +668,7 @@
         "en_string": "Fire Power Reel"
       },
       {
-        "line_break":true,
+        "line_break": true,
         "jp_string": "炎の力を込めて 釣りざおを引く 威力にムラがある",
         "en_string": "The reeling power|of flames is|uneven."
       },
