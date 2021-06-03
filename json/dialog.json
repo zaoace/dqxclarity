@@ -7660,7 +7660,7 @@
       {
         "line_break": true,
         "jp_string": "ダンジョンから　ぬけだしますが よろしいですか？<yesno><close>",
-        "en_string": "You will leave the dungeon. Is this okay?"
+        "en_string": "You will leave the dungeon. Is this okay?<yesno><close>"
       },
       {
         "line_break": true,
