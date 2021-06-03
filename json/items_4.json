@@ -7023,7 +7023,7 @@
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＭＰ１５０～回復 使ったらなくなる",
-        "en_string": "Restores 150 MP|for each|companion."
+        "en_string": "Restores 150 MP|to one|companion."
       },
       {
         "line_break": true,
@@ -7033,117 +7033,141 @@
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを３６～回復 ノンアルコール！",
-        "en_string": "Restores 36 MP|to one companion.|It's non-alcoholic!"
+        "en_string": "Restores 36 MP|to one companion.|Non-alcoholic!"
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを３６～回復 使ったらなくなる",
-        "en_string": "Restores 36 MP|for each|companion."
+        "en_string": "Restores 36 MP| for a single|companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを７０～回復 使ったらなくなる",
-        "en_string": "Restores 70 MP|for a single|companion."
+        "en_string": "Restores 70 MP| for a single|companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを９０～回復 使ったらなくなる",
-        "en_string": "Restores 90 MP|for a single|companion."
+        "en_string": "Restores 90 MP| for a single|companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを完全に回復 使ったらなくなる",
-        "en_string": "Restores full MP|to one of your|companions."
+        "en_string": "Restores full MP|to a single|companion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの マヒを治す 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Cures one|companion of|paralysis."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの 毒を治す 使ったらなくなる",
-        "en_string": "Cures one|companion|of poison."
+        "en_string": "Cures one|companion of|poison."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの 混乱を治す 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Cures one|companion of|confusion."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの 眠りを覚ます 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Cures one|companion of|sleep."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりのマヒ ＨＰが３０～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 30|HP and cures|paralysis."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりのマヒ ＨＰが６０～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 60|HP and cures|paralysis."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの毒と ＨＰ３０～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 30|HP and cures|poison."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの毒と ＨＰ６０～回復 使ったらなくなる",
-        "en_string": ""
+        "en_string": "Restores 60|HP and cures|poison."
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりをＨＰ 半分で生き返す 使ったらなくなる",
         "en_string": "Revives party member|with half HP.|"
       },
       {
+        "line_break": true,
         "jp_string": "仲間モンスターの スキルポイントを 振り直せる魔草",
-        "en_string": ""
+        "en_string": "Magic grass|that resets|monster skills."
       },
       {
+        "line_break": true,
         "jp_string": "仲間モンスターの 外見を変えられる 不思議な券",
-        "en_string": ""
+        "en_string": "A ticket that|can change a|monster's color."
       },
       {
+        "line_break":true,
         "jp_string": "仲間モンスターの 追加スキルを 取り直せる魔草",
-        "en_string": ""
+        "en_string": "Use this to|regain extra|monster skills."
       },
       {
+        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる メルヘンなおうち",
-        "en_string": ""
+        "en_string": "A fairy house|that lets your|monster wander."
       },
       {
+        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 夢見るおうち",
-        "en_string": ""
+        "en_string": "A dream house|that lets your|monster wander."
       },
       {
+        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 妖しいおうち",
-        "en_string": ""
+        "en_string": "A mystery house|that lets your|monster wander."
       },
       {
+        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 木でできたおうち",
-        "en_string": ""
+        "en_string": "A wooden house|that lets your|monster wander."
       },
       {
+        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 植物のおうち",
-        "en_string": ""
+        "en_string": "A plant house|that lets your|monster wander."
       },
       {
+        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 機械のおうち",
-        "en_string": ""
+        "en_string": "A machine house|that lets your|monster wander."
       },
       {
+        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 神殿風のおうち",
-        "en_string": ""
+        "en_string": "A temple house|that lets your|monster wander."
       },
       {
+        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 花でできたおうち",
-        "en_string": ""
+        "en_string": "A flower house|that lets your|monster wander."
       },
       {
+        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 魔法陣のおうち",
-        "en_string": ""
+        "en_string": "A magic house|that lets your|monster wander."
       },
       {
+        "line_break":true,
         "jp_string": "仲間モンスターを レアな外見に 変えられる券",
-        "en_string": ""
+        "en_string": "A rare ticket|that changes a|monster's color."
       },
       {
         "jp_string": "会心！デッドリーソード",
-        "en_string": ""
+        "en_string": "Critical! Deadly Sword"
       },
       {
         "jp_string": "会心と呪文暴走の ダメージが上がる ガナン帝国の証",
@@ -7394,8 +7418,9 @@
         "en_string": ""
       },
       {
+        "line_break":true,
         "jp_string": "使うと １億ゴールド 手に入る大袋",
-        "en_string": ""
+        "en_string": "A bag that|contains 1|million gold!"
       },
       {
         "jp_string": "使うと きせかえドールが 手に入るチケット",
@@ -7406,8 +7431,9 @@
         "en_string": ""
       },
       {
+        "line_break":true,
         "jp_string": "使うと ルーラストーンが 手に入るチケット",
-        "en_string": ""
+        "en_string": "Use to get|an additional|zoomstone."
       },
       {
         "jp_string": "使うと 戦神のベルトが 手に入る箱",
@@ -7434,50 +7460,62 @@
         "en_string": ""
       },
       {
+        "line_break":true,
         "jp_string": "使うと１００枚 ちいさなメダルが 手に入るチケット",
-        "en_string": ""
+        "en_string": "Use to get|100 mini|medals."
       },
       {
+        "line_break":true,
         "jp_string": "使うと１０分 メタルな魔物に 出会いやすくなる",
-        "en_string": ""
+        "en_string": "For 10m, easier|to encounter|metal monsters."
       },
       {
+        "line_break":true,
         "jp_string": "使うと１０分 仲間モンスターの 獲得経験値２倍！",
-        "en_string": ""
+        "en_string": "For 10m,|double EXP of|fellow monsters!"
       },
       {
+        "line_break":true,
         "jp_string": "使うと１０分 仲間モンスターの 獲得経験値３倍！",
-        "en_string": ""
+        "en_string": "For 10m,|triple EXP of|fellow monsters!"
       },
       {
+        "line_break":true,
         "jp_string": "使うと１０分 強モードボスから オーブゲット確定",
-        "en_string": ""
+        "en_string": "For 10m, orbs|drop more from|strong bosses."
       },
       {
+        "line_break":true,
         "jp_string": "使うと１０分 転生モンスターに 出会いやすくなる",
-        "en_string": ""
+        "en_string": "For 10m, easier|to encounter|reincarnations."
       },
       {
+        "line_break":true,
         "jp_string": "使うと１０分 魔法の迷宮で 誰かに会えるかも",
-        "en_string": ""
+        "en_string": "For 10m, perhaps|meet someone in|the labyrinth."
       },
       {
+        "line_break":true,
         "jp_string": "使うと１０分 魔物が宝珠を 落としやすくなる",
-        "en_string": ""
+        "en_string": "For 10m, jewels|will drop more|from monsters."
       },
       {
+        "line_break":true,
         "jp_string": "使うと１０枚 ちいさなメダルが 手に入るチケット",
         "en_string": ""
       },
       {
+        "line_break":true,
         "jp_string": "使うと１時間 カジノでいい事が おきるかも？",
         "en_string": ""
       },
       {
+        "line_break":true,
         "jp_string": "使うと１時間 ビッグな魚が 釣れやすくなる",
         "en_string": ""
       },
       {
+        "line_break":true,
         "jp_string": "使うと１時間 メタルな魔物に 出会いやすくなる",
         "en_string": ""
       },
