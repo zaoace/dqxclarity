@@ -1,10 +1,10 @@
-[
+﻿[
   {
     "hex_start": "54 45 58 54 10 00 00 00 30 BD 01 00 00 00 00 00 00 00",
     "strings": [
       {
         "jp_string": "あああー",
-        "en_string": ""
+        "en_string": "Ahhh!"
       },
       {
         "jp_string": "あそびの鉄人",
