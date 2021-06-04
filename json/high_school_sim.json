@@ -8,6 +8,7 @@
         "en_string": "You have a 1%|chance of surviving|with 1 HP."
       },
       {
+        "line_break":true,
         "jp_string": "１回だけ ブレス系の攻撃を はねかえす",
         "en_string": "Null a breath|type attack one|time."
       },
@@ -17,34 +18,38 @@
         "en_string": "You have a 25%|chance of no longer|consuming a turn!"
       },
       {
+        "line_break":true,
         "jp_string": "２５％の確率で ターン消費しない",
-        "en_string": "25% chance to|not consume a|turn"
+        "en_string": "25% chance to|not consume a|turn."
       },
       {
         "jp_string": "5.0%ターン消費なし",
         "en_string": "5% No Turn Consumption"
       },
       {
+        "line_break":true,
         "jp_string": "５．０％の確率で ターン消費しない",
-        "en_string": "5% chance to|not consume a|turn"
+        "en_string": "5% chance to|not consume a|turn."
       },
       {
         "jp_string": "５．０％の確率で 行動ターンを　消費しなくなった！",
-        "en_string": "You have a 5%|chance of no longer|consuming a turn!"
+        "en_string": "You have a 5% chance of no longer consuming a turn!"
       },
       {
         "jp_string": "6.0%ターン消費なし",
         "en_string": "6% No Turn Consumption"
       },
       {
+        "line_break":true,
         "jp_string": "６．０％の確率で ターン消費しない",
-        "en_string": "6% chance to|not consume a|turn"
+        "en_string": "6% chance to|not consume a|turn."
       },
       {
         "jp_string": "６．０％の確率で 行動ターンを　消費しなくなった！",
-        "en_string": "You have a 6%|chance of no longer|consuming a turn!"
+        "en_string": "You have a 6% chance of no longer consuming a turn!"
       },
       {
+        "line_break":true,
         "jp_string": "８つの鉄球を なげつけて 攻撃力を下げる",
         "en_string": "Throw 8 iron|balls to reduce|attack power."
       },
@@ -74,14 +79,16 @@
         "en_string": "Endure and survive when HP reaches 0!"
       },
       {
+        "line_break":true,
         "jp_string": "ＨＰが０になる 攻撃を受けても たまに生き残る",
-        "en_string": "Sometimes survive|an attack when|HP reaches 0"
+        "en_string": "Sometimes survive|an attack when|HP reaches 0."
       },
       {
         "jp_string": "ＨＰが半分以上時 即死をまぬがれる",
         "en_string": "Avoid instant death when HP above 50%"
       },
       {
+        "line_break":true,
         "jp_string": "ＭＰ１００を 仲間に分け与える 神秘の踊り",
         "en_string": "A dance that|recovers 100 MP|to allies."
       },
@@ -98,12 +105,14 @@
         "en_string": "Learned M-Pathy!"
       },
       {
+        "line_break":true,
         "jp_string": "ＭＰをかなり使い 敵を打ち滅ぼす 最強の光の特技",
-        "en_string": "A strong|light attack that|uses all MP"
+        "en_string": "A strong|light attack that|uses all MP."
       },
       {
+        "line_break":true,
         "jp_string": "ＭＰを消費する時 たまにＭＰを 消費しない",
-        "en_string": "Sometimes does|not consume|any MP"
+        "en_string": "Sometimes does|not consume|any MP."
       },
       {
         "jp_string": "ＭＰを消費する時 たまに消費しないようになった！",
