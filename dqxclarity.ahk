@@ -27,6 +27,7 @@ Gui, Add, Button, gRun, Run
 
 ;; Update tab
 Gui, Tab, Update
+Gui, Add, Text,, WARNING: Updating via any methods`nbelow will remove and re-add your`njson folder. If you are actively`ntranslating, do not update until`nyou are finished checking in your changes.
 Gui, Add, Button, gUpdateApp, Update Clarity
 Gui, Add, Button, gUpdateJSON, Get latest JSON
 
