@@ -8,15 +8,15 @@
       },
       {
         "jp_string": "いろいろやってね",
-        "en_string": "Use Your Skills"
+        "en_string": "Mix It Up"
       },
       {
         "jp_string": "いろいろやろうぜ",
-        "en_string": "Let's do some stuff"
+        "en_string": "Mix It Up"
       },
       {
         "jp_string": "おれにまかせろ",
-        "en_string": "I'll take care of it"
+        "en_string": "Watch Your Back"
       },
       {
         "jp_string": "きょうかおねがい",
@@ -59,11 +59,11 @@
       },
       {
         "jp_string": "ガンガンいくわよ",
-        "en_string": "Go All Out"
+        "en_string": "Show No Mercy"
       },
       {
         "jp_string": "ガンガンいこうぜ",
-        "en_string": "Let's get on with it"
+        "en_string": "Show No Mercy"
       },
       {
         "jp_string": "バッチリがんばれ",
@@ -90,7 +90,7 @@
       },
       {
         "jp_string": "ＭＰつかわないで",
-        "en_string": "Converve MP"
+        "en_string": "Conserve MP"
       },
       {
         "special_line_break": true,
