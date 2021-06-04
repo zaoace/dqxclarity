@@ -19,8 +19,9 @@
         "en_string": "Dark Fog"
       },
       {
+        "line_break": true,
         "jp_string": "いつもより すばやく呪文を 唱えられる",
-        "en_string": ""
+        "en_string": "Increase your|spell casting|speed for 2 min."
       },
       {
         "jp_string": "いてつくはどう",
@@ -2156,8 +2157,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "中にいると呪文が 暴走しやすくなる 魔法陣を作る",
-        "en_string": ""
+        "en_string": "Draw a circle|that gives 25%|crit chance."
       },
       {
         "jp_string": "中にいると呪文を 素早く唱えられる 魔法陣を作る",
@@ -2192,8 +2194,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＨＰをそこそこ 回復する",
-        "en_string": ""
+        "en_string": "Restore a|little HP to|a target."
       },
       {
         "jp_string": "仲間ひとりを 確実に 生き返らせる",
@@ -2927,11 +2930,12 @@
       },
       {
         "jp_string": "悪魔ばらい",
-        "en_string": ""
+        "en_string": "Beelzefreeze"
       },
       {
+        "line_break": true,
         "jp_string": "悪魔系の敵に 威力を発揮し さらにマヒさせる",
-        "en_string": ""
+        "en_string": "Attack with 1.5x|damage to demons.|Paralysis chance."
       },
       {
         "jp_string": "悪魔系の敵に 威力を発揮し たまに魅了もする",
@@ -3323,7 +3327,7 @@
       },
       {
         "jp_string": "早詠みの杖",
-        "en_string": ""
+        "en_string": "Quick Casting"
       },
       {
         "jp_string": "早詠みの陣",
@@ -3343,7 +3347,7 @@
       },
       {
         "jp_string": "暴走魔法陣",
-        "en_string": ""
+        "en_string": "Ring of Ruin"
       },
       {
         "jp_string": "最高のほほえみで 経験値とＧアップ スパスタ専用特技",
@@ -3515,7 +3519,7 @@
       },
       {
         "jp_string": "水神のたつまき",
-        "en_string": "Water Gods Tornado"
+        "en_string": "Maelstrom"
       },
       {
         "jp_string": "水系の敵に 威力を発揮する 軽やかな扇の技",

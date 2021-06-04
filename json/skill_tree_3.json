@@ -1004,11 +1004,11 @@
       },
       {
         "jp_string": "暴走魔法陣",
-        "en_string": ""
+        "en_string": "Ring of Ruin"
       },
       {
         "jp_string": "暴走魔法陣の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Ring of Ruin!"
       },
       {
         "jp_string": "根絶やしの重撃",
@@ -2180,11 +2180,11 @@
       },
       {
         "jp_string": "水神のたつまき（専）",
-        "en_string": "Water Gods Tornado（専）"
+        "en_string": "Maelstrom（EX）"
       },
       {
         "jp_string": "水神のたつまき（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Maelstrom!"
       },
       {
         "jp_string": "水系への",
@@ -5720,7 +5720,7 @@
       },
       {
         "jp_string": "覚醒のアリア（専）の特技を　おぼえた！",
-        "en_string": "You Learned Aria of Awakening!"
+        "en_string": "You learned Aria of Awakening!"
       },
       {
         "jp_string": "豪雪氷結乱撃",
@@ -7616,7 +7616,7 @@
       },
       {
         "jp_string": "邪炎波（専）の特技を　おぼえた！",
-        "en_string": "You Learned Evil Wave!"
+        "en_string": "You learned Evil Wave!"
       },
       {
         "jp_string": "野獣のごとく",

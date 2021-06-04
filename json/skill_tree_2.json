@@ -3915,11 +3915,11 @@
       },
       {
         "jp_string": "マグマ（専）",
-        "en_string": ""
+        "en_string": "Magma"
       },
       {
         "jp_string": "マグマ（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Magma!"
       },
       {
         "jp_string": "マシン系への",
@@ -9113,7 +9113,7 @@
       },
       {
         "jp_string": "悪魔ばらい",
-        "en_string": ""
+        "en_string": "Beelzefreeze"
       },
       {
         "jp_string": "悪魔ばらいの特技を　おぼえた！",
