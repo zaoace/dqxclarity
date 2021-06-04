@@ -31,9 +31,8 @@
         "en_string": ""
       },
       {
-        "line_break": true 
         "jp_string": "いなせな畳",
-        "en_string": "Elegant Tatami|Mat"
+        "en_string": "Elegant Tatami Mat"
       },
       {
         "jp_string": "いにしえの戦士が うでにつけていた 勇ましいこて",
@@ -76,19 +75,16 @@
         "en_string": ""
       },
       {
-        "line_break"": true,
         "jp_string": "イベント宝箱１",
-        "en_string": "Event Treasure|Chest 1"
+        "en_string": "Event Treasure Chest 1"
       },
       {
-        "line_break"": true,
         "jp_string": "イベント宝箱２",
-        "en_string": "Event Treasure|Chest 2"
+        "en_string": "Event Treasure Chest 2"
       },
       {
-        "line_break"": true,
         "jp_string": "イベント宝箱３",
-        "en_string": "Event Treasure|Chest 3"
+        "en_string": "Event Treasure Chest 3"
       },
       {
         "jp_string": "いまにも うごきだしそうな うごくせきぞう像",
@@ -219,14 +215,12 @@
         "en_string": "Valhalla Helmet"
       },
       {
-        "line_break"": true,
         "jp_string": "ヴァルハラメイル上",
-        "en_string": "Valhalla Mail|Breastplate"
+        "en_string": "Valhalla Mail Breastplate"
       },
       {
-        "line_break"": true,
         "jp_string": "ヴァルハラメイル下",
-        "en_string": "Valhalla Mail|Bottoms"
+        "en_string": "Valhalla Mail Bottoms"
       },
       {
         "jp_string": "ヴァレリアが 描かれた 庭用の肖像画",
@@ -477,7 +471,7 @@
         "en_string": ""
       },
       {
-        "line_break"": true,
+        "line_break": true,
         "jp_string": "ウェディングに ぴったりの 華やかな東屋",
         "en_string": "A glamorous pavilion|perfect for weddings."
       },
@@ -486,7 +480,7 @@
         "en_string": "Wedding Balloons"
       },
       {
-        "line_break"": true,
+        "line_break": true,
         "jp_string": "ウェディ並みの スピードで泳げる ヒレ付きのくつ",
         "en_string": "You can swim as fast as|a Weddie with these|finned shoes."
       },
