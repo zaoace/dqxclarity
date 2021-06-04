@@ -374,8 +374,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "いつもより すばやく呪文を 唱えられる",
-        "en_string": ""
+        "en_string": "Increase your|spell casting|speed for 2 min."
       },
       {
         "jp_string": "いてつく一発芸",
@@ -1791,11 +1792,11 @@
       },
       {
         "jp_string": "しゅくふくの杖",
-        "en_string": ""
+        "en_string": "Staff of Salvation"
       },
       {
         "jp_string": "しゅくふくの杖+50%",
-        "en_string": ""
+        "en_string": "Staff of Salvation+50%"
       },
       {
         "jp_string": "しゅくふくの杖の回復量が　あがった！",
@@ -6178,8 +6179,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＨＰをそこそこ 回復する",
-        "en_string": ""
+        "en_string": "Restore a|little HP to|a target."
       },
       {
         "jp_string": "仲間ひとりの マヒをなおす",
@@ -8023,11 +8025,11 @@
       },
       {
         "jp_string": "悪魔ばらい",
-        "en_string": ""
+        "en_string": "Beelzefreeze"
       },
       {
         "jp_string": "悪魔ばらい+100%",
-        "en_string": ""
+        "en_string": "Beelzefreeze+100%"
       },
       {
         "jp_string": "悪魔ばらいの 悪魔系へのダメージとマヒ成功率が　あがった！",
@@ -8038,8 +8040,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "悪魔系の敵に 威力を発揮し さらにマヒさせる",
-        "en_string": ""
+        "en_string": "Attack with 1.5x|damage to demons.|Paralysis chance."
       },
       {
         "jp_string": "悪魔系の敵に 威力を発揮し たまに魅了もする",
@@ -8839,11 +8842,11 @@
       },
       {
         "jp_string": "早詠みの杖",
-        "en_string": ""
+        "en_string": "Quick Casting"
       },
       {
         "jp_string": "早詠みの杖の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Quick Casting!"
       },
       {
         "jp_string": "春風のほほえみ",

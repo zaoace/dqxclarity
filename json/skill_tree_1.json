@@ -240,7 +240,7 @@
       },
       {
         "jp_string": "【160P】しんくう竜巻+1%",
-        "en_string": ""
+        "en_string": "[160P] Vacuum Tornado+1%"
       },
       {
         "jp_string": "【160P】せいけん爆撃+6%",
@@ -1108,7 +1108,7 @@
       },
       {
         "jp_string": "【170P】しんくう竜巻+1%",
-        "en_string": ""
+        "en_string": "[170P] Vacuum Tornado+1%"
       },
       {
         "jp_string": "【170P】せいけん爆撃+8%",
@@ -1980,7 +1980,7 @@
       },
       {
         "jp_string": "【180P】しんくう竜巻+1%",
-        "en_string": ""
+        "en_string": "[180P] Vacuum Tornado+1%"
       },
       {
         "jp_string": "【180P】せいけん爆撃+10%",
@@ -2840,7 +2840,7 @@
       },
       {
         "jp_string": "【190P】しんくう竜巻+1%",
-        "en_string": ""
+        "en_string": "[190P] Vacuum Tornado+1%"
       },
       {
         "jp_string": "【190P】せいけん爆撃+10%",
@@ -3708,7 +3708,7 @@
       },
       {
         "jp_string": "【200P】しんくう竜巻+3%",
-        "en_string": ""
+        "en_string": "[200P] Vacuum Tornado+3%"
       },
       {
         "jp_string": "【200P】せいけん爆撃+10%",
@@ -4501,7 +4501,7 @@
       },
       {
         "jp_string": "いなずま（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Lightning!"
       },
       {
         "jp_string": "いやしのメロディ",
@@ -5077,15 +5077,15 @@
       },
       {
         "jp_string": "げんま召喚（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Summon Spirit!"
       },
       {
         "jp_string": "げんま解放（専）",
-        "en_string": ""
+        "en_string": "Spirit Release"
       },
       {
         "jp_string": "げんま解放（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Spirit Release!"
       },
       {
         "jp_string": "こうげき力",
@@ -5294,11 +5294,11 @@
       },
       {
         "jp_string": "しゅくふくの杖",
-        "en_string": ""
+        "en_string": "Staff of Salvation"
       },
       {
         "jp_string": "しゅくふくの杖の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Staff of Salvation!"
       },
       {
         "jp_string": "しゅび力",
@@ -5358,39 +5358,39 @@
       },
       {
         "jp_string": "しんくう竜巻",
-        "en_string": ""
+        "en_string": "Vacuum Tornado"
       },
       {
         "jp_string": "しんくう竜巻+1%",
-        "en_string": ""
+        "en_string": "Vacuum Tornado+1%"
       },
       {
         "jp_string": "しんくう竜巻+3%",
-        "en_string": ""
+        "en_string": "Vacuum Tornado+3%"
       },
       {
         "jp_string": "しんくう竜巻Ⅰ",
-        "en_string": ""
+        "en_string": "Vacuum Tornado Ⅰ"
       },
       {
         "jp_string": "しんくう竜巻Ⅰ（専）",
-        "en_string": ""
+        "en_string": "Vacuum Tornado Ⅰ (EX)"
       },
       {
         "jp_string": "しんくう竜巻Ⅰ（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Vacuum Tornado Ⅰ!"
       },
       {
         "jp_string": "しんくう竜巻Ⅱ",
-        "en_string": ""
+        "en_string": "Vacuum Tornado ⅠⅠ"
       },
       {
         "jp_string": "しんくう竜巻Ⅱ（専）",
-        "en_string": ""
+        "en_string": "Vacuum Tornado ⅠⅠ (EX)"
       },
       {
         "jp_string": "しんくう竜巻Ⅱ（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Vacuum Tornado ⅠⅠ (EX)"
       },
       {
         "jp_string": "しんくう竜巻の威力が　あがった！",
@@ -5426,7 +5426,7 @@
       },
       {
         "jp_string": "じわれ（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Fissure!"
       },
       {
         "jp_string": "すてみ（専）",
@@ -6415,7 +6415,7 @@
       },
       {
         "jp_string": "ひばしら（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Pyre o Fire!"
       },
       {
         "jp_string": "ひゃくれつなめ（専）",
@@ -7127,7 +7127,7 @@
       },
       {
         "jp_string": "めいどうふうま（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned King Fissure!"
       },
       {
         "jp_string": "もうどくブルース（専）",
@@ -7219,39 +7219,39 @@
       },
       {
         "jp_string": "れんごく火炎Ⅰ",
-        "en_string": ""
+        "en_string": "Hellfire Ⅰ"
       },
       {
         "jp_string": "れんごく火炎Ⅰ（専）",
-        "en_string": ""
+        "en_string": "Hellfire Ⅰ (EX)"
       },
       {
         "jp_string": "れんごく火炎Ⅰ（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Hellfire Ⅰ!"
       },
       {
         "jp_string": "れんごく火炎Ⅱ",
-        "en_string": ""
+        "en_string": "Hellfire ⅠⅠ"
       },
       {
         "jp_string": "れんごく火炎Ⅱ（専）",
-        "en_string": ""
+        "en_string": "Hellfire ⅠⅠ (EX)"
       },
       {
         "jp_string": "れんごく火炎Ⅱ（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Hellfire ⅠⅠ (EX)!"
       },
       {
         "jp_string": "れんごく火炎Ⅲ",
-        "en_string": ""
+        "en_string": "Hellfire ⅠⅠⅠ"
       },
       {
         "jp_string": "れんごく火炎Ⅲ（専）",
-        "en_string": ""
+        "en_string": "Hellfire ⅠⅠⅠ (EX)"
       },
       {
         "jp_string": "れんごく火炎Ⅲ（専）の特技を　おぼえた！",
-        "en_string": ""
+        "en_string": "You learned Hellfire ⅠⅠⅠ (EX)!"
       },
       {
         "jp_string": "アイギスの守り",

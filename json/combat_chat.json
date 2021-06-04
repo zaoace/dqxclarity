@@ -8251,8 +8251,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "いつもより すばやく呪文を 唱えられる",
-        "en_string": ""
+        "en_string": "Increase your|spell casting|speed for 2 min."
       },
       {
         "jp_string": "いつ来ても 火事のカジノ！",
@@ -10336,7 +10337,7 @@
       },
       {
         "jp_string": "げんま解放",
-        "en_string": ""
+        "en_string": "Spirit Release"
       },
       {
         "jp_string": "げんま解放状態が もとにもどった",
@@ -11992,7 +11993,7 @@
       },
       {
         "jp_string": "しゅくふくの杖",
-        "en_string": ""
+        "en_string": "Staff of Salvation"
       },
       {
         "jp_string": "しゅびりょくが 0になった！",
@@ -12108,11 +12109,11 @@
       },
       {
         "jp_string": "しんくう竜巻Ⅰ",
-        "en_string": ""
+        "en_string": "Vacuum Tornado Ⅰ"
       },
       {
         "jp_string": "しんくう竜巻Ⅱ",
-        "en_string": ""
+        "en_string": "Vacuum Tornado ⅠⅠ"
       },
       {
         "jp_string": "ジングルモーモン出現の まじない効果がきえた",
@@ -18829,15 +18830,15 @@
       },
       {
         "jp_string": "れんごく火炎Ⅰ",
-        "en_string": ""
+        "en_string": "Hellfire Ⅰ"
       },
       {
         "jp_string": "れんごく火炎Ⅱ",
-        "en_string": ""
+        "en_string": "Hellfire Ⅱ"
       },
       {
         "jp_string": "れんごく火炎Ⅲ",
-        "en_string": ""
+        "en_string": "Hellfire Ⅲ"
       },
       {
         "jp_string": "れんごく火球",
@@ -19396,8 +19397,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "中にいると呪文が 暴走しやすくなる 魔法陣を作る",
-        "en_string": ""
+        "en_string": "Draw a circle|that gives 25%|crit chance."
       },
       {
         "jp_string": "中にいると呪文を 素早く唱えられる 魔法陣を作る",
@@ -19512,8 +19514,9 @@
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "仲間ひとりの ＨＰをそこそこ 回復する",
-        "en_string": ""
+        "en_string": "Restore a|little HP to|a target."
       },
       {
         "jp_string": "仲間ひとりの ＨＰを最大１２０ 少しずつ回復",
@@ -23432,15 +23435,16 @@
       },
       {
         "jp_string": "悪魔ばらい",
-        "en_string": ""
+        "en_string": "Beelzefreeze"
       },
       {
         "jp_string": "悪魔系と物質系に 絶大な威力を 発揮する一撃",
         "en_string": ""
       },
       {
+        "line_break": true,
         "jp_string": "悪魔系の敵に 威力を発揮し さらにマヒさせる",
-        "en_string": ""
+        "en_string": "Attack with 1.5x|damage to demons.|Paralysis chance."
       },
       {
         "jp_string": "悪魔系の敵に 威力を発揮し たまに魅了もする",
@@ -24540,7 +24544,7 @@
       },
       {
         "jp_string": "早詠みの杖",
-        "en_string": ""
+        "en_string": "Quick Casting"
       },
       {
         "jp_string": "早詠みの杖の効果が きえた",
@@ -24736,7 +24740,7 @@
       },
       {
         "jp_string": "暴走魔法陣",
-        "en_string": ""
+        "en_string": "Ring of Ruin"
       },
       {
         "jp_string": "最大ＨＰアップの 効果時間延長！",
@@ -25376,7 +25380,7 @@
       },
       {
         "jp_string": "水神のたつまき",
-        "en_string": "Water Gods Tornado"
+        "en_string": "Maelstrom"
       },
       {
         "jp_string": "水神の舞",
