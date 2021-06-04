@@ -4,203 +4,228 @@
     "strings": [
       {
         "jp_string": "クリスマス２０１７・銀",
-        "en_string": ""
+        "en_string": "Christmas 2017 Silver"
       },
       {
         "jp_string": "クリスマス２０１７・銅",
-        "en_string": ""
+        "en_string": "Christmas 2017 Copper"
       },
       {
         "jp_string": "クリスマスかまくら",
-        "en_string": ""
+        "en_string": "Christmas Festival"
       },
       {
         "jp_string": "クリスマスキャンドル",
-        "en_string": ""
+        "en_string": "Christmas Candles"
       },
       {
         "jp_string": "クリスマスサンタベッド",
-        "en_string": ""
+        "en_string": "Christmas Santa Bed"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスに ぴったりの はなやかなアーチ",
-        "en_string": ""
+        "en_string": "A graceful arch|perfect for|Christmas."
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスに着る ゆかたに似合う コサージュ",
-        "en_string": ""
+        "en_string": "A corsage that|looks good on|a yukata."
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスに着る ゆかたに似合う 甘ロリなブーツ",
-        "en_string": ""
+        "en_string": "Christmas boots|to match with|a yukata."
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスに着る 変わり種な じんべいの上部分",
-        "en_string": ""
+        "en_string": "The upper part|of a jinbei worn|at Christmas."
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスに着る 変わり種な じんべいの下部分",
-        "en_string": ""
+        "en_string": "The lower part|of a jinbei worn|at Christmas."
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスに着る 変わり種な ゆかたの上部分",
-        "en_string": ""
+        "en_string": "The upper part|of a yukata worn|at Christmas."
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスに着る 変わり種な ゆかたの下部分",
-        "en_string": ""
+        "en_string": "The lower part|of a yukata worn|at Christmas."
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスの お菓子で飾った 夢いっぱいの壁",
-        "en_string": ""
+        "en_string": "A dreamy wall|decorated with|Christmas candy."
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスの お菓子を重ねた 夢のツリーライト",
-        "en_string": ""
+        "en_string": "A tree light|made of layers|of Christmas candy."
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスの ギフトボックス アイテム収納可能",
-        "en_string": ""
+        "en_string": "A Christmas gift|box where items|can be stored."
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスの 準備をしている こびとたちの置物",
-        "en_string": ""
+        "en_string": "A figurine of|dwarves preparing|for Christmas."
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスの 装飾が施された 豪華な柱",
-        "en_string": ""
+        "en_string": "A gorgeous pillar|with Christmas|decorations."
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスの 雰囲気まんさいな かわいい暖炉",
-        "en_string": ""
+        "en_string": "A cute fireplace|full of Christmas|atmosphere."
       },
       {
         "jp_string": "クリスマスノードーム",
-        "en_string": ""
+        "en_string": "Christmas Snow Globe"
       },
       {
         "jp_string": "クリスマスの暖炉",
-        "en_string": ""
+        "en_string": "Christmas Fireplace"
       },
       {
         "jp_string": "クリスマスの柱",
-        "en_string": ""
+        "en_string": "Christmas Pillar"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスリース が描かれている カーペット",
-        "en_string": ""
+        "en_string": "A carpet with a|Christmas wreath|on it."
       },
       {
         "jp_string": "クリスマスレンズ",
-        "en_string": ""
+        "en_string": "Christmas Lenses"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスを祝う 星の大樹のお店 限定の便せん",
-        "en_string": ""
+        "en_string": "Celebrating|Christmas at the|Star Tree Shop!"
       },
       {
         "jp_string": "クリスマス仕様ミミック",
-        "en_string": ""
+        "en_string": "Christmas Mimic"
       },
       {
         "jp_string": "クリスマス柄の便利な壁",
-        "en_string": ""
+        "en_string": "Convenient Christmas Wall Pattern"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマス気分を 盛り上げてくれる 赤リボンのリース",
-        "en_string": ""
+        "en_string": "A red ribbon|wreath with|Christmas spirit."
       },
       {
+	"line_break": true,
         "jp_string": "クリスマス気分を 盛り上げてくれる 青リボンのリース",
-        "en_string": ""
+        "en_string": "A blue ribbon|wreath with|Christmas spirit."
       },
       {
         "jp_string": "グリッド家具",
-        "en_string": ""
+        "en_string": "Grid Furniture"
       },
       {
+	"line_break": true,
         "jp_string": "グリップに 純金を使用した 高級なわとび",
-        "en_string": ""
+        "en_string": "Luxury skipping|rope with a grip|of pure gold."
       },
       {
         "jp_string": "クリティカルロッド",
-        "en_string": ""
+        "en_string": "Critical Rod"
       },
       {
+	"line_break": true,
         "jp_string": "ぐるぐる回る 星屑の航跡つき 庭用の飛行船",
-        "en_string": ""
+        "en_string": "A garden airship|with a trail of|stardust."
       },
       {
         "jp_string": "クルッチカプセル",
-        "en_string": ""
+        "en_string": "Kurucchi Capsule"
       },
       {
         "jp_string": "グレートハンマー作成法",
-        "en_string": ""
+        "en_string": "How To Make Great Hammer"
       },
       {
+	"line_break": true,
         "jp_string": "グレープフルーツ モチーフの ジューシーな本棚",
-        "en_string": ""
+        "en_string": "A juicy bookshelf|with a grapefruit|motif."
       },
       {
+	"line_break": true,
         "jp_string": "グレーブルーの めずらしいマリー 染色用の素材",
-        "en_string": ""
+        "en_string": "A rare gray-blue|flower for dyeing|materials."
       },
       {
         "jp_string": "グレーブルーの花束",
-        "en_string": ""
+        "en_string": "Gray-blue Bouquet"
       },
       {
+	"line_break": true,
         "jp_string": "グレーリリィが 咲く栽培用のタネ ５日で収穫可能",
-        "en_string": ""
+        "en_string": "Gray lily|seeds that grow|in 5 days."
       },
       {
+	"line_break": true,
         "jp_string": "グレー系の エルボブの かわいい像",
-        "en_string": ""
+        "en_string": "A pretty|statue of a|grayish cat."
       },
       {
         "jp_string": "グレイウルフカプセル",
-        "en_string": ""
+        "en_string": "Gray Wolf Capsule"
       },
       {
         "jp_string": "グレイグの像",
-        "en_string": ""
+        "en_string": "Statue of Hendrik"
       },
       {
         "jp_string": "グレイスフルコート",
-        "en_string": ""
+        "en_string": "Graceful Coat"
       },
       {
         "jp_string": "グレイスフルハット",
-        "en_string": ""
+        "en_string": "Graceful Hat"
       },
       {
         "jp_string": "グレイスフルブーツ",
-        "en_string": ""
+        "en_string": "Graceful Boots"
       },
       {
         "jp_string": "グレイスフルボトム",
-        "en_string": ""
+        "en_string": "Graceful Pants"
       },
       {
+	"line_break": true,
         "jp_string": "グレイツェルが 求めるココア ＨＰが回復する",
-        "en_string": ""
+        "en_string": "Cocoa that|Greitzel wants.|Restores HP."
       },
       {
         "jp_string": "グレイツェルソファ",
-        "en_string": ""
+        "en_string": "Greitzel Sofa"
       },
       {
         "jp_string": "グレイツェルチェア",
-        "en_string": ""
+        "en_string": "Greitzel Chair"
       },
       {
         "jp_string": "グレイツェルぬいぐるみ",
-        "en_string": ""
+        "en_string": "Greitzel Plushie"
       },
       {
+	"line_break": true,
         "jp_string": "グレイツェルの となりに座れる スイートなソファ",
-        "en_string": ""
+        "en_string": "A sweet sofa to|sit on next to|Greitzel."
       },
       {
         "jp_string": "グレイツェルの となりに座れる ラブラブなチェア",
@@ -9533,143 +9558,143 @@
       },
       {
         "jp_string": "ビクトリーチップ冥",
-        "en_string": ""
+        "en_string": "Victory Chip Dark"
       },
       {
         "jp_string": "ビクトリーチップ海",
-        "en_string": ""
+        "en_string": "Victory Chip Sea"
       },
       {
         "jp_string": "ビクトリーチップ祭",
-        "en_string": ""
+        "en_string": "Victory Chip Festival"
       },
       {
         "jp_string": "ビクトリーボックスⅤ",
-        "en_string": ""
+        "en_string": "Victory Box V"
       },
       {
         "jp_string": "ビクトリーボックスⅥ",
-        "en_string": ""
+        "en_string": "Victory Box VI"
       },
       {
         "jp_string": "ピクニックアサヒ",
-        "en_string": ""
+        "en_string": "Asahi Picnic"
       },
       {
         "jp_string": "ピクニックアルヴァン",
-        "en_string": ""
+        "en_string": "Alvan Picnic"
       },
       {
         "jp_string": "ピクニックアルウエ",
-        "en_string": ""
+        "en_string": "Alwae Picnic"
       },
       {
         "jp_string": "ピクニックアンルシア",
-        "en_string": ""
+        "en_string": "Anlucia Picnic"
       },
       {
         "jp_string": "ピクニックウルタ",
-        "en_string": ""
+        "en_string": "Ulta Picnic"
       },
       {
         "jp_string": "ピクニックカミル",
-        "en_string": ""
+        "en_string": "Kamil Picnic"
       },
       {
         "jp_string": "ピクニックギルガラン",
-        "en_string": ""
+        "en_string": "Gilgaran Picnic"
       },
       {
         "jp_string": "ピクニックグリエ",
-        "en_string": ""
+        "en_string": "Grei Picnic"
       },
       {
         "jp_string": "ピクニックグルヤンラシ",
-        "en_string": ""
+        "en_string": "Guryan Rush Picnic"
       },
       {
         "jp_string": "ピクニッククロニコ",
-        "en_string": ""
+        "en_string": "Chroniko Picnic"
       },
       {
         "jp_string": "ピクニックセラフィ",
-        "en_string": ""
+        "en_string": "Seraphy Picnic"
       },
       {
         "jp_string": "ピクニックダストン",
-        "en_string": ""
+        "en_string": "Duston Picnic"
       },
       {
         "jp_string": "ピクニックチョメ",
-        "en_string": ""
+        "en_string": "Chome Picnic"
       },
       {
         "jp_string": "ピクニックチリ",
-        "en_string": ""
+        "en_string": "Cheri Picnic"
       },
       {
         "jp_string": "ピクニックパドレ",
-        "en_string": ""
+        "en_string": "Padre Picnic"
       },
       {
         "jp_string": "ピクニックパルミオ",
-        "en_string": ""
+        "en_string": "Palmeo Picnic"
       },
       {
         "jp_string": "ピクニックヒストリカ",
-        "en_string": ""
+        "en_string": "Historica Picnic"
       },
       {
         "jp_string": "ピクニックヒューザ",
-        "en_string": ""
+        "en_string": "Huzer Picnic"
       },
       {
         "jp_string": "ピクニックファラス",
-        "en_string": ""
+        "en_string": "Faras Picnic"
       },
       {
         "jp_string": "ピクニックフォステイル",
-        "en_string": ""
+        "en_string": "Fostail Picnic"
       },
       {
         "jp_string": "ピクニックプクラス",
-        "en_string": ""
+        "en_string": "Puklas Picnic"
       },
       {
         "jp_string": "ピクニックマローネ",
-        "en_string": ""
+        "en_string": "Marone Picnic"
       },
       {
         "jp_string": "ピクニックモモンタル",
-        "en_string": ""
+        "en_string": "Momontal Picnic"
       },
       {
         "jp_string": "ピクニックヨイ",
-        "en_string": ""
+        "en_string": "Yoi Picnic"
       },
       {
         "jp_string": "ピクニックラウル",
-        "en_string": ""
+        "en_string": "Raul Picnic"
       },
       {
         "jp_string": "ピクニックラグアス",
-        "en_string": ""
+        "en_string": "Raglas Picnic"
       },
       {
         "jp_string": "ピクニックリィン",
-        "en_string": ""
+        "en_string": "Rin Picnic"
       },
       {
         "jp_string": "ピクニックリベリオ",
-        "en_string": ""
+        "en_string": "Riberio Picnic"
       },
       {
         "jp_string": "ピクニックリンジャーラ",
-        "en_string": ""
+        "en_string": "Linjara Picnic"
       },
       {
         "jp_string": "ピクニックワグミカ",
-        "en_string": ""
+        "en_string": "Wagumika Picnic"
       },
       {
         "jp_string": "ピクニック魔勇者",
@@ -9697,15 +9722,15 @@
       },
       {
         "jp_string": "ヒストリカキッチン",
-        "en_string": ""
+        "en_string": "Historica Kitchen"
       },
       {
         "jp_string": "ヒストリカソファ",
-        "en_string": ""
+        "en_string": "Historica Sofa"
       },
       {
         "jp_string": "ヒストリカチェア",
-        "en_string": ""
+        "en_string": "Historica Chair"
       },
       {
         "jp_string": "ヒストリカと ピクニック気分を 味わえる庭具",
@@ -9713,7 +9738,7 @@
       },
       {
         "jp_string": "ヒストリカぬいぐるみ",
-        "en_string": ""
+        "en_string": "Historica Plushie"
       },
       {
         "jp_string": "ヒストリカの ギュッとちゃんが 入っている箱",
@@ -9733,11 +9758,11 @@
       },
       {
         "jp_string": "ヒストリカのオルゴール",
-        "en_string": ""
+        "en_string": "Historica Music Box"
       },
       {
         "jp_string": "ヒストリカの像＋",
-        "en_string": ""
+        "en_string": "Historica Statue+"
       },
       {
         "jp_string": "ヒストリカの姿が 胸に焼きついた ズッ友のＴシャツ",
@@ -9745,7 +9770,7 @@
       },
       {
         "jp_string": "ヒストリカの畑",
-        "en_string": ""
+        "en_string": "Historica Field"
       },
       {
         "jp_string": "ヒストリカの相棒 ワラタローが トコトコ歩く人形",
@@ -9761,7 +9786,7 @@
       },
       {
         "jp_string": "ビターローズ",
-        "en_string": ""
+        "en_string": "Bitter Rose"
       },
       {
         "jp_string": "ひたいに入った ドクロが目印の クールなバンダナ",
@@ -9813,11 +9838,11 @@
       },
       {
         "jp_string": "ヒッチハイクデビルの像",
-        "en_string": ""
+        "en_string": "Hitchhike Devil Picture"
       },
       {
         "jp_string": "ヒッチハイクデビル像庭",
-        "en_string": ""
+        "en_string": "Hitchhike Devil Garden Statue"
       },
       {
         "jp_string": "ひときわ大きな ダイヤが輝く ゴージャスなムチ",
@@ -9837,7 +9862,7 @@
       },
       {
         "jp_string": "ヒトデ",
-        "en_string": ""
+        "en_string": "Starfish"
       },
       {
         "jp_string": "ヒマワリの形を モチーフにした おしゃれハンマー",
@@ -9849,7 +9874,7 @@
       },
       {
         "jp_string": "ヒメアソファ",
-        "en_string": ""
+        "en_string": "Himea Sofa"
       },
       {
         "jp_string": "ヒメアの となりに座れる スイートなソファ",
@@ -9869,11 +9894,11 @@
       },
       {
         "jp_string": "ヒューザキッチン",
-        "en_string": ""
+        "en_string": "Huzer Kitchen"
       },
       {
         "jp_string": "ヒューザソファ",
-        "en_string": ""
+        "en_string": "Huzer Sofa"
       },
       {
         "jp_string": "ヒューザたちが 郵便を受け取る ほのぼのポスト",
@@ -9881,7 +9906,7 @@
       },
       {
         "jp_string": "ヒューザチェア",
-        "en_string": ""
+        "en_string": "Huzer Chair"
       },
       {
         "jp_string": "ヒューザと ピクニック気分を 味わえる庭具",
@@ -9913,23 +9938,23 @@
       },
       {
         "jp_string": "ヒューザのぬいぐるみ",
-        "en_string": ""
+        "en_string": "Huzer Plushie"
       },
       {
         "jp_string": "ヒューザのポスト",
-        "en_string": ""
+        "en_string": "Huzer Mailbox"
       },
       {
         "jp_string": "ヒューザの畑",
-        "en_string": ""
+        "en_string": "Huzer Field"
       },
       {
         "jp_string": "ヒューザの肖像画・庭",
-        "en_string": ""
+        "en_string": "Huzer Garden Portrait"
       },
       {
         "jp_string": "ヒューザパラソル",
-        "en_string": ""
+        "en_string": "Huzer Parasol"
       },
       {
         "jp_string": "ピュアスノーの花束",
@@ -9941,7 +9966,7 @@
       },
       {
         "jp_string": "ピュアブルーダリア",
-        "en_string": ""
+        "en_string": "Pure Blue Dalia"
       },
       {
         "jp_string": "ヒョウ柄模様が 色気を引きだす 男性専用の水着",
@@ -9957,15 +9982,15 @@
       },
       {
         "jp_string": "ピョンシェルジュキング",
-        "en_string": ""
+        "en_string": "Pyon Shelge King"
       },
       {
         "jp_string": "ピョンシェルジュミミィ",
-        "en_string": ""
+        "en_string": "Pyon Shelge Mimi"
       },
       {
         "jp_string": "ピョンシェルジュリリィ",
-        "en_string": ""
+        "en_string": "Pyon Shelge Lily"
       },
       {
         "jp_string": "ピョンピョンと はねるウサギの たれてるウサミミ",
@@ -9985,7 +10010,7 @@
       },
       {
         "jp_string": "ピラニア",
-        "en_string": ""
+        "en_string": "Piranha"
       },
       {
         "jp_string": "ピラミッドの奥に 隠された秘宝 鑑定してみよう",
@@ -9993,15 +10018,15 @@
       },
       {
         "jp_string": "ヒラメ",
-        "en_string": ""
+        "en_string": "Flounder"
       },
       {
         "jp_string": "ピラルク",
-        "en_string": ""
+        "en_string": "Arapaima"
       },
       {
         "jp_string": "ビリジアカメリアのタネ",
-        "en_string": ""
+        "en_string": "Villisia Camelia Seeds"
       }
     ]
   }
