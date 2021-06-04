@@ -4,203 +4,228 @@
     "strings": [
       {
         "jp_string": "クリスマス２０１７・銀",
-        "en_string": ""
+        "en_string": "Christmas 2017 Silver"
       },
       {
         "jp_string": "クリスマス２０１７・銅",
-        "en_string": ""
+        "en_string": "Christmas 2017 Copper"
       },
       {
         "jp_string": "クリスマスかまくら",
-        "en_string": ""
+        "en_string": "Christmas Festival"
       },
       {
         "jp_string": "クリスマスキャンドル",
-        "en_string": ""
+        "en_string": "Christmas Candles"
       },
       {
         "jp_string": "クリスマスサンタベッド",
-        "en_string": ""
+        "en_string": "Christmas Santa Bed"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスに ぴったりの はなやかなアーチ",
-        "en_string": ""
+        "en_string": "A Graceful arch|Perfect for|Christmas"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスに着る ゆかたに似合う コサージュ",
-        "en_string": ""
+        "en_string": "A Corsage that looks|good on a yukata worn|at Christmas"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスに着る ゆかたに似合う 甘ロリなブーツ",
-        "en_string": ""
+        "en_string": "Sweet loli boots to|Match a Yukata worn|at Christmas"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスに着る 変わり種な じんべいの上部分",
-        "en_string": ""
+        "en_string": "The upper part of an|unusual jinbei|worn at Christmas"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスに着る 変わり種な じんべいの下部分",
-        "en_string": ""
+        "en_string": "The lower part of an|unusual jinbei|worn at Christmas"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスに着る 変わり種な ゆかたの上部分",
-        "en_string": ""
+        "en_string": "The upper part of an|unusual yukata|worn at Christmas"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスに着る 変わり種な ゆかたの下部分",
-        "en_string": ""
+        "en_string": "The lower part of an|unusual yukata|worn at Christmas"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスの お菓子で飾った 夢いっぱいの壁",
-        "en_string": ""
+        "en_string": "A wall full of|dreams decorated with|Christmas candy"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスの お菓子を重ねた 夢のツリーライト",
-        "en_string": ""
+        "en_string": "Dream tree light|made of layers of|Christmas candy"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスの ギフトボックス アイテム収納可能",
-        "en_string": ""
+        "en_string": "A Christmas gift|box where items can|be stored in."
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスの 準備をしている こびとたちの置物",
-        "en_string": ""
+        "en_string": "A Figurine of|dwarves getting ready|for Christmas"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスの 装飾が施された 豪華な柱",
-        "en_string": ""
+        "en_string": "Luxurious pillar|with Christmas|decorations"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスの 雰囲気まんさいな かわいい暖炉",
-        "en_string": ""
+        "en_string": "Pretty fireplace|full of Christmas|atmosphere"
       },
       {
         "jp_string": "クリスマスノードーム",
-        "en_string": ""
+        "en_string": "Snow Globe"
       },
       {
         "jp_string": "クリスマスの暖炉",
-        "en_string": ""
+        "en_string": "Christmas Fireplace"
       },
       {
         "jp_string": "クリスマスの柱",
-        "en_string": ""
+        "en_string": "Christmas Pillar"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスリース が描かれている カーペット",
-        "en_string": ""
+        "en_string": "A carpet with a|Christmas wreath|on it"
       },
       {
         "jp_string": "クリスマスレンズ",
-        "en_string": ""
+        "en_string": "Christmas Lenses"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマスを祝う 星の大樹のお店 限定の便せん",
-        "en_string": ""
+        "en_string": "Celebrate Christmas at|the Star Tree Store|-Ltd Ed Letterhead"
       },
       {
         "jp_string": "クリスマス仕様ミミック",
-        "en_string": ""
+        "en_string": "Christmas mimic"
       },
       {
         "jp_string": "クリスマス柄の便利な壁",
-        "en_string": ""
+        "en_string": "Useful wall with Christmas pattern"
       },
       {
+	"line_break": true,
         "jp_string": "クリスマス気分を 盛り上げてくれる 赤リボンのリース",
-        "en_string": ""
+        "en_string": "A wreath with red|ribbons to get you in|the Christmas spirit."
       },
       {
+	"line_break": true,
         "jp_string": "クリスマス気分を 盛り上げてくれる 青リボンのリース",
-        "en_string": ""
+        "en_string": "A wreath with blue|ribbons to get you in|the Christmas spirit."
       },
       {
         "jp_string": "グリッド家具",
-        "en_string": ""
+        "en_string": "Grid Furniture"
       },
       {
+	"line_break": true,
         "jp_string": "グリップに 純金を使用した 高級なわとび",
-        "en_string": ""
+        "en_string": "Luxury skipping|rope with a grip made|of pure gold"
       },
       {
         "jp_string": "クリティカルロッド",
-        "en_string": ""
+        "en_string": "Critical Rod"
       },
       {
+	"line_break": true,
         "jp_string": "ぐるぐる回る 星屑の航跡つき 庭用の飛行船",
-        "en_string": ""
+        "en_string": "A Garden airship|with a trail of|spinning stardust"
       },
       {
         "jp_string": "クルッチカプセル",
-        "en_string": ""
+        "en_string": "Kurucci Capsule"
       },
       {
         "jp_string": "グレートハンマー作成法",
-        "en_string": ""
+        "en_string": "How to make a great hammer"
       },
       {
+	"line_break": true,
         "jp_string": "グレープフルーツ モチーフの ジューシーな本棚",
-        "en_string": ""
+        "en_string": "Juicy Bookshelf with|a grapefruit|motif."
       },
       {
+	"line_break": true,
         "jp_string": "グレーブルーの めずらしいマリー 染色用の素材",
-        "en_string": ""
+        "en_string": "A rare grey-blue|flower for dyeing|materials"
       },
       {
         "jp_string": "グレーブルーの花束",
-        "en_string": ""
+        "en_string": "Gray-blue bouquet"
       },
       {
+	"line_break": true,
         "jp_string": "グレーリリィが 咲く栽培用のタネ ５日で収穫可能",
-        "en_string": ""
+        "en_string": "Seeds for growing|gray lily blooms, ready|to harvest in 5 days."
       },
       {
+	"line_break": true,
         "jp_string": "グレー系の エルボブの かわいい像",
-        "en_string": ""
+        "en_string": "A pretty|statue of a|grayish cat"
       },
       {
         "jp_string": "グレイウルフカプセル",
-        "en_string": ""
+        "en_string": "Gray Wolf Capsule"
       },
       {
         "jp_string": "グレイグの像",
-        "en_string": ""
+        "en_string": "Statue of Hendrik"
       },
       {
         "jp_string": "グレイスフルコート",
-        "en_string": ""
+        "en_string": "Graceful Coat"
       },
       {
         "jp_string": "グレイスフルハット",
-        "en_string": ""
+        "en_string": "Graceful Hat"
       },
       {
         "jp_string": "グレイスフルブーツ",
-        "en_string": ""
+        "en_string": "Graceful Boots"
       },
       {
         "jp_string": "グレイスフルボトム",
-        "en_string": ""
+        "en_string": "Graceful Pants"
       },
       {
+	"line_break": true,
         "jp_string": "グレイツェルが 求めるココア ＨＰが回復する",
-        "en_string": ""
+        "en_string": "Greichel wants cocoa|HP will be|restored."
       },
       {
         "jp_string": "グレイツェルソファ",
-        "en_string": ""
+        "en_string": "Greichel Sofa"
       },
       {
         "jp_string": "グレイツェルチェア",
-        "en_string": ""
+        "en_string": "Greichel Chair"
       },
       {
         "jp_string": "グレイツェルぬいぐるみ",
-        "en_string": ""
+        "en_string": "Greichel Plush Toy"
       },
       {
+	"line_break": true,
         "jp_string": "グレイツェルの となりに座れる スイートなソファ",
-        "en_string": ""
+        "en_string": "A sweet sofa to|sit on next to|Greichel."
       },
       {
         "jp_string": "グレイツェルの となりに座れる ラブラブなチェア",
