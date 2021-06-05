@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "hex_start": "54 45 58 54 10 00 00 00 00 0C 00 00 00 00 00 00 00 00",
     "skip_first_foot": true,
@@ -253,43 +253,43 @@
       },
       {
         "jp_string": "悠久の果ての決戦",
-        "en_string": "Eternal Decisive Battle"
+        "en_string": ""
       },
       {
         "jp_string": "悠久の果ての決戦のおはなし",
-        "en_string": "Eternal Decisive Battle Story"
+        "en_string": ""
       },
       {
         "jp_string": "新たなる旅立ち",
-        "en_string": "New Departure"
+        "en_string": ""
       },
       {
         "jp_string": "新たなる旅立ちのおはなし",
-        "en_string": "New Departure Story"
+        "en_string": ""
       },
       {
         "jp_string": "栄光の勇者と消されし盟友",
-        "en_string": "Glorious Hero and Erased Ally"
+        "en_string": ""
       },
       {
         "jp_string": "栄光の勇者と消されし盟友のおはなし",
-        "en_string": "Glorious Hero and Erased Ally Story"
+        "en_string": ""
       },
       {
         "jp_string": "氷雪と恵みの彼方へ",
-        "en_string": "Beyond Ice, Snow, and Grace"
+        "en_string": ""
       },
       {
         "jp_string": "氷雪と恵みの彼方へのおはなし",
-        "en_string": "Beyond Ice, Snow, and Grace Story"
+        "en_string": ""
       },
       {
         "jp_string": "王の戴冠",
-        "en_string": "King's Crown"
+        "en_string": ""
       },
       {
         "jp_string": "王の戴冠のおはなし",
-        "en_string": "King's Crown Story"
+        "en_string": ""
       },
       {
         "jp_string": "目覚めし五つの種族",
@@ -297,11 +297,11 @@
       },
       {
         "jp_string": "真実は蒼き水の深淵に",
-        "en_string": "Truth in the Watery Blue Abyss"
+        "en_string": ""
       },
       {
         "jp_string": "真実は蒼き水の深淵にのおはなし",
-        "en_string": "Truth in the Watery Blue Abyss Story"
+        "en_string": ""
       },
       {
         "jp_string": "眠れる勇者と導きの盟友",
@@ -309,95 +309,95 @@
       },
       {
         "jp_string": "砂の都ファラザード",
-        "en_string": "Sand City Farazard"
+        "en_string": ""
       },
       {
         "jp_string": "砂の都ファラザードのおはなし",
-        "en_string": "Sand City Farazard Story"
+        "en_string": ""
       },
       {
         "jp_string": "砂上の魔神帝国",
-        "en_string": "Evil Empire of Sand"
+        "en_string": ""
       },
       {
         "jp_string": "砂上の魔神帝国のおはなし",
-        "en_string": "Evil Empire of Sand Story"
+        "en_string": ""
       },
       {
         "jp_string": "神の覚醒",
-        "en_string": "God's Waking"
+        "en_string": ""
       },
       {
         "jp_string": "神の覚醒のおはなし",
-        "en_string": "God's Waking Story"
+        "en_string": ""
       },
       {
         "jp_string": "紡がれし勇気の絆",
-        "en_string": "Bonds of Courage Spun"
+        "en_string": ""
       },
       {
         "jp_string": "紡がれし勇気の絆のおはなし",
-        "en_string": "Bonds of Courage Spun Story"
+        "en_string": ""
       },
       {
         "jp_string": "聖炎の解放者",
-        "en_string": "Holy Flame Savior"
+        "en_string": ""
       },
       {
         "jp_string": "聖炎の解放者のおはなし",
-        "en_string": "Holy Flame Savior Story"
+        "en_string": ""
       },
       {
         "jp_string": "赤き大地の双王子",
-        "en_string": "Two Princes of Red Earth"
+        "en_string": ""
       },
       {
         "jp_string": "赤き大地の双王子のおはなし",
-        "en_string": "Two Princes of Red Earth Story"
+        "en_string": ""
       },
       {
         "jp_string": "遥かなる故郷へ",
-        "en_string": "To a Distant Hometown"
+        "en_string": ""
       },
       {
         "jp_string": "遥かなる故郷へのおはなし",
-        "en_string": "To a Distant Hometown Story"
+        "en_string": ""
       },
       {
         "jp_string": "遥かなる未来への旅路",
-        "en_string": "Journey to A Distant Future"
+        "en_string": ""
       },
       {
         "jp_string": "遥かなる未来への旅路のおはなし",
-        "en_string": "Journey to A Distant Future Story"
+        "en_string": ""
       },
       {
         "jp_string": "重なりし運命の大地",
-        "en_string": "Land of Overlapping Fate"
+        "en_string": ""
       },
       {
         "jp_string": "重なりし運命の大地のおはなし",
-        "en_string": "Land of Overlapping Fate Story"
+        "en_string": ""
       },
       {
         "jp_string": "闇の根源闇の根源のおはなし",
-        "en_string": "The Source of Darkness Story"
+        "en_string": ""
       },
       {
         "jp_string": "闇を抱く月光の楽園",
-        "en_string": "Dark Moonlit Paradise"
+        "en_string": ""
       },
       {
         "jp_string": "闇を抱く月光の楽園のおはなし",
-        "en_string": "Dark Moonlit Paradise Story"
+        "en_string": ""
       },
       {
         "jp_string": "魔界大戦",
-        "en_string": "Makai War"
+        "en_string": ""
       },
       {
         "jp_string": "魔界大戦のおはなし",
-        "en_string": "Makai War Story"
+        "en_string": ""
       }
     ]
   }

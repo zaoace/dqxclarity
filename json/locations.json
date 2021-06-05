@@ -1240,19 +1240,19 @@
       },
       {
         "jp_string": "ジュレットの町",
-        "en_string": "Julet Town"
+        "en_string": "Julette Town"
       },
       {
         "jp_string": "ジュレット住宅村",
-        "en_string": "Julet Populous Village"
+        "en_string": "Julette Populous Village"
       },
       {
         "jp_string": "ジュレット街-酒場",
-        "en_string": "Julet Street"
+        "en_string": "Julette Street"
       },
       {
         "jp_string": "ジュレット駅",
-        "en_string": "Julet Stop"
+        "en_string": "Julette Stop"
       },
       {
         "jp_string": "ジュレリア地下廃坑",
@@ -1984,7 +1984,7 @@
       },
       {
         "jp_string": "ルファ神殿エントランス（オープン）",
-        "en_string": ""
+        "en_string": "Rufa Temple Entrance (Open)"
       },
       {
         "jp_string": "ルファ神殿・中央塔",
@@ -2060,7 +2060,7 @@
       },
       {
         "jp_string": "七夕の里",
-        "en_string": ""
+        "en_string": "Star Village"
       },
       {
         "jp_string": "万年雪の砦",
@@ -2152,7 +2152,7 @@
       },
       {
         "jp_string": "個人テスト（TOSHIMIT）",
-        "en_string": ""
+        "en_string": "DEBUG"
       },
       {
         "jp_string": "偽",
@@ -2776,7 +2776,7 @@
       },
       {
         "jp_string": "新エテーネの村",
-        "en_string": ""
+        "en_string": "New Ethene Village"
       },
       {
         "jp_string": "旧ネクロデア領",
@@ -3056,19 +3056,19 @@
       },
       {
         "jp_string": "海賊のアジト跡・地下",
-        "en_string": "Pirate HQ Underground"
+        "en_string": ""
       },
       {
         "jp_string": "深海のほこら",
-        "en_string": "Deep Sea Shrine"
+        "en_string": ""
       },
       {
         "jp_string": "深淵",
-        "en_string": "Ravine"
+        "en_string": ""
       },
       {
         "jp_string": "清き水の洞くつ",
-        "en_string": "Clear Water Cave"
+        "en_string": ""
       },
       {
         "jp_string": "港町レンドア",
@@ -3076,11 +3076,11 @@
       },
       {
         "jp_string": "港町レンドア北",
-        "en_string": "North Port Lendor"
+        "en_string": "North Port Rendea"
       },
       {
         "jp_string": "港町レンドア南",
-        "en_string": "South Port Lendor"
+        "en_string": "South Port Rendea"
       },
       {
         "jp_string": "港町レンドア駅",
@@ -3088,83 +3088,83 @@
       },
       {
         "jp_string": "湖の遺跡",
-        "en_string": "Lake Ruins"
+        "en_string": ""
       },
       {
         "jp_string": "滅びの間",
-        "en_string": "Perish Hall"
+        "en_string": ""
       },
       {
         "jp_string": "滅神の獄",
-        "en_string": "God's Prison"
+        "en_string": ""
       },
       {
         "jp_string": "滝の裏の洞くつ",
-        "en_string": "Waterfall Cave"
+        "en_string": ""
       },
       {
         "jp_string": "滝見の広場",
-        "en_string": "Waterfall Sq."
+        "en_string": ""
       },
       {
         "jp_string": "漆黒の間",
-        "en_string": "Black Room"
+        "en_string": ""
       },
       {
         "jp_string": "灯台のアジト",
-        "en_string": "Lighthouse HQ"
+        "en_string": ""
       },
       {
         "jp_string": "灰のほこら",
-        "en_string": "Ash Shrine"
+        "en_string": ""
       },
       {
         "jp_string": "灰の間",
-        "en_string": "Ash Hall"
+        "en_string": ""
       },
       {
         "jp_string": "灼熱の溶岩窟",
-        "en_string": "Burning Lava Cave"
+        "en_string": ""
       },
       {
         "jp_string": "炎樹の丘",
-        "en_string": "Firetree H."
+        "en_string": ""
       },
       {
         "jp_string": "烈火の渓谷",
-        "en_string": "Valley of Fire"
+        "en_string": ""
       },
       {
         "jp_string": "無の空洞",
-        "en_string": "Naught Cave"
+        "en_string": ""
       },
       {
         "jp_string": "無限の彼方",
-        "en_string": "Beyond Infinity"
+        "en_string": ""
       },
       {
         "jp_string": "煉獄の谷",
-        "en_string": "Purgatory V."
+        "en_string": ""
       },
       {
         "jp_string": "煙霧の谷",
-        "en_string": "Haze Valley"
+        "en_string": ""
       },
       {
         "jp_string": "熱砂洞",
-        "en_string": "Sand Cave"
+        "en_string": ""
       },
       {
         "jp_string": "狩人のほら穴",
-        "en_string": "Hunter's Den"
+        "en_string": ""
       },
       {
         "jp_string": "狩人の休憩所",
-        "en_string": "Hunter Rest Area"
+        "en_string": ""
       },
       {
         "jp_string": "猫島",
-        "en_string": "Cat I."
+        "en_string": "Catlan"
       },
       {
         "jp_string": "獅子門",
@@ -3172,35 +3172,35 @@
       },
       {
         "jp_string": "獅子門・難民キャンプ",
-        "en_string": "Lion Gate Refugee Camp"
+        "en_string": ""
       },
       {
         "jp_string": "玉座の間",
-        "en_string": "Throne Room"
+        "en_string": ""
       },
       {
         "jp_string": "王家の墓",
-        "en_string": "Royal Tomb"
+        "en_string": ""
       },
       {
         "jp_string": "王家の宝物庫",
-        "en_string": "Royal Treasure H."
+        "en_string": ""
       },
       {
         "jp_string": "王家の迷宮",
-        "en_string": "Royal Labyrinth"
+        "en_string": ""
       },
       {
         "jp_string": "王家の迷宮5ｔｈ用",
-        "en_string": "Royal Labyrinth 5F"
+        "en_string": ""
       },
       {
         "jp_string": "王立アルケミア",
-        "en_string": "Royal Alchemia"
+        "en_string": ""
       },
       {
         "jp_string": "王者の座",
-        "en_string": "King's Seat"
+        "en_string": ""
       },
       {
         "jp_string": "王都カミハルムイ",
@@ -3224,7 +3224,7 @@
       },
       {
         "jp_string": "王都ネクロデア跡",
-        "en_string": "Necrodia Capital Ruins"
+        "en_string": ""
       },
       {
         "jp_string": "現",
@@ -3236,35 +3236,35 @@
       },
       {
         "jp_string": "異界校舎",
-        "en_string": "Alien School"
+        "en_string": ""
       },
       {
         "jp_string": "異界校舎2",
-        "en_string": "Alien School2"
+        "en_string": ""
       },
       {
         "jp_string": "異界滅神の間",
-        "en_string": "Alien Hall"
+        "en_string": ""
       },
       {
         "jp_string": "白のほこら",
-        "en_string": "White Shrine"
+        "en_string": ""
       },
       {
         "jp_string": "白の間",
-        "en_string": "White H."
+        "en_string": ""
       },
       {
         "jp_string": "白霜の流氷野",
-        "en_string": "Frosty Ice Field"
+        "en_string": ""
       },
       {
         "jp_string": "百鬼の隠れ屋敷",
-        "en_string": "H. Hidden Mansion"
+        "en_string": ""
       },
       {
         "jp_string": "盾ルクスガルン大空洞",
-        "en_string": "Shield Luxgarn Cavity"
+        "en_string": ""
       },
       {
         "jp_string": "真",
@@ -3272,7 +3272,7 @@
       },
       {
         "jp_string": "真っ赤な洞くつ",
-        "en_string": "Bright Red Cave"
+        "en_string": ""
       },
       {
         "jp_string": "真の",
@@ -3280,27 +3280,27 @@
       },
       {
         "jp_string": "真・魔幻宮殿",
-        "en_string": "T. Magical Palace"
+        "en_string": ""
       },
       {
         "jp_string": "真実の間",
-        "en_string": "Truth Hall"
+        "en_string": ""
       },
       {
         "jp_string": "知の城塞",
-        "en_string": "Knowledge C."
+        "en_string": ""
       },
       {
         "jp_string": "知恵の眠る遺跡",
-        "en_string": "Sleeping Wisdom Ruins"
+        "en_string": ""
       },
       {
         "jp_string": "石碑の間",
-        "en_string": "Rock Epitaph"
+        "en_string": ""
       },
       {
         "jp_string": "砂だまりの間",
-        "en_string": "Inside Sand Pools"
+        "en_string": ""
       },
       {
         "jp_string": "砂の都ファラザード",
@@ -3308,15 +3308,15 @@
       },
       {
         "jp_string": "砂塵の遺跡",
-        "en_string": "Dust Ruins"
+        "en_string": ""
       },
       {
         "jp_string": "砂岩の洞くつ",
-        "en_string": "Sandstone Cave"
+        "en_string": ""
       },
       {
         "jp_string": "祈望館",
-        "en_string": "Prayer H."
+        "en_string": ""
       },
       {
         "jp_string": "神々の間",
@@ -3324,7 +3324,7 @@
       },
       {
         "jp_string": "神の緋石の間",
-        "en_string": "Scarlet God Stones"
+        "en_string": ""
       },
       {
         "jp_string": "神代の間",
@@ -3336,7 +3336,7 @@
       },
       {
         "jp_string": "神墟ナドラグラム",
-        "en_string": "Nadragam Shrine"
+        "en_string": ""
       },
       {
         "jp_string": "神殿レイダメテス",
@@ -3344,91 +3344,91 @@
       },
       {
         "jp_string": "神獣の森",
-        "en_string": "Beast God F."
+        "en_string": ""
       },
       {
         "jp_string": "神話の遺跡",
-        "en_string": "Mystical Ruins"
+        "en_string": ""
       },
       {
         "jp_string": "神鏡の間",
-        "en_string": "God Mirrors"
+        "en_string": ""
       },
       {
         "jp_string": "秘密の宝物庫",
-        "en_string": "Secret Treasure H."
+        "en_string": ""
       },
       {
         "jp_string": "秘密の部屋",
-        "en_string": "Room of Secrets"
+        "en_string": ""
       },
       {
         "jp_string": "秘密の隠れ家",
-        "en_string": "Secret Hideaway"
+        "en_string": ""
       },
       {
         "jp_string": "空の原点",
-        "en_string": "Sky's Origin"
+        "en_string": ""
       },
       {
         "jp_string": "竜のねぐら",
-        "en_string": "Dragon's Roost"
+        "en_string": ""
       },
       {
         "jp_string": "竜族の隠れ里",
-        "en_string": "Hidden Dragon Town"
+        "en_string": ""
       },
       {
         "jp_string": "竜王の城",
-        "en_string": "Drg. King C."
+        "en_string": ""
       },
       {
         "jp_string": "竜神の世界",
-        "en_string": "Drg. God World"
+        "en_string": ""
       },
       {
         "jp_string": "竜神の座",
-        "en_string": "Drg. K. Seat"
+        "en_string": ""
       },
       {
         "jp_string": "竜神の柩",
-        "en_string": "D. K. Coffin"
+        "en_string": ""
       },
       {
         "jp_string": "竜鱗のまゆ",
-        "en_string": "D. Scale Brow"
+        "en_string": ""
       },
       {
         "jp_string": "第一本校舎",
-        "en_string": "M. School Bldg."
+        "en_string": ""
       },
       {
         "jp_string": "第二本校舎",
-        "en_string": "S. School Bldg."
+        "en_string": ""
       },
       {
         "jp_string": "管理棟・冷眠室",
-        "en_string": "Admin Bldg. Cold Room"
+        "en_string": ""
       },
       {
         "jp_string": "管理棟・動力室",
-        "en_string": "Admin Bldg. Pwr. Room"
+        "en_string": ""
       },
       {
         "jp_string": "精霊の間",
-        "en_string": "Spirit Hall"
+        "en_string": ""
       },
       {
         "jp_string": "紅玉館",
-        "en_string": "Red Orb"
+        "en_string": ""
       },
       {
         "jp_string": "紫のほこら",
-        "en_string": "Purple Shrine"
+        "en_string": ""
       },
       {
         "jp_string": "終末の風景",
-        "en_string": "Doomsday's View"
+        "en_string": ""
       },
       {
         "jp_string": "終末の風景（CS用）",
@@ -3436,75 +3436,75 @@
       },
       {
         "jp_string": "終着の星域",
-        "en_string": "End Star Area"
+        "en_string": ""
       },
       {
         "jp_string": "結界の氷殿",
-        "en_string": "Ice Barrier H."
+        "en_string": ""
       },
       {
         "jp_string": "結界の間",
-        "en_string": "Barrier H."
+        "en_string": ""
       },
       {
         "jp_string": "絶望の檻",
-        "en_string": "Despair Cage"
+        "en_string": ""
       },
       {
         "jp_string": "継承の間",
-        "en_string": "Inheritance"
+        "en_string": ""
       },
       {
         "jp_string": "緑のほこらの洞くつ",
-        "en_string": "Green Shrine Cave"
+        "en_string": ""
       },
       {
         "jp_string": "緑の聖域",
-        "en_string": "Green Sanc."
+        "en_string": ""
       },
       {
         "jp_string": "翠嵐の聖塔",
-        "en_string": "Storm Tower"
+        "en_string": ""
       },
       {
         "jp_string": "翠嵐の聖塔・外周",
-        "en_string": "Storm Tower Outer Area"
+        "en_string": ""
       },
       {
         "jp_string": "聖夜のエントランス",
-        "en_string": "Holy Night Entrance"
+        "en_string": ""
       },
       {
         "jp_string": "聖夜の大広間",
-        "en_string": "Holy Night Hall"
+        "en_string": ""
       },
       {
         "jp_string": "聖護の結界",
-        "en_string": "Guardian Ward"
+        "en_string": ""
       },
       {
         "jp_string": "聖護の結界・紅",
-        "en_string": "Guardian Ward Red"
+        "en_string": ""
       },
       {
         "jp_string": "聖護の結界・紫",
-        "en_string": "Guardian Ward Purple"
+        "en_string": ""
       },
       {
         "jp_string": "聖護の結界・翠",
-        "en_string": "Guardian Ward Green"
+        "en_string": ""
       },
       {
         "jp_string": "聖護の結界・蒼",
-        "en_string": "Guardian Ward Blue"
+        "en_string": ""
       },
       {
         "jp_string": "聖護の結界・黄",
-        "en_string": "Guardian Ward Yellow"
+        "en_string": ""
       },
       {
         "jp_string": "聖護の結界・黒",
-        "en_string": "Guardian Ward Black"
+        "en_string": ""
       },
       {
         "jp_string": "聖都エジャルナ",
@@ -3872,7 +3872,7 @@
       },
       {
         "jp_string": "風の町アズラン",
-        "en_string": "Wind Town Azlan"
+        "en_string": "Windy City Azlan"
       },
       {
         "jp_string": "風泣き岬",

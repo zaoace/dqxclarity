@@ -19,9 +19,8 @@
         "en_string": "Dark Fog"
       },
       {
-        "line_break": true,
         "jp_string": "いつもより すばやく呪文を 唱えられる",
-        "en_string": "Increase your|spell casting|speed for 2 min."
+        "en_string": ""
       },
       {
         "jp_string": "いてつくはどう",
@@ -45,7 +44,7 @@
       },
       {
         "jp_string": "おたからさがし",
-        "en_string": "Nose for Treasure"
+        "en_string": ""
       },
       {
         "jp_string": "おたけび",
@@ -53,7 +52,7 @@
       },
       {
         "jp_string": "おはらい",
-        "en_string": "Benediction"
+        "en_string": ""
       },
       {
         "jp_string": "お宝ハンター",
@@ -117,7 +116,7 @@
       },
       {
         "jp_string": "かわいがる",
-        "en_string": "Pet Monster"
+        "en_string": ""
       },
       {
         "jp_string": "きまぐれ",
@@ -161,11 +160,11 @@
       },
       {
         "jp_string": "げんま召喚",
-        "en_string": "Summon Spirit"
+        "en_string": "Summon Genma"
       },
       {
         "jp_string": "げんま解放",
-        "en_string": "Spirit Release"
+        "en_string": ""
       },
       {
         "jp_string": "こうげきに 光のチカラを宿す 魔法戦士専用特技",
@@ -361,15 +360,15 @@
       },
       {
         "jp_string": "たまに２回攻撃",
-        "en_string": "Rarely Atk Twice"
+        "en_string": "Sometimes Atk Twice"
       },
       {
         "jp_string": "たまにＨＰ１生き残り",
-        "en_string": "Rarely Survive at 1 HP"
+        "en_string": "Sometimes Survive at 1 HP"
       },
       {
         "jp_string": "たまにＭＰ消費しない",
-        "en_string": "Rarely Consume No MP"
+        "en_string": "Sometimes Consume No MP"
       },
       {
         "jp_string": "ためる",
@@ -465,7 +464,7 @@
       },
       {
         "jp_string": "ぬすむ",
-        "en_string": "Half-Inch"
+        "en_string": "Steal"
       },
       {
         "jp_string": "ぬすむで アイテムをぬすむ 成功率が増える",
@@ -508,9 +507,8 @@
         "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "ひばしらを立て 敵１体を攻撃 天地雷鳴士専用",
-        "en_string": "Create a pillar|of flames that|singes an enemy."
+        "en_string": ""
       },
       {
         "jp_string": "ひゃくれつなめ",
@@ -1462,7 +1460,7 @@
       },
       {
         "jp_string": "バナナトラップ",
-        "en_string": "Banana Time"
+        "en_string": "Banana Trap"
       },
       {
         "jp_string": "バードシュート",
@@ -1586,7 +1584,7 @@
       },
       {
         "jp_string": "ブレスクラッシュ",
-        "en_string": "Breath Breaker"
+        "en_string": "Breath Crash"
       },
       {
         "jp_string": "ブレードガード",
@@ -1682,7 +1680,7 @@
       },
       {
         "jp_string": "ボケ",
-        "en_string": "Fool"
+        "en_string": "Prat"
       },
       {
         "jp_string": "ボケたおして 周囲の敵を わらわせる",
@@ -1778,7 +1776,7 @@
       },
       {
         "jp_string": "マホトラのころも",
-        "en_string": "Magic Outfit"
+        "en_string": "Fizzle Outfit"
       },
       {
         "jp_string": "マホトーン",
@@ -1858,7 +1856,7 @@
       },
       {
         "jp_string": "メガボンバー",
-        "en_string": "Mega Bomb"
+        "en_string": "Mega Bomber"
       },
       {
         "jp_string": "メタルウィング",
@@ -2157,9 +2155,8 @@
         "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "中にいると呪文が 暴走しやすくなる 魔法陣を作る",
-        "en_string": "Draw a circle|that gives 25%|crit chance."
+        "en_string": ""
       },
       {
         "jp_string": "中にいると呪文を 素早く唱えられる 魔法陣を作る",
@@ -2194,9 +2191,8 @@
         "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "仲間ひとりの ＨＰをそこそこ 回復する",
-        "en_string": "Restore a|little HP to|a target."
+        "en_string": ""
       },
       {
         "jp_string": "仲間ひとりを 確実に 生き返らせる",
@@ -2527,9 +2523,8 @@
         "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "周囲に土ダメージ 風耐性も下げる 天地雷鳴士専用",
-        "en_string": "Earth attack that|hits in an area|Wind Res.↓"
+        "en_string": ""
       },
       {
         "jp_string": "周囲に闇の攻撃 闇耐性も下げる 魔剣士専用特技",
@@ -2664,9 +2659,8 @@
         "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "周囲を落雷で攻撃 たまにマヒさせる 天地雷鳴士専用",
-        "en_string": "Lightning attack|that hits an area|Rarely Paralyzes"
+        "en_string": ""
       },
       {
         "jp_string": "呪文がかなり 暴走しやすくなる 魔法陣を作る",
@@ -2770,7 +2764,7 @@
       },
       {
         "jp_string": "天使の守り",
-        "en_string": "Holy Shield"
+        "en_string": ""
       },
       {
         "jp_string": "天使の矢",
@@ -2854,7 +2848,7 @@
       },
       {
         "jp_string": "常時呪文暴走率+2%",
-        "en_string": "Critical Spell Rate+2%"
+        "en_string": ""
       },
       {
         "jp_string": "弓のこうげきが さらに遠くから 当たるようになる",
@@ -2930,12 +2924,11 @@
       },
       {
         "jp_string": "悪魔ばらい",
-        "en_string": "Beelzefreeze"
+        "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "悪魔系の敵に 威力を発揮し さらにマヒさせる",
-        "en_string": "Attack with 1.5x|damage to demons.|Paralysis chance."
+        "en_string": ""
       },
       {
         "jp_string": "悪魔系の敵に 威力を発揮し たまに魅了もする",
@@ -3327,7 +3320,7 @@
       },
       {
         "jp_string": "早詠みの杖",
-        "en_string": "Quick Casting"
+        "en_string": ""
       },
       {
         "jp_string": "早詠みの陣",
@@ -3347,7 +3340,7 @@
       },
       {
         "jp_string": "暴走魔法陣",
-        "en_string": "Ring of Ruin"
+        "en_string": ""
       },
       {
         "jp_string": "最高のほほえみで 経験値とＧアップ スパスタ専用特技",
@@ -3519,7 +3512,7 @@
       },
       {
         "jp_string": "水神のたつまき",
-        "en_string": "Maelstrom"
+        "en_string": ""
       },
       {
         "jp_string": "水系の敵に 威力を発揮する 軽やかな扇の技",
@@ -3703,9 +3696,8 @@
         "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "直線上に土攻撃 雷耐性も下げる 天地雷鳴士専用",
-        "en_string": "Summon earth|spikes in a line.|Lightning Res.↓"
+        "en_string": ""
       },
       {
         "jp_string": "相手の攻撃を 受けながしつつ なぐりかかる大技",
@@ -3877,11 +3869,11 @@
       },
       {
         "jp_string": "聖なる祈り",
-        "en_string": "Care Prayer"
+        "en_string": ""
       },
       {
         "jp_string": "聖女の守り",
-        "en_string": "Alma Mater"
+        "en_string": ""
       },
       {
         "jp_string": "聖者の詩",
@@ -4310,7 +4302,7 @@
       },
       {
         "jp_string": "魔力かくせい",
-        "en_string": "Channel Anger"
+        "en_string": ""
       },
       {
         "jp_string": "魔力のバラード",
@@ -4318,7 +4310,7 @@
       },
       {
         "jp_string": "魔力の息吹",
-        "en_string": "Focus Pocus"
+        "en_string": ""
       },
       {
         "jp_string": "魔導の書",
@@ -4354,7 +4346,7 @@
       },
       {
         "jp_string": "魔結界",
-        "en_string": "Mage Ward"
+        "en_string": ""
       },
       {
         "jp_string": "鳥系の敵に 威力を発揮する あざやかな弓の技",
@@ -4406,7 +4398,7 @@
       },
       {
         "jp_string": "ＭＰリンク",
-        "en_string": "MP Link"
+        "en_string": ""
       },
       {
         "jp_string": "ＭＰ吸収率+2%",

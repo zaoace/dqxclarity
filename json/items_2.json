@@ -2673,11 +2673,11 @@
       },
       {
         "jp_string": "経験値の古文書・デス",
-        "en_string": ""
+        "en_string": "Experience Scrolls: DTH"
       },
       {
         "jp_string": "経験値の古文書・魔剣",
-        "en_string": ""
+        "en_string": "Experience Scrolls: DMN"
       },
       {
         "jp_string": "経験値を３００～ 入手できる本 使ったらなくなる",
@@ -6405,7 +6405,7 @@
       },
       {
         "jp_string": "銀河のラグ",
-        "en_string": "Galactic Rug"
+        "en_string": ""
       },
       {
         "jp_string": "銀河のランプ錬金書",

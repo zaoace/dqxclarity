@@ -32,7 +32,7 @@
       },
       {
         "jp_string": "いなせな畳",
-        "en_string": "Chic Tatami Mat"
+        "en_string": ""
       },
       {
         "jp_string": "いにしえの戦士が うでにつけていた 勇ましいこて",
@@ -76,15 +76,15 @@
       },
       {
         "jp_string": "イベント宝箱１",
-        "en_string": "Event Treasure 1"
+        "en_string": ""
       },
       {
         "jp_string": "イベント宝箱２",
-        "en_string": "Event Treasure 2"
+        "en_string": ""
       },
       {
         "jp_string": "イベント宝箱３",
-        "en_string": "Event Treasure 3"
+        "en_string": ""
       },
       {
         "jp_string": "いまにも うごきだしそうな うごくせきぞう像",
@@ -212,15 +212,15 @@
       },
       {
         "jp_string": "ヴァルハラヘルム",
-        "en_string": "Valhalla Helmet"
+        "en_string": ""
       },
       {
         "jp_string": "ヴァルハラメイル上",
-        "en_string": "Valhalla Mail Breastplate"
+        "en_string": ""
       },
       {
         "jp_string": "ヴァルハラメイル下",
-        "en_string": "Valhalla Mail Bottoms"
+        "en_string": ""
       },
       {
         "jp_string": "ヴァレリアが 描かれた 庭用の肖像画",
@@ -440,15 +440,15 @@
       },
       {
         "jp_string": "ウェディングガゼボ",
-        "en_string": "Wedding Gazebo"
+        "en_string": ""
       },
       {
         "jp_string": "ウェディングチェア",
-        "en_string": "Wedding Chair"
+        "en_string": ""
       },
       {
         "jp_string": "ウェディングテーブル",
-        "en_string": "Wedding Table"
+        "en_string": ""
       },
       {
         "jp_string": "ウェディングに ぴったりの ラブリーな東屋",
@@ -471,18 +471,16 @@
         "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "ウェディングに ぴったりの 華やかな東屋",
-        "en_string": "A glamorous pavilion|perfect for weddings."
+        "en_string": ""
       },
       {
         "jp_string": "ウェディングバルーン",
-        "en_string": "Wedding Balloons"
+        "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "ウェディ並みの スピードで泳げる ヒレ付きのくつ",
-        "en_string": "You can swim as fast as|a Weddie with these|finned shoes."
+        "en_string": ""
       },
       {
         "jp_string": "ウェディ並みの スピードで泳げる 女性用の白いヒレ",
@@ -626,11 +624,11 @@
       },
       {
         "jp_string": "ウナギ",
-        "en_string": "Jp. Eel"
+        "en_string": ""
       },
       {
         "jp_string": "ウニ",
-        "en_string": "Urchin"
+        "en_string": ""
       },
       {
         "jp_string": "うめねずダリア",
@@ -774,11 +772,11 @@
       },
       {
         "jp_string": "エステラキッチン",
-        "en_string": "Estella Kitchen"
+        "en_string": ""
       },
       {
         "jp_string": "エステラソファ",
-        "en_string": "Estella Sofa"
+        "en_string": ""
       },
       {
         "jp_string": "エステラたちが 郵便を受け取る ほのぼのポスト",
@@ -786,11 +784,11 @@
       },
       {
         "jp_string": "エステラチェア",
-        "en_string": "Estella Chair"
+        "en_string": ""
       },
       {
         "jp_string": "エステラぬいぐるみ",
-        "en_string": "Estella Plushie"
+        "en_string": ""
       },
       {
         "jp_string": "エステラの ギュッとちゃんが 入っている箱",
@@ -810,7 +808,7 @@
       },
       {
         "jp_string": "エステラのポスト",
-        "en_string": "Estella Post"
+        "en_string": ""
       },
       {
         "jp_string": "エステラの作った 人形を模した エリザベッテ人形",

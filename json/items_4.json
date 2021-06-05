@@ -3,482 +3,412 @@
     "hex_start": "54 45 58 54 10 00 00 00 B0 10 0C 00 00 00 00 00 00 00",
     "strings": [
       {
-        "line_break":true,
         "jp_string": "ビリジアン カメリアが咲く種 ５日で収穫可能 ",
-        "en_string": "Viridian camelia|seeds that grow|in 5 days."
+        "en_string": ""
       },
       {
         "jp_string": "ビリジアンカメリア",
-        "en_string": "Virdian Camelia"
+        "en_string": ""
       },
       {
         "jp_string": "ビリジアンの花束",
-        "en_string": "Viridian Bouquet"
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ビリジアン色の きれいなカメリア 染色用の素材",
-        "en_string": "A Viridian|colored dyeing|material."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピリッと刺激的な こしょうの調味料 調理専用の素材",
-        "en_string": "Stimulating|pepper seasoning|used in cooking."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピリリと気持ちが 引き締まる カプサイ神の絵画",
-        "en_string": "A portrait of the|god Capsai that|feels nice."
+        "en_string": ""
       },
       {
         "jp_string": "ビルダーズブロック",
-        "en_string": "Builders Block"
+        "en_string": ""
       },
       {
         "jp_string": "ピンキーエッグ",
-        "en_string": "Pinky Egg"
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える お姫様チックな かわいいイス",
-        "en_string": "A cute, pink|and princess-like|chair."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える お姫様チックな かわいいオーブン",
-        "en_string": "A cute, pink|and princess-like|oven."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える お姫様チックな かわいいキッチン",
-        "en_string": "A cute, pink|and princess-like|kitchen."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える お姫様チックな かわいいバスタブ",
-        "en_string": "A cute, pink|and princess-like|bathtub."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える お姫様チックな かわいいベッド",
-        "en_string": "A cute, pink|and princess-like|bed."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える お姫様チックな かわいい本棚",
-        "en_string": "A cute, pink|and princess-like|bookshelf."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える お姫様チックな かわいい長イス",
-        "en_string": "A cute, pink|and princess-like|long chair."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える お姫様チックな かわいい間仕切り",
-        "en_string": "A cute, pink|and princess-like|partition."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える お姫様チックな かわいい食器棚",
-        "en_string": "A cute, pink|and princess-like|cupboard."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える お姫様チックな パーティ机",
-        "en_string": "A cute, pink|and princess-like|party desk."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える お姫様チックな 大きなカウンター",
-        "en_string": "A cute, pink|and princess-like|large counter."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える お姫様チックな 大きなテーブル",
-        "en_string": "A cute, pink|and princess-like|large table."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える お姫様チックな 小さなカウンター",
-        "en_string": "A cute, pink|and princess-like|small counter."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える お姫様チックな 小さなテーブル",
-        "en_string": "A cute, pink|and princess-like|small table."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える 姫系タンス アイテム収納可能",
-        "en_string": "A cute, pink|dresser that can|store items."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクが映える 姫系チェスト アイテム収納可能",
-        "en_string": "A cute, pink|chest that can|store items."
+        "en_string": ""
       },
       {
         "jp_string": "ピンクのタマゴの祈り",
-        "en_string": "Pink Egg Prayer"
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハート のチェスト アイテム収納可能",
-        "en_string": "A pink heart|chest that can|store items."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハート モチーフのタンス アイテム収納可能",
-        "en_string": "A pink heart|dresser that|can store items."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハートが とてもラブリーな 庭置きのバルーン",
-        "en_string": "A very lovely|pink heart|garden balloon."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハートが 耳元でゆれる かわいい耳かざり",
-        "en_string": "A cute, pink|ear decoration|with hearts."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハートを モチーフにした イス",
-        "en_string": "A chair with|a pink heart|motif."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハートを モチーフにした オーブン",
-        "en_string": "An oven with|a pink heart|motif."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハートを モチーフにした キッチン",
-        "en_string": "A kitchen with|a pink heart|motif."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハートを モチーフにした バスタブ",
-        "en_string": "A bathtub with|a pink heart|motif."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハートを モチーフにした ベッド",
-        "en_string": "A bed with|a pink heart|motif."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハートを モチーフにした 大きなカウンター",
-        "en_string": "A large counter|with a pink|heart motif."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハートを モチーフにした 大きなテーブル",
-        "en_string": "A large table|with a pink|heart motif."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハートを モチーフにした 小さなカウンター",
-        "en_string": "A small counter|with a pink|heart motif."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハートを モチーフにした 小さなテーブル",
-        "en_string": "A small table|with a pink|heart motif."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハートを モチーフにした 本棚",
-        "en_string": "A bookshelf|with a pink|heart motif."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハートを モチーフにした 長イス",
-        "en_string": "A long chair|with a pink|heart motif."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハートを モチーフにした 間仕切り",
-        "en_string": "A partition|with a pink|heart motif."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクのハートを モチーフにした 食器棚",
-        "en_string": "A cupboard|with a pink|heart motif."
+        "en_string": ""
       },
       {
         "jp_string": "ピンクのラウンドラグ",
-        "en_string": "Pink Round Rug"
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクの小花咲く 自由人の集落に 自生する野花",
-        "en_string": "Pink flowers|that grow in|Freedom Village."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクの毛並みが とってもかわいい ピンクモーモン像",
-        "en_string": "A very cute|pink sanguini|statue."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクの花々が やさしく輝く お花の外灯",
-        "en_string": "An outdoor|light with|pink flowers."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクの花が沢山 植えられた 小さなバスケット",
-        "en_string": "A small basket|with many|pink flowers."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクの花のある 小さめの かわいいサボテン",
-        "en_string": "A cute little|cactus with|pink flowers."
+        "en_string": ""
       },
       {
         "jp_string": "ピンクの花束",
-        "en_string": "Pink Bouquet"
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクモーモンが くるくるまわる メリーゴーランド",
-        "en_string": "A pink sanguini|riding on a|merry go round."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクモーモンが ちょっとこわい カーペット",
-        "en_string": "A pink sanguini|carpet that's a|little scary."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクモーモンが どでかく描かれた 衝撃的なＴシャツ",
-        "en_string": "A shocking|pink sanguini|t-shirt."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクモーモンの かわいい カーペット",
-        "en_string": "A cute pink|sanguini|carpet."
+        "en_string": ""
       },
       {
         "jp_string": "ピンクモーモンプリズム",
-        "en_string": "Pink Sanguini Prism"
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンクローズが 咲く栽培用のタネ ５日で収穫可能",
-        "en_string": "Pink rose|seeds that will|grow in 5 days."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ビンゴコーナーで ビンゴが１回 遊べる券",
-        "en_string": "A ticket that|lets you play|bingo 1 time."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ビンゴコーナーで メタルなことが おこるチケット",
-        "en_string": "A ticket for|metal things to|happen in bingo."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ピンと立った 両耳がキュートな 猫貴族のぼうし",
-        "en_string": "A cat aristocrat|hat with|cute ears."
+        "en_string": ""
       },
       {
         "jp_string": "ビンのテラリウム",
-        "en_string": "Bottle Terrarium"
+        "en_string": ""
       },
       {
         "jp_string": "フーたんぬいぐるみ",
-        "en_string": "Futan Plushie"
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "フーたんの姿が かわいいブローチ 守備と攻撃が上昇",
-        "en_string": "A cute Futan|brooch that ups|attack/defense."
+        "en_string": ""
       },
       {
         "jp_string": "ファーラット浮き輪",
-        "en_string": "Feralball Float"
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファイト中の 様子を再現した ファン必携の机",
-        "en_string": "A must have desk|for fighting|fans."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファイト中の 背景がお家に！ ファン必携のラグ",
         "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファイヤー柄が サイドに入った 男性専用の水着",
         "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファイヤー柄が サイドに入った 男性専用の白水着",
         "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファイヤー柄が サイドに入った 男性専用の黒水着",
         "en_string": ""
       },
       {
         "jp_string": "ファフニルアーム",
-        "en_string": "Fafnir Arm"
+        "en_string": ""
       },
       {
         "jp_string": "ファフニルブーツ",
-        "en_string": "Fafnir Boots"
+        "en_string": ""
       },
       {
         "jp_string": "ファフニルヘルム",
-        "en_string": "Fafnir Helm"
+        "en_string": ""
       },
       {
         "jp_string": "ファフニルメイル上",
-        "en_string": "Fafnir Mail Chest"
+        "en_string": ""
       },
       {
         "jp_string": "ファフニルメイル下",
-        "en_string": "Fafnir Mail Legs"
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファラオ・ニビス が愛用する 黄金の棍",
-        "en_string": "The golden|club of Pharaoh|Nibis."
+        "en_string": ""
       },
       {
         "jp_string": "ファラオプリズム",
-        "en_string": "Pharaoh Prism"
+        "en_string": ""
       },
       {
         "jp_string": "ファラザード印章",
-        "en_string": "Farazard Stamp"
+        "en_string": ""
       },
       {
         "jp_string": "ファラザード吊りソファ",
-        "en_string": "Farazard Hanging Sofa"
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファラザード城に 置かれている ガーデンライト",
-        "en_string": "Garden lights|from Farazard|Castle."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファラザード城に 置かれている ハンギングソファ",
-        "en_string": "A hanging sofa|from Farazard|Castle."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファラザード城に 置かれている 執務チェア",
-        "en_string": "An office chair|from Farazard|Castle."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファラザード城に 置かれている 執務デスク",
-        "en_string": "An office desk|from Farazard|Castle."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファラザード城に 置かれている 曲線状の壁泉",
-        "en_string": "A wall fountain|from Farazard|Castle."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファラザード城に 置かれている 格子模様の壁泉",
-        "en_string": "A checkered wall|fountain from|Farazard Castle."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファラザード城に 置かれている 毒々しい鉢植え",
-        "en_string": "A poisonous|potted plant from|Farazard Castle."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファラザード城に 置かれている 豪華なベッド",
-        "en_string": "A luxury bed|from Farazard|Castle."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファラザード城に 置かれている 豪華な大テーブル",
-        "en_string": "A luxury table|from Farazard|Castle."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファラザード城に 置かれている 風変わりな玉座",
-        "en_string": "A crazy throne|from Farazard|Castle."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファラザード城に 置かれている 魅力的なソファ",
-        "en_string": "A charming sofa|from Farazard|Castle."
+        "en_string": ""
       },
       {
         "jp_string": "ファラザード城のソファ",
-        "en_string": "Farazard Castle Sofa"
+        "en_string": ""
       },
       {
         "jp_string": "ファラザード城のチェア",
-        "en_string": "Farazard Castle Chair"
+        "en_string": ""
       },
       {
         "jp_string": "ファラザード城のデスク",
-        "en_string": "Farazard Castle Desk"
+        "en_string": ""
       },
       {
         "jp_string": "ファラザード城のベッド",
-        "en_string": "Farazard Castle Bed"
+        "en_string": ""
       },
       {
         "jp_string": "ファラザード城のライト",
-        "en_string": "Farazard Castle Light"
+        "en_string": ""
       },
       {
         "jp_string": "ファラザード城の壁泉",
-        "en_string": "Farazard Castle Wall Fountain"
+        "en_string": ""
       },
       {
         "jp_string": "ファラザード城の玉座",
-        "en_string": "Farazard Castle Throne"
+        "en_string": ""
       },
       {
         "jp_string": "ファラザード城の鉢植え",
-        "en_string": "Farazard Castle Potted Plant"
+        "en_string": ""
       },
       {
         "jp_string": "ファラザード城半円壁泉",
-        "en_string": "Farazard Castle C. Wall Fountain"
+        "en_string": ""
       },
       {
         "jp_string": "ファラザード大テーブル",
-        "en_string": "Farazard Large Table"
+        "en_string": ""
       },
       {
         "jp_string": "ファラスキッチン",
-        "en_string": "Faras Kitchen"
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファラスと ピクニック気分を 味わえる庭具",
         "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "ファラスと 相合傘ができる ステキな庭具",
         "en_string": ""
       },
       {
         "jp_string": "ファラスパラソル",
-        "en_string": "Faras Parasol"
+        "en_string": ""
       },
       {
         "jp_string": "ファルコンウィング",
-        "en_string": "Falcon Wing"
+        "en_string": ""
       },
       {
         "jp_string": "ファンキーな 気持ちになれる かぶりもの",
@@ -506,15 +436,15 @@
       },
       {
         "jp_string": "ファントムダガー",
-        "en_string": "Phantom Dagger"
+        "en_string": ""
       },
       {
         "jp_string": "ファントムマントの秘密",
-        "en_string": "Phantom Cloak's Secret"
+        "en_string": ""
       },
       {
         "jp_string": "フィッシャーマンアーチ",
-        "en_string": "Fisherman Arch"
+        "en_string": ""
       },
       {
         "jp_string": "フィット感満点の スパッツタイプ 男性専用の水着",
@@ -522,7 +452,7 @@
       },
       {
         "jp_string": "フィネトカ映写機",
-        "en_string": "Finetka Projector"
+        "en_string": ""
       },
       {
         "jp_string": "フウキのなかまの 絆を９に下げる 不思議な消しゴム",
@@ -538,7 +468,7 @@
       },
       {
         "jp_string": "フウセンウナギ",
-        "en_string": "Saccopharynx"
+        "en_string": ""
       },
       {
         "jp_string": "ふうせん三姉妹の 三女リポちゃんが キュートな帽子",
@@ -577,25 +507,24 @@
         "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "フウラが 求めるクリーム ＨＰが回復する",
-        "en_string": "A cream that|Fuura wants.|Restores HP."
+        "en_string": ""
       },
       {
         "jp_string": "フウラの肖像画・庭",
-        "en_string": "Fuura's Garden Photo"
+        "en_string": ""
       },
       {
         "jp_string": "フェザープリズム",
-        "en_string": "Phaser Prism"
+        "en_string": ""
       },
       {
         "jp_string": "ブエルの大紋章",
-        "en_string": "Buer's Coat of Arms"
+        "en_string": ""
       },
       {
         "jp_string": "フェンサーマントの本",
-        "en_string": "Fencer Cloak Book"
+        "en_string": ""
       },
       {
         "jp_string": "フォークかかげる すがたが元気な フォンデュの像",
@@ -603,19 +532,19 @@
       },
       {
         "jp_string": "プオーンのツボ・庭",
-        "en_string": "Rebjorn's Garden Pot"
+        "en_string": ""
       },
       {
         "jp_string": "プオーンの像",
-        "en_string": "Rebjorn's Photo"
+        "en_string": ""
       },
       {
         "jp_string": "ブオーン族の 小さなまつえい プオーンの像",
-        "en_string": "A small statue|featuring|Rebjorn."
+        "en_string": ""
       },
       {
         "jp_string": "フォステイルソファ",
-        "en_string": "Fostail Sofa"
+        "en_string": ""
       },
       {
         "jp_string": "フォステイルに あげるマシュマロ ＨＰが回復する",
@@ -631,23 +560,23 @@
       },
       {
         "jp_string": "フォトライフ・金",
-        "en_string": "Photo Life Gold"
+        "en_string": ""
       },
       {
         "jp_string": "フォトライフ・銀",
-        "en_string": "Photo Life Silver"
+        "en_string": ""
       },
       {
         "jp_string": "フォトライフ・銅",
-        "en_string": "Photo Life Copper"
+        "en_string": ""
       },
       {
         "jp_string": "フォレストカメリア",
-        "en_string": "Fostail Camelia"
+        "en_string": ""
       },
       {
         "jp_string": "フォレストの花束",
-        "en_string": "Forest Bouquet"
+        "en_string": ""
       },
       {
         "jp_string": "フォレスト色の きれいなカメリア 染色用の素材",
@@ -655,7 +584,7 @@
       },
       {
         "jp_string": "フォンデッテの像",
-        "en_string": "Fondette Statue"
+        "en_string": ""
       },
       {
         "jp_string": "ふかふかした 毛並みがかわいい モーモンの像",
@@ -667,7 +596,7 @@
       },
       {
         "jp_string": "フグ",
-        "en_string": "Puff"
+        "en_string": ""
       },
       {
         "jp_string": "プククリ",
@@ -711,7 +640,7 @@
       },
       {
         "jp_string": "プクランサフラン",
-        "en_string": "Pukuland Saffran"
+        "en_string": ""
       },
       {
         "jp_string": "プクランドに咲く 幸せの風を運ぶ花 職人のための素材",
@@ -719,7 +648,7 @@
       },
       {
         "jp_string": "プクリポＧＰプリズム",
-        "en_string": "Pukulipo GP Prism"
+        "en_string": ""
       },
       {
         "jp_string": "プクリポが好む かわいいタンス アイテム収納可能",
@@ -891,7 +820,7 @@
       },
       {
         "jp_string": "プスゴンカプセル",
-        "en_string": "Pusgon Capsule"
+        "en_string": ""
       },
       {
         "jp_string": "プスゴンの きぐるみを１回 無料で借りられる",
@@ -943,11 +872,11 @@
       },
       {
         "jp_string": "ふとっちょキノコ",
-        "en_string": "Fat Mushroom"
+        "en_string": ""
       },
       {
         "jp_string": "フナ",
-        "en_string": "Carp"
+        "en_string": ""
       },
       {
         "jp_string": "ぷにぷに感が とても心地よい キュートな両手杖",
@@ -4363,7 +4292,7 @@
       },
       {
         "jp_string": "やわらかい枝を 加工した木材 職人のための素材",
-        "en_string": "Wood made from soft branches, a material for craftsmen."
+        "en_string": ""
       },
       {
         "jp_string": "やわらかウールで ふんわり編まれた あったかマフラー",
@@ -5991,7 +5920,7 @@
       },
       {
         "jp_string": "一緒に戦う仲間が みんな元気玉効果 使ったらなくなる",
-        "en_string": "dunno lol"
+        "en_string": ""
       },
       {
         "jp_string": "一羽の蝶が はねを休める 幻想的なモノクル",
@@ -7044,12 +6973,12 @@
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰ１９０～回復 使ったらなくなる",
-        "en_string": "Restores 190 HP|to a single|companion."
+        "en_string": "Restores 190 HP|to one companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰ３００～回復 使ったらなくなる",
-        "en_string": "Restores 300 HP|to a single|companion."
+        "en_string": "Restores 300 HP|to one companion."
       },
       {
         "line_break": true,
@@ -7059,186 +6988,162 @@
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを２０～回復 使ったらなくなる",
-        "en_string": "Restores 20 HP|to a single|companion."
+        "en_string": "Restores 20 HP|to one companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを３０～回復 使ったらなくなる",
-        "en_string": "Restores 30 HP|to a single|companion."
+        "en_string": "Restores 30 HP|to one companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを３５～回復 使ったらなくなる",
-        "en_string": "Restores 35 HP|to a single|companion."
+        "en_string": "Restores 35 HP|to one companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを５０～回復 使ったらなくなる",
-        "en_string": "Restores 50 HP|to a single|companion."
+        "en_string": "Restores 50 HP|to one companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを６０～回復 使ったらなくなる",
-        "en_string": "Restores 60 HP|to a single|companion."
+        "en_string": "Restores 60 HP|to one companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを７０～回復 使ったらなくなる",
-        "en_string": "Restores 70 HP|to a single|companion."
+        "en_string": "Restores 70 HP|to one companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＨＰを８０～回復 使ったらなくなる",
-        "en_string": "Restores 80 HP|to a single|companion."
+        "en_string": "Restores 80 HP|to one companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＭＰ１５０～回復 使ったらなくなる",
-        "en_string": "Restores 150 MP|to a single|companion."
+        "en_string": "Restores 150 MP|for each|companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを１０回復 使ったらなくなる",
-        "en_string": "Restores 10 MP|to a single|companion."
+        "en_string": "Restores 10 MP|to one|companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを３６～回復 ノンアルコール！",
-        "en_string": "Restores 36 MP|to one companion.|Non-alcoholic!"
+        "en_string": "Restores 36 MP|to one companion.|It's non-alcoholic!"
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを３６～回復 使ったらなくなる",
-        "en_string": "Restores 36 MP|to a single|companion."
+        "en_string": "Restores 36 MP|for each|companion."
       },
       {
         "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを７０～回復 使ったらなくなる",
-        "en_string": "Restores 70 MP|to a single|companion."
+        "en_string": "Restores 70 MP|for a single|companion."
       },
       {
-        "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを９０～回復 使ったらなくなる",
-        "en_string": "Restores 90 MP|to a single|companion."
+        "en_string": "Restores 90 MP|for a single|companion."
       },
       {
-        "line_break": true,
         "jp_string": "仲間ひとりの ＭＰを完全に回復 使ったらなくなる",
-        "en_string": "Restores full MP|to a single|companion."
+        "en_string": "Restores full MP|to one of your|companions."
       },
       {
-        "line_break": true,
         "jp_string": "仲間ひとりの マヒを治す 使ったらなくなる",
-        "en_string": "Cures one|companion of|paralysis."
+        "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "仲間ひとりの 毒を治す 使ったらなくなる",
-        "en_string": "Cures one|companion of|poison."
+        "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "仲間ひとりの 混乱を治す 使ったらなくなる",
-        "en_string": "Cures one|companion of|confusion."
+        "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "仲間ひとりの 眠りを覚ます 使ったらなくなる",
-        "en_string": "Cures one|companion of|sleep."
+        "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "仲間ひとりのマヒ ＨＰが３０～回復 使ったらなくなる",
-        "en_string": "Restores 30|HP and cures|paralysis."
+        "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "仲間ひとりのマヒ ＨＰが６０～回復 使ったらなくなる",
-        "en_string": "Restores 60|HP and cures|paralysis."
+        "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "仲間ひとりの毒と ＨＰ３０～回復 使ったらなくなる",
-        "en_string": "Restores 30|HP and cures|poison."
+        "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "仲間ひとりの毒と ＨＰ６０～回復 使ったらなくなる",
-        "en_string": "Restores 60|HP and cures|poison."
+        "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "仲間ひとりをＨＰ 半分で生き返す 使ったらなくなる",
-        "en_string": "Revives party member|with half HP.|"
+        "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "仲間モンスターの スキルポイントを 振り直せる魔草",
-        "en_string": "Magic grass|that resets|monster skills."
+        "en_string": ""
       },
       {
-        "line_break": true,
         "jp_string": "仲間モンスターの 外見を変えられる 不思議な券",
-        "en_string": "A ticket that|can change a|monster's color."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "仲間モンスターの 追加スキルを 取り直せる魔草",
-        "en_string": "Use this to|regain extra|monster skills."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる メルヘンなおうち",
-        "en_string": "A fairy house|that lets your|monster wander."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 夢見るおうち",
-        "en_string": "A dream house|that lets your|monster wander."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 妖しいおうち",
-        "en_string": "A mystery house|that lets your|monster wander."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 木でできたおうち",
-        "en_string": "A wooden house|that lets your|monster wander."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 植物のおうち",
-        "en_string": "A plant house|that lets your|monster wander."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 機械のおうち",
-        "en_string": "A machine house|that lets your|monster wander."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 神殿風のおうち",
-        "en_string": "A temple house|that lets your|monster wander."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 花でできたおうち",
-        "en_string": "A flower house|that lets your|monster wander."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "仲間モンスターを お庭に放せる 魔法陣のおうち",
-        "en_string": "A magic house|that lets your|monster wander."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "仲間モンスターを レアな外見に 変えられる券",
-        "en_string": "A rare ticket|that changes a|monster's color."
+        "en_string": ""
       },
       {
         "jp_string": "会心！デッドリーソード",
-        "en_string": "Critical! Deadly Sword"
+        "en_string": ""
       },
       {
         "jp_string": "会心と呪文暴走の ダメージが上がる ガナン帝国の証",
@@ -7489,9 +7394,8 @@
         "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "使うと １億ゴールド 手に入る大袋",
-        "en_string": "A bag that|contains 1|million gold!"
+        "en_string": ""
       },
       {
         "jp_string": "使うと きせかえドールが 手に入るチケット",
@@ -7502,9 +7406,8 @@
         "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "使うと ルーラストーンが 手に入るチケット",
-        "en_string": "Use to get|an additional|zoomstone."
+        "en_string": ""
       },
       {
         "jp_string": "使うと 戦神のベルトが 手に入る箱",
@@ -7531,62 +7434,50 @@
         "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "使うと１００枚 ちいさなメダルが 手に入るチケット",
-        "en_string": "Use to get|100 mini|medals."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "使うと１０分 メタルな魔物に 出会いやすくなる",
-        "en_string": "For 10m, easier|to encounter|metal monsters."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "使うと１０分 仲間モンスターの 獲得経験値２倍！",
-        "en_string": "For 10m,|double EXP of|fellow monsters!"
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "使うと１０分 仲間モンスターの 獲得経験値３倍！",
-        "en_string": "For 10m,|triple EXP of|fellow monsters!"
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "使うと１０分 強モードボスから オーブゲット確定",
-        "en_string": "For 10m, orbs|drop more from|strong bosses."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "使うと１０分 転生モンスターに 出会いやすくなる",
-        "en_string": "For 10m, easier|to encounter|reincarnations."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "使うと１０分 魔法の迷宮で 誰かに会えるかも",
-        "en_string": "For 10m, perhaps|meet someone in|the labyrinth."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "使うと１０分 魔物が宝珠を 落としやすくなる",
-        "en_string": "For 10m, jewels|will drop more|from monsters."
+        "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "使うと１０枚 ちいさなメダルが 手に入るチケット",
         "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "使うと１時間 カジノでいい事が おきるかも？",
         "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "使うと１時間 ビッグな魚が 釣れやすくなる",
         "en_string": ""
       },
       {
-        "line_break":true,
         "jp_string": "使うと１時間 メタルな魔物に 出会いやすくなる",
         "en_string": ""
       },

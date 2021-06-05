@@ -20,71 +20,71 @@
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER><%sW_MAP_NAME>",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER><%sW_MAP_NAME>"
+        "en_string": "<%nW_INSTANCE_NO>Block<%sW_DELIMITER><%sW_MAP_NAME>"
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>うるわしの浜辺地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Beautiful Beach"
+        "en_string": ""
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>おごそかな林道地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Terrifying Forest Road"
+        "en_string": ""
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>のどかな農村地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Idyllic Village"
+        "en_string": ""
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>トゥーンタウン地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Toontown District"
+        "en_string": ""
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>フラワーガーデン地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Flower Garden District"
+        "en_string": ""
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>マッシュルーム地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Mushroom District"
+        "en_string": ""
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>レンダーヒルズ地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Lender Hills District"
+        "en_string": ""
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>古代都市地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Ancient City"
+        "en_string": ""
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>採掘現場地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Mining Site"
+        "en_string": ""
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>未開のジャングル地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Savage Jungle"
+        "en_string": ""
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>水没遺跡地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Submerged Ruins"
+        "en_string": ""
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>白亜の臨海都市地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Chalky Seaside City"
+        "en_string": ""
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>草原地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Meadow"
+        "en_string": ""
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>雪原地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Snowfield"
+        "en_string": ""
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>雲上地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Above Clouds"
+        "en_string": ""
       },
       {
         "jp_string": "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>静かなる湿原地区",
-        "en_string": "Ward <%nW_INSTANCE_NO><%sW_DELIMITER>Quiet Marsh"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME>",
@@ -92,7 +92,7 @@
       },
       {
         "jp_string": "<%sW_MAP_NAME> 出口",
-        "en_string": "<%sW_MAP_NAME> Exit"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO>",
@@ -100,147 +100,147 @@
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>すごろくルーム",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Sugoroku Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>すごろくルーム 出口",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Sugoroku Room Exit"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>エントランス",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Entrance"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>カジノテラス",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Casino Terrace"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>コイン販売所",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Coin Counter"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>サウスルーム",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>South Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>シーサイドルーム",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Seaside Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>スライムレースホール",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Slime Race Hall"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>スライムレースホール 入口",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Slime Race Hall Entrance"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>スライムレースホール 出口",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Slime Race Hall Exit"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>センターホール",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Center Hall"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>センターホール 入口",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Center Hall Entrance"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>センターホール 出口",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Center Hall Exit"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ノースルーム",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>North Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ビンゴすごろくホール",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Bingo/Sugoroku Hall"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ビンゴすごろくホール 入口",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Bingo/Sugoroku Hall Entrance"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ビンゴすごろくホール 出口",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Bingo/Sugoroku Hall Exit"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>受付",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Desk"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>景品交換所",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Prize Exchange"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>預かり所",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Coatroom"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-カジノテラス",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Casino Terrace 1F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-サウスルーム",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>South Room 1F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-シーサイドルーム",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Seaside Room 1F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-センターホール",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Center Hall 1F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>１階-ノースルーム",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>North Room 1F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-カジノテラス",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Casino Terrace 2F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-サウスルーム",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>South Room 2F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-シーサイドルーム",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Seaside Room 2F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-センターホール",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Center Hall 2F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>２階-ノースルーム",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>North Room 2F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>３階-カジノテラス",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Casino Terrace 3F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>３階-センターホール",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>Center Hall 3F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>３階-ＶＩＰルーム",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>VIP Room 3F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ＶＩＰルーム",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>VIP Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ＶＩＰルーム 入口",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>VIP Room Entrance"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ＶＩＰルーム 出口",
-        "en_string": "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>VIP Room Exit"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>",
@@ -248,31 +248,31 @@
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階<%sW_AUTODUNG_CF>",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F<%sW_AUTODUNG_CF>"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・よろず屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F General Store"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・争覇の間",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F Battle Hall"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・休息の間",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F Rest Hall"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・宿屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F Inn"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・酒場",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>F Tavern"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER><%sW_AD_ETC>",
@@ -280,11 +280,11 @@
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER><%sW_AD_LOCA><%sW_DELIMITER>心願の間",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER><%sW_AD_LOCA><%sW_DELIMITER>Wish Hall"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER><%sW_AD_LOCA><%sW_DELIMITER>第<%nW_AUTODUNG_FLOOR>の教室",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER><%sW_AD_LOCA><%sW_DELIMITER>No.<%nW_AUTODUNG_FLOOR> Class"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅰ‐",
@@ -292,19 +292,19 @@
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅰ‐ガルハート",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅰ‐Galhart"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅰ‐グラブゾン",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅰ‐Grabzon"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅰ‐スペーディオ",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅰ‐Speidio"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅰ‐ディアノーグ",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅰ‐Dianorg"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐",
@@ -312,19 +312,19 @@
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐ガルハート",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐Galhart"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐グラブゾン",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐Grabzon"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐スペーディオ",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐Speidio"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐ディアノーグ",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅱ‐Dianorg"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅲ‐",
@@ -332,123 +332,123 @@
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅲ‐ガルハート",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅲ‐Galhart"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅲ‐グラブゾン",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅲ‐Grabzon"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅲ‐スペーディオ",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅲ‐Speidio"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅲ‐ディアノーグ",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ⅲ‐Dianorg"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>「森の番人」の展示室",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER> Forest Keeper Exhibit Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>「森の神性」の展示室",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER> Forest God Exhibit Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>「森の秘密」の展示室",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER> Forest Secret Exhibit Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>「楽園」の展示室",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER> Paradise Exhibit Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>「此岸」の展示室",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER> Coastal Exhibit Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>「自由の窓辺」の展示室",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER> Freedom Windows Exhibit Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>「辺獄」の展示室",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER> Limbo Exhibit Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>「閉塞の窓辺」の展示室",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER> Blocked Windows Exhibit Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>「静寂の窓辺」の展示室",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER> Silent Windows Exhibit Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>あかつきの海岸",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Daybreak Coast"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>いざないの間",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Hall of Invitation"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>いしずえの森",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Cornerstone Forest"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>おしゃれストリート",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Fashion Street"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>おみくじ屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Omikuji Shop"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>お菓子合成屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Confectionary Shop"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>お面屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Mask Shop"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>くしざし拷問室",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Torture Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>くじ屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Lottery"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>くずれた灯台",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Downed Lighthouse"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>さいほうギルド",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Sewing Guild"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>さいほうギルド ２階",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Sewing Guild 2F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>さいほう設備",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Sewing Facility"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>そよ風の浜",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Breezy Beach"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ともしびの木",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Lamplight Tree"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>はざまの回廊",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Corridor of Space"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>まとめ屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Summ. Shop"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>まどろみの回廊",
@@ -456,35 +456,35 @@
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>まもの使いハウス",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Monster User House"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>まもの使いハウス・牧舎",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Monster User House Ranch"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>みかがみの泉",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Mirror Fountain"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>みそぎの間",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Purify Hall"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>みやげ屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Souvenirs"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>やぐらエリア",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Scaffold Area"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>やぐら北エリア",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Scaffold N. Area"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>やぐら南エリア",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Scaffold S. Area"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>やすらぎの音叉",
@@ -500,7 +500,7 @@
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>アクセサリー屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Acessory Shop"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>アスバルの部屋",
@@ -508,39 +508,39 @@
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>アスフェルド湖",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Lake Asfeld"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>アデロア湖",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Lake Aderoa"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>アトリエ前",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Studio Front"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>アトリエ地下１階",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Studio B1F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>アトリエ１階",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Studio 1F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>アバの家",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Abba's House"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>アーシクの家",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Arsik's House"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>イッショウの家",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Isshou's House"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ウェディの祭壇",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Weddy Altar"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ウルタ皇女の部屋",
@@ -548,95 +548,95 @@
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>エステラの部屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Estella's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>エルガドーラの部屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Elgadra's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>エルジュの部屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Erju's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>エルバの家",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Elba's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>エルフたちの集落",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Elven Settlement"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>エルフの祭壇",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Elf Shrine"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>エレベーター",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Elevator"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>エントランス",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Entrance"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>オアシスの隊商宿",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Oasis Caravan Inn"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>オジャロスの部屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ojaros's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>オジャロス大公の領地",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Grand Duke Ojaros Territory"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>オゾの洞穴",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ozo Caves"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>オノの祭壇",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Axe Altar"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>オルフェアの町への出口",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Orphea Village Exit"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>オーガの祭壇",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ogre Shrine"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>オーナーの館",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Owner's Mansion"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>オーナーの館１階",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Owner's Mansion 1F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>オーナーの館２階",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Owner's Mansion 2F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>カシャルの水門",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Gashal Lock"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>カジノ 入口 ",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Casino Entrance"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>カミハルムイ北への出口",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Kamiharmui N. Exit"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>カミハルムイ南への出口",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Kamiharmui S. Exit"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ガケっぷち村跡",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Ruined Village"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ガケ沿いの集会所",
@@ -644,275 +644,275 @@
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ガタラの丘",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Gatara Hill"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ガニャポン屋",
-        "en_string": "%sW_MAP_NAME><%sW_DELIMITER>Ganyapon Shop"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ガラクタ城",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Junk Castle"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ガラクタ置き場",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Junk Storage"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ガルハート",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Galhart"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ガレーの工房",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Galley Workshop"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>キャプテンの部屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Captain's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>キュレクス通り",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Curex Street"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>キリカの小島",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Kiraka Islet"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>キリカの産屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Kirika Maternity"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>キリカ聖堂",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Kirika Shrine"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ギダの家",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Gida's House"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ギルガラン王子の部屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Prince Gilgaran's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ギルザの入り江",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Gilza Cove"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>クオードの部屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Quad's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>クラムベリル広場",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Clamberyl Square"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>クレアの部屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Claire's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>グラブゾン",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Grabzon"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>グランゼドーラ門",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Gran Zedora Gate"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>グリエ王子の部屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Prince Grie's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>グルヤンラシュの部屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Guryan Rush's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>グレン城下町への出口",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Glen Castle Town Exit"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ケイビーの部屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Cavy's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>コイン屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Coin Shop"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>コバルト池",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Cobalt Pond"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>コロシアム 入口",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Coliseum Entrance"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ゴンドラ乗り場",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Gondola Platform"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>サモンの客室",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Samon's Guest Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>サーカステント",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Circus Tent"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ザマ烽火台",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Zama Beacon"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ザンクローネ像",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Zankrone Statue"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ザードの尖塔",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Zard Spire"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ザードの尖塔・２階",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Zard Spire 2F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ザードの尖塔・３階",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Zard Spire 3F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ザードの尖塔・４階",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Zard Spire 4F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ザードの尖塔・５階",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Zard Spire 5F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ザードの尖塔・６階",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Zard Spire 6F"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>シェルブリッジ",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Shell Bridge"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>シガール町長の執務室 入口",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Mayor Cigar's Office Entrance"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>シャンテの部屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Shante's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ジェイドの部屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Jade's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ジュレットの町への出口",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Julet Village Exit"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ジュレー島下層大空洞",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Jure Lower Island Large Cavity"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ジュレー島下層遺跡",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Jure Lower Island Ruins"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>スイーツ屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Sweets Shop"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>スペーディオ",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Speidio"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>スラサポ屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Slm. Sprt. Shop"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>スーパーＶＩＰルーム",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Super VIP Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ズムウル峠",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Zumul Pass"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>センマイの間",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Senmai Hall"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ゼフの店",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Zef's Shop"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ソーダの泉",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Soda Fountain"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ソーミャの家",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Somya's House"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ゾンガロン島",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Zongalon Island"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>タケ家",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Bamboo H."
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>タロット屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Tarot Shop"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ツボ錬金ギルド",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Pot Alchemy Guild"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ツボ錬金設備",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Pot Alchemy Device"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>テラス",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Terrace"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ディアノーグ",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Dianorg"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ディアンジの家",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Dianji's House"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ディンガの関所",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Dinga Barrier"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ディンガ交易所",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Dinga Trade Post"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>デゼルの部屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Dezel's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>トロッコ洞くつ",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Minecart Cave"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>トンネル",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Tunnel"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ドミネウスの部屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Domineus's Room"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ドルボードカスタム屋",
-        "en_string": "<%sW_MAP_NAME><%sW_DELIMITER>Dolboard Custom Shop"
+        "en_string": ""
       },
       {
         "jp_string": "<%sW_MAP_NAME><%sW_DELIMITER>ドルロイの滝",
